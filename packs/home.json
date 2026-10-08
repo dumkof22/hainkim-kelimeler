@@ -1,0 +1,197 @@
+{
+  "id": "home",
+  "icon": "🛋️",
+  "name": {"tr": "Evde", "en": "At Home", "es": "En casa", "fr": "À la maison", "de": "Zuhause", "it": "In casa", "pt": "Em casa", "ru": "Дома", "ar": "في المنزل", "zh": "家里"},
+  "drawable": true,
+  "words": [
+    {
+      "word": {"tr": "Buzdolabı", "en": "Fridge", "es": "Nevera", "fr": "Frigo", "de": "Kühlschrank", "it": "Frigorifero", "pt": "Geladeira", "ru": "Холодильник", "ar": "ثلاجة", "zh": "冰箱"},
+      "clues": [
+        {"tr": "Soğuk", "en": "Cold", "es": "Frío", "fr": "Froid", "de": "Kalt", "it": "Freddo", "pt": "Frio", "ru": "Холодный", "ar": "بارد", "zh": "冷"},
+        {"tr": "Mıknatıs", "en": "Magnet", "es": "Imán", "fr": "Aimant", "de": "Magnet", "it": "Calamita", "pt": "Ímã", "ru": "Магнит", "ar": "مغناطيس", "zh": "磁铁"}
+      ]
+    },
+    {
+      "word": {"tr": "Çamaşır makinesi", "en": "Washing machine", "es": "Lavadora", "fr": "Machine à laver", "de": "Waschmaschine", "it": "Lavatrice", "pt": "Máquina de lavar", "ru": "Стиральная машина", "ar": "غسالة", "zh": "洗衣机"},
+      "clues": [
+        {"tr": "Deterjan", "en": "Detergent", "es": "Detergente", "fr": "Lessive", "de": "Waschmittel", "it": "Detersivo", "pt": "Sabão em pó", "ru": "Порошок", "ar": "مسحوق غسيل", "zh": "洗衣粉"},
+        {"tr": "Çorap", "en": "Sock", "es": "Calcetín", "fr": "Chaussette", "de": "Socke", "it": "Calzino", "pt": "Meia", "ru": "Носок", "ar": "جورب", "zh": "袜子"}
+      ]
+    },
+    {
+      "word": {"tr": "Televizyon", "en": "Television", "es": "Televisión", "fr": "Télévision", "de": "Fernseher", "it": "Televisione", "pt": "Televisão", "ru": "Телевизор", "ar": "تلفاز", "zh": "电视"},
+      "clues": [
+        {"tr": "Kumanda", "en": "Remote", "es": "Mando", "fr": "Télécommande", "de": "Fernbedienung", "it": "Telecomando", "pt": "Controle remoto", "ru": "Пульт", "ar": "جهاز تحكم", "zh": "遥控器"},
+        {"tr": "Kanal", "en": "Channel", "es": "Canal", "fr": "Chaîne", "de": "Sender", "it": "Canale", "pt": "Canal", "ru": "Канал", "ar": "قناة", "zh": "频道"}
+      ]
+    },
+    {
+      "word": {"tr": "Kanepe", "en": "Sofa", "es": "Sofá", "fr": "Canapé", "de": "Sofa", "it": "Divano", "pt": "Sofá", "ru": "Диван", "ar": "أريكة", "zh": "沙发"},
+      "clues": [
+        {"tr": "Misafir", "en": "Guest", "es": "Invitado", "fr": "Invité", "de": "Gast", "it": "Ospite", "pt": "Visita", "ru": "Гость", "ar": "ضيف", "zh": "客人"},
+        {"tr": "Tembellik", "en": "Laziness", "es": "Pereza", "fr": "Paresse", "de": "Faulheit", "it": "Pigrizia", "pt": "Preguiça", "ru": "Лень", "ar": "كسل", "zh": "懒惰"}
+      ]
+    },
+    {
+      "word": {"tr": "Yatak", "en": "Bed", "es": "Cama", "fr": "Lit", "de": "Bett", "it": "Letto", "pt": "Cama", "ru": "Кровать", "ar": "سرير", "zh": "床"},
+      "clues": [
+        {"tr": "Rüya", "en": "Dream", "es": "Sueño", "fr": "Rêve", "de": "Traum", "it": "Sogno", "pt": "Sonho", "ru": "Сон", "ar": "حلم", "zh": "梦"},
+        {"tr": "Yorgan", "en": "Duvet", "es": "Edredón", "fr": "Couette", "de": "Bettdecke", "it": "Piumone", "pt": "Edredom", "ru": "Одеяло", "ar": "لحاف", "zh": "被子"}
+      ]
+    },
+    {
+      "word": {"tr": "Lamba", "en": "Lamp", "es": "Lámpara", "fr": "Lampe", "de": "Lampe", "it": "Lampada", "pt": "Luminária", "ru": "Лампа", "ar": "مصباح", "zh": "台灯"},
+      "clues": [
+        {"tr": "Ampul", "en": "Bulb", "es": "Bombilla", "fr": "Ampoule", "de": "Glühbirne", "it": "Lampadina", "pt": "Lâmpada", "ru": "Лампочка", "ar": "لمبة", "zh": "灯泡"},
+        {"tr": "Gölge", "en": "Shadow", "es": "Sombra", "fr": "Ombre", "de": "Schatten", "it": "Ombra", "pt": "Sombra", "ru": "Тень", "ar": "ظل", "zh": "影子"}
+      ]
+    },
+    {
+      "word": {"tr": "Ayna", "en": "Mirror", "es": "Espejo", "fr": "Miroir", "de": "Spiegel", "it": "Specchio", "pt": "Espelho", "ru": "Зеркало", "ar": "مرآة", "zh": "镜子"},
+      "clues": [
+        {"tr": "Yansıma", "en": "Reflection", "es": "Reflejo", "fr": "Reflet", "de": "Spiegelbild", "it": "Riflesso", "pt": "Reflexo", "ru": "Отражение", "ar": "انعكاس", "zh": "倒影"},
+        {"tr": "Banyo", "en": "Bathroom", "es": "Baño", "fr": "Salle de bain", "de": "Badezimmer", "it": "Bagno", "pt": "Banheiro", "ru": "Ванная", "ar": "حمام", "zh": "浴室"}
+      ]
+    },
+    {
+      "word": {"tr": "Halı", "en": "Carpet", "es": "Alfombra", "fr": "Tapis", "de": "Teppich", "it": "Tappeto", "pt": "Tapete", "ru": "Ковёр", "ar": "سجادة", "zh": "地毯"},
+      "clues": [
+        {"tr": "Desen", "en": "Pattern", "es": "Patrón", "fr": "Motif", "de": "Muster", "it": "Motivo", "pt": "Padrão", "ru": "Узор", "ar": "نقش", "zh": "花纹"},
+        {"tr": "Toz", "en": "Dust", "es": "Polvo", "fr": "Poussière", "de": "Staub", "it": "Polvere", "pt": "Poeira", "ru": "Пыль", "ar": "غبار", "zh": "灰尘"}
+      ]
+    },
+    {
+      "word": {"tr": "Duvar saati", "en": "Wall clock", "es": "Reloj de pared", "fr": "Horloge", "de": "Wanduhr", "it": "Orologio da parete", "pt": "Relógio de parede", "ru": "Настенные часы", "ar": "ساعة حائط", "zh": "挂钟"},
+      "clues": [
+        {"tr": "Zaman", "en": "Time", "es": "Tiempo", "fr": "Temps", "de": "Zeit", "it": "Tempo", "pt": "Tempo", "ru": "Время", "ar": "وقت", "zh": "时间"},
+        {"tr": "Tik tak", "en": "Tick-tock", "es": "Tic tac", "fr": "Tic-tac", "de": "Tick-tack", "it": "Tic tac", "pt": "Tique-taque", "ru": "Тик-так", "ar": "تك تك", "zh": "滴答"}
+      ]
+    },
+    {
+      "word": {"tr": "Süpürge", "en": "Vacuum cleaner", "es": "Aspiradora", "fr": "Aspirateur", "de": "Staubsauger", "it": "Aspirapolvere", "pt": "Aspirador", "ru": "Пылесос", "ar": "مكنسة كهربائية", "zh": "吸尘器"},
+      "clues": [
+        {"tr": "Gürültü", "en": "Noise", "es": "Ruido", "fr": "Bruit", "de": "Lärm", "it": "Rumore", "pt": "Barulho", "ru": "Шум", "ar": "ضجيج", "zh": "噪音"},
+        {"tr": "Kablo", "en": "Cord", "es": "Cable", "fr": "Fil", "de": "Kabel", "it": "Filo", "pt": "Fio", "ru": "Провод", "ar": "سلك", "zh": "电线"}
+      ]
+    },
+    {
+      "word": {"tr": "Fırın", "en": "Oven", "es": "Horno", "fr": "Four", "de": "Ofen", "it": "Forno", "pt": "Forno", "ru": "Духовка", "ar": "فرن", "zh": "烤箱"},
+      "clues": [
+        {"tr": "Pişirmek", "en": "Bake", "es": "Hornear", "fr": "Cuire", "de": "Backen", "it": "Cuocere", "pt": "Assar", "ru": "Печь", "ar": "يخبز", "zh": "烘烤"},
+        {"tr": "Eldiven", "en": "Mitt", "es": "Manopla", "fr": "Gant", "de": "Handschuh", "it": "Guanto", "pt": "Luva", "ru": "Прихватка", "ar": "قفاز", "zh": "隔热手套"}
+      ]
+    },
+    {
+      "word": {"tr": "Duş", "en": "Shower", "es": "Ducha", "fr": "Douche", "de": "Dusche", "it": "Doccia", "pt": "Chuveiro", "ru": "Душ", "ar": "دش", "zh": "淋浴"},
+      "clues": [
+        {"tr": "Su", "en": "Water", "es": "Agua", "fr": "Eau", "de": "Wasser", "it": "Acqua", "pt": "Água", "ru": "Вода", "ar": "ماء", "zh": "水"},
+        {"tr": "Şarkı", "en": "Singing", "es": "Cantar", "fr": "Chanter", "de": "Singen", "it": "Cantare", "pt": "Cantar", "ru": "Пение", "ar": "غناء", "zh": "唱歌"}
+      ]
+    },
+    {
+      "word": {"tr": "Diş fırçası", "en": "Toothbrush", "es": "Cepillo de dientes", "fr": "Brosse à dents", "de": "Zahnbürste", "it": "Spazzolino", "pt": "Escova de dentes", "ru": "Зубная щётка", "ar": "فرشاة أسنان", "zh": "牙刷"},
+      "clues": [
+        {"tr": "Macun", "en": "Toothpaste", "es": "Pasta de dientes", "fr": "Dentifrice", "de": "Zahnpasta", "it": "Dentifricio", "pt": "Pasta de dente", "ru": "Зубная паста", "ar": "معجون أسنان", "zh": "牙膏"},
+        {"tr": "Lavabo", "en": "Sink", "es": "Lavabo", "fr": "Lavabo", "de": "Waschbecken", "it": "Lavandino", "pt": "Pia", "ru": "Раковина", "ar": "حوض", "zh": "洗手池"}
+      ]
+    },
+    {
+      "word": {"tr": "Şemsiye", "en": "Umbrella", "es": "Paraguas", "fr": "Parapluie", "de": "Regenschirm", "it": "Ombrello", "pt": "Guarda-chuva", "ru": "Зонт", "ar": "مظلة", "zh": "雨伞"},
+      "clues": [
+        {"tr": "Yağmur", "en": "Rain", "es": "Lluvia", "fr": "Pluie", "de": "Regen", "it": "Pioggia", "pt": "Chuva", "ru": "Дождь", "ar": "مطر", "zh": "雨"},
+        {"tr": "Rüzgar", "en": "Wind", "es": "Viento", "fr": "Vent", "de": "Wind", "it": "Vento", "pt": "Vento", "ru": "Ветер", "ar": "ريح", "zh": "风"}
+      ]
+    },
+    {
+      "word": {"tr": "Perde", "en": "Curtain", "es": "Cortina", "fr": "Rideau", "de": "Vorhang", "it": "Tenda", "pt": "Cortina", "ru": "Штора", "ar": "ستارة", "zh": "窗帘"},
+      "clues": [
+        {"tr": "Pencere", "en": "Window", "es": "Ventana", "fr": "Fenêtre", "de": "Fenster", "it": "Finestra", "pt": "Janela", "ru": "Окно", "ar": "نافذة", "zh": "窗户"},
+        {"tr": "Kumaş", "en": "Fabric", "es": "Tela", "fr": "Tissu", "de": "Stoff", "it": "Tessuto", "pt": "Tecido", "ru": "Ткань", "ar": "قماش", "zh": "布料"}
+      ]
+    },
+    {
+      "word": {"tr": "Masa", "en": "Table", "es": "Mesa", "fr": "Table", "de": "Tisch", "it": "Tavolo", "pt": "Mesa", "ru": "Стол", "ar": "طاولة", "zh": "桌子"},
+      "clues": [
+        {"tr": "Bacak", "en": "Legs", "es": "Patas", "fr": "Pieds", "de": "Beine", "it": "Gambe", "pt": "Pernas", "ru": "Ножки", "ar": "أرجل", "zh": "腿"},
+        {"tr": "Yemek", "en": "Meal", "es": "Comida", "fr": "Repas", "de": "Mahlzeit", "it": "Pasto", "pt": "Refeição", "ru": "Еда", "ar": "وجبة", "zh": "饭"}
+      ]
+    },
+    {
+      "word": {"tr": "Sandalye", "en": "Chair", "es": "Silla", "fr": "Chaise", "de": "Stuhl", "it": "Sedia", "pt": "Cadeira", "ru": "Стул", "ar": "كرسي", "zh": "椅子"},
+      "clues": [
+        {"tr": "Oturmak", "en": "Sit", "es": "Sentarse", "fr": "S'asseoir", "de": "Sitzen", "it": "Sedersi", "pt": "Sentar", "ru": "Сидеть", "ar": "يجلس", "zh": "坐"},
+        {"tr": "Ahşap", "en": "Wood", "es": "Madera", "fr": "Bois", "de": "Holz", "it": "Legno", "pt": "Madeira", "ru": "Дерево", "ar": "خشب", "zh": "木头"}
+      ]
+    },
+    {
+      "word": {"tr": "Yastık", "en": "Pillow", "es": "Almohada", "fr": "Oreiller", "de": "Kissen", "it": "Cuscino", "pt": "Travesseiro", "ru": "Подушка", "ar": "وسادة", "zh": "枕头"},
+      "clues": [
+        {"tr": "Kuş tüyü", "en": "Feathers", "es": "Plumas", "fr": "Plumes", "de": "Federn", "it": "Piume", "pt": "Penas", "ru": "Перья", "ar": "ريش", "zh": "羽毛"},
+        {"tr": "Kavga", "en": "Fight", "es": "Pelea", "fr": "Bataille", "de": "Kampf", "it": "Lotta", "pt": "Briga", "ru": "Драка", "ar": "عراك", "zh": "打闹"}
+      ]
+    },
+    {
+      "word": {"tr": "Çaydanlık", "en": "Kettle", "es": "Hervidor", "fr": "Bouilloire", "de": "Wasserkocher", "it": "Bollitore", "pt": "Chaleira", "ru": "Чайник", "ar": "غلاية", "zh": "水壶"},
+      "clues": [
+        {"tr": "Kaynamak", "en": "Boil", "es": "Hervir", "fr": "Bouillir", "de": "Kochen", "it": "Bollire", "pt": "Ferver", "ru": "Кипеть", "ar": "يغلي", "zh": "沸腾"},
+        {"tr": "Düdük", "en": "Whistle", "es": "Silbido", "fr": "Sifflet", "de": "Pfeifen", "it": "Fischio", "pt": "Apito", "ru": "Свисток", "ar": "صفير", "zh": "哨声"}
+      ]
+    },
+    {
+      "word": {"tr": "Ütü", "en": "Iron", "es": "Plancha", "fr": "Fer à repasser", "de": "Bügeleisen", "it": "Ferro da stiro", "pt": "Ferro de passar", "ru": "Утюг", "ar": "مكواة", "zh": "熨斗"},
+      "clues": [
+        {"tr": "Kırışık", "en": "Wrinkles", "es": "Arrugas", "fr": "Plis", "de": "Falten", "it": "Pieghe", "pt": "Rugas", "ru": "Складки", "ar": "تجاعيد", "zh": "褶皱"},
+        {"tr": "Buhar", "en": "Steam", "es": "Vapor", "fr": "Vapeur", "de": "Dampf", "it": "Vapore", "pt": "Vapor", "ru": "Пар", "ar": "بخار", "zh": "蒸汽"}
+      ]
+    },
+    {
+      "word": {"tr": "Kitaplık", "en": "Bookcase", "es": "Librería", "fr": "Bibliothèque", "de": "Bücherregal", "it": "Libreria", "pt": "Estante de livros", "ru": "Книжный шкаф", "ar": "خزانة كتب", "zh": "书柜"},
+      "clues": [
+        {"tr": "Roman", "en": "Novel", "es": "Novela", "fr": "Roman", "de": "Roman", "it": "Romanzo", "pt": "Romance", "ru": "Роман", "ar": "رواية", "zh": "小说"},
+        {"tr": "Düzen", "en": "Order", "es": "Orden", "fr": "Ordre", "de": "Ordnung", "it": "Ordine", "pt": "Ordem", "ru": "Порядок", "ar": "ترتيب", "zh": "整齐"}
+      ]
+    },
+    {
+      "word": {"tr": "Klima", "en": "Air conditioner", "es": "Aire acondicionado", "fr": "Climatiseur", "de": "Klimaanlage", "it": "Condizionatore", "pt": "Ar-condicionado", "ru": "Кондиционер", "ar": "مكيف", "zh": "空调"},
+      "clues": [
+        {"tr": "Serin", "en": "Cool", "es": "Fresco", "fr": "Frais", "de": "Kühl", "it": "Fresco", "pt": "Fresco", "ru": "Прохладно", "ar": "منعش", "zh": "凉爽"},
+        {"tr": "Yaz", "en": "Summer", "es": "Verano", "fr": "Été", "de": "Sommer", "it": "Estate", "pt": "Verão", "ru": "Лето", "ar": "صيف", "zh": "夏天"}
+      ]
+    },
+    {
+      "word": {"tr": "Çöp kutusu", "en": "Trash can", "es": "Papelera", "fr": "Poubelle", "de": "Mülleimer", "it": "Pattumiera", "pt": "Lixeira", "ru": "Мусорное ведро", "ar": "سلة مهملات", "zh": "垃圾桶"},
+      "clues": [
+        {"tr": "Pedal", "en": "Pedal", "es": "Pedal", "fr": "Pédale", "de": "Pedal", "it": "Pedale", "pt": "Pedal", "ru": "Педаль", "ar": "دواسة", "zh": "踏板"},
+        {"tr": "Koku", "en": "Smell", "es": "Olor", "fr": "Odeur", "de": "Geruch", "it": "Odore", "pt": "Cheiro", "ru": "Запах", "ar": "رائحة", "zh": "气味"}
+      ]
+    },
+    {
+      "word": {"tr": "Anahtar", "en": "Key", "es": "Llave", "fr": "Clé", "de": "Schlüssel", "it": "Chiave", "pt": "Chave", "ru": "Ключ", "ar": "مفتاح", "zh": "钥匙"},
+      "clues": [
+        {"tr": "Kilit", "en": "Lock", "es": "Cerradura", "fr": "Serrure", "de": "Schloss", "it": "Serratura", "pt": "Fechadura", "ru": "Замок", "ar": "قفل", "zh": "锁"},
+        {"tr": "Kaybetmek", "en": "Lose", "es": "Perder", "fr": "Perdre", "de": "Verlieren", "it": "Perdere", "pt": "Perder", "ru": "Терять", "ar": "يضيع", "zh": "丢失"}
+      ]
+    },
+    {
+      "word": {"tr": "Kapı zili", "en": "Doorbell", "es": "Timbre", "fr": "Sonnette", "de": "Türklingel", "it": "Campanello", "pt": "Campainha", "ru": "Дверной звонок", "ar": "جرس الباب", "zh": "门铃"},
+      "clues": [
+        {"tr": "Ding dong", "en": "Ding dong", "es": "Ding dong", "fr": "Ding dong", "de": "Ding dong", "it": "Din don", "pt": "Ding dong", "ru": "Динь-дон", "ar": "دينغ دونغ", "zh": "叮咚"},
+        {"tr": "Kargo", "en": "Delivery", "es": "Repartidor", "fr": "Livraison", "de": "Paketbote", "it": "Corriere", "pt": "Entrega", "ru": "Доставка", "ar": "توصيل", "zh": "快递"}
+      ]
+    },
+    {
+      "word": {"tr": "Bulaşık makinesi", "en": "Dishwasher", "es": "Lavavajillas", "fr": "Lave-vaisselle", "de": "Spülmaschine", "it": "Lavastoviglie", "pt": "Lava-louças", "ru": "Посудомоечная машина", "ar": "غسالة صحون", "zh": "洗碗机"},
+      "clues": [
+        {"tr": "Tabak", "en": "Plates", "es": "Platos", "fr": "Assiettes", "de": "Teller", "it": "Piatti", "pt": "Pratos", "ru": "Тарелки", "ar": "أطباق", "zh": "盘子"},
+        {"tr": "Köpük", "en": "Foam", "es": "Espuma", "fr": "Mousse", "de": "Schaum", "it": "Schiuma", "pt": "Espuma", "ru": "Пена", "ar": "رغوة", "zh": "泡沫"}
+      ]
+    },
+    {
+      "word": {"tr": "Mum", "en": "Candle", "es": "Vela", "fr": "Bougie", "de": "Kerze", "it": "Candela", "pt": "Vela", "ru": "Свеча", "ar": "شمعة", "zh": "蜡烛"},
+      "clues": [
+        {"tr": "Elektrik kesintisi", "en": "Power cut", "es": "Apagón", "fr": "Coupure de courant", "de": "Stromausfall", "it": "Blackout", "pt": "Falta de luz", "ru": "Отключение света", "ar": "انقطاع الكهرباء", "zh": "停电"},
+        {"tr": "Romantik", "en": "Romantic", "es": "Romántico", "fr": "Romantique", "de": "Romantisch", "it": "Romantico", "pt": "Romântico", "ru": "Романтика", "ar": "رومانسي", "zh": "浪漫"}
+      ]
+    }
+  ]
+}

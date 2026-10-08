@@ -1,0 +1,204 @@
+{
+  "id": "professions",
+  "icon": "👩‍🚒",
+  "name": {"tr": "Meslekler", "en": "Jobs", "es": "Profesiones", "fr": "Métiers", "de": "Berufe", "it": "Professioni", "pt": "Profissões", "ru": "Профессии", "ar": "مهن", "zh": "职业"},
+  "drawable": true,
+  "words": [
+    {
+      "word": {"tr": "Doktor", "en": "Doctor", "es": "Médico", "fr": "Médecin", "de": "Arzt", "it": "Medico", "pt": "Médico", "ru": "Врач", "ar": "طبيب", "zh": "医生"},
+      "clues": [
+        {"tr": "Hastane", "en": "Hospital", "es": "Hospital", "fr": "Hôpital", "de": "Krankenhaus", "it": "Ospedale", "pt": "Hospital", "ru": "Больница", "ar": "مستشفى", "zh": "医院"},
+        {"tr": "Beyaz önlük", "en": "White coat", "es": "Bata blanca", "fr": "Blouse blanche", "de": "Weißer Kittel", "it": "Camice bianco", "pt": "Jaleco branco", "ru": "Белый халат", "ar": "معطف أبيض", "zh": "白大褂"}
+      ]
+    },
+    {
+      "word": {"tr": "Öğretmen", "en": "Teacher", "es": "Profesor", "fr": "Professeur", "de": "Lehrer", "it": "Insegnante", "pt": "Professor", "ru": "Учитель", "ar": "معلم", "zh": "老师"},
+      "clues": [
+        {"tr": "Tahta", "en": "Board", "es": "Pizarra", "fr": "Tableau", "de": "Tafel", "it": "Lavagna", "pt": "Quadro", "ru": "Доска", "ar": "سبورة", "zh": "黑板"},
+        {"tr": "Ödev", "en": "Homework", "es": "Deberes", "fr": "Devoirs", "de": "Hausaufgaben", "it": "Compiti", "pt": "Dever de casa", "ru": "Домашнее задание", "ar": "واجب منزلي", "zh": "作业"}
+      ]
+    },
+    {
+      "word": {"tr": "Polis", "en": "Police officer", "es": "Policía", "fr": "Policier", "de": "Polizist", "it": "Poliziotto", "pt": "Policial", "ru": "Полицейский", "ar": "شرطي", "zh": "警察"},
+      "clues": [
+        {"tr": "Kelepçe", "en": "Handcuffs", "es": "Esposas", "fr": "Menottes", "de": "Handschellen", "it": "Manette", "pt": "Algemas", "ru": "Наручники", "ar": "أصفاد", "zh": "手铐"},
+        {"tr": "Düdük", "en": "Whistle", "es": "Silbato", "fr": "Sifflet", "de": "Pfeife", "it": "Fischietto", "pt": "Apito", "ru": "Свисток", "ar": "صفارة", "zh": "哨子"}
+      ]
+    },
+    {
+      "word": {"tr": "İtfaiyeci", "en": "Firefighter", "es": "Bombero", "fr": "Pompier", "de": "Feuerwehrmann", "it": "Pompiere", "pt": "Bombeiro", "ru": "Пожарный", "ar": "رجل إطفاء", "zh": "消防员"},
+      "clues": [
+        {"tr": "Merdiven", "en": "Ladder", "es": "Escalera", "fr": "Échelle", "de": "Leiter", "it": "Scala", "pt": "Escada", "ru": "Лестница", "ar": "سلم", "zh": "梯子"},
+        {"tr": "Hortum", "en": "Hose", "es": "Manguera", "fr": "Tuyau", "de": "Schlauch", "it": "Idrante", "pt": "Mangueira", "ru": "Шланг", "ar": "خرطوم", "zh": "水管"}
+      ]
+    },
+    {
+      "word": {"tr": "Aşçı", "en": "Chef", "es": "Cocinero", "fr": "Cuisinier", "de": "Koch", "it": "Cuoco", "pt": "Cozinheiro", "ru": "Повар", "ar": "طاهٍ", "zh": "厨师"},
+      "clues": [
+        {"tr": "Önlük", "en": "Apron", "es": "Delantal", "fr": "Tablier", "de": "Schürze", "it": "Grembiule", "pt": "Avental", "ru": "Фартук", "ar": "مريلة", "zh": "围裙"},
+        {"tr": "Tarif", "en": "Recipe", "es": "Receta", "fr": "Recette", "de": "Rezept", "it": "Ricetta", "pt": "Receita", "ru": "Рецепт", "ar": "وصفة", "zh": "菜谱"}
+      ]
+    },
+    {
+      "word": {"tr": "Pilot", "en": "Pilot", "es": "Piloto", "fr": "Pilote", "de": "Pilot", "it": "Pilota", "pt": "Piloto", "ru": "Пилот", "ar": "طيار", "zh": "飞行员"},
+      "clues": [
+        {"tr": "Bulut", "en": "Clouds", "es": "Nubes", "fr": "Nuages", "de": "Wolken", "it": "Nuvole", "pt": "Nuvens", "ru": "Облака", "ar": "غيوم", "zh": "云"},
+        {"tr": "Üniforma", "en": "Uniform", "es": "Uniforme", "fr": "Uniforme", "de": "Uniform", "it": "Divisa", "pt": "Uniforme", "ru": "Форма", "ar": "زي رسمي", "zh": "制服"}
+      ]
+    },
+    {
+      "word": {"tr": "Astronot", "en": "Astronaut", "es": "Astronauta", "fr": "Astronaute", "de": "Astronaut", "it": "Astronauta", "pt": "Astronauta", "ru": "Космонавт", "ar": "رائد فضاء", "zh": "宇航员"},
+      "clues": [
+        {"tr": "Kask", "en": "Helmet", "es": "Casco", "fr": "Casque", "de": "Helm", "it": "Casco", "pt": "Capacete", "ru": "Шлем", "ar": "خوذة", "zh": "头盔"},
+        {"tr": "Yerçekimsiz", "en": "Zero gravity", "es": "Ingravidez", "fr": "Apesanteur", "de": "Schwerelosigkeit", "it": "Gravità zero", "pt": "Gravidade zero", "ru": "Невесомость", "ar": "انعدام الجاذبية", "zh": "失重"}
+      ]
+    },
+    {
+      "word": {"tr": "Dişçi", "en": "Dentist", "es": "Dentista", "fr": "Dentiste", "de": "Zahnarzt", "it": "Dentista", "pt": "Dentista", "ru": "Стоматолог", "ar": "طبيب أسنان", "zh": "牙医"},
+      "clues": [
+        {"tr": "Fırça", "en": "Brush", "es": "Cepillo", "fr": "Brosse", "de": "Bürste", "it": "Spazzolino", "pt": "Escova", "ru": "Щётка", "ar": "فرشاة", "zh": "刷子"},
+        {"tr": "Korku", "en": "Fear", "es": "Miedo", "fr": "Peur", "de": "Angst", "it": "Paura", "pt": "Medo", "ru": "Страх", "ar": "خوف", "zh": "害怕"}
+      ]
+    },
+    {
+      "word": {"tr": "Berber", "en": "Barber", "es": "Barbero", "fr": "Barbier", "de": "Friseur", "it": "Barbiere", "pt": "Barbeiro", "ru": "Парикмахер", "ar": "حلاق", "zh": "理发师"},
+      "clues": [
+        {"tr": "Makas", "en": "Scissors", "es": "Tijeras", "fr": "Ciseaux", "de": "Schere", "it": "Forbici", "pt": "Tesoura", "ru": "Ножницы", "ar": "مقص", "zh": "剪刀"},
+        {"tr": "Ayna", "en": "Mirror", "es": "Espejo", "fr": "Miroir", "de": "Spiegel", "it": "Specchio", "pt": "Espelho", "ru": "Зеркало", "ar": "مرآة", "zh": "镜子"}
+      ]
+    },
+    {
+      "word": {"tr": "Postacı", "en": "Mail carrier", "es": "Cartero", "fr": "Facteur", "de": "Briefträger", "it": "Postino", "pt": "Carteiro", "ru": "Почтальон", "ar": "ساعي البريد", "zh": "邮递员"},
+      "clues": [
+        {"tr": "Zarf", "en": "Envelope", "es": "Sobre", "fr": "Enveloppe", "de": "Umschlag", "it": "Busta", "pt": "Envelope", "ru": "Конверт", "ar": "ظرف", "zh": "信封"},
+        {"tr": "Kapı", "en": "Door", "es": "Puerta", "fr": "Porte", "de": "Tür", "it": "Porta", "pt": "Porta", "ru": "Дверь", "ar": "باب", "zh": "门"}
+      ]
+    },
+    {
+      "word": {"tr": "Çiftçi", "en": "Farmer", "es": "Granjero", "fr": "Fermier", "de": "Bauer", "it": "Contadino", "pt": "Fazendeiro", "ru": "Фермер", "ar": "مزارع", "zh": "农民"},
+      "clues": [
+        {"tr": "Traktör", "en": "Tractor", "es": "Tractor", "fr": "Tracteur", "de": "Traktor", "it": "Trattore", "pt": "Trator", "ru": "Трактор", "ar": "جرار", "zh": "拖拉机"},
+        {"tr": "Hasat", "en": "Harvest", "es": "Cosecha", "fr": "Récolte", "de": "Ernte", "it": "Raccolto", "pt": "Colheita", "ru": "Урожай", "ar": "حصاد", "zh": "丰收"}
+      ]
+    },
+    {
+      "word": {"tr": "Fotoğrafçı", "en": "Photographer", "es": "Fotógrafo", "fr": "Photographe", "de": "Fotograf", "it": "Fotografo", "pt": "Fotógrafo", "ru": "Фотограф", "ar": "مصور", "zh": "摄影师"},
+      "clues": [
+        {"tr": "Flaş", "en": "Flash", "es": "Flash", "fr": "Flash", "de": "Blitz", "it": "Flash", "pt": "Flash", "ru": "Вспышка", "ar": "فلاش", "zh": "闪光灯"},
+        {"tr": "Gülümse", "en": "Smile", "es": "Sonríe", "fr": "Souriez", "de": "Lächeln", "it": "Sorridi", "pt": "Sorria", "ru": "Улыбнитесь", "ar": "ابتسم", "zh": "笑一个"}
+      ]
+    },
+    {
+      "word": {"tr": "Avukat", "en": "Lawyer", "es": "Abogado", "fr": "Avocat", "de": "Anwalt", "it": "Avvocato", "pt": "Advogado", "ru": "Адвокат", "ar": "محامٍ", "zh": "律师"},
+      "clues": [
+        {"tr": "Mahkeme", "en": "Court", "es": "Tribunal", "fr": "Tribunal", "de": "Gericht", "it": "Tribunale", "pt": "Tribunal", "ru": "Суд", "ar": "محكمة", "zh": "法庭"},
+        {"tr": "Takım elbise", "en": "Suit", "es": "Traje", "fr": "Costume", "de": "Anzug", "it": "Completo", "pt": "Terno", "ru": "Костюм", "ar": "بدلة", "zh": "西装"}
+      ]
+    },
+    {
+      "word": {"tr": "Hemşire", "en": "Nurse", "es": "Enfermera", "fr": "Infirmière", "de": "Krankenschwester", "it": "Infermiera", "pt": "Enfermeira", "ru": "Медсестра", "ar": "ممرضة", "zh": "护士"},
+      "clues": [
+        {"tr": "İğne", "en": "Injection", "es": "Inyección", "fr": "Piqûre", "de": "Spritze", "it": "Iniezione", "pt": "Injeção", "ru": "Укол", "ar": "حقنة", "zh": "打针"},
+        {"tr": "Nöbet", "en": "Night shift", "es": "Turno de noche", "fr": "Garde de nuit", "de": "Nachtschicht", "it": "Turno di notte", "pt": "Plantão", "ru": "Ночная смена", "ar": "مناوبة ليلية", "zh": "夜班"}
+      ]
+    },
+    {
+      "word": {"tr": "Kasap", "en": "Butcher", "es": "Carnicero", "fr": "Boucher", "de": "Metzger", "it": "Macellaio", "pt": "Açougueiro", "ru": "Мясник", "ar": "جزار", "zh": "屠夫"},
+      "clues": [
+        {"tr": "Bıçak", "en": "Knife", "es": "Cuchillo", "fr": "Couteau", "de": "Messer", "it": "Coltello", "pt": "Faca", "ru": "Нож", "ar": "سكين", "zh": "刀"},
+        {"tr": "Terazi", "en": "Scale", "es": "Balanza", "fr": "Balance", "de": "Waage", "it": "Bilancia", "pt": "Balança", "ru": "Весы", "ar": "ميزان", "zh": "秤"}
+      ]
+    },
+    {
+      "word": {"tr": "Garson", "en": "Waiter", "es": "Camarero", "fr": "Serveur", "de": "Kellner", "it": "Cameriere", "pt": "Garçom", "ru": "Официант", "ar": "نادل", "zh": "服务员"},
+      "clues": [
+        {"tr": "Tepsi", "en": "Tray", "es": "Bandeja", "fr": "Plateau", "de": "Tablett", "it": "Vassoio", "pt": "Bandeja", "ru": "Поднос", "ar": "صينية", "zh": "托盘"},
+        {"tr": "Bahşiş", "en": "Tip", "es": "Propina", "fr": "Pourboire", "de": "Trinkgeld", "it": "Mancia", "pt": "Gorjeta", "ru": "Чаевые", "ar": "بقشيش", "zh": "小费"}
+      ]
+    },
+    {
+      "word": {"tr": "Ressam", "en": "Painter", "es": "Pintor", "fr": "Peintre", "de": "Maler", "it": "Pittore", "pt": "Pintor", "ru": "Художник", "ar": "رسام", "zh": "画家"},
+      "clues": [
+        {"tr": "Tuval", "en": "Canvas", "es": "Lienzo", "fr": "Toile", "de": "Leinwand", "it": "Tela", "pt": "Tela", "ru": "Холст", "ar": "قماش رسم", "zh": "画布"},
+        {"tr": "Renk", "en": "Color", "es": "Color", "fr": "Couleur", "de": "Farbe", "it": "Colore", "pt": "Cor", "ru": "Цвет", "ar": "لون", "zh": "颜色"}
+      ]
+    },
+    {
+      "word": {"tr": "Mimar", "en": "Architect", "es": "Arquitecto", "fr": "Architecte", "de": "Architekt", "it": "Architetto", "pt": "Arquiteto", "ru": "Архитектор", "ar": "مهندس معماري", "zh": "建筑师"},
+      "clues": [
+        {"tr": "Plan", "en": "Blueprint", "es": "Plano", "fr": "Plan", "de": "Bauplan", "it": "Progetto", "pt": "Planta", "ru": "Чертёж", "ar": "مخطط", "zh": "图纸"},
+        {"tr": "Bina", "en": "Building", "es": "Edificio", "fr": "Bâtiment", "de": "Gebäude", "it": "Edificio", "pt": "Prédio", "ru": "Здание", "ar": "مبنى", "zh": "建筑"}
+      ]
+    },
+    {
+      "word": {"tr": "Dedektif", "en": "Detective", "es": "Detective", "fr": "Détective", "de": "Detektiv", "it": "Detective", "pt": "Detetive", "ru": "Детектив", "ar": "محقق", "zh": "侦探"},
+      "clues": [
+        {"tr": "Büyüteç", "en": "Magnifying glass", "es": "Lupa", "fr": "Loupe", "de": "Lupe", "it": "Lente d'ingrandimento", "pt": "Lupa", "ru": "Лупа", "ar": "عدسة مكبرة", "zh": "放大镜"},
+        {"tr": "İpucu", "en": "Clue", "es": "Pista", "fr": "Indice", "de": "Hinweis", "it": "Indizio", "pt": "Pista", "ru": "Улика", "ar": "دليل", "zh": "线索"}
+      ]
+    },
+    {
+      "word": {"tr": "Sihirbaz", "en": "Magician", "es": "Mago", "fr": "Magicien", "de": "Zauberer", "it": "Mago", "pt": "Mágico", "ru": "Фокусник", "ar": "ساحر", "zh": "魔术师"},
+      "clues": [
+        {"tr": "Şapka", "en": "Hat", "es": "Sombrero", "fr": "Chapeau", "de": "Hut", "it": "Cappello", "pt": "Cartola", "ru": "Шляпа", "ar": "قبعة", "zh": "帽子"},
+        {"tr": "Kart", "en": "Cards", "es": "Cartas", "fr": "Cartes", "de": "Karten", "it": "Carte", "pt": "Cartas", "ru": "Карты", "ar": "ورق لعب", "zh": "扑克牌"}
+      ]
+    },
+    {
+      "word": {"tr": "Kaptan", "en": "Captain", "es": "Capitán", "fr": "Capitaine", "de": "Kapitän", "it": "Capitano", "pt": "Capitão", "ru": "Капитан", "ar": "قبطان", "zh": "船长"},
+      "clues": [
+        {"tr": "Dümen", "en": "Helm", "es": "Timón", "fr": "Gouvernail", "de": "Steuerrad", "it": "Timone", "pt": "Leme", "ru": "Штурвал", "ar": "دفة", "zh": "舵"},
+        {"tr": "Liman", "en": "Port", "es": "Puerto", "fr": "Port", "de": "Hafen", "it": "Porto", "pt": "Porto", "ru": "Порт", "ar": "ميناء", "zh": "港口"}
+      ]
+    },
+    {
+      "word": {"tr": "Futbolcu", "en": "Footballer", "es": "Futbolista", "fr": "Footballeur", "de": "Fußballer", "it": "Calciatore", "pt": "Jogador de futebol", "ru": "Футболист", "ar": "لاعب كرة قدم", "zh": "足球运动员"},
+      "clues": [
+        {"tr": "Forma", "en": "Jersey", "es": "Camiseta", "fr": "Maillot", "de": "Trikot", "it": "Maglia", "pt": "Camisa", "ru": "Форма", "ar": "قميص", "zh": "球衣"},
+        {"tr": "Taraftar", "en": "Fans", "es": "Afición", "fr": "Supporters", "de": "Fans", "it": "Tifosi", "pt": "Torcida", "ru": "Болельщики", "ar": "مشجعون", "zh": "球迷"}
+      ]
+    },
+    {
+      "word": {"tr": "Tesisatçı", "en": "Plumber", "es": "Fontanero", "fr": "Plombier", "de": "Klempner", "it": "Idraulico", "pt": "Encanador", "ru": "Сантехник", "ar": "سباك", "zh": "水管工"},
+      "clues": [
+        {"tr": "Boru", "en": "Pipe", "es": "Tubería", "fr": "Tuyau", "de": "Rohr", "it": "Tubo", "pt": "Cano", "ru": "Труба", "ar": "أنبوب", "zh": "管道"},
+        {"tr": "İngiliz anahtarı", "en": "Wrench", "es": "Llave inglesa", "fr": "Clé à molette", "de": "Schraubenschlüssel", "it": "Chiave inglese", "pt": "Chave inglesa", "ru": "Гаечный ключ", "ar": "مفتاح ربط", "zh": "扳手"}
+      ]
+    },
+    {
+      "word": {"tr": "Veteriner", "en": "Vet", "es": "Veterinario", "fr": "Vétérinaire", "de": "Tierarzt", "it": "Veterinario", "pt": "Veterinário", "ru": "Ветеринар", "ar": "طبيب بيطري", "zh": "兽医"},
+      "clues": [
+        {"tr": "Aşı", "en": "Vaccine", "es": "Vacuna", "fr": "Vaccin", "de": "Impfung", "it": "Vaccino", "pt": "Vacina", "ru": "Прививка", "ar": "لقاح", "zh": "疫苗"},
+        {"tr": "Kuyruk", "en": "Tail", "es": "Cola", "fr": "Queue", "de": "Schwanz", "it": "Coda", "pt": "Rabo", "ru": "Хвост", "ar": "ذيل", "zh": "尾巴"}
+      ]
+    },
+    {
+      "word": {"tr": "Yazılımcı", "en": "Programmer", "es": "Programador", "fr": "Programmeur", "de": "Programmierer", "it": "Programmatore", "pt": "Programador", "ru": "Программист", "ar": "مبرمج", "zh": "程序员"},
+      "clues": [
+        {"tr": "Bilgisayar", "en": "Computer", "es": "Ordenador", "fr": "Ordinateur", "de": "Computer", "it": "Computer", "pt": "Computador", "ru": "Компьютер", "ar": "حاسوب", "zh": "电脑"},
+        {"tr": "Kahve", "en": "Coffee", "es": "Café", "fr": "Café", "de": "Kaffee", "it": "Caffè", "pt": "Café", "ru": "Кофе", "ar": "قهوة", "zh": "咖啡"}
+      ]
+    },
+    {
+      "word": {"tr": "Gazeteci", "en": "Journalist", "es": "Periodista", "fr": "Journaliste", "de": "Journalist", "it": "Giornalista", "pt": "Jornalista", "ru": "Журналист", "ar": "صحفي", "zh": "记者"},
+      "clues": [
+        {"tr": "Mikrofon", "en": "Microphone", "es": "Micrófono", "fr": "Micro", "de": "Mikrofon", "it": "Microfono", "pt": "Microfone", "ru": "Микрофон", "ar": "ميكروفون", "zh": "麦克风"},
+        {"tr": "Haber", "en": "News", "es": "Noticias", "fr": "Nouvelles", "de": "Nachrichten", "it": "Notizie", "pt": "Notícias", "ru": "Новости", "ar": "أخبار", "zh": "新闻"}
+      ]
+    },
+    {
+      "word": {"tr": "Palyaço", "en": "Clown", "es": "Payaso", "fr": "Clown", "de": "Clown", "it": "Pagliaccio", "pt": "Palhaço", "ru": "Клоун", "ar": "مهرج", "zh": "小丑"},
+      "clues": [
+        {"tr": "Burun", "en": "Nose", "es": "Nariz", "fr": "Nez", "de": "Nase", "it": "Naso", "pt": "Nariz", "ru": "Нос", "ar": "أنف", "zh": "鼻子"},
+        {"tr": "Sirk", "en": "Circus", "es": "Circo", "fr": "Cirque", "de": "Zirkus", "it": "Circo", "pt": "Circo", "ru": "Цирк", "ar": "سيرك", "zh": "马戏团"}
+      ]
+    },
+    {
+      "word": {"tr": "Kütüphaneci", "en": "Librarian", "es": "Bibliotecario", "fr": "Bibliothécaire", "de": "Bibliothekar", "it": "Bibliotecario", "pt": "Bibliotecário", "ru": "Библиотекарь", "ar": "أمين مكتبة", "zh": "图书管理员"},
+      "clues": [
+        {"tr": "Sessizlik", "en": "Silence", "es": "Silencio", "fr": "Silence", "de": "Stille", "it": "Silenzio", "pt": "Silêncio", "ru": "Тишина", "ar": "صمت", "zh": "安静"},
+        {"tr": "Raf", "en": "Shelf", "es": "Estante", "fr": "Étagère", "de": "Regal", "it": "Scaffale", "pt": "Prateleira", "ru": "Полка", "ar": "رف", "zh": "书架"}
+      ]
+    }
+  ]
+}

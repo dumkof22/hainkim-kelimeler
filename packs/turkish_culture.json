@@ -1,0 +1,169 @@
+{
+  "id": "turkish_culture",
+  "icon": "🧿",
+  "name": {"tr": "Türkiye'den", "en": "From Türkiye", "es": "De Turquía", "fr": "De Turquie", "de": "Aus der Türkei", "it": "Dalla Turchia", "pt": "Da Turquia", "ru": "Из Турции", "ar": "من تركيا", "zh": "来自土耳其"},
+  "drawable": true,
+  "words": [
+    {
+      "word": {"tr": "Nazar boncuğu", "en": "Evil eye bead", "es": "Ojo turco", "fr": "Œil turc", "de": "Nazar-Amulett", "it": "Occhio turco", "pt": "Olho grego", "ru": "Назар", "ar": "خرزة زرقاء", "zh": "土耳其蓝眼睛"},
+      "clues": [
+        {"tr": "Mavi", "en": "Blue", "es": "Azul", "fr": "Bleu", "de": "Blau", "it": "Blu", "pt": "Azul", "ru": "Синий", "ar": "أزرق", "zh": "蓝色"},
+        {"tr": "Uğur", "en": "Luck", "es": "Suerte", "fr": "Chance", "de": "Glück", "it": "Fortuna", "pt": "Sorte", "ru": "Удача", "ar": "حظ", "zh": "好运"}
+      ]
+    },
+    {
+      "word": {"tr": "Simit", "en": "Simit", "es": "Simit", "fr": "Simit", "de": "Simit", "it": "Simit", "pt": "Simit", "ru": "Симит", "ar": "سميط", "zh": "土耳其芝麻圈"},
+      "clues": [
+        {"tr": "Susam", "en": "Sesame", "es": "Sésamo", "fr": "Sésame", "de": "Sesam", "it": "Sesamo", "pt": "Gergelim", "ru": "Кунжут", "ar": "سمسم", "zh": "芝麻"},
+        {"tr": "Martı", "en": "Seagull", "es": "Gaviota", "fr": "Mouette", "de": "Möwe", "it": "Gabbiano", "pt": "Gaivota", "ru": "Чайка", "ar": "نورس", "zh": "海鸥"}
+      ]
+    },
+    {
+      "word": {"tr": "Çay bardağı", "en": "Tea glass", "es": "Vaso de té", "fr": "Verre à thé", "de": "Teeglas", "it": "Bicchiere da tè", "pt": "Copo de chá", "ru": "Стаканчик для чая", "ar": "كأس شاي", "zh": "茶杯"},
+      "clues": [
+        {"tr": "İnce belli", "en": "Tulip-shaped", "es": "En forma de tulipán", "fr": "En forme de tulipe", "de": "Tulpenförmig", "it": "A tulipano", "pt": "Em forma de tulipa", "ru": "Тюльпанчик", "ar": "على شكل زهرة التوليب", "zh": "郁金香形"},
+        {"tr": "Kesme şeker", "en": "Sugar cube", "es": "Terrón de azúcar", "fr": "Sucre en morceaux", "de": "Würfelzucker", "it": "Zolletta di zucchero", "pt": "Cubo de açúcar", "ru": "Кусковой сахар", "ar": "مكعب سكر", "zh": "方糖"}
+      ]
+    },
+    {
+      "word": {"tr": "Türk kahvesi", "en": "Turkish coffee", "es": "Café turco", "fr": "Café turc", "de": "Türkischer Mokka", "it": "Caffè turco", "pt": "Café turco", "ru": "Турецкий кофе", "ar": "قهوة تركية", "zh": "土耳其咖啡"},
+      "clues": [
+        {"tr": "Fal", "en": "Fortune telling", "es": "Adivinación", "fr": "Divination", "de": "Wahrsagen", "it": "Lettura del futuro", "pt": "Adivinhação", "ru": "Гадание", "ar": "قراءة الفنجان", "zh": "算命"},
+        {"tr": "Köpük", "en": "Foam", "es": "Espuma", "fr": "Mousse", "de": "Schaum", "it": "Schiuma", "pt": "Espuma", "ru": "Пенка", "ar": "رغوة", "zh": "泡沫"}
+      ]
+    },
+    {
+      "word": {"tr": "Hamam", "en": "Turkish bath", "es": "Baño turco", "fr": "Hammam", "de": "Hamam", "it": "Bagno turco", "pt": "Banho turco", "ru": "Хаммам", "ar": "حمام تركي", "zh": "土耳其浴"},
+      "clues": [
+        {"tr": "Kese", "en": "Scrub mitt", "es": "Guante exfoliante", "fr": "Gant de gommage", "de": "Peelinghandschuh", "it": "Guanto esfoliante", "pt": "Luva esfoliante", "ru": "Мочалка", "ar": "ليفة", "zh": "搓澡巾"},
+        {"tr": "Buhar", "en": "Steam", "es": "Vapor", "fr": "Vapeur", "de": "Dampf", "it": "Vapore", "pt": "Vapor", "ru": "Пар", "ar": "بخار", "zh": "蒸汽"}
+      ]
+    },
+    {
+      "word": {"tr": "Kız Kulesi", "en": "Maiden's Tower", "es": "Torre de la Doncella", "fr": "Tour de Léandre", "de": "Leanderturm", "it": "Torre della Fanciulla", "pt": "Torre da Donzela", "ru": "Девичья башня", "ar": "برج الفتاة", "zh": "少女塔"},
+      "clues": [
+        {"tr": "İstanbul", "en": "Istanbul", "es": "Estambul", "fr": "Istanbul", "de": "Istanbul", "it": "Istanbul", "pt": "Istambul", "ru": "Стамбул", "ar": "إسطنبول", "zh": "伊斯坦布尔"},
+        {"tr": "Deniz", "en": "Sea", "es": "Mar", "fr": "Mer", "de": "Meer", "it": "Mare", "pt": "Mar", "ru": "Море", "ar": "بحر", "zh": "大海"}
+      ]
+    },
+    {
+      "word": {"tr": "Kapalıçarşı", "en": "Grand Bazaar", "es": "Gran Bazar", "fr": "Grand Bazar", "de": "Großer Basar", "it": "Gran Bazar", "pt": "Grande Bazar", "ru": "Гранд-базар", "ar": "البازار الكبير", "zh": "大巴扎"},
+      "clues": [
+        {"tr": "Pazarlık", "en": "Bargaining", "es": "Regateo", "fr": "Marchandage", "de": "Feilschen", "it": "Contrattazione", "pt": "Pechincha", "ru": "Торг", "ar": "مساومة", "zh": "讨价还价"},
+        {"tr": "Halı", "en": "Carpet", "es": "Alfombra", "fr": "Tapis", "de": "Teppich", "it": "Tappeto", "pt": "Tapete", "ru": "Ковёр", "ar": "سجاد", "zh": "地毯"}
+      ]
+    },
+    {
+      "word": {"tr": "Karagöz", "en": "Karagöz", "es": "Karagöz", "fr": "Karagöz", "de": "Karagöz", "it": "Karagöz", "pt": "Karagöz", "ru": "Карагёз", "ar": "كاراغوز", "zh": "皮影戏"},
+      "clues": [
+        {"tr": "Gölge", "en": "Shadow", "es": "Sombra", "fr": "Ombre", "de": "Schatten", "it": "Ombra", "pt": "Sombra", "ru": "Тень", "ar": "ظل", "zh": "影子"},
+        {"tr": "Hacivat", "en": "Hacivat", "es": "Hacivat", "fr": "Hacivat", "de": "Hacivat", "it": "Hacivat", "pt": "Hacivat", "ru": "Хадживат", "ar": "حاجي واد", "zh": "哈吉瓦特"}
+      ]
+    },
+    {
+      "word": {"tr": "Nasreddin Hoca", "en": "Nasreddin Hodja", "es": "Nasreddín Hodja", "fr": "Nasreddin Hodja", "de": "Nasreddin Hodscha", "it": "Nasreddin Hodja", "pt": "Nasreddin Hodja", "ru": "Ходжа Насреддин", "ar": "جحا", "zh": "纳斯尔丁·霍加"},
+      "clues": [
+        {"tr": "Eşek", "en": "Donkey", "es": "Burro", "fr": "Âne", "de": "Esel", "it": "Asino", "pt": "Burro", "ru": "Осёл", "ar": "حمار", "zh": "驴"},
+        {"tr": "Ters", "en": "Backwards", "es": "Al revés", "fr": "À l'envers", "de": "Verkehrt herum", "it": "Al contrario", "pt": "Ao contrário", "ru": "Задом наперёд", "ar": "بالعكس", "zh": "反着"}
+      ]
+    },
+    {
+      "word": {"tr": "Keloğlan", "en": "Keloğlan", "es": "Keloğlan", "fr": "Keloğlan", "de": "Keloğlan", "it": "Keloğlan", "pt": "Keloğlan", "ru": "Кельоглан", "ar": "كل أوغلان", "zh": "凯尔奥兰"},
+      "clues": [
+        {"tr": "Masal", "en": "Fairy tale", "es": "Cuento", "fr": "Conte", "de": "Märchen", "it": "Fiaba", "pt": "Conto de fadas", "ru": "Сказка", "ar": "حكاية", "zh": "童话"},
+        {"tr": "Kafa", "en": "Head", "es": "Cabeza", "fr": "Tête", "de": "Kopf", "it": "Testa", "pt": "Cabeça", "ru": "Голова", "ar": "رأس", "zh": "头"}
+      ]
+    },
+    {
+      "word": {"tr": "Lahmacun", "en": "Lahmacun", "es": "Lahmacun", "fr": "Lahmacun", "de": "Lahmacun", "it": "Lahmacun", "pt": "Lahmacun", "ru": "Лахмаджун", "ar": "لحم بعجين", "zh": "土耳其薄饼"},
+      "clues": [
+        {"tr": "İnce", "en": "Thin", "es": "Fino", "fr": "Fin", "de": "Dünn", "it": "Sottile", "pt": "Fino", "ru": "Тонкий", "ar": "رقيق", "zh": "薄"},
+        {"tr": "Limon", "en": "Lemon", "es": "Limón", "fr": "Citron", "de": "Zitrone", "it": "Limone", "pt": "Limão", "ru": "Лимон", "ar": "ليمون", "zh": "柠檬"}
+      ]
+    },
+    {
+      "word": {"tr": "Mantı", "en": "Manti", "es": "Manti", "fr": "Manti", "de": "Manti", "it": "Manti", "pt": "Manti", "ru": "Манты", "ar": "مانتي", "zh": "土耳其小饺子"},
+      "clues": [
+        {"tr": "Yoğurt", "en": "Yogurt", "es": "Yogur", "fr": "Yaourt", "de": "Joghurt", "it": "Yogurt", "pt": "Iogurte", "ru": "Йогурт", "ar": "زبادي", "zh": "酸奶"},
+        {"tr": "Sarımsak", "en": "Garlic", "es": "Ajo", "fr": "Ail", "de": "Knoblauch", "it": "Aglio", "pt": "Alho", "ru": "Чеснок", "ar": "ثوم", "zh": "大蒜"}
+      ]
+    },
+    {
+      "word": {"tr": "Bayram", "en": "Bayram", "es": "Bayram", "fr": "Bayram", "de": "Bayram", "it": "Bayram", "pt": "Bayram", "ru": "Байрам", "ar": "عيد", "zh": "节日"},
+      "clues": [
+        {"tr": "Şeker", "en": "Candy", "es": "Caramelos", "fr": "Bonbons", "de": "Bonbons", "it": "Caramelle", "pt": "Balas", "ru": "Конфеты", "ar": "حلوى", "zh": "糖果"},
+        {"tr": "El öpmek", "en": "Kissing hands", "es": "Besar la mano", "fr": "Baisemain", "de": "Handkuss", "it": "Baciamano", "pt": "Beijar a mão", "ru": "Целовать руку", "ar": "تقبيل اليد", "zh": "吻手礼"}
+      ]
+    },
+    {
+      "word": {"tr": "Dolmuş", "en": "Dolmuş", "es": "Minibús compartido", "fr": "Taxi collectif", "de": "Sammeltaxi", "it": "Taxi collettivo", "pt": "Lotação", "ru": "Маршрутка", "ar": "ميكروباص", "zh": "小巴"},
+      "clues": [
+        {"tr": "Bozuk para", "en": "Coins", "es": "Monedas", "fr": "Pièces", "de": "Münzen", "it": "Monete", "pt": "Moedas", "ru": "Мелочь", "ar": "فكة", "zh": "零钱"},
+        {"tr": "Kalabalık", "en": "Crowded", "es": "Abarrotado", "fr": "Bondé", "de": "Voll", "it": "Affollato", "pt": "Lotado", "ru": "Тесно", "ar": "مزدحم", "zh": "拥挤"}
+      ]
+    },
+    {
+      "word": {"tr": "Kapadokya", "en": "Cappadocia", "es": "Capadocia", "fr": "Cappadoce", "de": "Kappadokien", "it": "Cappadocia", "pt": "Capadócia", "ru": "Каппадокия", "ar": "كابادوكيا", "zh": "卡帕多奇亚"},
+      "clues": [
+        {"tr": "Balon", "en": "Balloon", "es": "Globo", "fr": "Montgolfière", "de": "Ballon", "it": "Mongolfiera", "pt": "Balão", "ru": "Воздушный шар", "ar": "منطاد", "zh": "热气球"},
+        {"tr": "Peribacası", "en": "Fairy chimney", "es": "Chimenea de hadas", "fr": "Cheminée de fée", "de": "Feenkamin", "it": "Camino delle fate", "pt": "Chaminé de fada", "ru": "Каменные грибы", "ar": "مدخنة الجنيات", "zh": "仙人烟囱"}
+      ]
+    },
+    {
+      "word": {"tr": "Pamukkale", "en": "Pamukkale", "es": "Pamukkale", "fr": "Pamukkale", "de": "Pamukkale", "it": "Pamukkale", "pt": "Pamukkale", "ru": "Памуккале", "ar": "باموق قلعة", "zh": "棉花堡"},
+      "clues": [
+        {"tr": "Beyaz", "en": "White", "es": "Blanco", "fr": "Blanc", "de": "Weiß", "it": "Bianco", "pt": "Branco", "ru": "Белый", "ar": "أبيض", "zh": "白色"},
+        {"tr": "Termal", "en": "Thermal", "es": "Termal", "fr": "Thermal", "de": "Thermal", "it": "Termale", "pt": "Termal", "ru": "Термальный", "ar": "حراري", "zh": "温泉"}
+      ]
+    },
+    {
+      "word": {"tr": "Ebru", "en": "Paper marbling", "es": "Papel marmoleado", "fr": "Papier marbré", "de": "Marmorpapier", "it": "Carta marmorizzata", "pt": "Papel marmorizado", "ru": "Эбру", "ar": "فن الإبرو", "zh": "大理石纹纸"},
+      "clues": [
+        {"tr": "Su", "en": "Water", "es": "Agua", "fr": "Eau", "de": "Wasser", "it": "Acqua", "pt": "Água", "ru": "Вода", "ar": "ماء", "zh": "水"},
+        {"tr": "Desen", "en": "Pattern", "es": "Patrón", "fr": "Motif", "de": "Muster", "it": "Motivo", "pt": "Padrão", "ru": "Узор", "ar": "نقش", "zh": "花纹"}
+      ]
+    },
+    {
+      "word": {"tr": "Bağlama", "en": "Bağlama", "es": "Saz", "fr": "Saz", "de": "Saz", "it": "Saz", "pt": "Saz", "ru": "Саз", "ar": "ساز", "zh": "土耳其长颈琴"},
+      "clues": [
+        {"tr": "Teller", "en": "Strings", "es": "Cuerdas", "fr": "Cordes", "de": "Saiten", "it": "Corde", "pt": "Cordas", "ru": "Струны", "ar": "أوتار", "zh": "琴弦"},
+        {"tr": "Türkü", "en": "Folk song", "es": "Canción popular", "fr": "Chanson folklorique", "de": "Volkslied", "it": "Canzone popolare", "pt": "Canção folclórica", "ru": "Народная песня", "ar": "أغنية شعبية", "zh": "民歌"}
+      ]
+    },
+    {
+      "word": {"tr": "Halay", "en": "Halay", "es": "Halay", "fr": "Halay", "de": "Halay", "it": "Halay", "pt": "Halay", "ru": "Халай", "ar": "دبكة", "zh": "哈莱舞"},
+      "clues": [
+        {"tr": "El ele", "en": "Hand in hand", "es": "De la mano", "fr": "Main dans la main", "de": "Hand in Hand", "it": "Mano nella mano", "pt": "De mãos dadas", "ru": "Рука об руку", "ar": "يدا بيد", "zh": "手拉手"},
+        {"tr": "Düğün", "en": "Wedding", "es": "Boda", "fr": "Mariage", "de": "Hochzeit", "it": "Matrimonio", "pt": "Casamento", "ru": "Свадьба", "ar": "زفاف", "zh": "婚礼"}
+      ]
+    },
+    {
+      "word": {"tr": "Kına gecesi", "en": "Henna night", "es": "Noche de henna", "fr": "Nuit du henné", "de": "Henna-Abend", "it": "Notte dell'henné", "pt": "Noite da hena", "ru": "Ночь хны", "ar": "ليلة الحناء", "zh": "指甲花之夜"},
+      "clues": [
+        {"tr": "Gelin", "en": "Bride", "es": "Novia", "fr": "Mariée", "de": "Braut", "it": "Sposa", "pt": "Noiva", "ru": "Невеста", "ar": "عروس", "zh": "新娘"},
+        {"tr": "Kırmızı", "en": "Red", "es": "Rojo", "fr": "Rouge", "de": "Rot", "it": "Rosso", "pt": "Vermelho", "ru": "Красный", "ar": "أحمر", "zh": "红色"}
+      ]
+    },
+    {
+      "word": {"tr": "Mehter", "en": "Ottoman band", "es": "Banda otomana", "fr": "Fanfare ottomane", "de": "Osmanische Militärkapelle", "it": "Banda ottomana", "pt": "Banda otomana", "ru": "Мехтер", "ar": "فرقة مهتر", "zh": "奥斯曼军乐队"},
+      "clues": [
+        {"tr": "Davul", "en": "Drum", "es": "Tambor", "fr": "Tambour", "de": "Trommel", "it": "Tamburo", "pt": "Tambor", "ru": "Барабан", "ar": "طبل", "zh": "鼓"},
+        {"tr": "Marş", "en": "March", "es": "Marcha", "fr": "Marche", "de": "Marsch", "it": "Marcia", "pt": "Marcha", "ru": "Марш", "ar": "مارش", "zh": "进行曲"}
+      ]
+    },
+    {
+      "word": {"tr": "Ayran", "en": "Ayran", "es": "Ayran", "fr": "Ayran", "de": "Ayran", "it": "Ayran", "pt": "Ayran", "ru": "Айран", "ar": "عيران", "zh": "酸奶饮料"},
+      "clues": [
+        {"tr": "Tuz", "en": "Salt", "es": "Sal", "fr": "Sel", "de": "Salz", "it": "Sale", "pt": "Sal", "ru": "Соль", "ar": "ملح", "zh": "盐"},
+        {"tr": "Serin", "en": "Cool", "es": "Fresco", "fr": "Frais", "de": "Kühl", "it": "Fresco", "pt": "Fresco", "ru": "Прохладный", "ar": "بارد", "zh": "清凉"}
+      ]
+    },
+    {
+      "word": {"tr": "Kumpir", "en": "Kumpir", "es": "Kumpir", "fr": "Kumpir", "de": "Kumpir", "it": "Kumpir", "pt": "Kumpir", "ru": "Кумпир", "ar": "كومبير", "zh": "土耳其烤土豆"},
+      "clues": [
+        {"tr": "Patates", "en": "Potato", "es": "Patata", "fr": "Pomme de terre", "de": "Kartoffel", "it": "Patata", "pt": "Batata", "ru": "Картофель", "ar": "بطاطس", "zh": "土豆"},
+        {"tr": "Ortaköy", "en": "Ortaköy", "es": "Ortaköy", "fr": "Ortaköy", "de": "Ortaköy", "it": "Ortaköy", "pt": "Ortaköy", "ru": "Ортакёй", "ar": "أورتاكوي", "zh": "奥塔科伊"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "foods",
+  "icon": "🍝",
+  "name": {"tr": "Yemekler", "en": "Dishes", "es": "Comidas", "fr": "Plats", "de": "Gerichte", "it": "Piatti", "pt": "Pratos", "ru": "Блюда", "ar": "أطباق", "zh": "美食"},
+  "drawable": true,
+  "words": [
+    {
+      "word": {"tr": "Pizza", "en": "Pizza", "es": "Pizza", "fr": "Pizza", "de": "Pizza", "it": "Pizza", "pt": "Pizza", "ru": "Пицца", "ar": "بيتزا", "zh": "披萨"},
+      "clues": [
+        {"tr": "Dilim", "en": "Slice", "es": "Porción", "fr": "Part", "de": "Stück", "it": "Fetta", "pt": "Fatia", "ru": "Кусок", "ar": "شريحة", "zh": "一片"},
+        {"tr": "Fırın", "en": "Oven", "es": "Horno", "fr": "Four", "de": "Ofen", "it": "Forno", "pt": "Forno", "ru": "Печь", "ar": "فرن", "zh": "烤箱"}
+      ]
+    },
+    {
+      "word": {"tr": "Hamburger", "en": "Burger", "es": "Hamburguesa", "fr": "Burger", "de": "Burger", "it": "Hamburger", "pt": "Hambúrguer", "ru": "Бургер", "ar": "برغر", "zh": "汉堡"},
+      "clues": [
+        {"tr": "Paket servis", "en": "Takeaway", "es": "Para llevar", "fr": "À emporter", "de": "Zum Mitnehmen", "it": "Da asporto", "pt": "Para viagem", "ru": "На вынос", "ar": "طلب خارجي", "zh": "外卖"},
+        {"tr": "Peynir", "en": "Cheese", "es": "Queso", "fr": "Fromage", "de": "Käse", "it": "Formaggio", "pt": "Queijo", "ru": "Сыр", "ar": "جبن", "zh": "奶酪"}
+      ]
+    },
+    {
+      "word": {"tr": "Suşi", "en": "Sushi", "es": "Sushi", "fr": "Sushi", "de": "Sushi", "it": "Sushi", "pt": "Sushi", "ru": "Суши", "ar": "سوشي", "zh": "寿司"},
+      "clues": [
+        {"tr": "Pirinç", "en": "Rice", "es": "Arroz", "fr": "Riz", "de": "Reis", "it": "Riso", "pt": "Arroz", "ru": "Рис", "ar": "أرز", "zh": "米饭"},
+        {"tr": "Çubuk", "en": "Chopsticks", "es": "Palillos", "fr": "Baguettes", "de": "Stäbchen", "it": "Bacchette", "pt": "Hashi", "ru": "Палочки", "ar": "عيدان", "zh": "筷子"}
+      ]
+    },
+    {
+      "word": {"tr": "Makarna", "en": "Pasta", "es": "Pasta", "fr": "Pâtes", "de": "Pasta", "it": "Pasta", "pt": "Macarrão", "ru": "Паста", "ar": "معكرونة", "zh": "意大利面"},
+      "clues": [
+        {"tr": "İtalya", "en": "Italy", "es": "Italia", "fr": "Italie", "de": "Italien", "it": "Italia", "pt": "Itália", "ru": "Италия", "ar": "إيطاليا", "zh": "意大利"},
+        {"tr": "Sos", "en": "Sauce", "es": "Salsa", "fr": "Sauce", "de": "Soße", "it": "Sugo", "pt": "Molho", "ru": "Соус", "ar": "صلصة", "zh": "酱汁"}
+      ]
+    },
+    {
+      "word": {"tr": "Çorba", "en": "Soup", "es": "Sopa", "fr": "Soupe", "de": "Suppe", "it": "Zuppa", "pt": "Sopa", "ru": "Суп", "ar": "حساء", "zh": "汤"},
+      "clues": [
+        {"tr": "Kaşık", "en": "Spoon", "es": "Cuchara", "fr": "Cuillère", "de": "Löffel", "it": "Cucchiaio", "pt": "Colher", "ru": "Ложка", "ar": "ملعقة", "zh": "勺子"},
+        {"tr": "Kış", "en": "Winter", "es": "Invierno", "fr": "Hiver", "de": "Winter", "it": "Inverno", "pt": "Inverno", "ru": "Зима", "ar": "شتاء", "zh": "冬天"}
+      ]
+    },
+    {
+      "word": {"tr": "Pilav", "en": "Pilaf", "es": "Arroz pilaf", "fr": "Riz pilaf", "de": "Reispilaw", "it": "Riso pilaf", "pt": "Arroz pilaf", "ru": "Плов", "ar": "أرز مفلفل", "zh": "抓饭"},
+      "clues": [
+        {"tr": "Tane", "en": "Grain", "es": "Grano", "fr": "Grain", "de": "Korn", "it": "Chicco", "pt": "Grão", "ru": "Зерно", "ar": "حبة", "zh": "颗粒"},
+        {"tr": "Tereyağı", "en": "Butter", "es": "Mantequilla", "fr": "Beurre", "de": "Butter", "it": "Burro", "pt": "Manteiga", "ru": "Масло", "ar": "زبدة", "zh": "黄油"}
+      ]
+    },
+    {
+      "word": {"tr": "Kebap", "en": "Kebab", "es": "Kebab", "fr": "Kebab", "de": "Kebab", "it": "Kebab", "pt": "Kebab", "ru": "Кебаб", "ar": "كباب", "zh": "烤肉串"},
+      "clues": [
+        {"tr": "Mangal", "en": "Grill", "es": "Parrilla", "fr": "Grill", "de": "Grill", "it": "Griglia", "pt": "Churrasqueira", "ru": "Мангал", "ar": "شواية", "zh": "烤架"},
+        {"tr": "Şiş", "en": "Skewer", "es": "Brocheta", "fr": "Brochette", "de": "Spieß", "it": "Spiedo", "pt": "Espeto", "ru": "Шампур", "ar": "سيخ", "zh": "签子"}
+      ]
+    },
+    {
+      "word": {"tr": "Omlet", "en": "Omelette", "es": "Tortilla", "fr": "Omelette", "de": "Omelett", "it": "Frittata", "pt": "Omelete", "ru": "Омлет", "ar": "عجة", "zh": "煎蛋卷"},
+      "clues": [
+        {"tr": "Yumurta", "en": "Egg", "es": "Huevo", "fr": "Œuf", "de": "Ei", "it": "Uovo", "pt": "Ovo", "ru": "Яйцо", "ar": "بيضة", "zh": "鸡蛋"},
+        {"tr": "Tava", "en": "Pan", "es": "Sartén", "fr": "Poêle", "de": "Pfanne", "it": "Padella", "pt": "Frigideira", "ru": "Сковорода", "ar": "مقلاة", "zh": "平底锅"}
+      ]
+    },
+    {
+      "word": {"tr": "Salata", "en": "Salad", "es": "Ensalada", "fr": "Salade", "de": "Salat", "it": "Insalata", "pt": "Salada", "ru": "Салат", "ar": "سلطة", "zh": "沙拉"},
+      "clues": [
+        {"tr": "Yeşil", "en": "Green", "es": "Verde", "fr": "Vert", "de": "Grün", "it": "Verde", "pt": "Verde", "ru": "Зелёный", "ar": "أخضر", "zh": "绿色"},
+        {"tr": "Diyet", "en": "Diet", "es": "Dieta", "fr": "Régime", "de": "Diät", "it": "Dieta", "pt": "Dieta", "ru": "Диета", "ar": "حمية", "zh": "节食"}
+      ]
+    },
+    {
+      "word": {"tr": "Tako", "en": "Taco", "es": "Taco", "fr": "Taco", "de": "Taco", "it": "Taco", "pt": "Taco", "ru": "Тако", "ar": "تاكو", "zh": "墨西哥卷饼"},
+      "clues": [
+        {"tr": "Meksika", "en": "Mexico", "es": "México", "fr": "Mexique", "de": "Mexiko", "it": "Messico", "pt": "México", "ru": "Мексика", "ar": "المكسيك", "zh": "墨西哥"},
+        {"tr": "Acı", "en": "Spicy", "es": "Picante", "fr": "Épicé", "de": "Scharf", "it": "Piccante", "pt": "Picante", "ru": "Острый", "ar": "حار", "zh": "辣"}
+      ]
+    },
+    {
+      "word": {"tr": "Patates kızartması", "en": "French fries", "es": "Papas fritas", "fr": "Frites", "de": "Pommes", "it": "Patatine fritte", "pt": "Batata frita", "ru": "Картошка фри", "ar": "بطاطس مقلية", "zh": "薯条"},
+      "clues": [
+        {"tr": "Ketçap", "en": "Ketchup", "es": "Kétchup", "fr": "Ketchup", "de": "Ketchup", "it": "Ketchup", "pt": "Ketchup", "ru": "Кетчуп", "ar": "كاتشب", "zh": "番茄酱"},
+        {"tr": "Çıtır", "en": "Crispy", "es": "Crujiente", "fr": "Croustillant", "de": "Knusprig", "it": "Croccante", "pt": "Crocante", "ru": "Хрустящий", "ar": "مقرمش", "zh": "酥脆"}
+      ]
+    },
+    {
+      "word": {"tr": "Sandviç", "en": "Sandwich", "es": "Sándwich", "fr": "Sandwich", "de": "Sandwich", "it": "Panino", "pt": "Sanduíche", "ru": "Бутерброд", "ar": "ساندويتش", "zh": "三明治"},
+      "clues": [
+        {"tr": "Ekmek", "en": "Bread", "es": "Pan", "fr": "Pain", "de": "Brot", "it": "Pane", "pt": "Pão", "ru": "Хлеб", "ar": "خبز", "zh": "面包"},
+        {"tr": "Piknik", "en": "Picnic", "es": "Pícnic", "fr": "Pique-nique", "de": "Picknick", "it": "Picnic", "pt": "Piquenique", "ru": "Пикник", "ar": "نزهة", "zh": "野餐"}
+      ]
+    },
+    {
+      "word": {"tr": "Köfte", "en": "Meatballs", "es": "Albóndigas", "fr": "Boulettes", "de": "Frikadellen", "it": "Polpette", "pt": "Almôndegas", "ru": "Фрикадельки", "ar": "كفتة", "zh": "肉丸"},
+      "clues": [
+        {"tr": "Kıyma", "en": "Minced meat", "es": "Carne picada", "fr": "Viande hachée", "de": "Hackfleisch", "it": "Carne macinata", "pt": "Carne moída", "ru": "Фарш", "ar": "لحم مفروم", "zh": "肉末"},
+        {"tr": "Yuvarlak", "en": "Round", "es": "Redondo", "fr": "Rond", "de": "Rund", "it": "Rotondo", "pt": "Redondo", "ru": "Круглый", "ar": "دائري", "zh": "圆形"}
+      ]
+    },
+    {
+      "word": {"tr": "Krep", "en": "Pancake", "es": "Crepe", "fr": "Crêpe", "de": "Pfannkuchen", "it": "Crêpe", "pt": "Panqueca", "ru": "Блин", "ar": "كريب", "zh": "可丽饼"},
+      "clues": [
+        {"tr": "Kahvaltı", "en": "Breakfast", "es": "Desayuno", "fr": "Petit-déjeuner", "de": "Frühstück", "it": "Colazione", "pt": "Café da manhã", "ru": "Завтрак", "ar": "فطور", "zh": "早餐"},
+        {"tr": "İnce", "en": "Thin", "es": "Fino", "fr": "Fin", "de": "Dünn", "it": "Sottile", "pt": "Fino", "ru": "Тонкий", "ar": "رقيق", "zh": "薄"}
+      ]
+    },
+    {
+      "word": {"tr": "Sosisli", "en": "Hot dog", "es": "Perrito caliente", "fr": "Hot-dog", "de": "Hotdog", "it": "Hot dog", "pt": "Cachorro-quente", "ru": "Хот-дог", "ar": "هوت دوغ", "zh": "热狗"},
+      "clues": [
+        {"tr": "Hardal", "en": "Mustard", "es": "Mostaza", "fr": "Moutarde", "de": "Senf", "it": "Senape", "pt": "Mostarda", "ru": "Горчица", "ar": "خردل", "zh": "芥末"},
+        {"tr": "Stadyum", "en": "Stadium", "es": "Estadio", "fr": "Stade", "de": "Stadion", "it": "Stadio", "pt": "Estádio", "ru": "Стадион", "ar": "ملعب", "zh": "体育场"}
+      ]
+    },
+    {
+      "word": {"tr": "Biftek", "en": "Steak", "es": "Bistec", "fr": "Steak", "de": "Steak", "it": "Bistecca", "pt": "Bife", "ru": "Стейк", "ar": "ستيك", "zh": "牛排"},
+      "clues": [
+        {"tr": "Pişme derecesi", "en": "Doneness", "es": "Punto de cocción", "fr": "Cuisson", "de": "Garstufe", "it": "Cottura", "pt": "Ponto da carne", "ru": "Прожарка", "ar": "درجة الاستواء", "zh": "几分熟"},
+        {"tr": "Bıçak", "en": "Knife", "es": "Cuchillo", "fr": "Couteau", "de": "Messer", "it": "Coltello", "pt": "Faca", "ru": "Нож", "ar": "سكين", "zh": "刀"}
+      ]
+    },
+    {
+      "word": {"tr": "Patlamış mısır", "en": "Popcorn", "es": "Palomitas", "fr": "Pop-corn", "de": "Popcorn", "it": "Popcorn", "pt": "Pipoca", "ru": "Попкорн", "ar": "فشار", "zh": "爆米花"},
+      "clues": [
+        {"tr": "Sinema", "en": "Cinema", "es": "Cine", "fr": "Cinéma", "de": "Kino", "it": "Cinema", "pt": "Cinema", "ru": "Кино", "ar": "سينما", "zh": "电影院"},
+        {"tr": "Tuz", "en": "Salt", "es": "Sal", "fr": "Sel", "de": "Salz", "it": "Sale", "pt": "Sal", "ru": "Соль", "ar": "ملح", "zh": "盐"}
+      ]
+    },
+    {
+      "word": {"tr": "Kızarmış tavuk", "en": "Fried chicken", "es": "Pollo frito", "fr": "Poulet frit", "de": "Brathähnchen", "it": "Pollo fritto", "pt": "Frango frito", "ru": "Жареная курица", "ar": "دجاج مقلي", "zh": "炸鸡"},
+      "clues": [
+        {"tr": "Kanat", "en": "Wings", "es": "Alitas", "fr": "Ailes", "de": "Flügel", "it": "Ali", "pt": "Asas", "ru": "Крылышки", "ar": "أجنحة", "zh": "鸡翅"},
+        {"tr": "Kova", "en": "Bucket", "es": "Cubo", "fr": "Seau", "de": "Eimer", "it": "Secchiello", "pt": "Balde", "ru": "Ведро", "ar": "سطل", "zh": "桶"}
+      ]
+    },
+    {
+      "word": {"tr": "Lazanya", "en": "Lasagna", "es": "Lasaña", "fr": "Lasagne", "de": "Lasagne", "it": "Lasagna", "pt": "Lasanha", "ru": "Лазанья", "ar": "لازانيا", "zh": "千层面"},
+      "clues": [
+        {"tr": "Kat", "en": "Layer", "es": "Capa", "fr": "Couche", "de": "Schicht", "it": "Strato", "pt": "Camada", "ru": "Слой", "ar": "طبقة", "zh": "层"},
+        {"tr": "Beşamel", "en": "Béchamel", "es": "Bechamel", "fr": "Béchamel", "de": "Béchamel", "it": "Besciamella", "pt": "Bechamel", "ru": "Бешамель", "ar": "بشاميل", "zh": "白酱"}
+      ]
+    },
+    {
+      "word": {"tr": "Döner", "en": "Doner kebab", "es": "Döner kebab", "fr": "Döner", "de": "Döner", "it": "Kebab döner", "pt": "Döner", "ru": "Донер", "ar": "شاورما", "zh": "土耳其旋转烤肉"},
+      "clues": [
+        {"tr": "Dönmek", "en": "Spin", "es": "Girar", "fr": "Tourner", "de": "Drehen", "it": "Girare", "pt": "Girar", "ru": "Вращаться", "ar": "يدور", "zh": "旋转"},
+        {"tr": "Gece yarısı", "en": "Midnight", "es": "Medianoche", "fr": "Minuit", "de": "Mitternacht", "it": "Mezzanotte", "pt": "Meia-noite", "ru": "Полночь", "ar": "منتصف الليل", "zh": "半夜"}
+      ]
+    },
+    {
+      "word": {"tr": "Falafel", "en": "Falafel", "es": "Falafel", "fr": "Falafel", "de": "Falafel", "it": "Falafel", "pt": "Falafel", "ru": "Фалафель", "ar": "فلافل", "zh": "炸豆丸子"},
+      "clues": [
+        {"tr": "Nohut", "en": "Chickpea", "es": "Garbanzo", "fr": "Pois chiche", "de": "Kichererbse", "it": "Cece", "pt": "Grão-de-bico", "ru": "Нут", "ar": "حمص", "zh": "鹰嘴豆"},
+        {"tr": "Sokak", "en": "Street", "es": "Calle", "fr": "Rue", "de": "Straße", "it": "Strada", "pt": "Rua", "ru": "Улица", "ar": "شارع", "zh": "街头"}
+      ]
+    },
+    {
+      "word": {"tr": "Köri", "en": "Curry", "es": "Curry", "fr": "Curry", "de": "Curry", "it": "Curry", "pt": "Caril", "ru": "Карри", "ar": "كاري", "zh": "咖喱"},
+      "clues": [
+        {"tr": "Hindistan", "en": "India", "es": "India", "fr": "Inde", "de": "Indien", "it": "India", "pt": "Índia", "ru": "Индия", "ar": "الهند", "zh": "印度"},
+        {"tr": "Baharat", "en": "Spices", "es": "Especias", "fr": "Épices", "de": "Gewürze", "it": "Spezie", "pt": "Especiarias", "ru": "Специи", "ar": "بهارات", "zh": "香料"}
+      ]
+    },
+    {
+      "word": {"tr": "Mantı", "en": "Dumplings", "es": "Empanadillas", "fr": "Raviolis", "de": "Teigtaschen", "it": "Ravioli", "pt": "Bolinhos", "ru": "Пельмени", "ar": "زلابية محشوة", "zh": "饺子"},
+      "clues": [
+        {"tr": "Hamur", "en": "Dough", "es": "Masa", "fr": "Pâte", "de": "Teig", "it": "Impasto", "pt": "Massa", "ru": "Тесто", "ar": "عجين", "zh": "面团"},
+        {"tr": "Buhar", "en": "Steam", "es": "Vapor", "fr": "Vapeur", "de": "Dampf", "it": "Vapore", "pt": "Vapor", "ru": "Пар", "ar": "بخار", "zh": "蒸汽"}
+      ]
+    },
+    {
+      "word": {"tr": "Paella", "en": "Paella", "es": "Paella", "fr": "Paella", "de": "Paella", "it": "Paella", "pt": "Paelha", "ru": "Паэлья", "ar": "باييلا", "zh": "西班牙海鲜饭"},
+      "clues": [
+        {"tr": "İspanya", "en": "Spain", "es": "España", "fr": "Espagne", "de": "Spanien", "it": "Spagna", "pt": "Espanha", "ru": "Испания", "ar": "إسبانيا", "zh": "西班牙"},
+        {"tr": "Deniz ürünleri", "en": "Seafood", "es": "Marisco", "fr": "Fruits de mer", "de": "Meeresfrüchte", "it": "Frutti di mare", "pt": "Frutos do mar", "ru": "Морепродукты", "ar": "مأكولات بحرية", "zh": "海鲜"}
+      ]
+    },
+    {
+      "word": {"tr": "Erişte", "en": "Noodles", "es": "Fideos", "fr": "Nouilles", "de": "Nudeln", "it": "Noodles", "pt": "Lámen", "ru": "Лапша", "ar": "نودلز", "zh": "面条"},
+      "clues": [
+        {"tr": "Uzun", "en": "Long", "es": "Largo", "fr": "Long", "de": "Lang", "it": "Lungo", "pt": "Comprido", "ru": "Длинный", "ar": "طويل", "zh": "长"},
+        {"tr": "Höpürdetmek", "en": "Slurp", "es": "Sorber", "fr": "Aspirer bruyamment", "de": "Schlürfen", "it": "Risucchiare", "pt": "Sorver", "ru": "Хлюпать", "ar": "يشفط", "zh": "吸溜"}
+      ]
+    }
+  ]
+}

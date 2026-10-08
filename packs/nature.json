@@ -1,0 +1,176 @@
+{
+  "id": "nature",
+  "icon": "🌋",
+  "name": {"tr": "Doğa", "en": "Nature", "es": "Naturaleza", "fr": "Nature", "de": "Natur", "it": "Natura", "pt": "Natureza", "ru": "Природа", "ar": "طبيعة", "zh": "自然"},
+  "drawable": true,
+  "words": [
+    {
+      "word": {"tr": "Yanardağ", "en": "Volcano", "es": "Volcán", "fr": "Volcan", "de": "Vulkan", "it": "Vulcano", "pt": "Vulcão", "ru": "Вулкан", "ar": "بركان", "zh": "火山"},
+      "clues": [
+        {"tr": "Lav", "en": "Lava", "es": "Lava", "fr": "Lave", "de": "Lava", "it": "Lava", "pt": "Lava", "ru": "Лава", "ar": "حمم", "zh": "岩浆"},
+        {"tr": "Patlama", "en": "Eruption", "es": "Erupción", "fr": "Éruption", "de": "Ausbruch", "it": "Eruzione", "pt": "Erupção", "ru": "Извержение", "ar": "ثوران", "zh": "喷发"}
+      ]
+    },
+    {
+      "word": {"tr": "Şelale", "en": "Waterfall", "es": "Cascada", "fr": "Cascade", "de": "Wasserfall", "it": "Cascata", "pt": "Cachoeira", "ru": "Водопад", "ar": "شلال", "zh": "瀑布"},
+      "clues": [
+        {"tr": "Su", "en": "Water", "es": "Agua", "fr": "Eau", "de": "Wasser", "it": "Acqua", "pt": "Água", "ru": "Вода", "ar": "ماء", "zh": "水"},
+        {"tr": "Yükseklik", "en": "Height", "es": "Altura", "fr": "Hauteur", "de": "Höhe", "it": "Altezza", "pt": "Altura", "ru": "Высота", "ar": "ارتفاع", "zh": "高度"}
+      ]
+    },
+    {
+      "word": {"tr": "Gökkuşağı", "en": "Rainbow", "es": "Arcoíris", "fr": "Arc-en-ciel", "de": "Regenbogen", "it": "Arcobaleno", "pt": "Arco-íris", "ru": "Радуга", "ar": "قوس قزح", "zh": "彩虹"},
+      "clues": [
+        {"tr": "Renkler", "en": "Colors", "es": "Colores", "fr": "Couleurs", "de": "Farben", "it": "Colori", "pt": "Cores", "ru": "Цвета", "ar": "ألوان", "zh": "颜色"},
+        {"tr": "Yağmur sonrası", "en": "After the rain", "es": "Después de la lluvia", "fr": "Après la pluie", "de": "Nach dem Regen", "it": "Dopo la pioggia", "pt": "Depois da chuva", "ru": "После дождя", "ar": "بعد المطر", "zh": "雨后"}
+      ]
+    },
+    {
+      "word": {"tr": "Ay", "en": "Moon", "es": "Luna", "fr": "Lune", "de": "Mond", "it": "Luna", "pt": "Lua", "ru": "Луна", "ar": "قمر", "zh": "月亮"},
+      "clues": [
+        {"tr": "Gece", "en": "Night", "es": "Noche", "fr": "Nuit", "de": "Nacht", "it": "Notte", "pt": "Noite", "ru": "Ночь", "ar": "ليل", "zh": "夜晚"},
+        {"tr": "Kurt", "en": "Wolf", "es": "Lobo", "fr": "Loup", "de": "Wolf", "it": "Lupo", "pt": "Lobo", "ru": "Волк", "ar": "ذئب", "zh": "狼"}
+      ]
+    },
+    {
+      "word": {"tr": "Güneş", "en": "Sun", "es": "Sol", "fr": "Soleil", "de": "Sonne", "it": "Sole", "pt": "Sol", "ru": "Солнце", "ar": "شمس", "zh": "太阳"},
+      "clues": [
+        {"tr": "Sıcak", "en": "Hot", "es": "Calor", "fr": "Chaud", "de": "Heiß", "it": "Caldo", "pt": "Quente", "ru": "Жарко", "ar": "حار", "zh": "热"},
+        {"tr": "Gözlük", "en": "Sunglasses", "es": "Gafas de sol", "fr": "Lunettes de soleil", "de": "Sonnenbrille", "it": "Occhiali da sole", "pt": "Óculos de sol", "ru": "Солнечные очки", "ar": "نظارة شمسية", "zh": "墨镜"}
+      ]
+    },
+    {
+      "word": {"tr": "Kar tanesi", "en": "Snowflake", "es": "Copo de nieve", "fr": "Flocon de neige", "de": "Schneeflocke", "it": "Fiocco di neve", "pt": "Floco de neve", "ru": "Снежинка", "ar": "ندفة ثلج", "zh": "雪花"},
+      "clues": [
+        {"tr": "Kış", "en": "Winter", "es": "Invierno", "fr": "Hiver", "de": "Winter", "it": "Inverno", "pt": "Inverno", "ru": "Зима", "ar": "شتاء", "zh": "冬天"},
+        {"tr": "Benzersiz", "en": "Unique", "es": "Único", "fr": "Unique", "de": "Einzigartig", "it": "Unico", "pt": "Único", "ru": "Уникальный", "ar": "فريد", "zh": "独一无二"}
+      ]
+    },
+    {
+      "word": {"tr": "Yıldırım", "en": "Lightning", "es": "Rayo", "fr": "Éclair", "de": "Blitz", "it": "Fulmine", "pt": "Raio", "ru": "Молния", "ar": "برق", "zh": "闪电"},
+      "clues": [
+        {"tr": "Gök gürültüsü", "en": "Thunder", "es": "Trueno", "fr": "Tonnerre", "de": "Donner", "it": "Tuono", "pt": "Trovão", "ru": "Гром", "ar": "رعد", "zh": "雷声"},
+        {"tr": "Fırtına", "en": "Storm", "es": "Tormenta", "fr": "Orage", "de": "Gewitter", "it": "Temporale", "pt": "Tempestade", "ru": "Гроза", "ar": "عاصفة", "zh": "暴风雨"}
+      ]
+    },
+    {
+      "word": {"tr": "Ada", "en": "Island", "es": "Isla", "fr": "Île", "de": "Insel", "it": "Isola", "pt": "Ilha", "ru": "Остров", "ar": "جزيرة", "zh": "岛屿"},
+      "clues": [
+        {"tr": "Deniz", "en": "Sea", "es": "Mar", "fr": "Mer", "de": "Meer", "it": "Mare", "pt": "Mar", "ru": "Море", "ar": "بحر", "zh": "大海"},
+        {"tr": "Issız", "en": "Deserted", "es": "Desierta", "fr": "Déserte", "de": "Verlassen", "it": "Deserta", "pt": "Deserta", "ru": "Необитаемый", "ar": "مهجورة", "zh": "荒无人烟"}
+      ]
+    },
+    {
+      "word": {"tr": "Çöl", "en": "Desert", "es": "Desierto", "fr": "Désert", "de": "Wüste", "it": "Deserto", "pt": "Deserto", "ru": "Пустыня", "ar": "صحراء", "zh": "沙漠"},
+      "clues": [
+        {"tr": "Kum", "en": "Sand", "es": "Arena", "fr": "Sable", "de": "Sand", "it": "Sabbia", "pt": "Areia", "ru": "Песок", "ar": "رمل", "zh": "沙子"},
+        {"tr": "Serap", "en": "Mirage", "es": "Espejismo", "fr": "Mirage", "de": "Fata Morgana", "it": "Miraggio", "pt": "Miragem", "ru": "Мираж", "ar": "سراب", "zh": "海市蜃楼"}
+      ]
+    },
+    {
+      "word": {"tr": "Orman", "en": "Forest", "es": "Bosque", "fr": "Forêt", "de": "Wald", "it": "Foresta", "pt": "Floresta", "ru": "Лес", "ar": "غابة", "zh": "森林"},
+      "clues": [
+        {"tr": "Ağaçlar", "en": "Trees", "es": "Árboles", "fr": "Arbres", "de": "Bäume", "it": "Alberi", "pt": "Árvores", "ru": "Деревья", "ar": "أشجار", "zh": "树木"},
+        {"tr": "Kaybolmak", "en": "Get lost", "es": "Perderse", "fr": "Se perdre", "de": "Sich verirren", "it": "Perdersi", "pt": "Se perder", "ru": "Заблудиться", "ar": "يتوه", "zh": "迷路"}
+      ]
+    },
+    {
+      "word": {"tr": "Dağ", "en": "Mountain", "es": "Montaña", "fr": "Montagne", "de": "Berg", "it": "Montagna", "pt": "Montanha", "ru": "Гора", "ar": "جبل", "zh": "山"},
+      "clues": [
+        {"tr": "Zirve", "en": "Peak", "es": "Cima", "fr": "Sommet", "de": "Gipfel", "it": "Vetta", "pt": "Pico", "ru": "Вершина", "ar": "قمة", "zh": "山顶"},
+        {"tr": "Tırmanış", "en": "Climb", "es": "Escalada", "fr": "Escalade", "de": "Klettern", "it": "Scalata", "pt": "Escalada", "ru": "Восхождение", "ar": "تسلق", "zh": "攀登"}
+      ]
+    },
+    {
+      "word": {"tr": "Nehir", "en": "River", "es": "Río", "fr": "Rivière", "de": "Fluss", "it": "Fiume", "pt": "Rio", "ru": "Река", "ar": "نهر", "zh": "河流"},
+      "clues": [
+        {"tr": "Akıntı", "en": "Current", "es": "Corriente", "fr": "Courant", "de": "Strömung", "it": "Corrente", "pt": "Correnteza", "ru": "Течение", "ar": "تيار", "zh": "水流"},
+        {"tr": "Köprü", "en": "Bridge", "es": "Puente", "fr": "Pont", "de": "Brücke", "it": "Ponte", "pt": "Ponte", "ru": "Мост", "ar": "جسر", "zh": "桥"}
+      ]
+    },
+    {
+      "word": {"tr": "Deprem", "en": "Earthquake", "es": "Terremoto", "fr": "Tremblement de terre", "de": "Erdbeben", "it": "Terremoto", "pt": "Terremoto", "ru": "Землетрясение", "ar": "زلزال", "zh": "地震"},
+      "clues": [
+        {"tr": "Sallanmak", "en": "Shaking", "es": "Temblor", "fr": "Secousse", "de": "Beben", "it": "Scossa", "pt": "Tremor", "ru": "Тряска", "ar": "اهتزاز", "zh": "摇晃"},
+        {"tr": "Fay hattı", "en": "Fault line", "es": "Falla", "fr": "Faille", "de": "Verwerfung", "it": "Faglia", "pt": "Falha", "ru": "Разлом", "ar": "صدع", "zh": "断层"}
+      ]
+    },
+    {
+      "word": {"tr": "Kasırga", "en": "Tornado", "es": "Tornado", "fr": "Tornade", "de": "Tornado", "it": "Tornado", "pt": "Tornado", "ru": "Торнадо", "ar": "إعصار", "zh": "龙卷风"},
+      "clues": [
+        {"tr": "Rüzgar", "en": "Wind", "es": "Viento", "fr": "Vent", "de": "Wind", "it": "Vento", "pt": "Vento", "ru": "Ветер", "ar": "رياح", "zh": "风"},
+        {"tr": "Dönmek", "en": "Spin", "es": "Girar", "fr": "Tourbillonner", "de": "Wirbeln", "it": "Girare", "pt": "Girar", "ru": "Кружиться", "ar": "يدور", "zh": "旋转"}
+      ]
+    },
+    {
+      "word": {"tr": "Okyanus", "en": "Ocean", "es": "Océano", "fr": "Océan", "de": "Ozean", "it": "Oceano", "pt": "Oceano", "ru": "Океан", "ar": "محيط", "zh": "海洋"},
+      "clues": [
+        {"tr": "Dalga", "en": "Waves", "es": "Olas", "fr": "Vagues", "de": "Wellen", "it": "Onde", "pt": "Ondas", "ru": "Волны", "ar": "أمواج", "zh": "波浪"},
+        {"tr": "Balina", "en": "Whale", "es": "Ballena", "fr": "Baleine", "de": "Wal", "it": "Balena", "pt": "Baleia", "ru": "Кит", "ar": "حوت", "zh": "鲸鱼"}
+      ]
+    },
+    {
+      "word": {"tr": "Çiçek", "en": "Flower", "es": "Flor", "fr": "Fleur", "de": "Blume", "it": "Fiore", "pt": "Flor", "ru": "Цветок", "ar": "زهرة", "zh": "花"},
+      "clues": [
+        {"tr": "Arı", "en": "Bee", "es": "Abeja", "fr": "Abeille", "de": "Biene", "it": "Ape", "pt": "Abelha", "ru": "Пчела", "ar": "نحلة", "zh": "蜜蜂"},
+        {"tr": "Bahar", "en": "Spring", "es": "Primavera", "fr": "Printemps", "de": "Frühling", "it": "Primavera", "pt": "Primavera", "ru": "Весна", "ar": "ربيع", "zh": "春天"}
+      ]
+    },
+    {
+      "word": {"tr": "Kaktüs", "en": "Cactus", "es": "Cactus", "fr": "Cactus", "de": "Kaktus", "it": "Cactus", "pt": "Cacto", "ru": "Кактус", "ar": "صبار", "zh": "仙人掌"},
+      "clues": [
+        {"tr": "Diken", "en": "Thorns", "es": "Espinas", "fr": "Épines", "de": "Stacheln", "it": "Spine", "pt": "Espinhos", "ru": "Колючки", "ar": "أشواك", "zh": "刺"},
+        {"tr": "Susuz", "en": "Waterless", "es": "Sin agua", "fr": "Sans eau", "de": "Wasserlos", "it": "Senz'acqua", "pt": "Sem água", "ru": "Без воды", "ar": "بلا ماء", "zh": "缺水"}
+      ]
+    },
+    {
+      "word": {"tr": "Bulut", "en": "Cloud", "es": "Nube", "fr": "Nuage", "de": "Wolke", "it": "Nuvola", "pt": "Nuvem", "ru": "Облако", "ar": "سحابة", "zh": "云"},
+      "clues": [
+        {"tr": "Gökyüzü", "en": "Sky", "es": "Cielo", "fr": "Ciel", "de": "Himmel", "it": "Cielo", "pt": "Céu", "ru": "Небо", "ar": "سماء", "zh": "天空"},
+        {"tr": "Pamuk", "en": "Cotton", "es": "Algodón", "fr": "Coton", "de": "Baumwolle", "it": "Cotone", "pt": "Algodão", "ru": "Вата", "ar": "قطن", "zh": "棉花"}
+      ]
+    },
+    {
+      "word": {"tr": "Yıldız", "en": "Star", "es": "Estrella", "fr": "Étoile", "de": "Stern", "it": "Stella", "pt": "Estrela", "ru": "Звезда", "ar": "نجمة", "zh": "星星"},
+      "clues": [
+        {"tr": "Dilek", "en": "Wish", "es": "Deseo", "fr": "Vœu", "de": "Wunsch", "it": "Desiderio", "pt": "Desejo", "ru": "Желание", "ar": "أمنية", "zh": "愿望"},
+        {"tr": "Parlamak", "en": "Shine", "es": "Brillar", "fr": "Briller", "de": "Leuchten", "it": "Brillare", "pt": "Brilhar", "ru": "Сиять", "ar": "يلمع", "zh": "闪耀"}
+      ]
+    },
+    {
+      "word": {"tr": "Buzul", "en": "Glacier", "es": "Glaciar", "fr": "Glacier", "de": "Gletscher", "it": "Ghiacciaio", "pt": "Geleira", "ru": "Ледник", "ar": "نهر جليدي", "zh": "冰川"},
+      "clues": [
+        {"tr": "Kutup", "en": "Pole", "es": "Polo", "fr": "Pôle", "de": "Pol", "it": "Polo", "pt": "Polo", "ru": "Полюс", "ar": "قطب", "zh": "极地"},
+        {"tr": "Erimek", "en": "Melting", "es": "Derretirse", "fr": "Fondre", "de": "Schmelzen", "it": "Sciogliersi", "pt": "Derreter", "ru": "Таять", "ar": "ذوبان", "zh": "融化"}
+      ]
+    },
+    {
+      "word": {"tr": "Göl", "en": "Lake", "es": "Lago", "fr": "Lac", "de": "See", "it": "Lago", "pt": "Lago", "ru": "Озеро", "ar": "بحيرة", "zh": "湖"},
+      "clues": [
+        {"tr": "Ördek", "en": "Duck", "es": "Pato", "fr": "Canard", "de": "Ente", "it": "Anatra", "pt": "Pato", "ru": "Утка", "ar": "بطة", "zh": "鸭子"},
+        {"tr": "Sakin", "en": "Calm", "es": "Tranquilo", "fr": "Calme", "de": "Ruhig", "it": "Calmo", "pt": "Calmo", "ru": "Спокойный", "ar": "هادئ", "zh": "平静"}
+      ]
+    },
+    {
+      "word": {"tr": "Sis", "en": "Fog", "es": "Niebla", "fr": "Brouillard", "de": "Nebel", "it": "Nebbia", "pt": "Neblina", "ru": "Туман", "ar": "ضباب", "zh": "雾"},
+      "clues": [
+        {"tr": "Görüş", "en": "Visibility", "es": "Visibilidad", "fr": "Visibilité", "de": "Sicht", "it": "Visibilità", "pt": "Visibilidade", "ru": "Видимость", "ar": "رؤية", "zh": "能见度"},
+        {"tr": "Sabah", "en": "Morning", "es": "Mañana", "fr": "Matin", "de": "Morgen", "it": "Mattina", "pt": "Manhã", "ru": "Утро", "ar": "صباح", "zh": "早晨"}
+      ]
+    },
+    {
+      "word": {"tr": "Gün batımı", "en": "Sunset", "es": "Atardecer", "fr": "Coucher de soleil", "de": "Sonnenuntergang", "it": "Tramonto", "pt": "Pôr do sol", "ru": "Закат", "ar": "غروب", "zh": "日落"},
+      "clues": [
+        {"tr": "Turuncu", "en": "Orange", "es": "Naranja", "fr": "Orange", "de": "Orange", "it": "Arancione", "pt": "Laranja", "ru": "Оранжевый", "ar": "برتقالي", "zh": "橙色"},
+        {"tr": "Romantik", "en": "Romantic", "es": "Romántico", "fr": "Romantique", "de": "Romantisch", "it": "Romantico", "pt": "Romântico", "ru": "Романтично", "ar": "رومانسي", "zh": "浪漫"}
+      ]
+    },
+    {
+      "word": {"tr": "Uçurum", "en": "Cliff", "es": "Acantilado", "fr": "Falaise", "de": "Klippe", "it": "Scogliera", "pt": "Penhasco", "ru": "Обрыв", "ar": "جرف", "zh": "悬崖"},
+      "clues": [
+        {"tr": "Kenar", "en": "Edge", "es": "Borde", "fr": "Bord", "de": "Rand", "it": "Bordo", "pt": "Beirada", "ru": "Край", "ar": "حافة", "zh": "边缘"},
+        {"tr": "Baş dönmesi", "en": "Dizziness", "es": "Vértigo", "fr": "Vertige", "de": "Schwindel", "it": "Vertigine", "pt": "Vertigem", "ru": "Головокружение", "ar": "دوار", "zh": "眩晕"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "art",
+  "icon": "🎨",
+  "name": {"tr": "Sanat", "en": "Art", "es": "Arte", "fr": "Art", "de": "Kunst", "it": "Arte", "pt": "Arte", "ru": "Искусство", "ar": "فن", "zh": "艺术"},
+  "drawable": true,
+  "words": [
+    {
+      "word": {"tr": "Mona Lisa", "en": "Mona Lisa", "es": "Mona Lisa", "fr": "La Joconde", "de": "Mona Lisa", "it": "Gioconda", "pt": "Mona Lisa", "ru": "Мона Лиза", "ar": "الموناليزا", "zh": "蒙娜丽莎"},
+      "clues": [
+        {"tr": "Gülümseme", "en": "Smile", "es": "Sonrisa", "fr": "Sourire", "de": "Lächeln", "it": "Sorriso", "pt": "Sorriso", "ru": "Улыбка", "ar": "ابتسامة", "zh": "微笑"},
+        {"tr": "Louvre", "en": "Louvre", "es": "Louvre", "fr": "Louvre", "de": "Louvre", "it": "Louvre", "pt": "Louvre", "ru": "Лувр", "ar": "اللوفر", "zh": "卢浮宫"}
+      ]
+    },
+    {
+      "word": {"tr": "Heykel", "en": "Sculpture", "es": "Escultura", "fr": "Sculpture", "de": "Skulptur", "it": "Scultura", "pt": "Escultura", "ru": "Скульптура", "ar": "تمثال", "zh": "雕塑"},
+      "clues": [
+        {"tr": "Mermer", "en": "Marble", "es": "Mármol", "fr": "Marbre", "de": "Marmor", "it": "Marmo", "pt": "Mármore", "ru": "Мрамор", "ar": "رخام", "zh": "大理石"},
+        {"tr": "Keski", "en": "Chisel", "es": "Cincel", "fr": "Ciseau", "de": "Meißel", "it": "Scalpello", "pt": "Cinzel", "ru": "Резец", "ar": "إزميل", "zh": "凿子"}
+      ]
+    },
+    {
+      "word": {"tr": "Tiyatro", "en": "Theater", "es": "Teatro", "fr": "Théâtre", "de": "Theater", "it": "Teatro", "pt": "Teatro", "ru": "Театр", "ar": "مسرح", "zh": "剧院"},
+      "clues": [
+        {"tr": "Sahne", "en": "Stage", "es": "Escenario", "fr": "Scène", "de": "Bühne", "it": "Palcoscenico", "pt": "Palco", "ru": "Сцена", "ar": "خشبة", "zh": "舞台"},
+        {"tr": "Perde", "en": "Curtain", "es": "Telón", "fr": "Rideau", "de": "Vorhang", "it": "Sipario", "pt": "Cortina", "ru": "Занавес", "ar": "ستارة", "zh": "幕布"}
+      ]
+    },
+    {
+      "word": {"tr": "Bale", "en": "Ballet", "es": "Ballet", "fr": "Ballet", "de": "Ballett", "it": "Balletto", "pt": "Balé", "ru": "Балет", "ar": "باليه", "zh": "芭蕾"},
+      "clues": [
+        {"tr": "Parmak ucu", "en": "Tiptoe", "es": "Puntillas", "fr": "Pointes", "de": "Zehenspitzen", "it": "Punte", "pt": "Ponta dos pés", "ru": "Пуанты", "ar": "أطراف الأصابع", "zh": "踮脚尖"},
+        {"tr": "Tütü", "en": "Tutu", "es": "Tutú", "fr": "Tutu", "de": "Tutu", "it": "Tutù", "pt": "Tutu", "ru": "Пачка", "ar": "تنورة الباليه", "zh": "芭蕾舞裙"}
+      ]
+    },
+    {
+      "word": {"tr": "Fotoğraf", "en": "Photograph", "es": "Fotografía", "fr": "Photographie", "de": "Foto", "it": "Fotografia", "pt": "Fotografia", "ru": "Фотография", "ar": "صورة", "zh": "照片"},
+      "clues": [
+        {"tr": "Kamera", "en": "Camera", "es": "Cámara", "fr": "Appareil photo", "de": "Kamera", "it": "Macchina fotografica", "pt": "Câmera", "ru": "Камера", "ar": "كاميرا", "zh": "相机"},
+        {"tr": "Anı", "en": "Memory", "es": "Recuerdo", "fr": "Souvenir", "de": "Erinnerung", "it": "Ricordo", "pt": "Lembrança", "ru": "Воспоминание", "ar": "ذكرى", "zh": "回忆"}
+      ]
+    },
+    {
+      "word": {"tr": "Grafiti", "en": "Graffiti", "es": "Grafiti", "fr": "Graffiti", "de": "Graffiti", "it": "Graffiti", "pt": "Grafite", "ru": "Граффити", "ar": "غرافيتي", "zh": "涂鸦"},
+      "clues": [
+        {"tr": "Sprey", "en": "Spray", "es": "Spray", "fr": "Bombe", "de": "Spraydose", "it": "Bomboletta", "pt": "Spray", "ru": "Баллончик", "ar": "بخاخ", "zh": "喷漆"},
+        {"tr": "Duvar", "en": "Wall", "es": "Pared", "fr": "Mur", "de": "Wand", "it": "Muro", "pt": "Muro", "ru": "Стена", "ar": "جدار", "zh": "墙"}
+      ]
+    },
+    {
+      "word": {"tr": "Origami", "en": "Origami", "es": "Origami", "fr": "Origami", "de": "Origami", "it": "Origami", "pt": "Origami", "ru": "Оригами", "ar": "أوريغامي", "zh": "折纸"},
+      "clues": [
+        {"tr": "Kâğıt", "en": "Paper", "es": "Papel", "fr": "Papier", "de": "Papier", "it": "Carta", "pt": "Papel", "ru": "Бумага", "ar": "ورق", "zh": "纸"},
+        {"tr": "Katlamak", "en": "Fold", "es": "Doblar", "fr": "Plier", "de": "Falten", "it": "Piegare", "pt": "Dobrar", "ru": "Складывать", "ar": "طي", "zh": "折叠"}
+      ]
+    },
+    {
+      "word": {"tr": "Seramik", "en": "Pottery", "es": "Cerámica", "fr": "Poterie", "de": "Töpferei", "it": "Ceramica", "pt": "Cerâmica", "ru": "Керамика", "ar": "فخار", "zh": "陶艺"},
+      "clues": [
+        {"tr": "Kil", "en": "Clay", "es": "Arcilla", "fr": "Argile", "de": "Ton", "it": "Argilla", "pt": "Argila", "ru": "Глина", "ar": "طين", "zh": "黏土"},
+        {"tr": "Çark", "en": "Wheel", "es": "Torno", "fr": "Tour", "de": "Töpferscheibe", "it": "Tornio", "pt": "Torno", "ru": "Гончарный круг", "ar": "عجلة", "zh": "转盘"}
+      ]
+    },
+    {
+      "word": {"tr": "Şiir", "en": "Poem", "es": "Poema", "fr": "Poème", "de": "Gedicht", "it": "Poesia", "pt": "Poema", "ru": "Стихотворение", "ar": "قصيدة", "zh": "诗"},
+      "drawable": false,
+      "clues": [
+        {"tr": "Dize", "en": "Verse", "es": "Verso", "fr": "Vers", "de": "Vers", "it": "Verso", "pt": "Verso", "ru": "Строка", "ar": "بيت", "zh": "诗句"},
+        {"tr": "Duygu", "en": "Emotion", "es": "Emoción", "fr": "Émotion", "de": "Gefühl", "it": "Emozione", "pt": "Emoção", "ru": "Чувство", "ar": "شعور", "zh": "情感"}
+      ]
+    },
+    {
+      "word": {"tr": "Film", "en": "Movie", "es": "Película", "fr": "Film", "de": "Film", "it": "Film", "pt": "Filme", "ru": "Фильм", "ar": "فيلم", "zh": "电影"},
+      "clues": [
+        {"tr": "Yönetmen", "en": "Director", "es": "Director", "fr": "Réalisateur", "de": "Regisseur", "it": "Regista", "pt": "Diretor", "ru": "Режиссёр", "ar": "مخرج", "zh": "导演"},
+        {"tr": "Senaryo", "en": "Script", "es": "Guion", "fr": "Scénario", "de": "Drehbuch", "it": "Sceneggiatura", "pt": "Roteiro", "ru": "Сценарий", "ar": "سيناريو", "zh": "剧本"}
+      ]
+    },
+    {
+      "word": {"tr": "Palet", "en": "Palette", "es": "Paleta", "fr": "Palette", "de": "Palette", "it": "Tavolozza", "pt": "Paleta", "ru": "Палитра", "ar": "لوحة ألوان", "zh": "调色板"},
+      "clues": [
+        {"tr": "Boya", "en": "Paint", "es": "Pintura", "fr": "Peinture", "de": "Farbe", "it": "Colore", "pt": "Tinta", "ru": "Краска", "ar": "طلاء", "zh": "颜料"},
+        {"tr": "Karışım", "en": "Mix", "es": "Mezcla", "fr": "Mélange", "de": "Mischung", "it": "Miscela", "pt": "Mistura", "ru": "Смесь", "ar": "خليط", "zh": "混合"}
+      ]
+    },
+    {
+      "word": {"tr": "Şövale", "en": "Easel", "es": "Caballete", "fr": "Chevalet", "de": "Staffelei", "it": "Cavalletto", "pt": "Cavalete", "ru": "Мольберт", "ar": "حامل رسم", "zh": "画架"},
+      "clues": [
+        {"tr": "Tuval", "en": "Canvas", "es": "Lienzo", "fr": "Toile", "de": "Leinwand", "it": "Tela", "pt": "Tela", "ru": "Холст", "ar": "قماش رسم", "zh": "画布"},
+        {"tr": "Üç ayak", "en": "Three legs", "es": "Tres patas", "fr": "Trois pieds", "de": "Drei Beine", "it": "Tre gambe", "pt": "Três pernas", "ru": "Три ножки", "ar": "ثلاث أرجل", "zh": "三条腿"}
+      ]
+    },
+    {
+      "word": {"tr": "Mozaik", "en": "Mosaic", "es": "Mosaico", "fr": "Mosaïque", "de": "Mosaik", "it": "Mosaico", "pt": "Mosaico", "ru": "Мозаика", "ar": "فسيفساء", "zh": "马赛克"},
+      "clues": [
+        {"tr": "Parçalar", "en": "Pieces", "es": "Piezas", "fr": "Morceaux", "de": "Teile", "it": "Pezzi", "pt": "Peças", "ru": "Кусочки", "ar": "قطع", "zh": "碎片"},
+        {"tr": "Antik", "en": "Ancient", "es": "Antiguo", "fr": "Antique", "de": "Antik", "it": "Antico", "pt": "Antigo", "ru": "Древний", "ar": "قديم", "zh": "古代"}
+      ]
+    },
+    {
+      "word": {"tr": "Karikatür", "en": "Cartoon", "es": "Caricatura", "fr": "Caricature", "de": "Karikatur", "it": "Vignetta", "pt": "Charge", "ru": "Карикатура", "ar": "كاريكاتير", "zh": "漫画"},
+      "clues": [
+        {"tr": "Mizah", "en": "Humor", "es": "Humor", "fr": "Humour", "de": "Humor", "it": "Umorismo", "pt": "Humor", "ru": "Юмор", "ar": "فكاهة", "zh": "幽默"},
+        {"tr": "Gazete", "en": "Newspaper", "es": "Periódico", "fr": "Journal", "de": "Zeitung", "it": "Giornale", "pt": "Jornal", "ru": "Газета", "ar": "جريدة", "zh": "报纸"}
+      ]
+    },
+    {
+      "word": {"tr": "Pandomim", "en": "Mime", "es": "Mimo", "fr": "Mime", "de": "Pantomime", "it": "Mimo", "pt": "Mímica", "ru": "Мим", "ar": "تمثيل صامت", "zh": "哑剧"},
+      "clues": [
+        {"tr": "Sessiz", "en": "Silent", "es": "Silencioso", "fr": "Silencieux", "de": "Stumm", "it": "Silenzioso", "pt": "Silencioso", "ru": "Молчаливый", "ar": "صامت", "zh": "无声"},
+        {"tr": "Beyaz yüz", "en": "White face", "es": "Cara blanca", "fr": "Visage blanc", "de": "Weißes Gesicht", "it": "Viso bianco", "pt": "Rosto branco", "ru": "Белое лицо", "ar": "وجه أبيض", "zh": "白脸"}
+      ]
+    },
+    {
+      "word": {"tr": "Kukla", "en": "Puppet", "es": "Marioneta", "fr": "Marionnette", "de": "Marionette", "it": "Marionetta", "pt": "Marionete", "ru": "Марионетка", "ar": "دمية", "zh": "木偶"},
+      "clues": [
+        {"tr": "İp", "en": "Strings", "es": "Hilos", "fr": "Fils", "de": "Fäden", "it": "Fili", "pt": "Fios", "ru": "Нити", "ar": "خيوط", "zh": "线"},
+        {"tr": "El", "en": "Hand", "es": "Mano", "fr": "Main", "de": "Hand", "it": "Mano", "pt": "Mão", "ru": "Рука", "ar": "يد", "zh": "手"}
+      ]
+    },
+    {
+      "word": {"tr": "Dövme", "en": "Tattoo", "es": "Tatuaje", "fr": "Tatouage", "de": "Tattoo", "it": "Tatuaggio", "pt": "Tatuagem", "ru": "Татуировка", "ar": "وشم", "zh": "纹身"},
+      "clues": [
+        {"tr": "İğne", "en": "Needle", "es": "Aguja", "fr": "Aiguille", "de": "Nadel", "it": "Ago", "pt": "Agulha", "ru": "Игла", "ar": "إبرة", "zh": "针"},
+        {"tr": "Mürekkep", "en": "Ink", "es": "Tinta", "fr": "Encre", "de": "Tinte", "it": "Inchiostro", "pt": "Tinta", "ru": "Чернила", "ar": "حبر", "zh": "墨水"}
+      ]
+    },
+    {
+      "word": {"tr": "Portre", "en": "Portrait", "es": "Retrato", "fr": "Portrait", "de": "Porträt", "it": "Ritratto", "pt": "Retrato", "ru": "Портрет", "ar": "بورتريه", "zh": "肖像"},
+      "clues": [
+        {"tr": "Yüz", "en": "Face", "es": "Cara", "fr": "Visage", "de": "Gesicht", "it": "Viso", "pt": "Rosto", "ru": "Лицо", "ar": "وجه", "zh": "脸"},
+        {"tr": "Poz", "en": "Pose", "es": "Pose", "fr": "Pose", "de": "Pose", "it": "Posa", "pt": "Pose", "ru": "Поза", "ar": "وضعية", "zh": "姿势"}
+      ]
+    },
+    {
+      "word": {"tr": "Sergi", "en": "Exhibition", "es": "Exposición", "fr": "Exposition", "de": "Ausstellung", "it": "Mostra", "pt": "Exposição", "ru": "Выставка", "ar": "معرض", "zh": "展览"},
+      "clues": [
+        {"tr": "Galeri", "en": "Gallery", "es": "Galería", "fr": "Galerie", "de": "Galerie", "it": "Galleria", "pt": "Galeria", "ru": "Галерея", "ar": "معرض فني", "zh": "画廊"},
+        {"tr": "Açılış", "en": "Opening", "es": "Inauguración", "fr": "Vernissage", "de": "Eröffnung", "it": "Inaugurazione", "pt": "Abertura", "ru": "Открытие", "ar": "افتتاح", "zh": "开幕"}
+      ]
+    },
+    {
+      "word": {"tr": "Kaligrafi", "en": "Calligraphy", "es": "Caligrafía", "fr": "Calligraphie", "de": "Kalligrafie", "it": "Calligrafia", "pt": "Caligrafia", "ru": "Каллиграфия", "ar": "خط", "zh": "书法"},
+      "clues": [
+        {"tr": "Kalem", "en": "Pen", "es": "Pluma", "fr": "Plume", "de": "Feder", "it": "Pennino", "pt": "Pena", "ru": "Перо", "ar": "قلم", "zh": "笔"},
+        {"tr": "Harfler", "en": "Letters", "es": "Letras", "fr": "Lettres", "de": "Buchstaben", "it": "Lettere", "pt": "Letras", "ru": "Буквы", "ar": "حروف", "zh": "字母"}
+      ]
+    }
+  ]
+}

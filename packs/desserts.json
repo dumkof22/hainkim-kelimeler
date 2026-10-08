@@ -1,0 +1,162 @@
+{
+  "id": "desserts",
+  "icon": "🍰",
+  "name": {"tr": "Tatlı & Atıştırmalık", "en": "Sweets & Snacks", "es": "Dulces y snacks", "fr": "Douceurs et en-cas", "de": "Süßes & Snacks", "it": "Dolci e snack", "pt": "Doces e petiscos", "ru": "Сладости и снеки", "ar": "حلويات ووجبات خفيفة", "zh": "甜点零食"},
+  "drawable": true,
+  "words": [
+    {
+      "word": {"tr": "Dondurma", "en": "Ice cream", "es": "Helado", "fr": "Glace", "de": "Eis", "it": "Gelato", "pt": "Sorvete", "ru": "Мороженое", "ar": "آيس كريم", "zh": "冰淇淋"},
+      "clues": [
+        {"tr": "Külah", "en": "Cone", "es": "Cucurucho", "fr": "Cornet", "de": "Waffel", "it": "Cono", "pt": "Casquinha", "ru": "Рожок", "ar": "قمع", "zh": "蛋筒"},
+        {"tr": "Erimek", "en": "Melt", "es": "Derretirse", "fr": "Fondre", "de": "Schmelzen", "it": "Sciogliersi", "pt": "Derreter", "ru": "Таять", "ar": "يذوب", "zh": "融化"}
+      ]
+    },
+    {
+      "word": {"tr": "Çikolata", "en": "Chocolate", "es": "Chocolate", "fr": "Chocolat", "de": "Schokolade", "it": "Cioccolato", "pt": "Chocolate", "ru": "Шоколад", "ar": "شوكولاتة", "zh": "巧克力"},
+      "clues": [
+        {"tr": "Kakao", "en": "Cocoa", "es": "Cacao", "fr": "Cacao", "de": "Kakao", "it": "Cacao", "pt": "Cacau", "ru": "Какао", "ar": "كاكاو", "zh": "可可"},
+        {"tr": "Sevgililer Günü", "en": "Valentine's Day", "es": "San Valentín", "fr": "Saint-Valentin", "de": "Valentinstag", "it": "San Valentino", "pt": "Dia dos Namorados", "ru": "День святого Валентина", "ar": "عيد الحب", "zh": "情人节"}
+      ]
+    },
+    {
+      "word": {"tr": "Pasta", "en": "Cake", "es": "Tarta", "fr": "Gâteau", "de": "Torte", "it": "Torta", "pt": "Bolo", "ru": "Торт", "ar": "كعكة", "zh": "蛋糕"},
+      "clues": [
+        {"tr": "Mum", "en": "Candle", "es": "Vela", "fr": "Bougie", "de": "Kerze", "it": "Candela", "pt": "Vela", "ru": "Свеча", "ar": "شمعة", "zh": "蜡烛"},
+        {"tr": "Doğum günü", "en": "Birthday", "es": "Cumpleaños", "fr": "Anniversaire", "de": "Geburtstag", "it": "Compleanno", "pt": "Aniversário", "ru": "День рождения", "ar": "عيد ميلاد", "zh": "生日"}
+      ]
+    },
+    {
+      "word": {"tr": "Baklava", "en": "Baklava", "es": "Baklava", "fr": "Baklava", "de": "Baklava", "it": "Baklava", "pt": "Baklava", "ru": "Пахлава", "ar": "بقلاوة", "zh": "果仁蜜饼"},
+      "clues": [
+        {"tr": "Fıstık", "en": "Pistachio", "es": "Pistacho", "fr": "Pistache", "de": "Pistazie", "it": "Pistacchio", "pt": "Pistache", "ru": "Фисташка", "ar": "فستق", "zh": "开心果"},
+        {"tr": "Şerbet", "en": "Syrup", "es": "Almíbar", "fr": "Sirop", "de": "Sirup", "it": "Sciroppo", "pt": "Calda", "ru": "Сироп", "ar": "قطر", "zh": "糖浆"}
+      ]
+    },
+    {
+      "word": {"tr": "Lokum", "en": "Turkish delight", "es": "Delicia turca", "fr": "Loukoum", "de": "Lokum", "it": "Lokum", "pt": "Manjar turco", "ru": "Рахат-лукум", "ar": "راحة الحلقوم", "zh": "土耳其软糖"},
+      "clues": [
+        {"tr": "Pudra şekeri", "en": "Powdered sugar", "es": "Azúcar glas", "fr": "Sucre glace", "de": "Puderzucker", "it": "Zucchero a velo", "pt": "Açúcar de confeiteiro", "ru": "Сахарная пудра", "ar": "سكر ناعم", "zh": "糖粉"},
+        {"tr": "Bayram", "en": "Holiday", "es": "Fiesta", "fr": "Fête", "de": "Fest", "it": "Festa", "pt": "Festa", "ru": "Праздник", "ar": "عيد", "zh": "节日"}
+      ]
+    },
+    {
+      "word": {"tr": "Kurabiye", "en": "Cookie", "es": "Galleta", "fr": "Biscuit", "de": "Keks", "it": "Biscotto", "pt": "Biscoito", "ru": "Печенье", "ar": "كعك", "zh": "曲奇"},
+      "clues": [
+        {"tr": "Süt", "en": "Milk", "es": "Leche", "fr": "Lait", "de": "Milch", "it": "Latte", "pt": "Leite", "ru": "Молоко", "ar": "حليب", "zh": "牛奶"},
+        {"tr": "Kavanoz", "en": "Jar", "es": "Tarro", "fr": "Bocal", "de": "Glas", "it": "Barattolo", "pt": "Pote", "ru": "Банка", "ar": "برطمان", "zh": "罐子"}
+      ]
+    },
+    {
+      "word": {"tr": "Donut", "en": "Donut", "es": "Dona", "fr": "Beignet", "de": "Donut", "it": "Ciambella", "pt": "Rosquinha", "ru": "Пончик", "ar": "دونات", "zh": "甜甜圈"},
+      "clues": [
+        {"tr": "Delik", "en": "Hole", "es": "Agujero", "fr": "Trou", "de": "Loch", "it": "Buco", "pt": "Buraco", "ru": "Дырка", "ar": "ثقب", "zh": "洞"},
+        {"tr": "Polis", "en": "Police", "es": "Policía", "fr": "Police", "de": "Polizei", "it": "Polizia", "pt": "Polícia", "ru": "Полиция", "ar": "شرطة", "zh": "警察"}
+      ]
+    },
+    {
+      "word": {"tr": "Pamuk şeker", "en": "Cotton candy", "es": "Algodón de azúcar", "fr": "Barbe à papa", "de": "Zuckerwatte", "it": "Zucchero filato", "pt": "Algodão-doce", "ru": "Сахарная вата", "ar": "غزل البنات", "zh": "棉花糖"},
+      "clues": [
+        {"tr": "Lunapark", "en": "Funfair", "es": "Feria", "fr": "Fête foraine", "de": "Jahrmarkt", "it": "Luna park", "pt": "Parque de diversões", "ru": "Луна-парк", "ar": "مدينة ملاهي", "zh": "游乐园"},
+        {"tr": "Pembe", "en": "Pink", "es": "Rosa", "fr": "Rose", "de": "Rosa", "it": "Rosa", "pt": "Rosa", "ru": "Розовый", "ar": "وردي", "zh": "粉色"}
+      ]
+    },
+    {
+      "word": {"tr": "Waffle", "en": "Waffle", "es": "Gofre", "fr": "Gaufre", "de": "Waffel", "it": "Waffle", "pt": "Waffle", "ru": "Вафля", "ar": "وافل", "zh": "华夫饼"},
+      "clues": [
+        {"tr": "Kareli", "en": "Grid", "es": "Cuadrícula", "fr": "Quadrillage", "de": "Gitter", "it": "Griglia", "pt": "Grade", "ru": "Клетка", "ar": "شبكة", "zh": "格子"},
+        {"tr": "Belçika", "en": "Belgium", "es": "Bélgica", "fr": "Belgique", "de": "Belgien", "it": "Belgio", "pt": "Bélgica", "ru": "Бельгия", "ar": "بلجيكا", "zh": "比利时"}
+      ]
+    },
+    {
+      "word": {"tr": "Puding", "en": "Pudding", "es": "Pudin", "fr": "Pudding", "de": "Pudding", "it": "Budino", "pt": "Pudim", "ru": "Пудинг", "ar": "بودنغ", "zh": "布丁"},
+      "clues": [
+        {"tr": "Titrek", "en": "Wobbly", "es": "Tembloroso", "fr": "Tremblotant", "de": "Wackelig", "it": "Tremolante", "pt": "Molenga", "ru": "Дрожащий", "ar": "يهتز", "zh": "晃动"},
+        {"tr": "Kase", "en": "Bowl", "es": "Cuenco", "fr": "Bol", "de": "Schüssel", "it": "Ciotola", "pt": "Tigela", "ru": "Миска", "ar": "وعاء", "zh": "碗"}
+      ]
+    },
+    {
+      "word": {"tr": "Cips", "en": "Chips", "es": "Patatas fritas de bolsa", "fr": "Chips", "de": "Chips", "it": "Patatine", "pt": "Batata chips", "ru": "Чипсы", "ar": "رقائق البطاطس", "zh": "薯片"},
+      "clues": [
+        {"tr": "Paket", "en": "Bag", "es": "Bolsa", "fr": "Sachet", "de": "Tüte", "it": "Busta", "pt": "Pacote", "ru": "Пакет", "ar": "كيس", "zh": "袋子"},
+        {"tr": "Kıtır", "en": "Crunchy", "es": "Crujiente", "fr": "Croquant", "de": "Knusprig", "it": "Croccante", "pt": "Crocante", "ru": "Хрустящий", "ar": "مقرمش", "zh": "脆"}
+      ]
+    },
+    {
+      "word": {"tr": "Muffin", "en": "Muffin", "es": "Magdalena", "fr": "Muffin", "de": "Muffin", "it": "Muffin", "pt": "Muffin", "ru": "Маффин", "ar": "مافن", "zh": "松饼"},
+      "clues": [
+        {"tr": "Kâğıt kalıp", "en": "Paper cup", "es": "Molde de papel", "fr": "Caissette", "de": "Papierförmchen", "it": "Pirottino", "pt": "Forminha", "ru": "Бумажная форма", "ar": "كوب ورقي", "zh": "纸杯"},
+        {"tr": "Yaban mersini", "en": "Blueberry", "es": "Arándano", "fr": "Myrtille", "de": "Blaubeere", "it": "Mirtillo", "pt": "Mirtilo", "ru": "Черника", "ar": "توت أزرق", "zh": "蓝莓"}
+      ]
+    },
+    {
+      "word": {"tr": "Sakız", "en": "Chewing gum", "es": "Chicle", "fr": "Chewing-gum", "de": "Kaugummi", "it": "Gomma da masticare", "pt": "Chiclete", "ru": "Жвачка", "ar": "علكة", "zh": "口香糖"},
+      "clues": [
+        {"tr": "Balon", "en": "Bubble", "es": "Burbuja", "fr": "Bulle", "de": "Blase", "it": "Bolla", "pt": "Bola", "ru": "Пузырь", "ar": "فقاعة", "zh": "泡泡"},
+        {"tr": "Nane", "en": "Mint", "es": "Menta", "fr": "Menthe", "de": "Minze", "it": "Menta", "pt": "Hortelã", "ru": "Мята", "ar": "نعناع", "zh": "薄荷"}
+      ]
+    },
+    {
+      "word": {"tr": "Lolipop", "en": "Lollipop", "es": "Piruleta", "fr": "Sucette", "de": "Lutscher", "it": "Lecca-lecca", "pt": "Pirulito", "ru": "Леденец на палочке", "ar": "مصاصة", "zh": "棒棒糖"},
+      "clues": [
+        {"tr": "Çubuk", "en": "Stick", "es": "Palito", "fr": "Bâton", "de": "Stiel", "it": "Stecco", "pt": "Palito", "ru": "Палочка", "ar": "عصا", "zh": "小棍"},
+        {"tr": "Renkli", "en": "Colorful", "es": "Colorido", "fr": "Coloré", "de": "Bunt", "it": "Colorato", "pt": "Colorido", "ru": "Разноцветный", "ar": "ملون", "zh": "多彩"}
+      ]
+    },
+    {
+      "word": {"tr": "Profiterol", "en": "Profiterole", "es": "Profiterol", "fr": "Profiterole", "de": "Windbeutel", "it": "Profiterole", "pt": "Profiterole", "ru": "Профитроли", "ar": "بروفيترول", "zh": "泡芙"},
+      "clues": [
+        {"tr": "Krema", "en": "Cream", "es": "Crema", "fr": "Crème", "de": "Creme", "it": "Crema", "pt": "Creme", "ru": "Крем", "ar": "كريمة", "zh": "奶油"},
+        {"tr": "Top", "en": "Ball", "es": "Bola", "fr": "Boule", "de": "Kugel", "it": "Pallina", "pt": "Bola", "ru": "Шарик", "ar": "كرة", "zh": "球"}
+      ]
+    },
+    {
+      "word": {"tr": "Tiramisu", "en": "Tiramisu", "es": "Tiramisú", "fr": "Tiramisu", "de": "Tiramisu", "it": "Tiramisù", "pt": "Tiramisù", "ru": "Тирамису", "ar": "تيراميسو", "zh": "提拉米苏"},
+      "clues": [
+        {"tr": "Kahve", "en": "Coffee", "es": "Café", "fr": "Café", "de": "Kaffee", "it": "Caffè", "pt": "Café", "ru": "Кофе", "ar": "قهوة", "zh": "咖啡"},
+        {"tr": "İtalya", "en": "Italy", "es": "Italia", "fr": "Italie", "de": "Italien", "it": "Italia", "pt": "Itália", "ru": "Италия", "ar": "إيطاليا", "zh": "意大利"}
+      ]
+    },
+    {
+      "word": {"tr": "Cheesecake", "en": "Cheesecake", "es": "Tarta de queso", "fr": "Cheesecake", "de": "Käsekuchen", "it": "Cheesecake", "pt": "Cheesecake", "ru": "Чизкейк", "ar": "تشيز كيك", "zh": "芝士蛋糕"},
+      "clues": [
+        {"tr": "Peynir", "en": "Cheese", "es": "Queso", "fr": "Fromage", "de": "Käse", "it": "Formaggio", "pt": "Queijo", "ru": "Сыр", "ar": "جبن", "zh": "奶酪"},
+        {"tr": "Bisküvi taban", "en": "Biscuit base", "es": "Base de galleta", "fr": "Base biscuitée", "de": "Keksboden", "it": "Base di biscotto", "pt": "Base de biscoito", "ru": "Основа из печенья", "ar": "قاعدة بسكويت", "zh": "饼干底"}
+      ]
+    },
+    {
+      "word": {"tr": "Sütlaç", "en": "Rice pudding", "es": "Arroz con leche", "fr": "Riz au lait", "de": "Milchreis", "it": "Budino di riso", "pt": "Arroz-doce", "ru": "Рисовый пудинг", "ar": "أرز بالحليب", "zh": "米布丁"},
+      "clues": [
+        {"tr": "Pirinç", "en": "Rice", "es": "Arroz", "fr": "Riz", "de": "Reis", "it": "Riso", "pt": "Arroz", "ru": "Рис", "ar": "أرز", "zh": "大米"},
+        {"tr": "Tarçın", "en": "Cinnamon", "es": "Canela", "fr": "Cannelle", "de": "Zimt", "it": "Cannella", "pt": "Canela", "ru": "Корица", "ar": "قرفة", "zh": "肉桂"}
+      ]
+    },
+    {
+      "word": {"tr": "Jelibon", "en": "Gummy bears", "es": "Ositos de goma", "fr": "Bonbons gélifiés", "de": "Gummibärchen", "it": "Orsetti gommosi", "pt": "Ursinhos de goma", "ru": "Мармеладные мишки", "ar": "حلوى الدببة", "zh": "小熊软糖"},
+      "clues": [
+        {"tr": "Ayı", "en": "Bear", "es": "Oso", "fr": "Ours", "de": "Bär", "it": "Orso", "pt": "Urso", "ru": "Медведь", "ar": "دب", "zh": "熊"},
+        {"tr": "Yumuşak", "en": "Chewy", "es": "Masticable", "fr": "Moelleux", "de": "Weich", "it": "Gommoso", "pt": "Mastigável", "ru": "Тягучий", "ar": "مطاطي", "zh": "有嚼劲"}
+      ]
+    },
+    {
+      "word": {"tr": "Brownie", "en": "Brownie", "es": "Brownie", "fr": "Brownie", "de": "Brownie", "it": "Brownie", "pt": "Brownie", "ru": "Брауни", "ar": "براوني", "zh": "布朗尼"},
+      "clues": [
+        {"tr": "Islak", "en": "Fudgy", "es": "Húmedo", "fr": "Fondant", "de": "Saftig", "it": "Umido", "pt": "Molhadinho", "ru": "Влажный", "ar": "طري", "zh": "湿润"},
+        {"tr": "Ceviz", "en": "Walnut", "es": "Nuez", "fr": "Noix", "de": "Walnuss", "it": "Noce", "pt": "Noz", "ru": "Грецкий орех", "ar": "جوز", "zh": "核桃"}
+      ]
+    },
+    {
+      "word": {"tr": "Elmalı turta", "en": "Apple pie", "es": "Tarta de manzana", "fr": "Tarte aux pommes", "de": "Apfelkuchen", "it": "Torta di mele", "pt": "Torta de maçã", "ru": "Яблочный пирог", "ar": "فطيرة التفاح", "zh": "苹果派"},
+      "clues": [
+        {"tr": "Tarçın", "en": "Cinnamon", "es": "Canela", "fr": "Cannelle", "de": "Zimt", "it": "Cannella", "pt": "Canela", "ru": "Корица", "ar": "قرفة", "zh": "肉桂"},
+        {"tr": "Büyükanne", "en": "Grandma", "es": "Abuela", "fr": "Grand-mère", "de": "Oma", "it": "Nonna", "pt": "Vovó", "ru": "Бабушка", "ar": "جدة", "zh": "奶奶"}
+      ]
+    },
+    {
+      "word": {"tr": "Makaron", "en": "Macaron", "es": "Macaron", "fr": "Macaron", "de": "Macaron", "it": "Macaron", "pt": "Macaron", "ru": "Макарон", "ar": "ماكرون", "zh": "马卡龙"},
+      "clues": [
+        {"tr": "Fransa", "en": "France", "es": "Francia", "fr": "France", "de": "Frankreich", "it": "Francia", "pt": "França", "ru": "Франция", "ar": "فرنسا", "zh": "法国"},
+        {"tr": "Pastel", "en": "Pastel", "es": "Pastel", "fr": "Pastel", "de": "Pastell", "it": "Pastello", "pt": "Pastel", "ru": "Пастельный", "ar": "باستيل", "zh": "马卡龙色"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "id": "animals",
+      "file": "packs/animals.json"
+    },
+    {
+      "id": "foods",
+      "file": "packs/foods.json"
+    },
+    {
+      "id": "places",
+      "file": "packs/places.json"
+    },
+    {
+      "id": "professions",
+      "file": "packs/professions.json"
+    },
+    {
+      "id": "home",
+      "file": "packs/home.json"
+    },
+    {
+      "id": "fantasy",
+      "file": "packs/fantasy.json"
+    },
+    {
+      "id": "characters",
+      "file": "packs/characters.json"
+    },
+    {
+      "id": "sports",
+      "file": "packs/sports.json"
+    },
+    {
+      "id": "vehicles",
+      "file": "packs/vehicles.json"
+    },
+    {
+      "id": "fruits_veggies",
+      "file": "packs/fruits_veggies.json"
+    },
+    {
+      "id": "desserts",
+      "file": "packs/desserts.json"
+    },
+    {
+      "id": "clothes",
+      "file": "packs/clothes.json"
+    },
+    {
+      "id": "tech",
+      "file": "packs/tech.json"
+    },
+    {
+      "id": "school",
+      "file": "packs/school.json"
+    },
+    {
+      "id": "vacation",
+      "file": "packs/vacation.json"
+    },
+    {
+      "id": "music",
+      "file": "packs/music.json"
+    },
+    {
+      "id": "nature",
+      "file": "packs/nature.json"
+    },
+    {
+      "id": "science",
+      "file": "packs/science.json"
+    },
+    {
+      "id": "art",
+      "file": "packs/art.json"
+    },
+    {
+      "id": "countries",
+      "file": "packs/countries.json"
+    },
+    {
+      "id": "turkish_culture",
+      "file": "packs/turkish_culture.json"
+    }
+  ]
+}

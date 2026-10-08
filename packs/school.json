@@ -1,0 +1,170 @@
+{
+  "id": "school",
+  "icon": "✏️",
+  "name": {"tr": "Okul", "en": "School", "es": "Escuela", "fr": "École", "de": "Schule", "it": "Scuola", "pt": "Escola", "ru": "Школа", "ar": "مدرسة", "zh": "学校"},
+  "drawable": true,
+  "words": [
+    {
+      "word": {"tr": "Silgi", "en": "Eraser", "es": "Goma", "fr": "Gomme", "de": "Radiergummi", "it": "Gomma", "pt": "Borracha", "ru": "Ластик", "ar": "ممحاة", "zh": "橡皮"},
+      "clues": [
+        {"tr": "Hata", "en": "Mistake", "es": "Error", "fr": "Erreur", "de": "Fehler", "it": "Errore", "pt": "Erro", "ru": "Ошибка", "ar": "خطأ", "zh": "错误"},
+        {"tr": "Kırıntı", "en": "Crumbs", "es": "Migas", "fr": "Miettes", "de": "Krümel", "it": "Briciole", "pt": "Farelos", "ru": "Крошки", "ar": "فتات", "zh": "碎屑"}
+      ]
+    },
+    {
+      "word": {"tr": "Kurşun kalem", "en": "Pencil", "es": "Lápiz", "fr": "Crayon", "de": "Bleistift", "it": "Matita", "pt": "Lápis", "ru": "Карандаш", "ar": "قلم رصاص", "zh": "铅笔"},
+      "clues": [
+        {"tr": "Uç", "en": "Tip", "es": "Punta", "fr": "Mine", "de": "Spitze", "it": "Punta", "pt": "Ponta", "ru": "Грифель", "ar": "رأس", "zh": "笔尖"},
+        {"tr": "Yazı", "en": "Writing", "es": "Escritura", "fr": "Écriture", "de": "Schrift", "it": "Scrittura", "pt": "Escrita", "ru": "Письмо", "ar": "كتابة", "zh": "写字"}
+      ]
+    },
+    {
+      "word": {"tr": "Defter", "en": "Notebook", "es": "Cuaderno", "fr": "Cahier", "de": "Heft", "it": "Quaderno", "pt": "Caderno", "ru": "Тетрадь", "ar": "دفتر", "zh": "笔记本"},
+      "clues": [
+        {"tr": "Sayfa", "en": "Page", "es": "Página", "fr": "Page", "de": "Seite", "it": "Pagina", "pt": "Página", "ru": "Страница", "ar": "صفحة", "zh": "页"},
+        {"tr": "Çizgili", "en": "Lined", "es": "Rayado", "fr": "Ligné", "de": "Liniert", "it": "A righe", "pt": "Pautado", "ru": "Линованный", "ar": "مسطر", "zh": "横线"}
+      ]
+    },
+    {
+      "word": {"tr": "Sırt çantası", "en": "Backpack", "es": "Mochila", "fr": "Sac à dos", "de": "Rucksack", "it": "Zaino", "pt": "Mochila", "ru": "Рюкзак", "ar": "حقيبة ظهر", "zh": "书包"},
+      "clues": [
+        {"tr": "Ağır", "en": "Heavy", "es": "Pesado", "fr": "Lourd", "de": "Schwer", "it": "Pesante", "pt": "Pesado", "ru": "Тяжёлый", "ar": "ثقيل", "zh": "沉重"},
+        {"tr": "Fermuar", "en": "Zipper", "es": "Cremallera", "fr": "Fermeture éclair", "de": "Reißverschluss", "it": "Cerniera", "pt": "Zíper", "ru": "Молния", "ar": "سحاب", "zh": "拉链"}
+      ]
+    },
+    {
+      "word": {"tr": "Karne", "en": "Report card", "es": "Boletín de notas", "fr": "Bulletin", "de": "Zeugnis", "it": "Pagella", "pt": "Boletim", "ru": "Табель", "ar": "كشف الدرجات", "zh": "成绩单"},
+      "clues": [
+        {"tr": "Notlar", "en": "Grades", "es": "Notas", "fr": "Notes", "de": "Noten", "it": "Voti", "pt": "Notas", "ru": "Оценки", "ar": "درجات", "zh": "分数"},
+        {"tr": "Tatil", "en": "Holiday", "es": "Vacaciones", "fr": "Vacances", "de": "Ferien", "it": "Vacanze", "pt": "Férias", "ru": "Каникулы", "ar": "عطلة", "zh": "假期"}
+      ]
+    },
+    {
+      "word": {"tr": "Teneffüs", "en": "Recess", "es": "Recreo", "fr": "Récréation", "de": "Pause", "it": "Ricreazione", "pt": "Recreio", "ru": "Перемена", "ar": "فسحة", "zh": "课间休息"},
+      "clues": [
+        {"tr": "Zil", "en": "Bell", "es": "Timbre", "fr": "Sonnerie", "de": "Klingel", "it": "Campanella", "pt": "Sinal", "ru": "Звонок", "ar": "جرس", "zh": "铃声"},
+        {"tr": "Bahçe", "en": "Schoolyard", "es": "Patio", "fr": "Cour", "de": "Schulhof", "it": "Cortile", "pt": "Pátio", "ru": "Двор", "ar": "ساحة", "zh": "操场"}
+      ]
+    },
+    {
+      "word": {"tr": "Sınav", "en": "Exam", "es": "Examen", "fr": "Examen", "de": "Prüfung", "it": "Esame", "pt": "Prova", "ru": "Экзамен", "ar": "امتحان", "zh": "考试"},
+      "clues": [
+        {"tr": "Stres", "en": "Stress", "es": "Estrés", "fr": "Stress", "de": "Stress", "it": "Stress", "pt": "Estresse", "ru": "Стресс", "ar": "توتر", "zh": "压力"},
+        {"tr": "Kopya", "en": "Cheating", "es": "Chuleta", "fr": "Antisèche", "de": "Spickzettel", "it": "Bigliettino", "pt": "Cola", "ru": "Шпаргалка", "ar": "غش", "zh": "作弊"}
+      ]
+    },
+    {
+      "word": {"tr": "Cetvel", "en": "Ruler", "es": "Regla", "fr": "Règle", "de": "Lineal", "it": "Righello", "pt": "Régua", "ru": "Линейка", "ar": "مسطرة", "zh": "尺子"},
+      "clues": [
+        {"tr": "Ölçmek", "en": "Measure", "es": "Medir", "fr": "Mesurer", "de": "Messen", "it": "Misurare", "pt": "Medir", "ru": "Измерять", "ar": "قياس", "zh": "测量"},
+        {"tr": "Düz", "en": "Straight", "es": "Recto", "fr": "Droit", "de": "Gerade", "it": "Dritto", "pt": "Reto", "ru": "Прямой", "ar": "مستقيم", "zh": "直"}
+      ]
+    },
+    {
+      "word": {"tr": "Hesap makinesi", "en": "Calculator", "es": "Calculadora", "fr": "Calculatrice", "de": "Taschenrechner", "it": "Calcolatrice", "pt": "Calculadora", "ru": "Калькулятор", "ar": "آلة حاسبة", "zh": "计算器"},
+      "clues": [
+        {"tr": "Matematik", "en": "Math", "es": "Matemáticas", "fr": "Maths", "de": "Mathe", "it": "Matematica", "pt": "Matemática", "ru": "Математика", "ar": "رياضيات", "zh": "数学"},
+        {"tr": "Tuşlar", "en": "Buttons", "es": "Botones", "fr": "Touches", "de": "Tasten", "it": "Tasti", "pt": "Botões", "ru": "Кнопки", "ar": "أزرار", "zh": "按键"}
+      ]
+    },
+    {
+      "word": {"tr": "Küre", "en": "Globe", "es": "Globo terráqueo", "fr": "Globe", "de": "Globus", "it": "Mappamondo", "pt": "Globo", "ru": "Глобус", "ar": "كرة أرضية", "zh": "地球仪"},
+      "clues": [
+        {"tr": "Dünya", "en": "World", "es": "Mundo", "fr": "Monde", "de": "Welt", "it": "Mondo", "pt": "Mundo", "ru": "Мир", "ar": "عالم", "zh": "世界"},
+        {"tr": "Dönmek", "en": "Spin", "es": "Girar", "fr": "Tourner", "de": "Drehen", "it": "Girare", "pt": "Girar", "ru": "Вращаться", "ar": "يدور", "zh": "旋转"}
+      ]
+    },
+    {
+      "word": {"tr": "Tebeşir", "en": "Chalk", "es": "Tiza", "fr": "Craie", "de": "Kreide", "it": "Gesso", "pt": "Giz", "ru": "Мел", "ar": "طباشير", "zh": "粉笔"},
+      "clues": [
+        {"tr": "Kara tahta", "en": "Blackboard", "es": "Pizarra", "fr": "Tableau noir", "de": "Tafel", "it": "Lavagna", "pt": "Lousa", "ru": "Доска", "ar": "سبورة", "zh": "黑板"},
+        {"tr": "Toz", "en": "Dust", "es": "Polvo", "fr": "Poussière", "de": "Staub", "it": "Polvere", "pt": "Pó", "ru": "Пыль", "ar": "غبار", "zh": "灰尘"}
+      ]
+    },
+    {
+      "word": {"tr": "Makas", "en": "Scissors", "es": "Tijeras", "fr": "Ciseaux", "de": "Schere", "it": "Forbici", "pt": "Tesoura", "ru": "Ножницы", "ar": "مقص", "zh": "剪刀"},
+      "clues": [
+        {"tr": "Kesmek", "en": "Cut", "es": "Cortar", "fr": "Couper", "de": "Schneiden", "it": "Tagliare", "pt": "Cortar", "ru": "Резать", "ar": "قص", "zh": "剪"},
+        {"tr": "Kâğıt", "en": "Paper", "es": "Papel", "fr": "Papier", "de": "Papier", "it": "Carta", "pt": "Papel", "ru": "Бумага", "ar": "ورق", "zh": "纸"}
+      ]
+    },
+    {
+      "word": {"tr": "Yapıştırıcı", "en": "Glue", "es": "Pegamento", "fr": "Colle", "de": "Kleber", "it": "Colla", "pt": "Cola", "ru": "Клей", "ar": "غراء", "zh": "胶水"},
+      "clues": [
+        {"tr": "Yapışkan", "en": "Sticky", "es": "Pegajoso", "fr": "Collant", "de": "Klebrig", "it": "Appiccicoso", "pt": "Grudento", "ru": "Липкий", "ar": "لزج", "zh": "粘"},
+        {"tr": "Kurumak", "en": "Dry", "es": "Secar", "fr": "Sécher", "de": "Trocknen", "it": "Asciugarsi", "pt": "Secar", "ru": "Сохнуть", "ar": "يجف", "zh": "变干"}
+      ]
+    },
+    {
+      "word": {"tr": "Kalemtıraş", "en": "Sharpener", "es": "Sacapuntas", "fr": "Taille-crayon", "de": "Anspitzer", "it": "Temperamatite", "pt": "Apontador", "ru": "Точилка", "ar": "براية", "zh": "卷笔刀"},
+      "clues": [
+        {"tr": "Talaş", "en": "Shavings", "es": "Virutas", "fr": "Copeaux", "de": "Späne", "it": "Trucioli", "pt": "Raspas", "ru": "Стружка", "ar": "نشارة", "zh": "碎屑"},
+        {"tr": "Döndürmek", "en": "Twist", "es": "Girar", "fr": "Tourner", "de": "Drehen", "it": "Ruotare", "pt": "Girar", "ru": "Крутить", "ar": "تدوير", "zh": "转动"}
+      ]
+    },
+    {
+      "word": {"tr": "Boya kalemi", "en": "Crayons", "es": "Ceras", "fr": "Crayons de couleur", "de": "Buntstifte", "it": "Pastelli", "pt": "Giz de cera", "ru": "Цветные карандаши", "ar": "أقلام تلوين", "zh": "蜡笔"},
+      "clues": [
+        {"tr": "Renkler", "en": "Colors", "es": "Colores", "fr": "Couleurs", "de": "Farben", "it": "Colori", "pt": "Cores", "ru": "Цвета", "ar": "ألوان", "zh": "颜色"},
+        {"tr": "Kutu", "en": "Box", "es": "Caja", "fr": "Boîte", "de": "Schachtel", "it": "Scatola", "pt": "Caixa", "ru": "Коробка", "ar": "علبة", "zh": "盒子"}
+      ]
+    },
+    {
+      "word": {"tr": "Okul servisi", "en": "School bus", "es": "Autobús escolar", "fr": "Bus scolaire", "de": "Schulbus", "it": "Scuolabus", "pt": "Ônibus escolar", "ru": "Школьный автобус", "ar": "حافلة مدرسية", "zh": "校车"},
+      "clues": [
+        {"tr": "Sabah", "en": "Morning", "es": "Mañana", "fr": "Matin", "de": "Morgen", "it": "Mattina", "pt": "Manhã", "ru": "Утро", "ar": "صباح", "zh": "早晨"},
+        {"tr": "Sarı", "en": "Yellow", "es": "Amarillo", "fr": "Jaune", "de": "Gelb", "it": "Giallo", "pt": "Amarelo", "ru": "Жёлтый", "ar": "أصفر", "zh": "黄色"}
+      ]
+    },
+    {
+      "word": {"tr": "Müdür", "en": "Principal", "es": "Director", "fr": "Directeur", "de": "Schulleiter", "it": "Preside", "pt": "Diretor", "ru": "Директор", "ar": "مدير", "zh": "校长"},
+      "clues": [
+        {"tr": "Oda", "en": "Office", "es": "Despacho", "fr": "Bureau", "de": "Büro", "it": "Ufficio", "pt": "Sala", "ru": "Кабинет", "ar": "مكتب", "zh": "办公室"},
+        {"tr": "Ceza", "en": "Punishment", "es": "Castigo", "fr": "Punition", "de": "Strafe", "it": "Punizione", "pt": "Castigo", "ru": "Наказание", "ar": "عقاب", "zh": "惩罚"}
+      ]
+    },
+    {
+      "word": {"tr": "Kantin", "en": "Canteen", "es": "Cantina", "fr": "Cantine", "de": "Kantine", "it": "Mensa", "pt": "Cantina", "ru": "Столовая", "ar": "مقصف", "zh": "食堂"},
+      "clues": [
+        {"tr": "Tost", "en": "Toast", "es": "Tostada", "fr": "Toast", "de": "Toast", "it": "Toast", "pt": "Torrada", "ru": "Тост", "ar": "توست", "zh": "吐司"},
+        {"tr": "Sıra", "en": "Queue", "es": "Cola", "fr": "File", "de": "Schlange", "it": "Fila", "pt": "Fila", "ru": "Очередь", "ar": "طابور", "zh": "排队"}
+      ]
+    },
+    {
+      "word": {"tr": "Ödev", "en": "Homework", "es": "Deberes", "fr": "Devoirs", "de": "Hausaufgaben", "it": "Compiti", "pt": "Lição de casa", "ru": "Домашнее задание", "ar": "واجب", "zh": "作业"},
+      "drawable": false,
+      "clues": [
+        {"tr": "Gece", "en": "Night", "es": "Noche", "fr": "Nuit", "de": "Nacht", "it": "Notte", "pt": "Noite", "ru": "Ночь", "ar": "ليل", "zh": "夜晚"},
+        {"tr": "Unutmak", "en": "Forget", "es": "Olvidar", "fr": "Oublier", "de": "Vergessen", "it": "Dimenticare", "pt": "Esquecer", "ru": "Забыть", "ar": "نسيان", "zh": "忘记"}
+      ]
+    },
+    {
+      "word": {"tr": "Mezuniyet", "en": "Graduation", "es": "Graduación", "fr": "Remise des diplômes", "de": "Abschlussfeier", "it": "Laurea", "pt": "Formatura", "ru": "Выпускной", "ar": "تخرج", "zh": "毕业典礼"},
+      "clues": [
+        {"tr": "Kep", "en": "Cap", "es": "Birrete", "fr": "Toque", "de": "Doktorhut", "it": "Tocco", "pt": "Capelo", "ru": "Шапочка", "ar": "قبعة التخرج", "zh": "学士帽"},
+        {"tr": "Diploma", "en": "Diploma", "es": "Diploma", "fr": "Diplôme", "de": "Diplom", "it": "Diploma", "pt": "Diploma", "ru": "Диплом", "ar": "شهادة", "zh": "文凭"}
+      ]
+    },
+    {
+      "word": {"tr": "Sözlük", "en": "Dictionary", "es": "Diccionario", "fr": "Dictionnaire", "de": "Wörterbuch", "it": "Dizionario", "pt": "Dicionário", "ru": "Словарь", "ar": "قاموس", "zh": "词典"},
+      "clues": [
+        {"tr": "Kelimeler", "en": "Words", "es": "Palabras", "fr": "Mots", "de": "Wörter", "it": "Parole", "pt": "Palavras", "ru": "Слова", "ar": "كلمات", "zh": "单词"},
+        {"tr": "Alfabe", "en": "Alphabet", "es": "Alfabeto", "fr": "Alphabet", "de": "Alphabet", "it": "Alfabeto", "pt": "Alfabeto", "ru": "Алфавит", "ar": "أبجدية", "zh": "字母表"}
+      ]
+    },
+    {
+      "word": {"tr": "Pergel", "en": "Compass", "es": "Compás", "fr": "Compas", "de": "Zirkel", "it": "Compasso", "pt": "Compasso", "ru": "Циркуль", "ar": "فرجار", "zh": "圆规"},
+      "clues": [
+        {"tr": "Daire", "en": "Circle", "es": "Círculo", "fr": "Cercle", "de": "Kreis", "it": "Cerchio", "pt": "Círculo", "ru": "Круг", "ar": "دائرة", "zh": "圆"},
+        {"tr": "Sivri", "en": "Pointy", "es": "Puntiagudo", "fr": "Pointu", "de": "Spitz", "it": "Appuntito", "pt": "Pontudo", "ru": "Острый", "ar": "مدبب", "zh": "尖"}
+      ]
+    },
+    {
+      "word": {"tr": "Beden eğitimi", "en": "P.E.", "es": "Educación física", "fr": "Éducation physique", "de": "Sportunterricht", "it": "Educazione fisica", "pt": "Educação física", "ru": "Физкультура", "ar": "تربية بدنية", "zh": "体育课"},
+      "clues": [
+        {"tr": "Eşofman", "en": "Tracksuit", "es": "Chándal", "fr": "Survêtement", "de": "Trainingsanzug", "it": "Tuta", "pt": "Agasalho", "ru": "Спортивный костюм", "ar": "بدلة رياضية", "zh": "运动服"},
+        {"tr": "Top", "en": "Ball", "es": "Pelota", "fr": "Ballon", "de": "Ball", "it": "Palla", "pt": "Bola", "ru": "Мяч", "ar": "كرة", "zh": "球"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "vacation",
+  "icon": "🏖️",
+  "name": {"tr": "Tatil", "en": "Holiday", "es": "Vacaciones", "fr": "Vacances", "de": "Urlaub", "it": "Vacanze", "pt": "Férias", "ru": "Отпуск", "ar": "عطلة", "zh": "度假"},
+  "drawable": true,
+  "words": [
+    {
+      "word": {"tr": "Bavul", "en": "Suitcase", "es": "Maleta", "fr": "Valise", "de": "Koffer", "it": "Valigia", "pt": "Mala", "ru": "Чемодан", "ar": "حقيبة سفر", "zh": "行李箱"},
+      "clues": [
+        {"tr": "Tekerlekler", "en": "Wheels", "es": "Ruedas", "fr": "Roulettes", "de": "Rollen", "it": "Ruote", "pt": "Rodinhas", "ru": "Колёсики", "ar": "عجلات", "zh": "轮子"},
+        {"tr": "Hazırlık", "en": "Packing", "es": "Hacer la maleta", "fr": "Préparatifs", "de": "Packen", "it": "Preparativi", "pt": "Arrumação", "ru": "Сборы", "ar": "تجهيز", "zh": "收拾行李"}
+      ]
+    },
+    {
+      "word": {"tr": "Pasaport", "en": "Passport", "es": "Pasaporte", "fr": "Passeport", "de": "Reisepass", "it": "Passaporto", "pt": "Passaporte", "ru": "Паспорт", "ar": "جواز سفر", "zh": "护照"},
+      "clues": [
+        {"tr": "Damga", "en": "Stamp", "es": "Sello", "fr": "Tampon", "de": "Stempel", "it": "Timbro", "pt": "Carimbo", "ru": "Штамп", "ar": "ختم", "zh": "印章"},
+        {"tr": "Fotoğraf", "en": "Photo", "es": "Foto", "fr": "Photo", "de": "Foto", "it": "Foto", "pt": "Foto", "ru": "Фото", "ar": "صورة", "zh": "照片"}
+      ]
+    },
+    {
+      "word": {"tr": "Güneş kremi", "en": "Sunscreen", "es": "Protector solar", "fr": "Crème solaire", "de": "Sonnencreme", "it": "Crema solare", "pt": "Protetor solar", "ru": "Солнцезащитный крем", "ar": "واقي شمس", "zh": "防晒霜"},
+      "clues": [
+        {"tr": "Koruma", "en": "Protection", "es": "Protección", "fr": "Protection", "de": "Schutz", "it": "Protezione", "pt": "Proteção", "ru": "Защита", "ar": "حماية", "zh": "保护"},
+        {"tr": "Yanık", "en": "Sunburn", "es": "Quemadura", "fr": "Coup de soleil", "de": "Sonnenbrand", "it": "Scottatura", "pt": "Queimadura", "ru": "Ожог", "ar": "حروق", "zh": "晒伤"}
+      ]
+    },
+    {
+      "word": {"tr": "Kum kalesi", "en": "Sandcastle", "es": "Castillo de arena", "fr": "Château de sable", "de": "Sandburg", "it": "Castello di sabbia", "pt": "Castelo de areia", "ru": "Замок из песка", "ar": "قلعة رملية", "zh": "沙堡"},
+      "clues": [
+        {"tr": "Kova", "en": "Bucket", "es": "Cubo", "fr": "Seau", "de": "Eimer", "it": "Secchiello", "pt": "Balde", "ru": "Ведёрко", "ar": "دلو", "zh": "小桶"},
+        {"tr": "Dalga", "en": "Wave", "es": "Ola", "fr": "Vague", "de": "Welle", "it": "Onda", "pt": "Onda", "ru": "Волна", "ar": "موجة", "zh": "海浪"}
+      ]
+    },
+    {
+      "word": {"tr": "Şezlong", "en": "Sunbed", "es": "Tumbona", "fr": "Transat", "de": "Liegestuhl", "it": "Lettino", "pt": "Espreguiçadeira", "ru": "Шезлонг", "ar": "كرسي استلقاء", "zh": "躺椅"},
+      "clues": [
+        {"tr": "Havlu", "en": "Towel", "es": "Toalla", "fr": "Serviette", "de": "Handtuch", "it": "Asciugamano", "pt": "Toalha", "ru": "Полотенце", "ar": "منشفة", "zh": "毛巾"},
+        {"tr": "Uzanmak", "en": "Lie down", "es": "Tumbarse", "fr": "S'allonger", "de": "Liegen", "it": "Sdraiarsi", "pt": "Deitar", "ru": "Лежать", "ar": "استلقاء", "zh": "躺下"}
+      ]
+    },
+    {
+      "word": {"tr": "Kartpostal", "en": "Postcard", "es": "Postal", "fr": "Carte postale", "de": "Postkarte", "it": "Cartolina", "pt": "Cartão-postal", "ru": "Открытка", "ar": "بطاقة بريدية", "zh": "明信片"},
+      "clues": [
+        {"tr": "Pul", "en": "Stamp", "es": "Sello", "fr": "Timbre", "de": "Briefmarke", "it": "Francobollo", "pt": "Selo", "ru": "Марка", "ar": "طابع", "zh": "邮票"},
+        {"tr": "Manzara", "en": "View", "es": "Paisaje", "fr": "Paysage", "de": "Aussicht", "it": "Panorama", "pt": "Paisagem", "ru": "Пейзаж", "ar": "منظر", "zh": "风景"}
+      ]
+    },
+    {
+      "word": {"tr": "Harita", "en": "Map", "es": "Mapa", "fr": "Carte", "de": "Karte", "it": "Mappa", "pt": "Mapa", "ru": "Карта", "ar": "خريطة", "zh": "地图"},
+      "clues": [
+        {"tr": "Rota", "en": "Route", "es": "Ruta", "fr": "Itinéraire", "de": "Route", "it": "Percorso", "pt": "Rota", "ru": "Маршрут", "ar": "مسار", "zh": "路线"},
+        {"tr": "Katlamak", "en": "Fold", "es": "Doblar", "fr": "Plier", "de": "Falten", "it": "Piegare", "pt": "Dobrar", "ru": "Складывать", "ar": "طي", "zh": "折叠"}
+      ]
+    },
+    {
+      "word": {"tr": "Çadır", "en": "Tent", "es": "Tienda", "fr": "Tente", "de": "Zelt", "it": "Tenda", "pt": "Barraca", "ru": "Палатка", "ar": "خيمة", "zh": "帐篷"},
+      "clues": [
+        {"tr": "Kazık", "en": "Peg", "es": "Estaca", "fr": "Piquet", "de": "Hering", "it": "Picchetto", "pt": "Estaca", "ru": "Колышек", "ar": "وتد", "zh": "地钉"},
+        {"tr": "Uyku tulumu", "en": "Sleeping bag", "es": "Saco de dormir", "fr": "Sac de couchage", "de": "Schlafsack", "it": "Sacco a pelo", "pt": "Saco de dormir", "ru": "Спальник", "ar": "كيس نوم", "zh": "睡袋"}
+      ]
+    },
+    {
+      "word": {"tr": "Karavan", "en": "Camper van", "es": "Autocaravana", "fr": "Camping-car", "de": "Wohnmobil", "it": "Camper", "pt": "Motorhome", "ru": "Автодом", "ar": "كرفان", "zh": "房车"},
+      "clues": [
+        {"tr": "Yol", "en": "Road", "es": "Carretera", "fr": "Route", "de": "Straße", "it": "Strada", "pt": "Estrada", "ru": "Дорога", "ar": "طريق", "zh": "公路"},
+        {"tr": "Özgürlük", "en": "Freedom", "es": "Libertad", "fr": "Liberté", "de": "Freiheit", "it": "Libertà", "pt": "Liberdade", "ru": "Свобода", "ar": "حرية", "zh": "自由"}
+      ]
+    },
+    {
+      "word": {"tr": "Hediyelik eşya", "en": "Souvenir", "es": "Recuerdo", "fr": "Souvenir", "de": "Souvenir", "it": "Souvenir", "pt": "Lembrancinha", "ru": "Сувенир", "ar": "تذكار", "zh": "纪念品"},
+      "clues": [
+        {"tr": "Magnet", "en": "Fridge magnet", "es": "Imán de nevera", "fr": "Magnet", "de": "Kühlschrankmagnet", "it": "Calamita", "pt": "Ímã de geladeira", "ru": "Магнитик", "ar": "مغناطيس ثلاجة", "zh": "冰箱贴"},
+        {"tr": "Pazarlık", "en": "Bargaining", "es": "Regateo", "fr": "Marchandage", "de": "Feilschen", "it": "Contrattazione", "pt": "Pechincha", "ru": "Торг", "ar": "مساومة", "zh": "讨价还价"}
+      ]
+    },
+    {
+      "word": {"tr": "Şnorkel", "en": "Snorkel", "es": "Esnórquel", "fr": "Tuba", "de": "Schnorchel", "it": "Boccaglio", "pt": "Snorkel", "ru": "Трубка", "ar": "أنبوب تنفس", "zh": "浮潜管"},
+      "clues": [
+        {"tr": "Maske", "en": "Mask", "es": "Gafas de buceo", "fr": "Masque", "de": "Taucherbrille", "it": "Maschera", "pt": "Máscara", "ru": "Маска", "ar": "قناع", "zh": "面镜"},
+        {"tr": "Balıklar", "en": "Fish", "es": "Peces", "fr": "Poissons", "de": "Fische", "it": "Pesci", "pt": "Peixes", "ru": "Рыбки", "ar": "أسماك", "zh": "鱼"}
+      ]
+    },
+    {
+      "word": {"tr": "Plaj topu", "en": "Beach ball", "es": "Pelota de playa", "fr": "Ballon de plage", "de": "Wasserball", "it": "Pallone da spiaggia", "pt": "Bola de praia", "ru": "Пляжный мяч", "ar": "كرة شاطئ", "zh": "沙滩球"},
+      "clues": [
+        {"tr": "Şişirmek", "en": "Inflate", "es": "Inflar", "fr": "Gonfler", "de": "Aufblasen", "it": "Gonfiare", "pt": "Encher", "ru": "Надувать", "ar": "نفخ", "zh": "充气"},
+        {"tr": "Renkli", "en": "Colorful", "es": "Colorido", "fr": "Coloré", "de": "Bunt", "it": "Colorato", "pt": "Colorido", "ru": "Разноцветный", "ar": "ملون", "zh": "彩色"}
+      ]
+    },
+    {
+      "word": {"tr": "Deniz yıldızı", "en": "Starfish", "es": "Estrella de mar", "fr": "Étoile de mer", "de": "Seestern", "it": "Stella marina", "pt": "Estrela-do-mar", "ru": "Морская звезда", "ar": "نجم البحر", "zh": "海星"},
+      "clues": [
+        {"tr": "Kollar", "en": "Arms", "es": "Brazos", "fr": "Bras", "de": "Arme", "it": "Braccia", "pt": "Braços", "ru": "Лучи", "ar": "أذرع", "zh": "触手"},
+        {"tr": "Kıyı", "en": "Shore", "es": "Orilla", "fr": "Rivage", "de": "Ufer", "it": "Riva", "pt": "Beira-mar", "ru": "Берег", "ar": "شاطئ", "zh": "海岸"}
+      ]
+    },
+    {
+      "word": {"tr": "Kruvaziyer", "en": "Cruise ship", "es": "Crucero", "fr": "Bateau de croisière", "de": "Kreuzfahrtschiff", "it": "Nave da crociera", "pt": "Navio de cruzeiro", "ru": "Круизный лайнер", "ar": "سفينة سياحية", "zh": "游轮"},
+      "clues": [
+        {"tr": "Açık büfe", "en": "Buffet", "es": "Bufé", "fr": "Buffet", "de": "Buffet", "it": "Buffet", "pt": "Bufê", "ru": "Шведский стол", "ar": "بوفيه", "zh": "自助餐"},
+        {"tr": "Liman", "en": "Port", "es": "Puerto", "fr": "Port", "de": "Hafen", "it": "Porto", "pt": "Porto", "ru": "Порт", "ar": "ميناء", "zh": "港口"}
+      ]
+    },
+    {
+      "word": {"tr": "Hamak", "en": "Hammock", "es": "Hamaca", "fr": "Hamac", "de": "Hängematte", "it": "Amaca", "pt": "Rede", "ru": "Гамак", "ar": "أرجوحة شبكية", "zh": "吊床"},
+      "clues": [
+        {"tr": "İki ağaç", "en": "Two trees", "es": "Dos árboles", "fr": "Deux arbres", "de": "Zwei Bäume", "it": "Due alberi", "pt": "Duas árvores", "ru": "Два дерева", "ar": "شجرتان", "zh": "两棵树"},
+        {"tr": "Sallanmak", "en": "Swing", "es": "Balancearse", "fr": "Se balancer", "de": "Schaukeln", "it": "Dondolare", "pt": "Balançar", "ru": "Качаться", "ar": "تأرجح", "zh": "摇摆"}
+      ]
+    },
+    {
+      "word": {"tr": "Güneş gözlüğü", "en": "Sunglasses", "es": "Gafas de sol", "fr": "Lunettes de soleil", "de": "Sonnenbrille", "it": "Occhiali da sole", "pt": "Óculos escuros", "ru": "Солнечные очки", "ar": "نظارة شمسية", "zh": "太阳镜"},
+      "clues": [
+        {"tr": "Moda", "en": "Style", "es": "Moda", "fr": "Style", "de": "Mode", "it": "Stile", "pt": "Estilo", "ru": "Стиль", "ar": "موضة", "zh": "时尚"},
+        {"tr": "Parlak", "en": "Bright", "es": "Brillante", "fr": "Éclatant", "de": "Hell", "it": "Luminoso", "pt": "Brilhante", "ru": "Ярко", "ar": "ساطع", "zh": "明亮"}
+      ]
+    },
+    {
+      "word": {"tr": "Deniz simidi", "en": "Swim ring", "es": "Flotador", "fr": "Bouée", "de": "Schwimmring", "it": "Ciambella", "pt": "Boia", "ru": "Надувной круг", "ar": "عوامة", "zh": "游泳圈"},
+      "clues": [
+        {"tr": "Şişme", "en": "Inflatable", "es": "Hinchable", "fr": "Gonflable", "de": "Aufblasbar", "it": "Gonfiabile", "pt": "Inflável", "ru": "Надувной", "ar": "قابل للنفخ", "zh": "充气"},
+        {"tr": "Havuz", "en": "Pool", "es": "Piscina", "fr": "Piscine", "de": "Pool", "it": "Piscina", "pt": "Piscina", "ru": "Бассейн", "ar": "مسبح", "zh": "泳池"}
+      ]
+    },
+    {
+      "word": {"tr": "Tur rehberi", "en": "Tour guide", "es": "Guía turístico", "fr": "Guide touristique", "de": "Reiseleiter", "it": "Guida turistica", "pt": "Guia turístico", "ru": "Экскурсовод", "ar": "مرشد سياحي", "zh": "导游"},
+      "clues": [
+        {"tr": "Bayrak", "en": "Flag", "es": "Bandera", "fr": "Drapeau", "de": "Fahne", "it": "Bandiera", "pt": "Bandeira", "ru": "Флажок", "ar": "علم", "zh": "旗子"},
+        {"tr": "Grup", "en": "Group", "es": "Grupo", "fr": "Groupe", "de": "Gruppe", "it": "Gruppo", "pt": "Grupo", "ru": "Группа", "ar": "مجموعة", "zh": "团队"}
+      ]
+    },
+    {
+      "word": {"tr": "Uçak bileti", "en": "Plane ticket", "es": "Billete de avión", "fr": "Billet d'avion", "de": "Flugticket", "it": "Biglietto aereo", "pt": "Passagem aérea", "ru": "Авиабилет", "ar": "تذكرة طيران", "zh": "机票"},
+      "clues": [
+        {"tr": "Koltuk", "en": "Seat", "es": "Asiento", "fr": "Siège", "de": "Sitzplatz", "it": "Posto", "pt": "Assento", "ru": "Место", "ar": "مقعد", "zh": "座位"},
+        {"tr": "Kapı", "en": "Gate", "es": "Puerta de embarque", "fr": "Porte", "de": "Gate", "it": "Gate", "pt": "Portão", "ru": "Выход", "ar": "بوابة", "zh": "登机口"}
+      ]
+    },
+    {
+      "word": {"tr": "Deniz kabuğu", "en": "Seashell", "es": "Concha", "fr": "Coquillage", "de": "Muschel", "it": "Conchiglia", "pt": "Concha", "ru": "Ракушка", "ar": "صدفة", "zh": "贝壳"},
+      "clues": [
+        {"tr": "Kulak", "en": "Ear", "es": "Oreja", "fr": "Oreille", "de": "Ohr", "it": "Orecchio", "pt": "Ouvido", "ru": "Ухо", "ar": "أذن", "zh": "耳朵"},
+        {"tr": "Koleksiyon", "en": "Collection", "es": "Colección", "fr": "Collection", "de": "Sammlung", "it": "Collezione", "pt": "Coleção", "ru": "Коллекция", "ar": "مجموعة", "zh": "收藏"}
+      ]
+    },
+    {
+      "word": {"tr": "Piknik sepeti", "en": "Picnic basket", "es": "Cesta de pícnic", "fr": "Panier de pique-nique", "de": "Picknickkorb", "it": "Cestino da picnic", "pt": "Cesta de piquenique", "ru": "Корзина для пикника", "ar": "سلة نزهة", "zh": "野餐篮"},
+      "clues": [
+        {"tr": "Örtü", "en": "Blanket", "es": "Mantel", "fr": "Nappe", "de": "Decke", "it": "Tovaglia", "pt": "Toalha", "ru": "Покрывало", "ar": "غطاء", "zh": "野餐垫"},
+        {"tr": "Karıncalar", "en": "Ants", "es": "Hormigas", "fr": "Fourmis", "de": "Ameisen", "it": "Formiche", "pt": "Formigas", "ru": "Муравьи", "ar": "نمل", "zh": "蚂蚁"}
+      ]
+    }
+  ]
+}
