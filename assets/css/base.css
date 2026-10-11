@@ -1,0 +1,296 @@
+/* Hain Kim? — temel stiller: renkler, yazı tipleri, zemin, butonlar.
+   Renkler uygulamanın paletinden (lib/core/theme/app_colors.dart). */
+
+:root {
+  color-scheme: dark;
+
+  --ink: #110d1f;
+  --night: #19132e;
+  --dusk: #241b42;
+  --surface: #2a2149;
+  --surface-high: #36295c;
+  --outline: rgba(255, 255, 255, 0.12);
+  --outline-strong: rgba(255, 255, 255, 0.2);
+
+  --text: #f8f4ff;
+  --muted: #bdb2dd;
+  --faint: #8c80b3;
+  --face-ink: #241b3a;
+
+  --peach: #ff9a85;
+  --peach-deep: #f2617a;
+  --lilac: #bba2ff;
+  --lilac-deep: #8b6cf0;
+  --mint: #86e8c4;
+  --mint-deep: #34c08f;
+  --butter: #ffdc85;
+  --butter-deep: #f2b33d;
+  --sky: #94d6ff;
+  --sky-deep: #4f9fef;
+  --rose: #ff86a3;
+  --blood: #f0506e;
+  --blood-deep: #b21f45;
+  --moon: #fff0c7;
+
+  --title-gradient: linear-gradient(90deg, var(--peach), var(--butter) 50%, var(--lilac));
+
+  --font-display: "Fredoka", "Nunito", system-ui, sans-serif;
+  --font-body: "Nunito", system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --radius-sm: 12px;
+  --radius: 22px;
+  --radius-lg: 32px;
+  --gutter: clamp(16px, 4vw, 40px);
+  --max: 1180px;
+  --nav-h: 68px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: calc(var(--nav-h) + 12px);
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--ink);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 1.6;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Gece gökyüzü: renkli sis + iki katman yıldız (biri hafifçe parıldar). */
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+}
+
+body::before {
+  background:
+    radial-gradient(60vw 50vh at 12% -5%, rgba(108, 76, 196, 0.42), transparent 70%),
+    radial-gradient(50vw 50vh at 100% 30%, rgba(178, 31, 69, 0.22), transparent 70%),
+    radial-gradient(60vw 60vh at 30% 110%, rgba(79, 159, 239, 0.16), transparent 70%),
+    linear-gradient(180deg, var(--dusk) 0%, var(--night) 45%, var(--ink) 100%);
+}
+
+body::after {
+  background-image:
+    radial-gradient(1.2px 1.2px at 20px 30px, rgba(255, 255, 255, 0.7), transparent),
+    radial-gradient(1px 1px at 140px 80px, rgba(255, 255, 255, 0.5), transparent),
+    radial-gradient(1.4px 1.4px at 260px 160px, rgba(255, 240, 199, 0.8), transparent),
+    radial-gradient(1px 1px at 90px 210px, rgba(255, 255, 255, 0.45), transparent),
+    radial-gradient(1.2px 1.2px at 330px 40px, rgba(255, 255, 255, 0.6), transparent),
+    radial-gradient(1px 1px at 200px 270px, rgba(187, 162, 255, 0.7), transparent);
+  background-size: 360px 300px;
+  animation: twinkle 6s ease-in-out infinite alternate;
+}
+
+@keyframes twinkle {
+  from { opacity: 0.55; }
+  to { opacity: 1; }
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: var(--lilac);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+}
+
+a:hover {
+  color: var(--text);
+}
+
+:focus-visible {
+  outline: 3px solid var(--butter);
+  outline-offset: 3px;
+  border-radius: 8px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: 1.08;
+  letter-spacing: -0.01em;
+  margin: 0;
+  text-wrap: balance;
+}
+
+p {
+  margin: 0;
+  text-wrap: pretty;
+}
+
+.container {
+  width: 100%;
+  max-width: calc(var(--max) + var(--gutter) * 2);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+.gradient-text {
+  background: var(--title-gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.skip-link {
+  position: absolute;
+  left: 12px;
+  top: -60px;
+  z-index: 100;
+  padding: 10px 16px;
+  border-radius: 999px;
+  background: var(--butter);
+  color: var(--face-ink);
+  font-weight: 800;
+}
+
+.skip-link:focus {
+  top: 12px;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* ---------- Butonlar (uygulamadaki gibi alt kenarı kalın, basılınca iner) */
+
+.btn {
+  --btn-light: var(--peach);
+  --btn-deep: var(--peach-deep);
+  --btn-edge: #c4405d;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  min-height: 52px;
+  padding: 0 24px;
+  border: 0;
+  border-radius: 999px;
+  background: linear-gradient(180deg, var(--btn-light), var(--btn-deep));
+  box-shadow: 0 5px 0 var(--btn-edge), 0 14px 30px rgba(242, 97, 122, 0.3);
+  color: #fff;
+  font-family: var(--font-display);
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1;
+  text-decoration: none;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+}
+
+.btn:hover {
+  color: #fff;
+  filter: brightness(1.06);
+  transform: translateY(-1px);
+}
+
+.btn:active {
+  transform: translateY(4px);
+  box-shadow: 0 1px 0 var(--btn-edge), 0 6px 14px rgba(242, 97, 122, 0.25);
+}
+
+.btn svg {
+  width: 20px;
+  height: 20px;
+  flex: none;
+}
+
+.btn--ghost {
+  background: rgba(255, 255, 255, 0.06);
+  box-shadow: inset 0 0 0 1.5px var(--outline-strong);
+  color: var(--text);
+}
+
+.btn--ghost:hover {
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.btn--ghost:active {
+  box-shadow: inset 0 0 0 1.5px var(--outline-strong);
+}
+
+.btn--small {
+  min-height: 40px;
+  padding: 0 16px;
+  font-size: 16px;
+  box-shadow: 0 3px 0 var(--btn-edge);
+}
+
+.btn--small:active {
+  transform: translateY(2px);
+  box-shadow: 0 1px 0 var(--btn-edge);
+}
+
+/* ---------- Kaydırınca beliren bölümler (yalnızca JS varken gizlenir) */
+
+.js .reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.7s ease, transform 0.7s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.js .reveal.is-visible {
+  opacity: 1;
+  transform: none;
+}
+
+/* İngilizce sayfa yüklenirken Türkçe metin bir an görünmesin; JS gelmezse
+   1,2 sn sonra yine de açılır. */
+html.lang-pending body {
+  opacity: 0;
+  animation: lang-fallback 0s linear 1.2s forwards;
+}
+
+@keyframes lang-fallback {
+  to { opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  .js .reveal {
+    opacity: 1;
+    transform: none;
+  }
+}

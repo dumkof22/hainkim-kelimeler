@@ -1,0 +1,517 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hain Kim? · Tek telefonla parti oyunu</title>
+  <meta name="description" data-i18n-attr="content:metaDescription" content="Kelime, Çizim ve Vampir Köylü: telefonu elden ele verin, aranızdaki haini birlikte bulun. 3–16 oyuncu, 10 dil, reklamsız.">
+  <meta name="theme-color" content="#19132e">
+  <link rel="canonical" href="https://dumkof22.github.io/hainkim-kelimeler/">
+  <link rel="icon" type="image/png" sizes="192x192" href="assets/img/icon-192.png">
+  <link rel="apple-touch-icon" href="assets/img/icon-180.png">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Hain Kim?">
+  <meta property="og:title" content="Hain Kim? · Tek telefonla parti oyunu">
+  <meta property="og:description" content="Kelime, Çizim ve Vampir Köylü: telefonu elden ele verin, aranızdaki haini birlikte bulun.">
+  <meta property="og:url" content="https://dumkof22.github.io/hainkim-kelimeler/">
+  <meta property="og:image" content="https://dumkof22.github.io/hainkim-kelimeler/assets/img/og-tr.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="tr_TR">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MobileApplication",
+    "name": "Hain Kim?",
+    "alternateName": "Who's the Imposter?",
+    "operatingSystem": "Android",
+    "applicationCategory": "GameApplication",
+    "url": "https://play.google.com/store/apps/details?id=com.hkn.hainkim",
+    "image": "https://dumkof22.github.io/hainkim-kelimeler/assets/img/icon-512.png",
+    "inLanguage": ["tr", "en", "de", "es", "fr", "it", "pt", "ru", "ar", "zh"],
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+  }
+  </script>
+
+  <!-- Dil, sayfa çizilmeden seçilir: ?lang= > kayıtlı tercih > tarayıcı dili. -->
+  <script>
+    (function () {
+      var supported = ['tr', 'en'];
+      var lang = new URLSearchParams(location.search).get('lang');
+      if (supported.indexOf(lang) < 0) {
+        try { lang = localStorage.getItem('hk-lang'); } catch (e) { lang = null; }
+      }
+      if (supported.indexOf(lang) < 0) {
+        var prefs = navigator.languages || [navigator.language || ''];
+        lang = prefs.some(function (l) { return /^tr\b/i.test(l); }) ? 'tr' : 'en';
+      }
+      var root = document.documentElement;
+      root.classList.add('js');
+      root.dataset.lang = lang;
+      if (lang !== 'tr') root.classList.add('lang-pending');
+    })();
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@500;600;700;800&display=swap">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <link rel="stylesheet" href="assets/css/sections.css">
+  <script type="module" src="assets/js/main.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main" data-i18n="skip">İçeriğe geç</a>
+
+  <!-- ============ Üst menü -->
+  <header class="nav" id="nav">
+    <div class="container nav__inner">
+      <a class="brand" href="#top">
+        <img src="assets/img/icon-192.png" alt="" width="38" height="38">
+        <span data-i18n="appName">Hain Kim?</span>
+      </a>
+      <nav class="nav__menu" aria-label="Bölümler" data-i18n-attr="aria-label:navLabel">
+        <ul class="nav__links">
+          <li><a href="#modlar" data-i18n="navModes">Modlar</a></li>
+          <li><a href="#nasil" data-i18n="navHow">Nasıl oynanır?</a></li>
+          <li><a href="#ozellikler" data-i18n="navFeatures">Özellikler</a></li>
+          <li><a href="#kategoriler" data-i18n="navPacks">Kategoriler</a></li>
+          <li><a href="#sss" data-i18n="navFaq">SSS</a></li>
+        </ul>
+      </nav>
+      <div class="nav__actions">
+        <div class="lang-switch" role="group" aria-label="Dil" data-i18n-attr="aria-label:langLabel">
+          <button type="button" data-lang="tr" aria-pressed="true">TR</button>
+          <button type="button" data-lang="en" aria-pressed="false">EN</button>
+        </div>
+        <a class="btn btn--small" href="https://play.google.com/store/apps/details?id=com.hkn.hainkim" data-play data-i18n="navCta">İndir</a>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- ============ Giriş -->
+    <section class="hero" id="top">
+      <div class="container hero__inner">
+        <div class="hero__text">
+          <span class="eyebrow" data-i18n="heroEyebrow">🎉 Tek telefonla parti oyunu</span>
+          <h1 class="hero__title gradient-text" data-i18n="appName">Hain Kim?</h1>
+          <p class="hero__tagline" data-i18n="heroTagline">Aranızdaki haini bulun.</p>
+          <p class="hero__lead" data-i18n="heroLead">Kelime, Çizim ve Vampir Köylü. Telefonu elden ele verin, gerisini uygulama anlatsın. Hesap yok, kurulum yok, reklam yok.</p>
+          <div class="hero__actions">
+            <a class="btn" href="https://play.google.com/store/apps/details?id=com.hkn.hainkim" data-play>
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7 4.6v14.8c0 .8.9 1.3 1.6.9l12-7.4c.6-.4.6-1.4 0-1.8l-12-7.4C7.9 3.3 7 3.8 7 4.6z"/></svg>
+              <span data-i18n="ctaPlay">Google Play'den indir</span>
+            </a>
+            <a class="btn btn--ghost" href="#nasil" data-i18n="ctaHow">Nasıl oynanır?</a>
+          </div>
+          <ul class="hero__facts">
+            <li class="chip" data-i18n="factPlayers">👥 3–16 oyuncu</li>
+            <li class="chip" data-i18n="factLanguages">🌍 10 dil</li>
+            <li class="chip" data-i18n="factNoAds">🚫 Reklamsız</li>
+            <li class="chip" data-i18n="factOffline">📴 İnternetsiz oynanır</li>
+          </ul>
+        </div>
+
+        <div class="hero__stage" aria-hidden="true">
+          <img class="mascot mascot--vampire" src="assets/img/mascots/vampire.webp" alt="" width="420" height="368">
+          <img class="mascot mascot--disguise" src="assets/img/mascots/disguise.webp" alt="" width="364" height="364">
+          <div class="phone">
+            <div class="phone__screen">
+              <img class="is-active" data-screen="home" src="assets/img/screens/tr/home.webp" alt="" width="720" height="1559" fetchpriority="high">
+            </div>
+          </div>
+          <img class="mascot mascot--detective" src="assets/img/mascots/detective.webp" alt="" width="390" height="395">
+          <img class="mascot mascot--artist" src="assets/img/mascots/artist.webp" alt="" width="394" height="407">
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ Kayan şerit -->
+    <div class="band" aria-hidden="true">
+      <div class="band__track">
+        <ul class="band__list" data-band>
+          <li data-i18n="bandWords">🕵️ Kelime</li>
+          <li data-i18n="bandDrawing">🎨 Çizim</li>
+          <li data-i18n="bandVampire">🧛 Vampir Köylü</li>
+          <li>Türkçe</li>
+          <li>English</li>
+          <li>Deutsch</li>
+          <li>Español</li>
+          <li>Français</li>
+          <li>Italiano</li>
+          <li>Português</li>
+          <li>Русский</li>
+          <li>العربية</li>
+          <li>中文</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- ============ Modlar -->
+    <section class="section modes" id="modlar">
+      <div class="container">
+        <div class="section-head reveal">
+          <span class="eyebrow" data-i18n="modesEyebrow">Üç oyun</span>
+          <h2 data-i18n="modesTitle">Tek telefon, üç parti oyunu</h2>
+          <p data-i18n="modesLead">Grubunuza ve o akşamın havasına göre seçin. Hepsinde aynı soru: aranızdaki hain kim?</p>
+        </div>
+
+        <div class="modes__tabs" role="tablist" aria-label="Oyun modları" data-i18n-attr="aria-label:modesLabel" hidden>
+          <button class="mode-tab" type="button" role="tab" id="tab-words" aria-controls="panel-words" aria-selected="true">
+            <img src="assets/img/mascots/disguise.webp" alt="" width="40" height="40">
+            <span data-i18n="modeWords">Kelime</span>
+          </button>
+          <button class="mode-tab mode-tab--drawing" type="button" role="tab" id="tab-drawing" aria-controls="panel-drawing" aria-selected="false" tabindex="-1">
+            <img src="assets/img/mascots/artist.webp" alt="" width="40" height="40">
+            <span data-i18n="modeDrawing">Çizim</span>
+          </button>
+          <button class="mode-tab mode-tab--vampire" type="button" role="tab" id="tab-vampire" aria-controls="panel-vampire" aria-selected="false" tabindex="-1">
+            <img src="assets/img/mascots/vampire.webp" alt="" width="40" height="40">
+            <span data-i18n="modeVampire">Vampir Köylü</span>
+          </button>
+        </div>
+
+        <!-- Kelime -->
+        <article class="card mode-panel reveal" id="panel-words" role="tabpanel" aria-labelledby="tab-words" data-carousel>
+          <div class="mode-panel__text">
+            <span class="mode-panel__badge" data-i18n="wordsBadge">Blöf ve dedektiflik</span>
+            <h3 data-i18n="modeWords">Kelime</h3>
+            <p class="mode-panel__desc" data-i18n="wordsDesc">Herkes aynı gizli kelimeyi görür, hain ise yalnızca bir ipucunu. Sırayla kelimeyle ilgili bir şey söyleyin; ne çok açık verin ne de belli edin. Tartışın, oylayın ve haini yakalayın.</p>
+            <ul class="mode-panel__list">
+              <li data-i18n="wordsPoint1">Hain sayısını, tur sayısını ve tartışma süresini siz seçin.</li>
+              <li data-i18n="wordsPoint2">Yakalanan hainin son bir şansı var: kelimeyi bilirse turu yine kazanır!</li>
+              <li data-i18n="wordsPoint3">Puan tablosu tur tur tutulur, oyun sonunda sıralama çıkar.</li>
+            </ul>
+            <div class="mode-panel__chips">
+              <span class="chip" data-i18n="chipPlayers316">👥 3–16 oyuncu</span>
+              <span class="chip" data-i18n="chipCategories">🗂️ 20+ kategori</span>
+            </div>
+          </div>
+          <div class="mode-panel__device">
+            <div class="phone">
+              <div class="phone__screen">
+                <img class="is-active" data-screen="word" src="assets/img/screens/tr/word.webp" alt="Gizli kelime kartı: Ayı" data-i18n-attr="alt:altWord" width="720" height="1559" loading="lazy">
+                <img data-screen="imposter" src="assets/img/screens/tr/imposter.webp" alt="Hainin kartı: yalnızca ipucu görünüyor" data-i18n-attr="alt:altImposter" width="720" height="1559" loading="lazy">
+                <img data-screen="voting" src="assets/img/screens/tr/voting.webp" alt="Oylama ekranı" data-i18n-attr="alt:altVoting" width="720" height="1559" loading="lazy">
+              </div>
+            </div>
+            <div class="phone-dots" data-dots></div>
+          </div>
+        </article>
+
+        <!-- Çizim -->
+        <article class="card mode-panel mode-panel--drawing reveal" id="panel-drawing" role="tabpanel" aria-labelledby="tab-drawing" data-carousel>
+          <div class="mode-panel__text">
+            <span class="mode-panel__badge" data-i18n="drawingBadge">Fırça ve şüphe</span>
+            <h3 data-i18n="modeDrawing">Çizim</h3>
+            <p class="mode-panel__desc" data-i18n="drawingDesc">Gizli kelimeyi ortak bir tuvale sırayla ve süreyle çizin. Kelimeyi bilmeyen hain, çizgilerin arasına karışmaya çalışır. Kimin çizgisi biraz fazla kararsız?</p>
+            <ul class="mode-panel__list">
+              <li data-i18n="drawingPoint1">Her oyuncunun kendi fırça rengi var; kim neyi çizdi belli.</li>
+              <li data-i18n="drawingPoint2">“Tek çizgi” kuralıyla işi daha da zorlaştırın.</li>
+              <li data-i18n="drawingPoint3">Çizim süresi ve tur sayısı ayarlanabilir.</li>
+            </ul>
+            <div class="mode-panel__chips">
+              <span class="chip" data-i18n="chipPlayers316">👥 3–16 oyuncu</span>
+              <span class="chip" data-i18n="chipTimer">⏱️ Süreli turlar</span>
+            </div>
+          </div>
+          <div class="mode-panel__device">
+            <div class="phone">
+              <div class="phone__screen">
+                <img class="is-active" data-screen="drawing" src="assets/img/screens/tr/drawing.webp" alt="Ortak tuvalde çizilmiş bir kedi" data-i18n-attr="alt:altDrawing" width="720" height="1559" loading="lazy">
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <!-- Vampir Köylü -->
+        <article class="card mode-panel mode-panel--vampire reveal" id="panel-vampire" role="tabpanel" aria-labelledby="tab-vampire" data-carousel>
+          <div class="mode-panel__text">
+            <span class="mode-panel__badge" data-i18n="vampireBadge">Gece ve gündüz · ücretsiz</span>
+            <h3 data-i18n="modeVampire">Vampir Köylü</h3>
+            <p class="mode-panel__desc" data-i18n="vampireDesc">Gece telefon elden ele dolaşır: vampirler kurbanını seçer, doktor korur, avcı nişan alır, Jester ise asılmak için köyü kandırmaya çalışır. Sabah kurbanlar açıklanır, gündüz köy kararını verir.</p>
+            <ul class="mode-panel__list">
+              <li data-i18n="vampirePoint1">Anlatıcıya gerek yok: sesli anlatım geceyi ve sabahı duyurur.</li>
+              <li data-i18n="vampirePoint2">Rol sayılarını grubunuza göre ayarlayın; en az 4 oyuncu.</li>
+            </ul>
+            <ul class="mode-panel__roles">
+              <li><img src="assets/img/mascots/vampire.webp" alt="" width="52" height="52" loading="lazy"><span data-i18n="roleVampire">Vampir</span></li>
+              <li><img src="assets/img/mascots/villager.webp" alt="" width="52" height="52" loading="lazy"><span data-i18n="roleVillager">Köylü</span></li>
+              <li><img src="assets/img/mascots/doctor.webp" alt="" width="52" height="52" loading="lazy"><span data-i18n="roleDoctor">Doktor</span></li>
+              <li><img src="assets/img/mascots/hunter.webp" alt="" width="52" height="52" loading="lazy"><span data-i18n="roleHunter">Avcı</span></li>
+              <li><img src="assets/img/mascots/jester.webp" alt="" width="52" height="52" loading="lazy"><span data-i18n="roleJester">Jester</span></li>
+            </ul>
+          </div>
+          <div class="mode-panel__device">
+            <div class="phone">
+              <div class="phone__screen">
+                <img class="is-active" data-screen="vampire_role" src="assets/img/screens/tr/vampire_role.webp" alt="Gece rol kartı: Vampir" data-i18n-attr="alt:altVampireRole" width="720" height="1559" loading="lazy">
+                <img data-screen="vampire_end" src="assets/img/screens/tr/vampire_end.webp" alt="Oyun sonu: köy kazandı" data-i18n-attr="alt:altVampireEnd" width="720" height="1559" loading="lazy">
+              </div>
+            </div>
+            <div class="phone-dots" data-dots></div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- ============ Nasıl oynanır -->
+    <section class="section howto" id="nasil">
+      <div class="container">
+        <div class="section-head reveal">
+          <span class="eyebrow" data-i18n="howEyebrow">Kelime modu</span>
+          <h2 data-i18n="howTitle">Bir tur nasıl geçer?</h2>
+          <p data-i18n="howLead">Kuralları anlatmak bir dakika sürer, ilk turdan sonra herkes uzman olur.</p>
+        </div>
+
+        <div class="howto__grid">
+          <ol class="howto__steps">
+            <li class="step" data-step="categories">
+              <span class="step__num" aria-hidden="true"></span>
+              <h3 data-i18n="step1Title">Oyuncuları ve kategoriyi seçin</h3>
+              <p data-i18n="step1Text">İsimleri bir kez yazın; herkese kendi rengi ve maskotu atanır. Hayvanlardan Ünlü Karakterler'e, sevdiğiniz kategorileri işaretleyin.</p>
+              <div class="phone"><div class="phone__screen"><img class="is-active" data-screen="categories" src="assets/img/screens/tr/categories.webp" alt="" width="720" height="1559" loading="lazy"></div></div>
+            </li>
+            <li class="step" data-step="word">
+              <span class="step__num" aria-hidden="true"></span>
+              <h3 data-i18n="step2Title">Telefonu elden ele verin</h3>
+              <p data-i18n="step2Text">Sırası gelen kartı basılı tutup gizli kelimeye bakar, bırakınca kart kapanır. Sonra telefonu yanındakine uzatır.</p>
+              <div class="phone"><div class="phone__screen"><img class="is-active" data-screen="word" src="assets/img/screens/tr/word.webp" alt="" width="720" height="1559" loading="lazy"></div></div>
+            </li>
+            <li class="step" data-step="imposter">
+              <span class="step__num" aria-hidden="true"></span>
+              <h3 data-i18n="step3Title">Hain yalnızca ipucunu görür</h3>
+              <p data-i18n="step3Text">Hain kelimeyi bilmez; elinde tek bir ipucu vardır. Belli etmeden aranıza karışmalı ve konuşulanlardan kelimeyi kapmalı.</p>
+              <div class="phone"><div class="phone__screen"><img class="is-active" data-screen="imposter" src="assets/img/screens/tr/imposter.webp" alt="" width="720" height="1559" loading="lazy"></div></div>
+            </li>
+            <li class="step" data-step="voting">
+              <span class="step__num" aria-hidden="true"></span>
+              <h3 data-i18n="step4Title">Konuşun, oylayın, yakalayın</h3>
+              <p data-i18n="step4Text">Herkes sırayla kelimeyle ilgili tek bir şey söyler, sonra hep birlikte şüpheliyi seçersiniz. Haini bulan puanı kapar; hain kurtulursa puan onundur.</p>
+              <div class="phone"><div class="phone__screen"><img class="is-active" data-screen="voting" src="assets/img/screens/tr/voting.webp" alt="" width="720" height="1559" loading="lazy"></div></div>
+            </li>
+          </ol>
+
+          <div class="howto__device" aria-hidden="true">
+            <div class="phone">
+              <div class="phone__screen" data-howto-screen>
+                <img class="is-active" data-screen="categories" src="assets/img/screens/tr/categories.webp" alt="" width="720" height="1559" loading="lazy">
+                <img data-screen="word" src="assets/img/screens/tr/word.webp" alt="" width="720" height="1559" loading="lazy">
+                <img data-screen="imposter" src="assets/img/screens/tr/imposter.webp" alt="" width="720" height="1559" loading="lazy">
+                <img data-screen="voting" src="assets/img/screens/tr/voting.webp" alt="" width="720" height="1559" loading="lazy">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ Özellikler -->
+    <section class="section features" id="ozellikler">
+      <div class="container">
+        <div class="section-head reveal">
+          <span class="eyebrow" data-i18n="featuresEyebrow">Özellikler</span>
+          <h2 data-i18n="featuresTitle">Parti için ne gerekiyorsa</h2>
+          <p data-i18n="featuresLead">Arkadaş buluşmaları, aile akşamları, doğum günleri ve uzun yolculuklar için.</p>
+        </div>
+        <ul class="features__grid">
+          <li class="card feature reveal">
+            <span class="feature__icon" aria-hidden="true">👥</span>
+            <h3 data-i18n="f1Title">3–16 oyuncu</h3>
+            <p data-i18n="f1Text">Tek telefon yeter. Vampir Köylü için en az 4 kişi.</p>
+          </li>
+          <li class="card feature reveal">
+            <span class="feature__icon" aria-hidden="true">🎛️</span>
+            <h3 data-i18n="f2Title">Her şey ayarlanabilir</h3>
+            <p data-i18n="f2Text">Hain sayısı, tur sayısı, tartışma ve çizim süreleri.</p>
+          </li>
+          <li class="card feature reveal">
+            <span class="feature__icon" aria-hidden="true">🏆</span>
+            <h3 data-i18n="f3Title">Puan tablosu</h3>
+            <p data-i18n="f3Text">Tur tur puanlar ve oyun sonunda taçlı bir kazanan.</p>
+          </li>
+          <li class="card feature reveal">
+            <span class="feature__icon" aria-hidden="true">🔊</span>
+            <h3 data-i18n="f4Title">Sesli anlatım</h3>
+            <p data-i18n="f4Text">Ses efektleri ve geceyi, sabahı duyuran bir anlatıcı.</p>
+          </li>
+          <li class="card feature reveal">
+            <span class="feature__icon" aria-hidden="true">🌍</span>
+            <h3 data-i18n="f5Title">10 dil</h3>
+            <p data-i18n="f5Text">Türkçe, İngilizce, Almanca, İspanyolca, Fransızca, İtalyanca, Portekizce, Rusça, Arapça, Çince.</p>
+          </li>
+          <li class="card feature reveal">
+            <span class="feature__icon" aria-hidden="true">🔄</span>
+            <h3 data-i18n="f6Title">Hep taze kelimeler</h3>
+            <p data-i18n="f6Text">Yeni kelimeler mağaza güncellemesi beklemeden internetten gelir.</p>
+          </li>
+          <li class="card feature reveal">
+            <span class="feature__icon" aria-hidden="true">🚫</span>
+            <h3 data-i18n="f7Title">Reklam yok</h3>
+            <p data-i18n="f7Text">Gerilimin tam ortasında araya giren reklam yok.</p>
+          </li>
+          <li class="card feature reveal">
+            <span class="feature__icon" aria-hidden="true">🔒</span>
+            <h3 data-i18n="f8Title">Üyelik yok</h3>
+            <p data-i18n="f8Text">Hesap açmadan oynayın; her şey telefonunuzda kalır.</p>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ============ Kategoriler ve Premium -->
+    <section class="section packs" id="kategoriler">
+      <div class="container">
+        <div class="section-head reveal">
+          <span class="eyebrow" data-i18n="packsEyebrow">Kategoriler</span>
+          <h2 data-i18n="packsTitle">Hayvanlardan ünlülere, yüzlerce kelime</h2>
+          <p data-i18n="packsLead">Her kelimenin birden fazla ipucu var; her turda biri rastgele seçilir. Yeni kategoriler uygulama güncellemesi olmadan eklenir.</p>
+        </div>
+
+        <div class="packs__grid">
+          <div class="card packs__list reveal">
+            <div class="packs__stats">
+              <div class="stat"><strong data-stat="categories">21</strong><span data-i18n="statCategories">kategori</span></div>
+              <div class="stat"><strong data-stat="words">505</strong><span data-i18n="statWords">kelime</span></div>
+              <div class="stat"><strong>10</strong><span data-i18n="statLanguages">dil</span></div>
+            </div>
+            <ul class="category-list" id="category-list">
+              <!-- categories:start -->
+              <li class="category category--free"><span class="category__icon" aria-hidden="true">🦁</span><span>Hayvanlar</span><span class="category__count">28</span><span class="category__free">Ücretsiz</span></li>
+              <li class="category category--free"><span class="category__icon" aria-hidden="true">🍝</span><span>Yemekler</span><span class="category__count">25</span><span class="category__free">Ücretsiz</span></li>
+              <li class="category"><span class="category__icon" aria-hidden="true">🏛️</span><span>Mekanlar</span><span class="category__count">27</span></li>
+              <li class="category"><span class="category__icon" aria-hidden="true">👩‍🚒</span><span>Meslekler</span><span class="category__count">28</span></li>
+              <li class="category"><span class="category__icon" aria-hidden="true">🛋️</span><span>Evde</span><span class="category__count">27</span></li>
+              <li class="category"><span class="category__icon" aria-hidden="true">🐉</span><span>Masal & Fantastik</span><span class="category__count">24</span></li>
+              <li class="category"><span class="category__icon" aria-hidden="true">🦸</span><span>Ünlü Karakterler</span><span class="category__count">23</span></li>
+              <li class="category"><span class="category__icon" aria-hidden="true">⚽</span><span>Spor</span><span class="category__count">25</span></li>
+              <li class="category category--free"><span class="category__icon" aria-hidden="true">🚗</span><span>Taşıtlar</span><span class="category__count">24</span><span class="category__free">Ücretsiz</span></li>
+              <li class="category category--free"><span class="category__icon" aria-hidden="true">🍓</span><span>Meyve & Sebze</span><span class="category__count">26</span><span class="category__free">Ücretsiz</span></li>
+              <li class="category"><span class="category__icon" aria-hidden="true">🍰</span><span>Tatlı & Atıştırmalık</span><span class="category__count">22</span></li>
+              <li class="category"><span class="category__icon" aria-hidden="true">👗</span><span>Giysi & Aksesuar</span><span class="category__count">24</span></li>
+              <li class="category"><span class="category__icon" aria-hidden="true">📱</span><span>Teknoloji</span><span class="category__count">22</span></li>
+              <li class="category"><span class="category__icon" aria-hidden="true">✏️</span><span>Okul</span><span class="category__count">23</span></li>
+              <li class="category"><span class="category__icon" aria-hidden="true">🏖️</span><span>Tatil</span><span class="category__count">21</span></li>
+              <li class="category"><span class="category__icon" aria-hidden="true">🎸</span><span>Müzik</span><span class="category__count">22</span></li>
+              <li class="category"><span class="category__icon" aria-hidden="true">🌋</span><span>Doğa</span><span class="category__count">24</span></li>
+              <li class="category"><span class="category__icon" aria-hidden="true">🔬</span><span>Bilim</span><span class="category__count">22</span></li>
+              <li class="category"><span class="category__icon" aria-hidden="true">🎨</span><span>Sanat</span><span class="category__count">20</span></li>
+              <li class="category"><span class="category__icon" aria-hidden="true">🌍</span><span>Ülkeler</span><span class="category__count">25</span></li>
+              <li class="category"><span class="category__icon" aria-hidden="true">🧿</span><span>Türkiye'den</span><span class="category__count">23</span></li>
+              <!-- categories:end -->
+            </ul>
+            <p class="packs__note">
+              <span data-i18n="packsNote">Kelimeler herkese açık bir GitHub deposunda duruyor; yeni kelime ya da kategori önermek isterseniz</span>
+              <a href="https://github.com/dumkof22/hainkim-kelimeler#readme" data-i18n="packsNoteLink">buradan katkıda bulunabilirsiniz</a>.
+            </p>
+          </div>
+
+          <aside class="card premium reveal">
+            <img class="premium__mascot" src="assets/img/mascots/winner.webp" alt="" width="364" height="414" loading="lazy">
+            <h3><span>👑</span> <span data-i18n="premiumTitle">Premium</span></h3>
+            <p class="premium__lead" data-i18n="premiumLead">Ücretsiz başlayın, isterseniz tüm kategorileri açın.</p>
+            <ul class="premium__list">
+              <li data-i18n="premium1">Kelime ve Çizim'de her modda 2 kategori ücretsiz</li>
+              <li data-i18n="premium2">Vampir Köylü tamamen ücretsiz</li>
+              <li data-i18n="premium3">Premium ile tüm kategoriler ve sonradan eklenecek yenileri</li>
+              <li data-i18n="premium4">Aylık ya da yıllık plan; yıllık planda yeni abonelere 3 gün ücretsiz deneme</li>
+            </ul>
+            <p class="premium__fine" data-i18n="premiumFine">Ödeme Google Play hesabınızdan alınır ve iptal edilene kadar yenilenir. İstediğiniz zaman Google Play › Ödemeler ve abonelikler bölümünden iptal edebilirsiniz.</p>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ SSS -->
+    <section class="section faq" id="sss">
+      <div class="container">
+        <div class="section-head reveal">
+          <span class="eyebrow" data-i18n="faqEyebrow">SSS</span>
+          <h2 data-i18n="faqTitle">Sıkça sorulanlar</h2>
+        </div>
+        <div class="faq__list reveal">
+          <details class="faq__item">
+            <summary data-i18n="q1">Herkesin kendi telefonu gerekiyor mu?</summary>
+            <p data-i18n="a1">Hayır. Tek telefon yeter: sırası gelen oyuncu telefonu alır, kartına gizlice bakar ve yanındakine uzatır.</p>
+          </details>
+          <details class="faq__item">
+            <summary data-i18n="q2">Kaç kişiyle oynanır?</summary>
+            <p data-i18n="a2">Kelime ve Çizim 3 ile 16 kişi arasında oynanır. Vampir Köylü için en az 4 kişi gerekir; kalabalık gruplarda daha da eğlenceli.</p>
+          </details>
+          <details class="faq__item">
+            <summary data-i18n="q3">İnternet bağlantısı gerekli mi?</summary>
+            <p data-i18n="a3">Hayır, oyun internetsiz çalışır. İnternet olduğunda yeni kelime paketleri kendiliğinden iner.</p>
+          </details>
+          <details class="faq__item">
+            <summary data-i18n="q4">Ücretsiz mi?</summary>
+            <p data-i18n="a4">İndirmek ücretsiz. Kelime ve Çizim'de her modda 2 kategori, Vampir Köylü'nün ise tamamı ücretsiz. Diğer kategoriler Premium abonelikle açılır.</p>
+          </details>
+          <details class="faq__item">
+            <summary data-i18n="q5">Kelime önerebilir miyim?</summary>
+            <p><span data-i18n="a5">Elbette! Kelime paketleri herkese açık bir GitHub deposunda; yeni kelime, ipucu ya da kategori önerebilirsiniz.</span> <a href="https://github.com/dumkof22/hainkim-kelimeler#readme" data-i18n="a5Link">Nasıl yapılır?</a></p>
+          </details>
+          <details class="faq__item">
+            <summary data-i18n="q6">Verilerim nereye gidiyor?</summary>
+            <p><span data-i18n="a6">Hiçbir yere. Hesap, reklam ya da takip yok; oyuncu adları ve ayarlar yalnızca telefonunuzda saklanır.</span> <a href="privacy/" data-i18n="a6Link">Gizlilik politikası</a></p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ Kapanış -->
+    <section class="section section--cta">
+      <div class="container">
+        <div class="cta reveal">
+          <h2 class="gradient-text" data-i18n="ctaTitle">Haydi bakalım: Hain kim?</h2>
+          <p data-i18n="ctaText">Arkadaşlarınızı toplayın, telefonu ortaya koyun. İlk tur sizden.</p>
+          <a class="btn" href="https://play.google.com/store/apps/details?id=com.hkn.hainkim" data-play>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7 4.6v14.8c0 .8.9 1.3 1.6.9l12-7.4c.6-.4.6-1.4 0-1.8l-12-7.4C7.9 3.3 7 3.8 7 4.6z"/></svg>
+            <span data-i18n="ctaPlay">Google Play'den indir</span>
+          </a>
+          <ul class="cta__crowd" aria-hidden="true">
+            <li><img src="assets/img/mascots/hunter.webp" alt="" width="364" height="400" loading="lazy"></li>
+            <li><img src="assets/img/mascots/artist.webp" alt="" width="394" height="407" loading="lazy"></li>
+            <li><img src="assets/img/mascots/disguise.webp" alt="" width="364" height="364" loading="lazy"></li>
+            <li><img src="assets/img/mascots/detective.webp" alt="" width="390" height="395" loading="lazy"></li>
+            <li><img src="assets/img/mascots/vampire.webp" alt="" width="420" height="368" loading="lazy"></li>
+            <li><img src="assets/img/mascots/winner.webp" alt="" width="364" height="414" loading="lazy"></li>
+            <li><img src="assets/img/mascots/jester.webp" alt="" width="420" height="366" loading="lazy"></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ============ Alt bilgi -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__inner">
+        <div>
+          <a class="brand" href="#top">
+            <img src="assets/img/icon-192.png" alt="" width="38" height="38" loading="lazy">
+            <span data-i18n="appName">Hain Kim?</span>
+          </a>
+          <p class="footer__tagline" data-i18n="footerTagline">Tek telefonla oynanan parti oyunları: Kelime, Çizim ve Vampir Köylü.</p>
+        </div>
+        <ul class="footer__links">
+          <li><a href="https://play.google.com/store/apps/details?id=com.hkn.hainkim" data-play>Google Play</a></li>
+          <li><a href="privacy/" data-i18n="footerPrivacy">Gizlilik politikası</a></li>
+          <li><a href="https://github.com/dumkof22/hainkim-kelimeler" data-i18n="footerPacks">Kelime paketleri</a></li>
+        </ul>
+      </div>
+      <div class="footer__bottom">
+        <span>© 2026 <span data-i18n="appName">Hain Kim?</span></span>
+        <div class="lang-switch" role="group" aria-label="Dil" data-i18n-attr="aria-label:langLabel">
+          <button type="button" data-lang="tr" aria-pressed="true">Türkçe</button>
+          <button type="button" data-lang="en" aria-pressed="false">English</button>
+        </div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

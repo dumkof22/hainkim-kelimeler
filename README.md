@@ -1,5 +1,7 @@
 # Hain Kim? — kelime paketleri
 
+🌐 Tanıtım sitesi: <https://dumkof22.github.io/hainkim-kelimeler/>
+
 **Hain Kim?** parti oyununun kelime ve ipucu listeleri. Uygulama bu depodaki
 dosyaları açılışta indirir; burada yapılan bir değişiklik oyunculara mağaza
 güncellemesi olmadan ulaşır.
@@ -79,3 +81,26 @@ Uygulama her açılışta kontrol eder; oyuncu isterse **Ayarlar → Kelime
 paketleri → Şimdi güncelle** ile hemen çekebilir. GitHub dosyaları birkaç
 dakika önbellekte tutabilir; GitHub'a erişilemeyen ağlarda kullanılan yedek
 adres birkaç saate kadar eski sürümü verebilir.
+
+## Tanıtım sitesi
+
+GitHub Pages bu deponun kökünü yayınlar (`main` dalı; `.nojekyll` sayesinde
+dosyalar olduğu gibi sunulur).
+
+```
+index.html            ana sayfa (Türkçe metinler burada)
+privacy/index.html    gizlilik politikası (PRIVACY.md ile aynı metin)
+404.html              bulunamayan sayfalar
+assets/css/           base → components → sections (+ privacy)
+assets/js/            main.js her bölümü kendi modülünden başlatır
+assets/js/i18n/en.js  İngilizce metinler (anahtarlar HTML'deki data-i18n)
+assets/img/           uygulamadan üretilen görseller
+```
+
+- Kategori listesi ve sayılar sayfa açılırken `index.json` ve `packs/`
+  dosyalarından okunur; yeni kategori eklemek siteyi de günceller.
+- Gizlilik metnini değiştirirken `PRIVACY.md` ile `privacy/index.html`'i
+  birlikte güncelleyin.
+- `assets/img/` elle düzenlenmez: uygulama deposunda
+  `tool/site/build_site_assets.sh` ekranları ve maskotları yeniden çizip
+  buraya yazar.

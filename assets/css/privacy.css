@@ -1,0 +1,109 @@
+/* Gizlilik politikası sayfası: okunaklı, tek sütun metin. */
+
+.policy-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-block: clamp(32px, 6vw, 64px) clamp(64px, 9vw, 112px);
+}
+
+.policy {
+  width: 100%;
+  max-width: 760px;
+  margin-inline: auto;
+  padding: clamp(28px, 5vw, 56px);
+}
+
+/* JS varken yalnızca seçili dil görünür; yoksa iki dil alt alta. */
+.js[data-lang="tr"] .policy[lang="en"],
+.js[data-lang="en"] .policy[lang="tr"] {
+  display: none;
+}
+
+html:not(.js) .policy + .policy {
+  margin-top: 32px;
+}
+
+.policy__mascot {
+  width: 96px;
+  margin-bottom: 18px;
+  filter: drop-shadow(0 10px 14px rgba(0, 0, 0, 0.35));
+}
+
+.policy h1 {
+  font-size: clamp(34px, 5vw, 50px);
+}
+
+.policy__updated {
+  margin-top: 10px;
+  color: var(--faint);
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.policy__intro {
+  margin-top: 22px;
+  color: var(--muted);
+  font-size: 18px;
+}
+
+.policy__summary {
+  display: grid;
+  gap: 10px;
+  margin: 28px 0 8px;
+  padding: 22px 24px;
+  border-radius: var(--radius);
+  background: rgba(134, 232, 196, 0.08);
+  box-shadow: inset 0 0 0 1px rgba(134, 232, 196, 0.3);
+  list-style: none;
+}
+
+.policy__summary li {
+  display: flex;
+  gap: 12px;
+  font-weight: 700;
+}
+
+.policy__summary li::before {
+  content: "✓";
+  flex: none;
+  color: var(--mint);
+  font-weight: 800;
+}
+
+.policy h2 {
+  margin-top: 36px;
+  font-size: 24px;
+  color: var(--text);
+}
+
+.policy p {
+  margin-top: 12px;
+  color: var(--muted);
+}
+
+.policy code {
+  padding: 2px 6px;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text);
+  font-size: 0.9em;
+}
+
+.policy__back {
+  width: min(100%, 760px);
+  margin-bottom: 20px;
+  color: var(--muted);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.policy__back:hover {
+  color: var(--text);
+}
+
+.footer > .footer__bottom {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: 0;
+}
