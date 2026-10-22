@@ -5,164 +5,185 @@
   "drawable": true,
   "words": [
     {
-      "word": {"tr": "Süpermen", "en": "Superman", "es": "Superman", "fr": "Superman", "de": "Superman", "it": "Superman", "pt": "Super-Homem", "ru": "Супермен", "ar": "سوبرمان", "zh": "超人"},
-      "clues": [
-        {"tr": "Pelerin", "en": "Cape", "es": "Capa", "fr": "Cape", "de": "Umhang", "it": "Mantello", "pt": "Capa", "ru": "Плащ", "ar": "عباءة", "zh": "披风"},
-        {"tr": "Gözlük", "en": "Glasses", "es": "Gafas", "fr": "Lunettes", "de": "Brille", "it": "Occhiali", "pt": "Óculos", "ru": "Очки", "ar": "نظارة", "zh": "眼镜"}
-      ]
-    },
-    {
       "word": {"tr": "Örümcek Adam", "en": "Spider-Man", "es": "Spider-Man", "fr": "Spider-Man", "de": "Spider-Man", "it": "Spider-Man", "pt": "Homem-Aranha", "ru": "Человек-паук", "ar": "الرجل العنكبوت", "zh": "蜘蛛侠"},
       "clues": [
-        {"tr": "Ağ", "en": "Web", "es": "Telaraña", "fr": "Toile", "de": "Netz", "it": "Ragnatela", "pt": "Teia", "ru": "Паутина", "ar": "شبكة", "zh": "网"},
-        {"tr": "Maske", "en": "Mask", "es": "Máscara", "fr": "Masque", "de": "Maske", "it": "Maschera", "pt": "Máscara", "ru": "Маска", "ar": "قناع", "zh": "面具"}
+        {"tr": "Duvar", "en": "Walls", "es": "Paredes", "fr": "Murs", "de": "Wände", "it": "Muri", "pt": "Paredes", "ru": "Стены", "ar": "جدران", "zh": "墙壁"},
+        {"tr": "Kırmızı mavi", "en": "Red and blue", "es": "Rojo y azul", "fr": "Rouge et bleu", "de": "Rot und Blau", "it": "Rosso e blu", "pt": "Vermelho e azul", "ru": "Красно-синий", "ar": "أحمر وأزرق", "zh": "红蓝"}
       ]
     },
     {
       "word": {"tr": "Batman", "en": "Batman", "es": "Batman", "fr": "Batman", "de": "Batman", "it": "Batman", "pt": "Batman", "ru": "Бэтмен", "ar": "باتمان", "zh": "蝙蝠侠"},
       "clues": [
         {"tr": "Gece", "en": "Night", "es": "Noche", "fr": "Nuit", "de": "Nacht", "it": "Notte", "pt": "Noite", "ru": "Ночь", "ar": "ليل", "zh": "夜晚"},
-        {"tr": "Zengin", "en": "Rich", "es": "Rico", "fr": "Riche", "de": "Reich", "it": "Ricco", "pt": "Rico", "ru": "Богатый", "ar": "غني", "zh": "富有"}
+        {"tr": "Zengin", "en": "Rich", "es": "Rico", "fr": "Riche", "de": "Reich", "it": "Ricco", "pt": "Rico", "ru": "Богач", "ar": "ثري", "zh": "富有"}
       ]
     },
     {
       "word": {"tr": "Noel Baba", "en": "Santa Claus", "es": "Papá Noel", "fr": "Père Noël", "de": "Weihnachtsmann", "it": "Babbo Natale", "pt": "Papai Noel", "ru": "Санта-Клаус", "ar": "بابا نويل", "zh": "圣诞老人"},
       "clues": [
-        {"tr": "Hediye", "en": "Gifts", "es": "Regalos", "fr": "Cadeaux", "de": "Geschenke", "it": "Regali", "pt": "Presentes", "ru": "Подарки", "ar": "هدايا", "zh": "礼物"},
-        {"tr": "Baca", "en": "Chimney", "es": "Chimenea", "fr": "Cheminée", "de": "Schornstein", "it": "Camino", "pt": "Chaminé", "ru": "Дымоход", "ar": "مدخنة", "zh": "烟囱"}
+        {"tr": "Kurabiye", "en": "Cookies", "es": "Galletas", "fr": "Biscuits", "de": "Plätzchen", "it": "Biscotti", "pt": "Biscoitos", "ru": "Печенье", "ar": "بسكويت", "zh": "饼干"},
+        {"tr": "Kuzey", "en": "North", "es": "Norte", "fr": "Nord", "de": "Norden", "it": "Nord", "pt": "Norte", "ru": "Север", "ar": "الشمال", "zh": "北方"}
       ]
     },
     {
       "word": {"tr": "Pinokyo", "en": "Pinocchio", "es": "Pinocho", "fr": "Pinocchio", "de": "Pinocchio", "it": "Pinocchio", "pt": "Pinóquio", "ru": "Пиноккио", "ar": "بينوكيو", "zh": "匹诺曹"},
       "clues": [
-        {"tr": "Burun", "en": "Nose", "es": "Nariz", "fr": "Nez", "de": "Nase", "it": "Naso", "pt": "Nariz", "ru": "Нос", "ar": "أنف", "zh": "鼻子"},
-        {"tr": "Yalan", "en": "Lie", "es": "Mentira", "fr": "Mensonge", "de": "Lüge", "it": "Bugia", "pt": "Mentira", "ru": "Ложь", "ar": "كذبة", "zh": "谎言"}
+        {"tr": "Tahta", "en": "Wood", "es": "Madera", "fr": "Bois", "de": "Holz", "it": "Legno", "pt": "Madeira", "ru": "Дерево", "ar": "خشب", "zh": "木头"},
+        {"tr": "Balina", "en": "Whale", "es": "Ballena", "fr": "Baleine", "de": "Wal", "it": "Balena", "pt": "Baleia", "ru": "Кит", "ar": "حوت", "zh": "鲸鱼"}
       ]
     },
     {
       "word": {"tr": "Kırmızı Başlıklı Kız", "en": "Little Red Riding Hood", "es": "Caperucita Roja", "fr": "Le Petit Chaperon rouge", "de": "Rotkäppchen", "it": "Cappuccetto Rosso", "pt": "Chapeuzinho Vermelho", "ru": "Красная Шапочка", "ar": "ذات الرداء الأحمر", "zh": "小红帽"},
       "clues": [
-        {"tr": "Kurt", "en": "Wolf", "es": "Lobo", "fr": "Loup", "de": "Wolf", "it": "Lupo", "pt": "Lobo", "ru": "Волк", "ar": "ذئب", "zh": "狼"},
-        {"tr": "Büyükanne", "en": "Grandma", "es": "Abuela", "fr": "Grand-mère", "de": "Großmutter", "it": "Nonna", "pt": "Vovó", "ru": "Бабушка", "ar": "جدة", "zh": "外婆"}
+        {"tr": "Sepet", "en": "Basket", "es": "Cesta", "fr": "Panier", "de": "Korb", "it": "Cestino", "pt": "Cesta", "ru": "Корзинка", "ar": "سلة", "zh": "篮子"},
+        {"tr": "Pelerin", "en": "Cape", "es": "Capa", "fr": "Cape", "de": "Umhang", "it": "Mantella", "pt": "Capa", "ru": "Плащ", "ar": "عباءة", "zh": "斗篷"}
       ]
     },
     {
       "word": {"tr": "Pamuk Prenses", "en": "Snow White", "es": "Blancanieves", "fr": "Blanche-Neige", "de": "Schneewittchen", "it": "Biancaneve", "pt": "Branca de Neve", "ru": "Белоснежка", "ar": "بياض الثلج", "zh": "白雪公主"},
       "clues": [
-        {"tr": "Elma", "en": "Apple", "es": "Manzana", "fr": "Pomme", "de": "Apfel", "it": "Mela", "pt": "Maçã", "ru": "Яблоко", "ar": "تفاحة", "zh": "苹果"},
-        {"tr": "Yedi", "en": "Seven", "es": "Siete", "fr": "Sept", "de": "Sieben", "it": "Sette", "pt": "Sete", "ru": "Семь", "ar": "سبعة", "zh": "七"}
+        {"tr": "Ayna", "en": "Mirror", "es": "Espejo", "fr": "Miroir", "de": "Spiegel", "it": "Specchio", "pt": "Espelho", "ru": "Зеркало", "ar": "مرآة", "zh": "镜子"},
+        {"tr": "Üvey anne", "en": "Stepmother", "es": "Madrastra", "fr": "Belle-mère", "de": "Stiefmutter", "it": "Matrigna", "pt": "Madrasta", "ru": "Мачеха", "ar": "زوجة الأب", "zh": "继母"}
       ]
     },
     {
       "word": {"tr": "Külkedisi", "en": "Cinderella", "es": "Cenicienta", "fr": "Cendrillon", "de": "Aschenputtel", "it": "Cenerentola", "pt": "Cinderela", "ru": "Золушка", "ar": "سندريلا", "zh": "灰姑娘"},
       "clues": [
-        {"tr": "Ayakkabı", "en": "Shoe", "es": "Zapato", "fr": "Chaussure", "de": "Schuh", "it": "Scarpetta", "pt": "Sapatinho", "ru": "Туфелька", "ar": "حذاء", "zh": "鞋子"},
-        {"tr": "Gece yarısı", "en": "Midnight", "es": "Medianoche", "fr": "Minuit", "de": "Mitternacht", "it": "Mezzanotte", "pt": "Meia-noite", "ru": "Полночь", "ar": "منتصف الليل", "zh": "午夜"}
+        {"tr": "Gece yarısı", "en": "Midnight", "es": "Medianoche", "fr": "Minuit", "de": "Mitternacht", "it": "Mezzanotte", "pt": "Meia-noite", "ru": "Полночь", "ar": "منتصف الليل", "zh": "午夜"},
+        {"tr": "Süpürge", "en": "Broom", "es": "Escoba", "fr": "Balai", "de": "Besen", "it": "Scopa", "pt": "Vassoura", "ru": "Метла", "ar": "مكنسة", "zh": "扫帚"}
       ]
     },
     {
       "word": {"tr": "Harry Potter", "en": "Harry Potter", "es": "Harry Potter", "fr": "Harry Potter", "de": "Harry Potter", "it": "Harry Potter", "pt": "Harry Potter", "ru": "Гарри Поттер", "ar": "هاري بوتر", "zh": "哈利·波特"},
       "clues": [
-        {"tr": "Asa", "en": "Wand", "es": "Varita", "fr": "Baguette", "de": "Zauberstab", "it": "Bacchetta", "pt": "Varinha", "ru": "Палочка", "ar": "عصا سحرية", "zh": "魔杖"},
-        {"tr": "Yara izi", "en": "Scar", "es": "Cicatriz", "fr": "Cicatrice", "de": "Narbe", "it": "Cicatrice", "pt": "Cicatriz", "ru": "Шрам", "ar": "ندبة", "zh": "伤疤"}
+        {"tr": "Gözlük", "en": "Glasses", "es": "Gafas", "fr": "Lunettes", "de": "Brille", "it": "Occhiali", "pt": "Óculos", "ru": "Очки", "ar": "نظارة", "zh": "眼镜"},
+        {"tr": "Baykuş", "en": "Owl", "es": "Búho", "fr": "Hibou", "de": "Eule", "it": "Gufo", "pt": "Coruja", "ru": "Сова", "ar": "بومة", "zh": "猫头鹰"}
       ]
     },
     {
       "word": {"tr": "Mickey Mouse", "en": "Mickey Mouse", "es": "Mickey Mouse", "fr": "Mickey Mouse", "de": "Micky Maus", "it": "Topolino", "pt": "Mickey Mouse", "ru": "Микки Маус", "ar": "ميكي ماوس", "zh": "米老鼠"},
       "clues": [
-        {"tr": "Kulaklar", "en": "Ears", "es": "Orejas", "fr": "Oreilles", "de": "Ohren", "it": "Orecchie", "pt": "Orelhas", "ru": "Уши", "ar": "آذان", "zh": "耳朵"},
-        {"tr": "Eldiven", "en": "Gloves", "es": "Guantes", "fr": "Gants", "de": "Handschuhe", "it": "Guanti", "pt": "Luvas", "ru": "Перчатки", "ar": "قفازات", "zh": "手套"}
+        {"tr": "Eldiven", "en": "Gloves", "es": "Guantes", "fr": "Gants", "de": "Handschuhe", "it": "Guanti", "pt": "Luvas", "ru": "Перчатки", "ar": "قفازات", "zh": "手套"},
+        {"tr": "Islık", "en": "Whistling", "es": "Silbido", "fr": "Sifflement", "de": "Pfeifen", "it": "Fischio", "pt": "Assobio", "ru": "Свист", "ar": "صفير", "zh": "口哨"}
       ]
     },
     {
       "word": {"tr": "Sherlock Holmes", "en": "Sherlock Holmes", "es": "Sherlock Holmes", "fr": "Sherlock Holmes", "de": "Sherlock Holmes", "it": "Sherlock Holmes", "pt": "Sherlock Holmes", "ru": "Шерлок Холмс", "ar": "شرلوك هولمز", "zh": "夏洛克·福尔摩斯"},
       "clues": [
         {"tr": "Pipo", "en": "Pipe", "es": "Pipa", "fr": "Pipe", "de": "Pfeife", "it": "Pipa", "pt": "Cachimbo", "ru": "Трубка", "ar": "غليون", "zh": "烟斗"},
-        {"tr": "Büyüteç", "en": "Magnifying glass", "es": "Lupa", "fr": "Loupe", "de": "Lupe", "it": "Lente d'ingrandimento", "pt": "Lupa", "ru": "Лупа", "ar": "عدسة مكبرة", "zh": "放大镜"}
+        {"tr": "Keman", "en": "Violin", "es": "Violín", "fr": "Violon", "de": "Geige", "it": "Violino", "pt": "Violino", "ru": "Скрипка", "ar": "كمان", "zh": "小提琴"}
       ]
     },
     {
       "word": {"tr": "Tarzan", "en": "Tarzan", "es": "Tarzán", "fr": "Tarzan", "de": "Tarzan", "it": "Tarzan", "pt": "Tarzan", "ru": "Тарзан", "ar": "طرزان", "zh": "泰山"},
       "clues": [
-        {"tr": "Orman", "en": "Jungle", "es": "Selva", "fr": "Jungle", "de": "Dschungel", "it": "Giungla", "pt": "Selva", "ru": "Джунгли", "ar": "أدغال", "zh": "丛林"},
-        {"tr": "Sarmaşık", "en": "Vine", "es": "Liana", "fr": "Liane", "de": "Liane", "it": "Liana", "pt": "Cipó", "ru": "Лиана", "ar": "كرمة", "zh": "藤蔓"}
+        {"tr": "Bağırmak", "en": "Yelling", "es": "Grito", "fr": "Cri", "de": "Schrei", "it": "Urlo", "pt": "Grito", "ru": "Крик", "ar": "صيحة", "zh": "吼叫"},
+        {"tr": "Orman", "en": "Jungle", "es": "Selva", "fr": "Jungle", "de": "Dschungel", "it": "Giungla", "pt": "Selva", "ru": "Джунгли", "ar": "أدغال", "zh": "丛林"}
       ]
     },
     {
       "word": {"tr": "Robin Hood", "en": "Robin Hood", "es": "Robin Hood", "fr": "Robin des Bois", "de": "Robin Hood", "it": "Robin Hood", "pt": "Robin Hood", "ru": "Робин Гуд", "ar": "روبن هود", "zh": "罗宾汉"},
       "clues": [
         {"tr": "Ok", "en": "Arrow", "es": "Flecha", "fr": "Flèche", "de": "Pfeil", "it": "Freccia", "pt": "Flecha", "ru": "Стрела", "ar": "سهم", "zh": "箭"},
-        {"tr": "Fakirler", "en": "The poor", "es": "Los pobres", "fr": "Les pauvres", "de": "Die Armen", "it": "I poveri", "pt": "Os pobres", "ru": "Бедные", "ar": "الفقراء", "zh": "穷人"}
+        {"tr": "Hırsız", "en": "Thief", "es": "Ladrón", "fr": "Voleur", "de": "Dieb", "it": "Ladro", "pt": "Ladrão", "ru": "Вор", "ar": "لص", "zh": "小偷"}
       ]
     },
     {
       "word": {"tr": "Şirinler", "en": "Smurfs", "es": "Pitufos", "fr": "Schtroumpfs", "de": "Schlümpfe", "it": "Puffi", "pt": "Smurfs", "ru": "Смурфики", "ar": "السنافر", "zh": "蓝精灵"},
       "clues": [
-        {"tr": "Mavi", "en": "Blue", "es": "Azul", "fr": "Bleu", "de": "Blau", "it": "Blu", "pt": "Azul", "ru": "Синий", "ar": "أزرق", "zh": "蓝色"},
-        {"tr": "Küçük", "en": "Small", "es": "Pequeño", "fr": "Petit", "de": "Klein", "it": "Piccolo", "pt": "Pequeno", "ru": "Маленький", "ar": "صغير", "zh": "小"}
+        {"tr": "Mantar", "en": "Mushroom", "es": "Hongo", "fr": "Champignon", "de": "Pilz", "it": "Fungo", "pt": "Cogumelo", "ru": "Гриб", "ar": "فطر", "zh": "蘑菇"},
+        {"tr": "Köy", "en": "Village", "es": "Aldea", "fr": "Village", "de": "Dorf", "it": "Villaggio", "pt": "Vila", "ru": "Деревня", "ar": "قرية", "zh": "村庄"}
       ]
     },
     {
       "word": {"tr": "Shrek", "en": "Shrek", "es": "Shrek", "fr": "Shrek", "de": "Shrek", "it": "Shrek", "pt": "Shrek", "ru": "Шрек", "ar": "شريك", "zh": "史莱克"},
       "clues": [
         {"tr": "Yeşil", "en": "Green", "es": "Verde", "fr": "Vert", "de": "Grün", "it": "Verde", "pt": "Verde", "ru": "Зелёный", "ar": "أخضر", "zh": "绿色"},
-        {"tr": "Bataklık", "en": "Swamp", "es": "Pantano", "fr": "Marais", "de": "Sumpf", "it": "Palude", "pt": "Pântano", "ru": "Болото", "ar": "مستنقع", "zh": "沼泽"}
+        {"tr": "Soğan", "en": "Onion", "es": "Cebolla", "fr": "Oignon", "de": "Zwiebel", "it": "Cipolla", "pt": "Cebola", "ru": "Лук", "ar": "بصل", "zh": "洋葱"}
       ]
     },
     {
       "word": {"tr": "Pikachu", "en": "Pikachu", "es": "Pikachu", "fr": "Pikachu", "de": "Pikachu", "it": "Pikachu", "pt": "Pikachu", "ru": "Пикачу", "ar": "بيكاتشو", "zh": "皮卡丘"},
       "clues": [
         {"tr": "Sarı", "en": "Yellow", "es": "Amarillo", "fr": "Jaune", "de": "Gelb", "it": "Giallo", "pt": "Amarelo", "ru": "Жёлтый", "ar": "أصفر", "zh": "黄色"},
-        {"tr": "Elektrik", "en": "Electricity", "es": "Electricidad", "fr": "Électricité", "de": "Strom", "it": "Elettricità", "pt": "Eletricidade", "ru": "Электричество", "ar": "كهرباء", "zh": "电"}
+        {"tr": "Fare", "en": "Mouse", "es": "Ratón", "fr": "Souris", "de": "Maus", "it": "Topo", "pt": "Rato", "ru": "Мышь", "ar": "فأر", "zh": "老鼠"}
       ]
     },
     {
       "word": {"tr": "Mario", "en": "Mario", "es": "Mario", "fr": "Mario", "de": "Mario", "it": "Mario", "pt": "Mario", "ru": "Марио", "ar": "ماريو", "zh": "马里奥"},
       "clues": [
         {"tr": "Bıyık", "en": "Mustache", "es": "Bigote", "fr": "Moustache", "de": "Schnurrbart", "it": "Baffi", "pt": "Bigode", "ru": "Усы", "ar": "شارب", "zh": "胡子"},
-        {"tr": "Mantar", "en": "Mushroom", "es": "Champiñón", "fr": "Champignon", "de": "Pilz", "it": "Fungo", "pt": "Cogumelo", "ru": "Гриб", "ar": "فطر", "zh": "蘑菇"}
+        {"tr": "Zıplamak", "en": "Jumping", "es": "Saltar", "fr": "Sauter", "de": "Springen", "it": "Saltare", "pt": "Pular", "ru": "Прыжки", "ar": "قفز", "zh": "跳跃"}
       ]
     },
     {
       "word": {"tr": "Elsa", "en": "Elsa", "es": "Elsa", "fr": "Elsa", "de": "Elsa", "it": "Elsa", "pt": "Elsa", "ru": "Эльза", "ar": "إلسا", "zh": "艾莎"},
       "clues": [
-        {"tr": "Buz", "en": "Ice", "es": "Hielo", "fr": "Glace", "de": "Eis", "it": "Ghiaccio", "pt": "Gelo", "ru": "Лёд", "ar": "جليد", "zh": "冰"},
-        {"tr": "Şarkı", "en": "Song", "es": "Canción", "fr": "Chanson", "de": "Lied", "it": "Canzone", "pt": "Canção", "ru": "Песня", "ar": "أغنية", "zh": "歌曲"}
+        {"tr": "Şarkı", "en": "Song", "es": "Canción", "fr": "Chanson", "de": "Lied", "it": "Canzone", "pt": "Música", "ru": "Песня", "ar": "أغنية", "zh": "歌曲"},
+        {"tr": "Kız kardeş", "en": "Sister", "es": "Hermana", "fr": "Sœur", "de": "Schwester", "it": "Sorella", "pt": "Irmã", "ru": "Сестра", "ar": "أخت", "zh": "妹妹"}
       ]
     },
     {
       "word": {"tr": "Alaaddin", "en": "Aladdin", "es": "Aladdín", "fr": "Aladdin", "de": "Aladdin", "it": "Aladdin", "pt": "Aladdin", "ru": "Аладдин", "ar": "علاء الدين", "zh": "阿拉丁"},
       "clues": [
-        {"tr": "Lamba", "en": "Lamp", "es": "Lámpara", "fr": "Lampe", "de": "Lampe", "it": "Lampada", "pt": "Lâmpada", "ru": "Лампа", "ar": "مصباح", "zh": "神灯"},
-        {"tr": "Halı", "en": "Carpet", "es": "Alfombra", "fr": "Tapis", "de": "Teppich", "it": "Tappeto", "pt": "Tapete", "ru": "Ковёр", "ar": "بساط", "zh": "飞毯"}
+        {"tr": "Maymun", "en": "Monkey", "es": "Mono", "fr": "Singe", "de": "Affe", "it": "Scimmia", "pt": "Macaco", "ru": "Обезьяна", "ar": "قرد", "zh": "猴子"},
+        {"tr": "Saray", "en": "Palace", "es": "Palacio", "fr": "Palais", "de": "Palast", "it": "Palazzo", "pt": "Palácio", "ru": "Дворец", "ar": "قصر", "zh": "宫殿"}
       ]
     },
     {
       "word": {"tr": "James Bond", "en": "James Bond", "es": "James Bond", "fr": "James Bond", "de": "James Bond", "it": "James Bond", "pt": "James Bond", "ru": "Джеймс Бонд", "ar": "جيمس بوند", "zh": "詹姆斯·邦德"},
       "clues": [
-        {"tr": "Ajan", "en": "Agent", "es": "Agente", "fr": "Agent", "de": "Agent", "it": "Agente", "pt": "Agente", "ru": "Агент", "ar": "عميل", "zh": "特工"},
-        {"tr": "Smokin", "en": "Tuxedo", "es": "Esmoquin", "fr": "Smoking", "de": "Smoking", "it": "Smoking", "pt": "Smoking", "ru": "Смокинг", "ar": "بدلة سهرة", "zh": "燕尾服"}
+        {"tr": "Smokin", "en": "Tuxedo", "es": "Esmoquin", "fr": "Smoking", "de": "Smoking", "it": "Smoking", "pt": "Smoking", "ru": "Смокинг", "ar": "بدلة سهرة", "zh": "燕尾服"},
+        {"tr": "Araba", "en": "Cars", "es": "Coches", "fr": "Voitures", "de": "Autos", "it": "Auto", "pt": "Carros", "ru": "Машины", "ar": "سيارات", "zh": "跑车"}
       ]
     },
     {
       "word": {"tr": "Hulk", "en": "Hulk", "es": "Hulk", "fr": "Hulk", "de": "Hulk", "it": "Hulk", "pt": "Hulk", "ru": "Халк", "ar": "هالك", "zh": "绿巨人"},
       "clues": [
-        {"tr": "Öfke", "en": "Anger", "es": "Ira", "fr": "Colère", "de": "Wut", "it": "Rabbia", "pt": "Raiva", "ru": "Гнев", "ar": "غضب", "zh": "愤怒"},
-        {"tr": "Kaslar", "en": "Muscles", "es": "Músculos", "fr": "Muscles", "de": "Muskeln", "it": "Muscoli", "pt": "Músculos", "ru": "Мускулы", "ar": "عضلات", "zh": "肌肉"}
+        {"tr": "Kaslar", "en": "Muscles", "es": "Músculos", "fr": "Muscles", "de": "Muskeln", "it": "Muscoli", "pt": "Músculos", "ru": "Мышцы", "ar": "عضلات", "zh": "肌肉"},
+        {"tr": "Yırtık", "en": "Torn clothes", "es": "Ropa rota", "fr": "Vêtements déchirés", "de": "Zerrissene Kleidung", "it": "Vestiti strappati", "pt": "Roupa rasgada", "ru": "Рваная одежда", "ar": "ملابس ممزقة", "zh": "撕破的衣服"}
       ]
     },
     {
       "word": {"tr": "Peter Pan", "en": "Peter Pan", "es": "Peter Pan", "fr": "Peter Pan", "de": "Peter Pan", "it": "Peter Pan", "pt": "Peter Pan", "ru": "Питер Пэн", "ar": "بيتر بان", "zh": "彼得·潘"},
       "clues": [
-        {"tr": "Uçmak", "en": "Fly", "es": "Volar", "fr": "Voler", "de": "Fliegen", "it": "Volare", "pt": "Voar", "ru": "Летать", "ar": "يطير", "zh": "飞"},
-        {"tr": "Büyümemek", "en": "Never grow up", "es": "No crecer", "fr": "Ne pas grandir", "de": "Nie erwachsen werden", "it": "Non crescere", "pt": "Não crescer", "ru": "Не взрослеть", "ar": "لا يكبر", "zh": "永不长大"}
+        {"tr": "Gölge", "en": "Shadow", "es": "Sombra", "fr": "Ombre", "de": "Schatten", "it": "Ombra", "pt": "Sombra", "ru": "Тень", "ar": "ظل", "zh": "影子"},
+        {"tr": "Uçmak", "en": "Flying", "es": "Volar", "fr": "Voler", "de": "Fliegen", "it": "Volare", "pt": "Voar", "ru": "Полёт", "ar": "طيران", "zh": "飞翔"}
       ]
     },
     {
       "word": {"tr": "Sünger Bob", "en": "SpongeBob", "es": "Bob Esponja", "fr": "Bob l'éponge", "de": "SpongeBob", "it": "SpongeBob", "pt": "Bob Esponja", "ru": "Губка Боб", "ar": "سبونج بوب", "zh": "海绵宝宝"},
       "clues": [
-        {"tr": "Ananas", "en": "Pineapple", "es": "Piña", "fr": "Ananas", "de": "Ananas", "it": "Ananas", "pt": "Abacaxi", "ru": "Ананас", "ar": "أناناس", "zh": "菠萝"},
-        {"tr": "Deniz altı", "en": "Under the sea", "es": "Bajo el mar", "fr": "Sous la mer", "de": "Unter dem Meer", "it": "Sotto il mare", "pt": "Fundo do mar", "ru": "Под водой", "ar": "تحت البحر", "zh": "海底"}
+        {"tr": "Kare", "en": "Square", "es": "Cuadrado", "fr": "Carré", "de": "Quadrat", "it": "Quadrato", "pt": "Quadrado", "ru": "Квадрат", "ar": "مربع", "zh": "方形"},
+        {"tr": "Hamburger", "en": "Burger", "es": "Hamburguesa", "fr": "Burger", "de": "Burger", "it": "Hamburger", "pt": "Hambúrguer", "ru": "Бургер", "ar": "برغر", "zh": "汉堡"}
+      ]
+    },
+    {
+      "word": {"tr": "Darth Vader", "en": "Darth Vader", "es": "Darth Vader", "fr": "Dark Vador", "de": "Darth Vader", "it": "Darth Vader", "pt": "Darth Vader", "ru": "Дарт Вейдер", "ar": "دارث فيدر", "zh": "达斯·维达"},
+      "clues": [
+        {"tr": "Nefes", "en": "Breathing", "es": "Respiración", "fr": "Respiration", "de": "Atmen", "it": "Respiro", "pt": "Respiração", "ru": "Дыхание", "ar": "تنفس", "zh": "呼吸声"},
+        {"tr": "Baba", "en": "Father", "es": "Padre", "fr": "Père", "de": "Vater", "it": "Padre", "pt": "Pai", "ru": "Отец", "ar": "أب", "zh": "父亲"}
+      ]
+    },
+    {
+      "word": {"tr": "Garfield", "en": "Garfield", "es": "Garfield", "fr": "Garfield", "de": "Garfield", "it": "Garfield", "pt": "Garfield", "ru": "Гарфилд", "ar": "غارفيلد", "zh": "加菲猫"},
+      "clues": [
+        {"tr": "Turuncu", "en": "Orange", "es": "Naranja", "fr": "Orange", "de": "Orange", "it": "Arancione", "pt": "Laranja", "ru": "Оранжевый", "ar": "برتقالي", "zh": "橙色"},
+        {"tr": "Pazartesi", "en": "Monday", "es": "Lunes", "fr": "Lundi", "de": "Montag", "it": "Lunedì", "pt": "Segunda-feira", "ru": "Понедельник", "ar": "الاثنين", "zh": "星期一"}
+      ]
+    },
+    {
+      "word": {"tr": "Minyon", "en": "Minion", "es": "Minion", "fr": "Minion", "de": "Minion", "it": "Minion", "pt": "Minion", "ru": "Миньон", "ar": "مينيون", "zh": "小黄人"},
+      "clues": [
+        {"tr": "Muz", "en": "Banana", "es": "Plátano", "fr": "Banane", "de": "Banane", "it": "Banana", "pt": "Banana", "ru": "Банан", "ar": "موز", "zh": "香蕉"},
+        {"tr": "Tulum", "en": "Overalls", "es": "Overol", "fr": "Salopette", "de": "Latzhose", "it": "Salopette", "pt": "Macacão", "ru": "Комбинезон", "ar": "أفرول", "zh": "背带裤"}
+      ]
+    },
+    {
+      "word": {"tr": "Zorro", "en": "Zorro", "es": "Zorro", "fr": "Zorro", "de": "Zorro", "it": "Zorro", "pt": "Zorro", "ru": "Зорро", "ar": "زورو", "zh": "佐罗"},
+      "clues": [
+        {"tr": "Maske", "en": "Mask", "es": "Máscara", "fr": "Masque", "de": "Maske", "it": "Maschera", "pt": "Máscara", "ru": "Маска", "ar": "قناع", "zh": "面具"},
+        {"tr": "Kılıç", "en": "Sword", "es": "Espada", "fr": "Épée", "de": "Degen", "it": "Spada", "pt": "Espada", "ru": "Шпага", "ar": "سيف", "zh": "剑"}
       ]
     }
   ]

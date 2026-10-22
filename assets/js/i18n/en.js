@@ -124,7 +124,7 @@ export default {
 
   premiumTitle: 'Premium',
   premiumLead: 'Start for free and unlock every category whenever you like.',
-  premium1: '2 free categories per mode in Words and Drawing',
+  premium1: 'A 40-word Mixed pack is free in Words and Drawing',
   premium2: 'Vampires & Villagers is completely free',
   premium3: 'Premium unlocks every category, plus new ones as they are added',
   premium4: 'Monthly or yearly plan; new subscribers get a 3-day free trial on the yearly plan',
@@ -140,7 +140,7 @@ export default {
   q3: 'Do I need an internet connection?',
   a3: 'No, the game works offline. When you are online, new word packs download automatically.',
   q4: 'Is it free?',
-  a4: 'It is free to download. Words and Drawing have 2 free categories per mode, and Vampires & Villagers is entirely free. The other categories unlock with a Premium subscription.',
+  a4: 'It is free to download. Words and Drawing include a free 40-word Mixed pack, and Vampires & Villagers is entirely free. The other categories unlock with a Premium subscription.',
   q5: 'Can I suggest words?',
   a5: 'Absolutely! The word packs live in a public GitHub repository, where you can suggest new words, hints or categories.',
   a5Link: 'Here’s how',

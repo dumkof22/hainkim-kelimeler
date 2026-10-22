@@ -5,108 +5,94 @@
   "drawable": true,
   "words": [
     {
-      "word": {"tr": "Elma", "en": "Apple", "es": "Manzana", "fr": "Pomme", "de": "Apfel", "it": "Mela", "pt": "Maçã", "ru": "Яблоко", "ar": "تفاحة", "zh": "苹果"},
+      "word": {"tr": "Yeşil elma", "en": "Green apple", "es": "Manzana verde", "fr": "Pomme verte", "de": "Grüner Apfel", "it": "Mela verde", "pt": "Maçã verde", "ru": "Зелёное яблоко", "ar": "تفاحة خضراء", "zh": "青苹果"},
       "clues": [
-        {"tr": "Kırmızı", "en": "Red", "es": "Rojo", "fr": "Rouge", "de": "Rot", "it": "Rosso", "pt": "Vermelho", "ru": "Красный", "ar": "أحمر", "zh": "红色"},
-        {"tr": "Doktor", "en": "Doctor", "es": "Médico", "fr": "Médecin", "de": "Arzt", "it": "Dottore", "pt": "Médico", "ru": "Доктор", "ar": "طبيب", "zh": "医生"}
+        {"tr": "Ekşi", "en": "Sour", "es": "Ácido", "fr": "Acide", "de": "Sauer", "it": "Aspro", "pt": "Azedo", "ru": "Кислый", "ar": "حامض", "zh": "酸"},
+        {"tr": "Çıtır", "en": "Crunchy", "es": "Crujiente", "fr": "Croquant", "de": "Knackig", "it": "Croccante", "pt": "Crocante", "ru": "Хрустящий", "ar": "مقرمش", "zh": "脆"}
       ]
     },
     {
-      "word": {"tr": "Muz", "en": "Banana", "es": "Plátano", "fr": "Banane", "de": "Banane", "it": "Banana", "pt": "Banana", "ru": "Банан", "ar": "موز", "zh": "香蕉"},
+      "word": {"tr": "Muz kabuğu", "en": "Banana peel", "es": "Cáscara de plátano", "fr": "Peau de banane", "de": "Bananenschale", "it": "Buccia di banana", "pt": "Casca de banana", "ru": "Банановая кожура", "ar": "قشرة الموز", "zh": "香蕉皮"},
       "clues": [
-        {"tr": "Sarı", "en": "Yellow", "es": "Amarillo", "fr": "Jaune", "de": "Gelb", "it": "Giallo", "pt": "Amarelo", "ru": "Жёлтый", "ar": "أصفر", "zh": "黄色"},
-        {"tr": "Kabuk", "en": "Peel", "es": "Cáscara", "fr": "Peau", "de": "Schale", "it": "Buccia", "pt": "Casca", "ru": "Кожура", "ar": "قشرة", "zh": "果皮"}
-      ]
-    },
-    {
-      "word": {"tr": "Çilek", "en": "Strawberry", "es": "Fresa", "fr": "Fraise", "de": "Erdbeere", "it": "Fragola", "pt": "Morango", "ru": "Клубника", "ar": "فراولة", "zh": "草莓"},
-      "clues": [
-        {"tr": "Krema", "en": "Cream", "es": "Nata", "fr": "Crème", "de": "Sahne", "it": "Panna", "pt": "Creme", "ru": "Сливки", "ar": "كريمة", "zh": "奶油"},
-        {"tr": "Bahar", "en": "Spring", "es": "Primavera", "fr": "Printemps", "de": "Frühling", "it": "Primavera", "pt": "Primavera", "ru": "Весна", "ar": "ربيع", "zh": "春天"}
+        {"tr": "Kayma", "en": "Slipping", "es": "Resbalón", "fr": "Glissade", "de": "Ausrutschen", "it": "Scivolone", "pt": "Escorregão", "ru": "Поскользнуться", "ar": "انزلاق", "zh": "滑倒"},
+        {"tr": "Çizgi film", "en": "Cartoons", "es": "Dibujos animados", "fr": "Dessins animés", "de": "Zeichentrick", "it": "Cartoni animati", "pt": "Desenho animado", "ru": "Мультики", "ar": "رسوم متحركة", "zh": "动画片"}
       ]
     },
     {
       "word": {"tr": "Karpuz", "en": "Watermelon", "es": "Sandía", "fr": "Pastèque", "de": "Wassermelone", "it": "Anguria", "pt": "Melancia", "ru": "Арбуз", "ar": "بطيخ", "zh": "西瓜"},
       "clues": [
-        {"tr": "Çekirdek", "en": "Seeds", "es": "Semillas", "fr": "Pépins", "de": "Kerne", "it": "Semi", "pt": "Sementes", "ru": "Семечки", "ar": "بذور", "zh": "籽"},
-        {"tr": "Sulu", "en": "Juicy", "es": "Jugoso", "fr": "Juteux", "de": "Saftig", "it": "Succoso", "pt": "Suculento", "ru": "Сочный", "ar": "عصيري", "zh": "多汁"}
+        {"tr": "Yaz", "en": "Summer", "es": "Verano", "fr": "Été", "de": "Sommer", "it": "Estate", "pt": "Verão", "ru": "Лето", "ar": "صيف", "zh": "夏天"},
+        {"tr": "Peynir", "en": "Cheese", "es": "Queso", "fr": "Fromage", "de": "Käse", "it": "Formaggio", "pt": "Queijo", "ru": "Сыр", "ar": "جبن", "zh": "奶酪"}
       ]
     },
     {
-      "word": {"tr": "Portakal", "en": "Orange", "es": "Naranja", "fr": "Orange", "de": "Orange", "it": "Arancia", "pt": "Laranja", "ru": "Апельсин", "ar": "برتقال", "zh": "橙子"},
+      "word": {"tr": "Kan portakalı", "en": "Blood orange", "es": "Naranja sanguina", "fr": "Orange sanguine", "de": "Blutorange", "it": "Arancia rossa", "pt": "Laranja sanguínea", "ru": "Красный апельсин", "ar": "برتقال دموي", "zh": "血橙"},
       "clues": [
-        {"tr": "C vitamini", "en": "Vitamin C", "es": "Vitamina C", "fr": "Vitamine C", "de": "Vitamin C", "it": "Vitamina C", "pt": "Vitamina C", "ru": "Витамин C", "ar": "فيتامين سي", "zh": "维生素C"},
-        {"tr": "Meyve suyu", "en": "Juice", "es": "Zumo", "fr": "Jus", "de": "Saft", "it": "Succo", "pt": "Suco", "ru": "Сок", "ar": "عصير", "zh": "果汁"}
+        {"tr": "Sıkmak", "en": "Squeeze", "es": "Exprimir", "fr": "Presser", "de": "Auspressen", "it": "Spremere", "pt": "Espremer", "ru": "Выжимать", "ar": "عصر", "zh": "挤压"},
+        {"tr": "Kış", "en": "Winter", "es": "Invierno", "fr": "Hiver", "de": "Winter", "it": "Inverno", "pt": "Inverno", "ru": "Зима", "ar": "شتاء", "zh": "冬天"}
       ]
     },
     {
       "word": {"tr": "Limon", "en": "Lemon", "es": "Limón", "fr": "Citron", "de": "Zitrone", "it": "Limone", "pt": "Limão", "ru": "Лимон", "ar": "ليمون", "zh": "柠檬"},
       "clues": [
-        {"tr": "Ekşi", "en": "Sour", "es": "Ácido", "fr": "Acide", "de": "Sauer", "it": "Aspro", "pt": "Azedo", "ru": "Кислый", "ar": "حامض", "zh": "酸"},
-        {"tr": "Narenciye", "en": "Citrus", "es": "Cítrico", "fr": "Agrume", "de": "Zitrusfrucht", "it": "Agrume", "pt": "Cítrico", "ru": "Цитрус", "ar": "حمضيات", "zh": "柑橘"}
+        {"tr": "Çay", "en": "Tea", "es": "Té", "fr": "Thé", "de": "Tee", "it": "Tè", "pt": "Chá", "ru": "Чай", "ar": "شاي", "zh": "茶"},
+        {"tr": "Balık", "en": "Fish", "es": "Pescado", "fr": "Poisson", "de": "Fisch", "it": "Pesce", "pt": "Peixe", "ru": "Рыба", "ar": "سمك", "zh": "鱼"}
       ]
     },
     {
-      "word": {"tr": "Üzüm", "en": "Grapes", "es": "Uvas", "fr": "Raisin", "de": "Trauben", "it": "Uva", "pt": "Uvas", "ru": "Виноград", "ar": "عنب", "zh": "葡萄"},
+      "word": {"tr": "Kuru üzüm", "en": "Raisins", "es": "Pasas", "fr": "Raisins secs", "de": "Rosinen", "it": "Uvetta", "pt": "Uva-passa", "ru": "Изюм", "ar": "زبيب", "zh": "葡萄干"},
       "clues": [
-        {"tr": "Salkım", "en": "Bunch", "es": "Racimo", "fr": "Grappe", "de": "Rispe", "it": "Grappolo", "pt": "Cacho", "ru": "Гроздь", "ar": "عنقود", "zh": "一串"},
-        {"tr": "Bağ", "en": "Vineyard", "es": "Viñedo", "fr": "Vignoble", "de": "Weinberg", "it": "Vigneto", "pt": "Vinha", "ru": "Виноградник", "ar": "كرم", "zh": "葡萄园"}
+        {"tr": "Buruşuk", "en": "Wrinkled", "es": "Arrugado", "fr": "Ridé", "de": "Runzlig", "it": "Rugoso", "pt": "Enrugado", "ru": "Морщинистый", "ar": "مجعد", "zh": "皱巴巴"},
+        {"tr": "Güneş", "en": "Sun", "es": "Sol", "fr": "Soleil", "de": "Sonne", "it": "Sole", "pt": "Sol", "ru": "Солнце", "ar": "شمس", "zh": "太阳"}
       ]
     },
     {
       "word": {"tr": "Kiraz", "en": "Cherry", "es": "Cereza", "fr": "Cerise", "de": "Kirsche", "it": "Ciliegia", "pt": "Cereja", "ru": "Вишня", "ar": "كرز", "zh": "樱桃"},
       "clues": [
         {"tr": "Çift", "en": "Pair", "es": "Par", "fr": "Paire", "de": "Paar", "it": "Coppia", "pt": "Par", "ru": "Пара", "ar": "زوج", "zh": "一对"},
-        {"tr": "Sap", "en": "Stem", "es": "Tallo", "fr": "Queue", "de": "Stiel", "it": "Gambo", "pt": "Talo", "ru": "Черенок", "ar": "عنق", "zh": "梗"}
+        {"tr": "Pasta süsü", "en": "Cake topping", "es": "Decoración de tarta", "fr": "Décoration de gâteau", "de": "Tortendeko", "it": "Decorazione per torte", "pt": "Enfeite de bolo", "ru": "Украшение торта", "ar": "زينة الكعكة", "zh": "蛋糕装饰"}
       ]
     },
     {
       "word": {"tr": "Ananas", "en": "Pineapple", "es": "Piña", "fr": "Ananas", "de": "Ananas", "it": "Ananas", "pt": "Abacaxi", "ru": "Ананас", "ar": "أناناس", "zh": "菠萝"},
       "clues": [
-        {"tr": "Tropikal", "en": "Tropical", "es": "Tropical", "fr": "Tropical", "de": "Tropisch", "it": "Tropicale", "pt": "Tropical", "ru": "Тропический", "ar": "استوائي", "zh": "热带"},
-        {"tr": "Dikenli", "en": "Spiky", "es": "Puntiagudo", "fr": "Piquant", "de": "Stachelig", "it": "Spinoso", "pt": "Espinhoso", "ru": "Колючий", "ar": "شائك", "zh": "带刺"}
-      ]
-    },
-    {
-      "word": {"tr": "Armut", "en": "Pear", "es": "Pera", "fr": "Poire", "de": "Birne", "it": "Pera", "pt": "Pera", "ru": "Груша", "ar": "كمثرى", "zh": "梨"},
-      "clues": [
-        {"tr": "Ağaç", "en": "Tree", "es": "Árbol", "fr": "Arbre", "de": "Baum", "it": "Albero", "pt": "Árvore", "ru": "Дерево", "ar": "شجرة", "zh": "树"},
-        {"tr": "Yeşil", "en": "Green", "es": "Verde", "fr": "Vert", "de": "Grün", "it": "Verde", "pt": "Verde", "ru": "Зелёный", "ar": "أخضر", "zh": "绿色"}
+        {"tr": "Taç", "en": "Crown", "es": "Corona", "fr": "Couronne", "de": "Krone", "it": "Corona", "pt": "Coroa", "ru": "Корона", "ar": "تاج", "zh": "王冠"},
+        {"tr": "Pizza", "en": "Pizza", "es": "Pizza", "fr": "Pizza", "de": "Pizza", "it": "Pizza", "pt": "Pizza", "ru": "Пицца", "ar": "بيتزا", "zh": "披萨"}
       ]
     },
     {
       "word": {"tr": "Şeftali", "en": "Peach", "es": "Melocotón", "fr": "Pêche", "de": "Pfirsich", "it": "Pesca", "pt": "Pêssego", "ru": "Персик", "ar": "خوخ", "zh": "桃子"},
       "clues": [
         {"tr": "Tüylü", "en": "Fuzzy", "es": "Aterciopelado", "fr": "Duveteux", "de": "Flaumig", "it": "Vellutato", "pt": "Aveludado", "ru": "Пушистый", "ar": "زغبي", "zh": "毛茸茸"},
-        {"tr": "Yaz", "en": "Summer", "es": "Verano", "fr": "Été", "de": "Sommer", "it": "Estate", "pt": "Verão", "ru": "Лето", "ar": "صيف", "zh": "夏天"}
+        {"tr": "Buzlu çay", "en": "Iced tea", "es": "Té helado", "fr": "Thé glacé", "de": "Eistee", "it": "Tè freddo", "pt": "Chá gelado", "ru": "Холодный чай", "ar": "شاي مثلج", "zh": "冰茶"}
       ]
     },
     {
       "word": {"tr": "Mango", "en": "Mango", "es": "Mango", "fr": "Mangue", "de": "Mango", "it": "Mango", "pt": "Manga", "ru": "Манго", "ar": "مانجو", "zh": "芒果"},
       "clues": [
-        {"tr": "Tatlı", "en": "Sweet", "es": "Dulce", "fr": "Sucré", "de": "Süß", "it": "Dolce", "pt": "Doce", "ru": "Сладкий", "ar": "حلو", "zh": "甜"},
-        {"tr": "Hindistan", "en": "India", "es": "India", "fr": "Inde", "de": "Indien", "it": "India", "pt": "Índia", "ru": "Индия", "ar": "الهند", "zh": "印度"}
+        {"tr": "Turuncu", "en": "Orange", "es": "Naranja", "fr": "Orange", "de": "Orange", "it": "Arancione", "pt": "Laranja", "ru": "Оранжевый", "ar": "برتقالي", "zh": "橙色"},
+        {"tr": "Smoothie", "en": "Smoothie", "es": "Batido", "fr": "Smoothie", "de": "Smoothie", "it": "Frullato", "pt": "Vitamina", "ru": "Смузи", "ar": "سموذي", "zh": "奶昔"}
       ]
     },
     {
       "word": {"tr": "Avokado", "en": "Avocado", "es": "Aguacate", "fr": "Avocat", "de": "Avocado", "it": "Avocado", "pt": "Abacate", "ru": "Авокадо", "ar": "أفوكادو", "zh": "牛油果"},
       "clues": [
-        {"tr": "Büyük çekirdek", "en": "Big pit", "es": "Hueso grande", "fr": "Gros noyau", "de": "Großer Kern", "it": "Nocciolo grande", "pt": "Caroço grande", "ru": "Большая косточка", "ar": "نواة كبيرة", "zh": "大果核"},
-        {"tr": "Sağlıklı", "en": "Healthy", "es": "Saludable", "fr": "Sain", "de": "Gesund", "it": "Sano", "pt": "Saudável", "ru": "Полезный", "ar": "صحي", "zh": "健康"}
+        {"tr": "Sağlıklı", "en": "Healthy", "es": "Saludable", "fr": "Sain", "de": "Gesund", "it": "Sano", "pt": "Saudável", "ru": "Полезный", "ar": "صحي", "zh": "健康"},
+        {"tr": "Olgunlaşmak", "en": "Ripening", "es": "Madurar", "fr": "Mûrir", "de": "Reifen", "it": "Maturare", "pt": "Amadurecer", "ru": "Дозревать", "ar": "نضوج", "zh": "成熟"}
       ]
     },
     {
       "word": {"tr": "Hindistan cevizi", "en": "Coconut", "es": "Coco", "fr": "Noix de coco", "de": "Kokosnuss", "it": "Cocco", "pt": "Coco", "ru": "Кокос", "ar": "جوز الهند", "zh": "椰子"},
       "clues": [
-        {"tr": "Palmiye", "en": "Palm tree", "es": "Palmera", "fr": "Palmier", "de": "Palme", "it": "Palma", "pt": "Palmeira", "ru": "Пальма", "ar": "نخلة", "zh": "棕榈树"},
-        {"tr": "Sert", "en": "Hard", "es": "Duro", "fr": "Dur", "de": "Hart", "it": "Duro", "pt": "Duro", "ru": "Твёрдый", "ar": "صلب", "zh": "坚硬"}
+        {"tr": "Sert", "en": "Hard", "es": "Duro", "fr": "Dur", "de": "Hart", "it": "Duro", "pt": "Duro", "ru": "Твёрдый", "ar": "صلب", "zh": "坚硬"},
+        {"tr": "Süt", "en": "Milk", "es": "Leche", "fr": "Lait", "de": "Milch", "it": "Latte", "pt": "Leite", "ru": "Молоко", "ar": "حليب", "zh": "奶"}
       ]
     },
     {
-      "word": {"tr": "Domates", "en": "Tomato", "es": "Tomate", "fr": "Tomate", "de": "Tomate", "it": "Pomodoro", "pt": "Tomate", "ru": "Помидор", "ar": "طماطم", "zh": "番茄"},
+      "word": {"tr": "Çeri domates", "en": "Cherry tomato", "es": "Tomate cherry", "fr": "Tomate cerise", "de": "Kirschtomate", "it": "Pomodorino", "pt": "Tomate-cereja", "ru": "Помидоры черри", "ar": "طماطم كرزية", "zh": "圣女果"},
       "clues": [
-        {"tr": "Salata", "en": "Salad", "es": "Ensalada", "fr": "Salade", "de": "Salat", "it": "Insalata", "pt": "Salada", "ru": "Салат", "ar": "سلطة", "zh": "沙拉"},
-        {"tr": "Sos", "en": "Sauce", "es": "Salsa", "fr": "Sauce", "de": "Soße", "it": "Sugo", "pt": "Molho", "ru": "Соус", "ar": "صلصة", "zh": "酱汁"}
+        {"tr": "Küçük", "en": "Small", "es": "Pequeño", "fr": "Petit", "de": "Klein", "it": "Piccolo", "pt": "Pequeno", "ru": "Маленький", "ar": "صغير", "zh": "小"},
+        {"tr": "Salata", "en": "Salad", "es": "Ensalada", "fr": "Salade", "de": "Salat", "it": "Insalata", "pt": "Salada", "ru": "Салат", "ar": "سلطة", "zh": "沙拉"}
       ]
     },
     {
@@ -117,45 +103,45 @@
       ]
     },
     {
-      "word": {"tr": "Havuç", "en": "Carrot", "es": "Zanahoria", "fr": "Carotte", "de": "Karotte", "it": "Carota", "pt": "Cenoura", "ru": "Морковь", "ar": "جزر", "zh": "胡萝卜"},
+      "word": {"tr": "Turp", "en": "Radish", "es": "Rábano", "fr": "Radis", "de": "Radieschen", "it": "Ravanello", "pt": "Rabanete", "ru": "Редиска", "ar": "فجل", "zh": "小萝卜"},
       "clues": [
-        {"tr": "Tavşan", "en": "Rabbit", "es": "Conejo", "fr": "Lapin", "de": "Hase", "it": "Coniglio", "pt": "Coelho", "ru": "Кролик", "ar": "أرنب", "zh": "兔子"},
-        {"tr": "Turuncu", "en": "Orange", "es": "Naranja", "fr": "Orange", "de": "Orange", "it": "Arancione", "pt": "Laranja", "ru": "Оранжевый", "ar": "برتقالي", "zh": "橙色"}
+        {"tr": "Acı", "en": "Sharp", "es": "Picante", "fr": "Piquant", "de": "Scharf", "it": "Piccante", "pt": "Picante", "ru": "Острый", "ar": "لاذع", "zh": "辛辣"},
+        {"tr": "Pembe", "en": "Pink", "es": "Rosa", "fr": "Rose", "de": "Rosa", "it": "Rosa", "pt": "Rosa", "ru": "Розовый", "ar": "وردي", "zh": "粉色"}
       ]
     },
     {
-      "word": {"tr": "Patates", "en": "Potato", "es": "Patata", "fr": "Pomme de terre", "de": "Kartoffel", "it": "Patata", "pt": "Batata", "ru": "Картофель", "ar": "بطاطس", "zh": "土豆"},
+      "word": {"tr": "Tatlı patates", "en": "Sweet potato", "es": "Batata", "fr": "Patate douce", "de": "Süßkartoffel", "it": "Patata dolce", "pt": "Batata-doce", "ru": "Батат", "ar": "بطاطا حلوة", "zh": "红薯"},
       "clues": [
-        {"tr": "Toprak", "en": "Soil", "es": "Tierra", "fr": "Terre", "de": "Erde", "it": "Terra", "pt": "Terra", "ru": "Земля", "ar": "تربة", "zh": "泥土"},
-        {"tr": "Püre", "en": "Mash", "es": "Puré", "fr": "Purée", "de": "Brei", "it": "Purè", "pt": "Purê", "ru": "Пюре", "ar": "مهروس", "zh": "泥"}
+        {"tr": "Fırın", "en": "Oven", "es": "Horno", "fr": "Four", "de": "Ofen", "it": "Forno", "pt": "Forno", "ru": "Духовка", "ar": "فرن", "zh": "烤箱"},
+        {"tr": "Sonbahar", "en": "Autumn", "es": "Otoño", "fr": "Automne", "de": "Herbst", "it": "Autunno", "pt": "Outono", "ru": "Осень", "ar": "خريف", "zh": "秋天"}
       ]
     },
     {
-      "word": {"tr": "Soğan", "en": "Onion", "es": "Cebolla", "fr": "Oignon", "de": "Zwiebel", "it": "Cipolla", "pt": "Cebola", "ru": "Лук", "ar": "بصل", "zh": "洋葱"},
+      "word": {"tr": "Taze soğan", "en": "Green onion", "es": "Cebolleta", "fr": "Oignon vert", "de": "Frühlingszwiebel", "it": "Cipollotto", "pt": "Cebolinha", "ru": "Зелёный лук", "ar": "بصل أخضر", "zh": "葱"},
       "clues": [
-        {"tr": "Gözyaşı", "en": "Tears", "es": "Lágrimas", "fr": "Larmes", "de": "Tränen", "it": "Lacrime", "pt": "Lágrimas", "ru": "Слёзы", "ar": "دموع", "zh": "眼泪"},
-        {"tr": "Katman", "en": "Layers", "es": "Capas", "fr": "Couches", "de": "Schichten", "it": "Strati", "pt": "Camadas", "ru": "Слои", "ar": "طبقات", "zh": "层层"}
+        {"tr": "Demet", "en": "Bunch", "es": "Manojo", "fr": "Botte", "de": "Bund", "it": "Mazzo", "pt": "Maço", "ru": "Пучок", "ar": "حزمة", "zh": "一把"},
+        {"tr": "Gözyaşı", "en": "Tears", "es": "Lágrimas", "fr": "Larmes", "de": "Tränen", "it": "Lacrime", "pt": "Lágrimas", "ru": "Слёзы", "ar": "دموع", "zh": "眼泪"}
       ]
     },
     {
       "word": {"tr": "Sarımsak", "en": "Garlic", "es": "Ajo", "fr": "Ail", "de": "Knoblauch", "it": "Aglio", "pt": "Alho", "ru": "Чеснок", "ar": "ثوم", "zh": "大蒜"},
       "clues": [
-        {"tr": "Vampir", "en": "Vampire", "es": "Vampiro", "fr": "Vampire", "de": "Vampir", "it": "Vampiro", "pt": "Vampiro", "ru": "Вампир", "ar": "مصاص دماء", "zh": "吸血鬼"},
+        {"tr": "Diş", "en": "Clove", "es": "Diente", "fr": "Gousse", "de": "Zehe", "it": "Spicchio", "pt": "Dente", "ru": "Зубчик", "ar": "فص", "zh": "瓣"},
         {"tr": "Koku", "en": "Smell", "es": "Olor", "fr": "Odeur", "de": "Geruch", "it": "Odore", "pt": "Cheiro", "ru": "Запах", "ar": "رائحة", "zh": "气味"}
       ]
     },
     {
-      "word": {"tr": "Mısır", "en": "Corn", "es": "Maíz", "fr": "Maïs", "de": "Mais", "it": "Mais", "pt": "Milho", "ru": "Кукуруза", "ar": "ذرة", "zh": "玉米"},
+      "word": {"tr": "Mısır koçanı", "en": "Corn on the cob", "es": "Mazorca", "fr": "Épi de maïs", "de": "Maiskolben", "it": "Pannocchia", "pt": "Espiga de milho", "ru": "Початок кукурузы", "ar": "كوز الذرة", "zh": "玉米棒"},
       "clues": [
         {"tr": "Sarı", "en": "Yellow", "es": "Amarillo", "fr": "Jaune", "de": "Gelb", "it": "Giallo", "pt": "Amarelo", "ru": "Жёлтый", "ar": "أصفر", "zh": "黄色"},
-        {"tr": "Patlamak", "en": "Pop", "es": "Estallar", "fr": "Éclater", "de": "Platzen", "it": "Scoppiare", "pt": "Estourar", "ru": "Лопаться", "ar": "يفرقع", "zh": "爆开"}
+        {"tr": "Tereyağı", "en": "Butter", "es": "Mantequilla", "fr": "Beurre", "de": "Butter", "it": "Burro", "pt": "Manteiga", "ru": "Сливочное масло", "ar": "زبدة", "zh": "黄油"}
       ]
     },
     {
       "word": {"tr": "Brokoli", "en": "Broccoli", "es": "Brócoli", "fr": "Brocoli", "de": "Brokkoli", "it": "Broccoli", "pt": "Brócolis", "ru": "Брокколи", "ar": "بروكلي", "zh": "西兰花"},
       "clues": [
-        {"tr": "Ağaç", "en": "Tree", "es": "Árbol", "fr": "Arbre", "de": "Baum", "it": "Albero", "pt": "Árvore", "ru": "Дерево", "ar": "شجرة", "zh": "树"},
-        {"tr": "Vitamin", "en": "Vitamin", "es": "Vitamina", "fr": "Vitamine", "de": "Vitamin", "it": "Vitamina", "pt": "Vitamina", "ru": "Витамин", "ar": "فيتامين", "zh": "维生素"}
+        {"tr": "Buhar", "en": "Steam", "es": "Vapor", "fr": "Vapeur", "de": "Dampf", "it": "Vapore", "pt": "Vapor", "ru": "Пар", "ar": "بخار", "zh": "蒸"},
+        {"tr": "Çocuklar", "en": "Kids", "es": "Niños", "fr": "Enfants", "de": "Kinder", "it": "Bambini", "pt": "Crianças", "ru": "Дети", "ar": "أطفال", "zh": "小孩"}
       ]
     },
     {
@@ -166,24 +152,38 @@
       ]
     },
     {
-      "word": {"tr": "Biber", "en": "Pepper", "es": "Pimiento", "fr": "Poivron", "de": "Paprika", "it": "Peperone", "pt": "Pimentão", "ru": "Перец", "ar": "فلفل", "zh": "辣椒"},
+      "word": {"tr": "Dolmalık biber", "en": "Bell pepper", "es": "Pimiento", "fr": "Poivron", "de": "Paprika", "it": "Peperone", "pt": "Pimentão", "ru": "Болгарский перец", "ar": "فلفل رومي", "zh": "甜椒"},
       "clues": [
-        {"tr": "Acı", "en": "Spicy", "es": "Picante", "fr": "Épicé", "de": "Scharf", "it": "Piccante", "pt": "Picante", "ru": "Острый", "ar": "حار", "zh": "辣"},
-        {"tr": "Dolma", "en": "Stuffed", "es": "Relleno", "fr": "Farci", "de": "Gefüllt", "it": "Ripieno", "pt": "Recheado", "ru": "Фаршированный", "ar": "محشي", "zh": "酿"}
+        {"tr": "İçi boş", "en": "Hollow", "es": "Hueco", "fr": "Creux", "de": "Hohl", "it": "Vuoto", "pt": "Oco", "ru": "Пустой внутри", "ar": "مجوف", "zh": "空心"},
+        {"tr": "Renk renk", "en": "Many colors", "es": "Colores", "fr": "Couleurs", "de": "Bunt", "it": "Colori", "pt": "Cores", "ru": "Разноцветный", "ar": "ألوان", "zh": "五颜六色"}
       ]
     },
     {
       "word": {"tr": "Balkabağı", "en": "Pumpkin", "es": "Calabaza", "fr": "Citrouille", "de": "Kürbis", "it": "Zucca", "pt": "Abóbora", "ru": "Тыква", "ar": "قرع", "zh": "南瓜"},
       "clues": [
-        {"tr": "Cadılar Bayramı", "en": "Halloween", "es": "Halloween", "fr": "Halloween", "de": "Halloween", "it": "Halloween", "pt": "Halloween", "ru": "Хэллоуин", "ar": "الهالوين", "zh": "万圣节"},
-        {"tr": "Sonbahar", "en": "Autumn", "es": "Otoño", "fr": "Automne", "de": "Herbst", "it": "Autunno", "pt": "Outono", "ru": "Осень", "ar": "خريف", "zh": "秋天"}
+        {"tr": "Çekirdek", "en": "Seeds", "es": "Pepitas", "fr": "Graines", "de": "Kerne", "it": "Semi", "pt": "Sementes", "ru": "Семечки", "ar": "بذور", "zh": "籽"},
+        {"tr": "Fener", "en": "Lantern", "es": "Farol", "fr": "Lanterne", "de": "Laterne", "it": "Lanterna", "pt": "Lanterna", "ru": "Фонарь", "ar": "فانوس", "zh": "灯笼"}
       ]
     },
     {
       "word": {"tr": "Mantar", "en": "Mushroom", "es": "Champiñón", "fr": "Champignon", "de": "Pilz", "it": "Fungo", "pt": "Cogumelo", "ru": "Гриб", "ar": "فطر", "zh": "蘑菇"},
       "clues": [
         {"tr": "Orman", "en": "Forest", "es": "Bosque", "fr": "Forêt", "de": "Wald", "it": "Foresta", "pt": "Floresta", "ru": "Лес", "ar": "غابة", "zh": "森林"},
-        {"tr": "Şapka", "en": "Cap", "es": "Sombrero", "fr": "Chapeau", "de": "Hut", "it": "Cappello", "pt": "Chapéu", "ru": "Шляпка", "ar": "قبعة", "zh": "伞盖"}
+        {"tr": "Yağmur sonrası", "en": "After rain", "es": "Tras la lluvia", "fr": "Après la pluie", "de": "Nach dem Regen", "it": "Dopo la pioggia", "pt": "Depois da chuva", "ru": "После дождя", "ar": "بعد المطر", "zh": "雨后"}
+      ]
+    },
+    {
+      "word": {"tr": "Kivi", "en": "Kiwi", "es": "Kiwi", "fr": "Kiwi", "de": "Kiwi", "it": "Kiwi", "pt": "Kiwi", "ru": "Киви", "ar": "كيوي", "zh": "猕猴桃"},
+      "clues": [
+        {"tr": "Kahverengi", "en": "Brown", "es": "Marrón", "fr": "Marron", "de": "Braun", "it": "Marrone", "pt": "Marrom", "ru": "Коричневый", "ar": "بني", "zh": "棕色"},
+        {"tr": "Kaşık", "en": "Spoon", "es": "Cuchara", "fr": "Cuillère", "de": "Löffel", "it": "Cucchiaio", "pt": "Colher", "ru": "Ложка", "ar": "ملعقة", "zh": "勺子"}
+      ]
+    },
+    {
+      "word": {"tr": "Nar", "en": "Pomegranate", "es": "Granada", "fr": "Grenade", "de": "Granatapfel", "it": "Melagrana", "pt": "Romã", "ru": "Гранат", "ar": "رمان", "zh": "石榴"},
+      "clues": [
+        {"tr": "Leke", "en": "Stains", "es": "Manchas", "fr": "Taches", "de": "Flecken", "it": "Macchie", "pt": "Manchas", "ru": "Пятна", "ar": "بقع", "zh": "污渍"},
+        {"tr": "Sabır", "en": "Patience", "es": "Paciencia", "fr": "Patience", "de": "Geduld", "it": "Pazienza", "pt": "Paciência", "ru": "Терпение", "ar": "صبر", "zh": "耐心"}
       ]
     }
   ]

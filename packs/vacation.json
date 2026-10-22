@@ -8,14 +8,14 @@
       "word": {"tr": "Bavul", "en": "Suitcase", "es": "Maleta", "fr": "Valise", "de": "Koffer", "it": "Valigia", "pt": "Mala", "ru": "Чемодан", "ar": "حقيبة سفر", "zh": "行李箱"},
       "clues": [
         {"tr": "Tekerlekler", "en": "Wheels", "es": "Ruedas", "fr": "Roulettes", "de": "Rollen", "it": "Ruote", "pt": "Rodinhas", "ru": "Колёсики", "ar": "عجلات", "zh": "轮子"},
-        {"tr": "Hazırlık", "en": "Packing", "es": "Hacer la maleta", "fr": "Préparatifs", "de": "Packen", "it": "Preparativi", "pt": "Arrumação", "ru": "Сборы", "ar": "تجهيز", "zh": "收拾行李"}
+        {"tr": "Kilo", "en": "Overweight", "es": "Sobrepeso", "fr": "Excédent", "de": "Übergewicht", "it": "Sovrappeso", "pt": "Excesso de peso", "ru": "Перевес", "ar": "وزن زائد", "zh": "超重"}
       ]
     },
     {
       "word": {"tr": "Pasaport", "en": "Passport", "es": "Pasaporte", "fr": "Passeport", "de": "Reisepass", "it": "Passaporto", "pt": "Passaporte", "ru": "Паспорт", "ar": "جواز سفر", "zh": "护照"},
       "clues": [
-        {"tr": "Damga", "en": "Stamp", "es": "Sello", "fr": "Tampon", "de": "Stempel", "it": "Timbro", "pt": "Carimbo", "ru": "Штамп", "ar": "ختم", "zh": "印章"},
-        {"tr": "Fotoğraf", "en": "Photo", "es": "Foto", "fr": "Photo", "de": "Foto", "it": "Foto", "pt": "Foto", "ru": "Фото", "ar": "صورة", "zh": "照片"}
+        {"tr": "Fotoğraf", "en": "Photo", "es": "Foto", "fr": "Photo", "de": "Foto", "it": "Foto", "pt": "Foto", "ru": "Фото", "ar": "صورة", "zh": "照片"},
+        {"tr": "Bordo", "en": "Burgundy", "es": "Granate", "fr": "Bordeaux", "de": "Weinrot", "it": "Bordeaux", "pt": "Bordô", "ru": "Бордовый", "ar": "خمري", "zh": "酒红色"}
       ]
     },
     {
@@ -43,7 +43,7 @@
       "word": {"tr": "Kartpostal", "en": "Postcard", "es": "Postal", "fr": "Carte postale", "de": "Postkarte", "it": "Cartolina", "pt": "Cartão-postal", "ru": "Открытка", "ar": "بطاقة بريدية", "zh": "明信片"},
       "clues": [
         {"tr": "Pul", "en": "Stamp", "es": "Sello", "fr": "Timbre", "de": "Briefmarke", "it": "Francobollo", "pt": "Selo", "ru": "Марка", "ar": "طابع", "zh": "邮票"},
-        {"tr": "Manzara", "en": "View", "es": "Paisaje", "fr": "Paysage", "de": "Aussicht", "it": "Panorama", "pt": "Paisagem", "ru": "Пейзаж", "ar": "منظر", "zh": "风景"}
+        {"tr": "Selamlar", "en": "Greetings", "es": "Saludos", "fr": "Bisous", "de": "Grüße", "it": "Saluti", "pt": "Saudações", "ru": "Привет", "ar": "تحيات", "zh": "问候"}
       ]
     },
     {
@@ -57,7 +57,7 @@
       "word": {"tr": "Çadır", "en": "Tent", "es": "Tienda", "fr": "Tente", "de": "Zelt", "it": "Tenda", "pt": "Barraca", "ru": "Палатка", "ar": "خيمة", "zh": "帐篷"},
       "clues": [
         {"tr": "Kazık", "en": "Peg", "es": "Estaca", "fr": "Piquet", "de": "Hering", "it": "Picchetto", "pt": "Estaca", "ru": "Колышек", "ar": "وتد", "zh": "地钉"},
-        {"tr": "Uyku tulumu", "en": "Sleeping bag", "es": "Saco de dormir", "fr": "Sac de couchage", "de": "Schlafsack", "it": "Sacco a pelo", "pt": "Saco de dormir", "ru": "Спальник", "ar": "كيس نوم", "zh": "睡袋"}
+        {"tr": "Yağmur sesi", "en": "Sound of rain", "es": "Sonido de lluvia", "fr": "Bruit de la pluie", "de": "Regengeräusch", "it": "Rumore della pioggia", "pt": "Barulho de chuva", "ru": "Шум дождя", "ar": "صوت المطر", "zh": "雨声"}
       ]
     },
     {
@@ -91,7 +91,7 @@
     {
       "word": {"tr": "Deniz yıldızı", "en": "Starfish", "es": "Estrella de mar", "fr": "Étoile de mer", "de": "Seestern", "it": "Stella marina", "pt": "Estrela-do-mar", "ru": "Морская звезда", "ar": "نجم البحر", "zh": "海星"},
       "clues": [
-        {"tr": "Kollar", "en": "Arms", "es": "Brazos", "fr": "Bras", "de": "Arme", "it": "Braccia", "pt": "Braços", "ru": "Лучи", "ar": "أذرع", "zh": "触手"},
+        {"tr": "Beş", "en": "Five", "es": "Cinco", "fr": "Cinq", "de": "Fünf", "it": "Cinque", "pt": "Cinco", "ru": "Пять", "ar": "خمسة", "zh": "五"},
         {"tr": "Kıyı", "en": "Shore", "es": "Orilla", "fr": "Rivage", "de": "Ufer", "it": "Riva", "pt": "Beira-mar", "ru": "Берег", "ar": "شاطئ", "zh": "海岸"}
       ]
     },
@@ -105,8 +105,8 @@
     {
       "word": {"tr": "Hamak", "en": "Hammock", "es": "Hamaca", "fr": "Hamac", "de": "Hängematte", "it": "Amaca", "pt": "Rede", "ru": "Гамак", "ar": "أرجوحة شبكية", "zh": "吊床"},
       "clues": [
-        {"tr": "İki ağaç", "en": "Two trees", "es": "Dos árboles", "fr": "Deux arbres", "de": "Zwei Bäume", "it": "Due alberi", "pt": "Duas árvores", "ru": "Два дерева", "ar": "شجرتان", "zh": "两棵树"},
-        {"tr": "Sallanmak", "en": "Swing", "es": "Balancearse", "fr": "Se balancer", "de": "Schaukeln", "it": "Dondolare", "pt": "Balançar", "ru": "Качаться", "ar": "تأرجح", "zh": "摇摆"}
+        {"tr": "Sallanmak", "en": "Swing", "es": "Balancearse", "fr": "Se balancer", "de": "Schaukeln", "it": "Dondolare", "pt": "Balançar", "ru": "Качаться", "ar": "تأرجح", "zh": "摇摆"},
+        {"tr": "Ağaç gölgesi", "en": "Tree shade", "es": "Sombra de árbol", "fr": "Ombre d'un arbre", "de": "Baumschatten", "it": "Ombra degli alberi", "pt": "Sombra de árvore", "ru": "Тень деревьев", "ar": "ظل الشجرة", "zh": "树荫"}
       ]
     },
     {
@@ -119,7 +119,7 @@
     {
       "word": {"tr": "Deniz simidi", "en": "Swim ring", "es": "Flotador", "fr": "Bouée", "de": "Schwimmring", "it": "Ciambella", "pt": "Boia", "ru": "Надувной круг", "ar": "عوامة", "zh": "游泳圈"},
       "clues": [
-        {"tr": "Şişme", "en": "Inflatable", "es": "Hinchable", "fr": "Gonflable", "de": "Aufblasbar", "it": "Gonfiabile", "pt": "Inflável", "ru": "Надувной", "ar": "قابل للنفخ", "zh": "充气"},
+        {"tr": "Yuvarlak", "en": "Round", "es": "Redondo", "fr": "Rond", "de": "Rund", "it": "Rotondo", "pt": "Redondo", "ru": "Круглый", "ar": "دائري", "zh": "圆形"},
         {"tr": "Havuz", "en": "Pool", "es": "Piscina", "fr": "Piscine", "de": "Pool", "it": "Piscina", "pt": "Piscina", "ru": "Бассейн", "ar": "مسبح", "zh": "泳池"}
       ]
     },
@@ -149,6 +149,13 @@
       "clues": [
         {"tr": "Örtü", "en": "Blanket", "es": "Mantel", "fr": "Nappe", "de": "Decke", "it": "Tovaglia", "pt": "Toalha", "ru": "Покрывало", "ar": "غطاء", "zh": "野餐垫"},
         {"tr": "Karıncalar", "en": "Ants", "es": "Hormigas", "fr": "Fourmis", "de": "Ameisen", "it": "Formiche", "pt": "Formigas", "ru": "Муравьи", "ar": "نمل", "zh": "蚂蚁"}
+      ]
+    },
+    {
+      "word": {"tr": "Boyun yastığı", "en": "Neck pillow", "es": "Almohada cervical", "fr": "Coussin de cou", "de": "Nackenkissen", "it": "Cuscino per il collo", "pt": "Travesseiro de pescoço", "ru": "Подушка для шеи", "ar": "وسادة الرقبة", "zh": "颈枕"},
+      "clues": [
+        {"tr": "Yolculuk", "en": "Journey", "es": "Viaje", "fr": "Voyage", "de": "Reise", "it": "Viaggio", "pt": "Viagem", "ru": "Поездка", "ar": "سفر", "zh": "旅途"},
+        {"tr": "U harfi", "en": "Letter U", "es": "Letra U", "fr": "Lettre U", "de": "Buchstabe U", "it": "Lettera U", "pt": "Letra U", "ru": "Буква U", "ar": "حرف U", "zh": "U形"}
       ]
     }
   ]

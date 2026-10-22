@@ -14,8 +14,8 @@
     {
       "word": {"tr": "Teleskop", "en": "Telescope", "es": "Telescopio", "fr": "Télescope", "de": "Teleskop", "it": "Telescopio", "pt": "Telescópio", "ru": "Телескоп", "ar": "تلسكوب", "zh": "望远镜"},
       "clues": [
-        {"tr": "Yıldızlar", "en": "Stars", "es": "Estrellas", "fr": "Étoiles", "de": "Sterne", "it": "Stelle", "pt": "Estrelas", "ru": "Звёзды", "ar": "نجوم", "zh": "星星"},
-        {"tr": "Gece", "en": "Night", "es": "Noche", "fr": "Nuit", "de": "Nacht", "it": "Notte", "pt": "Noite", "ru": "Ночь", "ar": "ليل", "zh": "夜晚"}
+        {"tr": "Gece", "en": "Night", "es": "Noche", "fr": "Nuit", "de": "Nacht", "it": "Notte", "pt": "Noite", "ru": "Ночь", "ar": "ليل", "zh": "夜晚"},
+        {"tr": "Çatı", "en": "Rooftop", "es": "Azotea", "fr": "Toit", "de": "Dach", "it": "Tetto", "pt": "Telhado", "ru": "Крыша", "ar": "سطح", "zh": "屋顶"}
       ]
     },
     {
@@ -29,21 +29,21 @@
       "word": {"tr": "Atom", "en": "Atom", "es": "Átomo", "fr": "Atome", "de": "Atom", "it": "Atomo", "pt": "Átomo", "ru": "Атом", "ar": "ذرة", "zh": "原子"},
       "clues": [
         {"tr": "Çekirdek", "en": "Nucleus", "es": "Núcleo", "fr": "Noyau", "de": "Kern", "it": "Nucleo", "pt": "Núcleo", "ru": "Ядро", "ar": "نواة", "zh": "原子核"},
-        {"tr": "Elektron", "en": "Electron", "es": "Electrón", "fr": "Électron", "de": "Elektron", "it": "Elettrone", "pt": "Elétron", "ru": "Электрон", "ar": "إلكترون", "zh": "电子"}
+        {"tr": "Küçük", "en": "Tiny", "es": "Diminuto", "fr": "Minuscule", "de": "Winzig", "it": "Minuscolo", "pt": "Minúsculo", "ru": "Крошечный", "ar": "صغير جدًا", "zh": "微小"}
       ]
     },
     {
       "word": {"tr": "DNA", "en": "DNA", "es": "ADN", "fr": "ADN", "de": "DNA", "it": "DNA", "pt": "DNA", "ru": "ДНК", "ar": "حمض نووي", "zh": "DNA"},
       "clues": [
         {"tr": "Sarmal", "en": "Helix", "es": "Hélice", "fr": "Hélice", "de": "Helix", "it": "Elica", "pt": "Hélice", "ru": "Спираль", "ar": "حلزون", "zh": "螺旋"},
-        {"tr": "Gen", "en": "Gene", "es": "Gen", "fr": "Gène", "de": "Gen", "it": "Gene", "pt": "Gene", "ru": "Ген", "ar": "جين", "zh": "基因"}
+        {"tr": "Ebeveyn", "en": "Parents", "es": "Padres", "fr": "Parents", "de": "Eltern", "it": "Genitori", "pt": "Pais", "ru": "Родители", "ar": "والدان", "zh": "父母"}
       ]
     },
     {
       "word": {"tr": "Yerçekimi", "en": "Gravity", "es": "Gravedad", "fr": "Gravité", "de": "Schwerkraft", "it": "Gravità", "pt": "Gravidade", "ru": "Гравитация", "ar": "جاذبية", "zh": "重力"},
       "drawable": false,
       "clues": [
-        {"tr": "Newton", "en": "Newton", "es": "Newton", "fr": "Newton", "de": "Newton", "it": "Newton", "pt": "Newton", "ru": "Ньютон", "ar": "نيوتن", "zh": "牛顿"},
+        {"tr": "Elma", "en": "Apple", "es": "Manzana", "fr": "Pomme", "de": "Apfel", "it": "Mela", "pt": "Maçã", "ru": "Яблоко", "ar": "تفاحة", "zh": "苹果"},
         {"tr": "Düşmek", "en": "Fall", "es": "Caer", "fr": "Tomber", "de": "Fallen", "it": "Cadere", "pt": "Cair", "ru": "Падать", "ar": "سقوط", "zh": "掉落"}
       ]
     },
@@ -55,31 +55,31 @@
       ]
     },
     {
-      "word": {"tr": "Dinozor", "en": "Dinosaur", "es": "Dinosaurio", "fr": "Dinosaure", "de": "Dinosaurier", "it": "Dinosauro", "pt": "Dinossauro", "ru": "Динозавр", "ar": "ديناصور", "zh": "恐龙"},
+      "word": {"tr": "T-Rex", "en": "T. rex", "es": "T-Rex", "fr": "T-Rex", "de": "T-Rex", "it": "T-Rex", "pt": "T-Rex", "ru": "Тираннозавр", "ar": "تي ركس", "zh": "霸王龙"},
       "clues": [
-        {"tr": "Fosil", "en": "Fossil", "es": "Fósil", "fr": "Fossile", "de": "Fossil", "it": "Fossile", "pt": "Fóssil", "ru": "Окаменелость", "ar": "أحفورة", "zh": "化石"},
-        {"tr": "Nesli tükenmiş", "en": "Extinct", "es": "Extinto", "fr": "Disparu", "de": "Ausgestorben", "it": "Estinto", "pt": "Extinto", "ru": "Вымерший", "ar": "منقرض", "zh": "灭绝"}
+        {"tr": "Fosil", "en": "Fossils", "es": "Fósiles", "fr": "Fossiles", "de": "Fossilien", "it": "Fossili", "pt": "Fósseis", "ru": "Окаменелости", "ar": "أحافير", "zh": "化石"},
+        {"tr": "Kükreme", "en": "Roar", "es": "Rugido", "fr": "Rugissement", "de": "Brüllen", "it": "Ruggito", "pt": "Rugido", "ru": "Рёв", "ar": "زئير", "zh": "咆哮"}
       ]
     },
     {
       "word": {"tr": "Laboratuvar", "en": "Laboratory", "es": "Laboratorio", "fr": "Laboratoire", "de": "Labor", "it": "Laboratorio", "pt": "Laboratório", "ru": "Лаборатория", "ar": "مختبر", "zh": "实验室"},
       "clues": [
-        {"tr": "Deney tüpü", "en": "Test tube", "es": "Probeta", "fr": "Éprouvette", "de": "Reagenzglas", "it": "Provetta", "pt": "Tubo de ensaio", "ru": "Пробирка", "ar": "أنبوب اختبار", "zh": "试管"},
-        {"tr": "Gözlük", "en": "Goggles", "es": "Gafas", "fr": "Lunettes", "de": "Schutzbrille", "it": "Occhiali", "pt": "Óculos", "ru": "Очки", "ar": "نظارات", "zh": "护目镜"}
+        {"tr": "Gözlük", "en": "Goggles", "es": "Gafas", "fr": "Lunettes", "de": "Schutzbrille", "it": "Occhiali", "pt": "Óculos", "ru": "Очки", "ar": "نظارات", "zh": "护目镜"},
+        {"tr": "Önlük", "en": "Lab coat", "es": "Bata", "fr": "Blouse", "de": "Kittel", "it": "Camice", "pt": "Jaleco", "ru": "Халат", "ar": "معطف", "zh": "白大褂"}
       ]
     },
     {
       "word": {"tr": "Ampul", "en": "Light bulb", "es": "Bombilla", "fr": "Ampoule", "de": "Glühbirne", "it": "Lampadina", "pt": "Lâmpada", "ru": "Лампочка", "ar": "مصباح كهربائي", "zh": "电灯泡"},
       "clues": [
-        {"tr": "Edison", "en": "Edison", "es": "Edison", "fr": "Edison", "de": "Edison", "it": "Edison", "pt": "Edison", "ru": "Эдисон", "ar": "إديسون", "zh": "爱迪生"},
-        {"tr": "Fikir", "en": "Idea", "es": "Idea", "fr": "Idée", "de": "Idee", "it": "Idea", "pt": "Ideia", "ru": "Идея", "ar": "فكرة", "zh": "主意"}
+        {"tr": "Fikir", "en": "Idea", "es": "Idea", "fr": "Idée", "de": "Idee", "it": "Idea", "pt": "Ideia", "ru": "Идея", "ar": "فكرة", "zh": "主意"},
+        {"tr": "Cam", "en": "Glass", "es": "Vidrio", "fr": "Verre", "de": "Glas", "it": "Vetro", "pt": "Vidro", "ru": "Стекло", "ar": "زجاج", "zh": "玻璃"}
       ]
     },
     {
       "word": {"tr": "Pusula", "en": "Compass", "es": "Brújula", "fr": "Boussole", "de": "Kompass", "it": "Bussola", "pt": "Bússola", "ru": "Компас", "ar": "بوصلة", "zh": "指南针"},
       "clues": [
-        {"tr": "Kuzey", "en": "North", "es": "Norte", "fr": "Nord", "de": "Norden", "it": "Nord", "pt": "Norte", "ru": "Север", "ar": "شمال", "zh": "北"},
-        {"tr": "Yön", "en": "Direction", "es": "Dirección", "fr": "Direction", "de": "Richtung", "it": "Direzione", "pt": "Direção", "ru": "Направление", "ar": "اتجاه", "zh": "方向"}
+        {"tr": "Kuzey", "en": "North", "es": "Norte", "fr": "Nord", "de": "Norden", "it": "Nord", "pt": "Norte", "ru": "Север", "ar": "الشمال", "zh": "北"},
+        {"tr": "Kaybolmak", "en": "Getting lost", "es": "Perderse", "fr": "Se perdre", "de": "Sich verirren", "it": "Perdersi", "pt": "Se perder", "ru": "Заблудиться", "ar": "الضياع", "zh": "迷路"}
       ]
     },
     {
@@ -90,17 +90,17 @@
       ]
     },
     {
-      "word": {"tr": "Gezegen", "en": "Planet", "es": "Planeta", "fr": "Planète", "de": "Planet", "it": "Pianeta", "pt": "Planeta", "ru": "Планета", "ar": "كوكب", "zh": "行星"},
+      "word": {"tr": "Satürn", "en": "Saturn", "es": "Saturno", "fr": "Saturne", "de": "Saturn", "it": "Saturno", "pt": "Saturno", "ru": "Сатурн", "ar": "زحل", "zh": "土星"},
       "clues": [
-        {"tr": "Yörünge", "en": "Orbit", "es": "Órbita", "fr": "Orbite", "de": "Umlaufbahn", "it": "Orbita", "pt": "Órbita", "ru": "Орбита", "ar": "مدار", "zh": "轨道"},
-        {"tr": "Halka", "en": "Ring", "es": "Anillo", "fr": "Anneau", "de": "Ring", "it": "Anello", "pt": "Anel", "ru": "Кольцо", "ar": "حلقة", "zh": "光环"}
+        {"tr": "Gaz", "en": "Gas", "es": "Gas", "fr": "Gaz", "de": "Gas", "it": "Gas", "pt": "Gás", "ru": "Газ", "ar": "غاز", "zh": "气体"},
+        {"tr": "Halka", "en": "Rings", "es": "Anillos", "fr": "Anneaux", "de": "Ringe", "it": "Anelli", "pt": "Anéis", "ru": "Кольца", "ar": "حلقات", "zh": "光环"}
       ]
     },
     {
-      "word": {"tr": "Elektrik", "en": "Electricity", "es": "Electricidad", "fr": "Électricité", "de": "Strom", "it": "Elettricità", "pt": "Eletricidade", "ru": "Электричество", "ar": "كهرباء", "zh": "电"},
+      "word": {"tr": "Statik elektrik", "en": "Static electricity", "es": "Electricidad estática", "fr": "Électricité statique", "de": "Statische Elektrizität", "it": "Elettricità statica", "pt": "Eletricidade estática", "ru": "Статическое электричество", "ar": "كهرباء ساكنة", "zh": "静电"},
       "clues": [
-        {"tr": "Kablo", "en": "Wire", "es": "Cable", "fr": "Fil", "de": "Kabel", "it": "Filo", "pt": "Fio", "ru": "Провод", "ar": "سلك", "zh": "电线"},
-        {"tr": "Priz", "en": "Socket", "es": "Enchufe", "fr": "Prise", "de": "Steckdose", "it": "Presa", "pt": "Tomada", "ru": "Розетка", "ar": "مقبس", "zh": "插座"}
+        {"tr": "Saç", "en": "Hair", "es": "Pelo", "fr": "Cheveux", "de": "Haare", "it": "Capelli", "pt": "Cabelo", "ru": "Волосы", "ar": "شعر", "zh": "头发"},
+        {"tr": "Kazak", "en": "Sweater", "es": "Jersey", "fr": "Pull", "de": "Pullover", "it": "Maglione", "pt": "Suéter", "ru": "Свитер", "ar": "كنزة", "zh": "毛衣"}
       ]
     },
     {
@@ -113,29 +113,29 @@
     {
       "word": {"tr": "İskelet", "en": "Skeleton", "es": "Esqueleto", "fr": "Squelette", "de": "Skelett", "it": "Scheletro", "pt": "Esqueleto", "ru": "Скелет", "ar": "هيكل عظمي", "zh": "骷髅"},
       "clues": [
-        {"tr": "Kemikler", "en": "Bones", "es": "Huesos", "fr": "Os", "de": "Knochen", "it": "Ossa", "pt": "Ossos", "ru": "Кости", "ar": "عظام", "zh": "骨头"},
-        {"tr": "Cadılar Bayramı", "en": "Halloween", "es": "Halloween", "fr": "Halloween", "de": "Halloween", "it": "Halloween", "pt": "Halloween", "ru": "Хэллоуин", "ar": "الهالوين", "zh": "万圣节"}
+        {"tr": "Cadılar Bayramı", "en": "Halloween", "es": "Halloween", "fr": "Halloween", "de": "Halloween", "it": "Halloween", "pt": "Halloween", "ru": "Хэллоуин", "ar": "الهالوين", "zh": "万圣节"},
+        {"tr": "Röntgen", "en": "X-ray", "es": "Radiografía", "fr": "Radio", "de": "Röntgenbild", "it": "Radiografia", "pt": "Raio-X", "ru": "Рентген", "ar": "أشعة سينية", "zh": "X光"}
       ]
     },
     {
       "word": {"tr": "Dürbün", "en": "Binoculars", "es": "Prismáticos", "fr": "Jumelles", "de": "Fernglas", "it": "Binocolo", "pt": "Binóculos", "ru": "Бинокль", "ar": "منظار", "zh": "双筒望远镜"},
       "clues": [
         {"tr": "Uzak", "en": "Far", "es": "Lejos", "fr": "Loin", "de": "Weit", "it": "Lontano", "pt": "Longe", "ru": "Далеко", "ar": "بعيد", "zh": "远处"},
-        {"tr": "Kuş gözlemi", "en": "Birdwatching", "es": "Observación de aves", "fr": "Ornithologie", "de": "Vogelbeobachtung", "it": "Birdwatching", "pt": "Observação de aves", "ru": "Наблюдение за птицами", "ar": "مراقبة الطيور", "zh": "观鸟"}
+        {"tr": "Casus", "en": "Spy", "es": "Espía", "fr": "Espion", "de": "Spion", "it": "Spia", "pt": "Espião", "ru": "Шпион", "ar": "جاسوس", "zh": "间谍"}
       ]
     },
     {
       "word": {"tr": "Uydu", "en": "Satellite", "es": "Satélite", "fr": "Satellite", "de": "Satellit", "it": "Satellite", "pt": "Satélite", "ru": "Спутник", "ar": "قمر صناعي", "zh": "卫星"},
       "clues": [
-        {"tr": "Anten", "en": "Antenna", "es": "Antena", "fr": "Antenne", "de": "Antenne", "it": "Antenna", "pt": "Antena", "ru": "Антенна", "ar": "هوائي", "zh": "天线"},
-        {"tr": "Sinyal", "en": "Signal", "es": "Señal", "fr": "Signal", "de": "Signal", "it": "Segnale", "pt": "Sinal", "ru": "Сигнал", "ar": "إشارة", "zh": "信号"}
+        {"tr": "Sinyal", "en": "Signal", "es": "Señal", "fr": "Signal", "de": "Signal", "it": "Segnale", "pt": "Sinal", "ru": "Сигнал", "ar": "إشارة", "zh": "信号"},
+        {"tr": "Çanak", "en": "Dish", "es": "Antena parabólica", "fr": "Parabole", "de": "Schüssel", "it": "Parabola", "pt": "Antena parabólica", "ru": "Тарелка", "ar": "صحن لاقط", "zh": "锅盖"}
       ]
     },
     {
-      "word": {"tr": "Pil", "en": "Battery", "es": "Pila", "fr": "Pile", "de": "Batterie", "it": "Batteria", "pt": "Pilha", "ru": "Батарейка", "ar": "بطارية", "zh": "电池"},
+      "word": {"tr": "Deney tüpü", "en": "Test tube", "es": "Tubo de ensayo", "fr": "Éprouvette", "de": "Reagenzglas", "it": "Provetta", "pt": "Tubo de ensaio", "ru": "Пробирка", "ar": "أنبوب اختبار", "zh": "试管"},
       "clues": [
-        {"tr": "Şarj", "en": "Charge", "es": "Carga", "fr": "Charge", "de": "Ladung", "it": "Carica", "pt": "Carga", "ru": "Заряд", "ar": "شحن", "zh": "电量"},
-        {"tr": "Artı eksi", "en": "Plus and minus", "es": "Más y menos", "fr": "Plus et moins", "de": "Plus und minus", "it": "Più e meno", "pt": "Mais e menos", "ru": "Плюс и минус", "ar": "موجب وسالب", "zh": "正负极"}
+        {"tr": "Köpük", "en": "Fizz", "es": "Espuma", "fr": "Mousse", "de": "Schaum", "it": "Schiuma", "pt": "Espuma", "ru": "Пена", "ar": "رغوة", "zh": "泡沫"},
+        {"tr": "Renkli sıvı", "en": "Colored liquid", "es": "Líquido de color", "fr": "Liquide coloré", "de": "Bunte Flüssigkeit", "it": "Liquido colorato", "pt": "Líquido colorido", "ru": "Цветная жидкость", "ar": "سائل ملون", "zh": "彩色液体"}
       ]
     },
     {
@@ -147,19 +147,18 @@
       ]
     },
     {
-      "word": {"tr": "Deney", "en": "Experiment", "es": "Experimento", "fr": "Expérience", "de": "Experiment", "it": "Esperimento", "pt": "Experimento", "ru": "Эксперимент", "ar": "تجربة", "zh": "实验"},
-      "drawable": false,
-      "clues": [
-        {"tr": "Hipotez", "en": "Hypothesis", "es": "Hipótesis", "fr": "Hypothèse", "de": "Hypothese", "it": "Ipotesi", "pt": "Hipótese", "ru": "Гипотеза", "ar": "فرضية", "zh": "假设"},
-        {"tr": "Sonuç", "en": "Result", "es": "Resultado", "fr": "Résultat", "de": "Ergebnis", "it": "Risultato", "pt": "Resultado", "ru": "Результат", "ar": "نتيجة", "zh": "结果"}
-      ]
-    },
-    {
       "word": {"tr": "Evrim", "en": "Evolution", "es": "Evolución", "fr": "Évolution", "de": "Evolution", "it": "Evoluzione", "pt": "Evolução", "ru": "Эволюция", "ar": "تطور", "zh": "进化"},
       "drawable": false,
       "clues": [
-        {"tr": "Darwin", "en": "Darwin", "es": "Darwin", "fr": "Darwin", "de": "Darwin", "it": "Darwin", "pt": "Darwin", "ru": "Дарвин", "ar": "داروين", "zh": "达尔文"},
-        {"tr": "Maymun", "en": "Monkey", "es": "Mono", "fr": "Singe", "de": "Affe", "it": "Scimmia", "pt": "Macaco", "ru": "Обезьяна", "ar": "قرد", "zh": "猴子"}
+        {"tr": "Maymun", "en": "Monkey", "es": "Mono", "fr": "Singe", "de": "Affe", "it": "Scimmia", "pt": "Macaco", "ru": "Обезьяна", "ar": "قرد", "zh": "猴子"},
+        {"tr": "Değişim", "en": "Change", "es": "Cambio", "fr": "Changement", "de": "Wandel", "it": "Cambiamento", "pt": "Mudança", "ru": "Изменение", "ar": "تغيير", "zh": "变化"}
+      ]
+    },
+    {
+      "word": {"tr": "Periyodik tablo", "en": "Periodic table", "es": "Tabla periódica", "fr": "Tableau périodique", "de": "Periodensystem", "it": "Tavola periodica", "pt": "Tabela periódica", "ru": "Таблица Менделеева", "ar": "الجدول الدوري", "zh": "元素周期表"},
+      "clues": [
+        {"tr": "Kutucuklar", "en": "Boxes", "es": "Casillas", "fr": "Cases", "de": "Kästchen", "it": "Caselle", "pt": "Quadradinhos", "ru": "Клеточки", "ar": "مربعات", "zh": "格子"},
+        {"tr": "Harfler", "en": "Letters", "es": "Letras", "fr": "Lettres", "de": "Buchstaben", "it": "Lettere", "pt": "Letras", "ru": "Буквы", "ar": "حروف", "zh": "字母"}
       ]
     }
   ]

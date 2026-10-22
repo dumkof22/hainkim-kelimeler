@@ -5,38 +5,38 @@
   "drawable": true,
   "words": [
     {
-      "word": {"tr": "Telefon", "en": "Phone", "es": "Teléfono", "fr": "Téléphone", "de": "Handy", "it": "Telefono", "pt": "Celular", "ru": "Телефон", "ar": "هاتف", "zh": "手机"},
+      "word": {"tr": "Kırık ekran", "en": "Cracked screen", "es": "Pantalla rota", "fr": "Écran fissuré", "de": "Gesprungenes Display", "it": "Schermo rotto", "pt": "Tela trincada", "ru": "Разбитый экран", "ar": "شاشة مكسورة", "zh": "碎屏"},
       "clues": [
-        {"tr": "Şarj", "en": "Charging", "es": "Carga", "fr": "Recharge", "de": "Aufladen", "it": "Ricarica", "pt": "Carregar", "ru": "Зарядка", "ar": "شحن", "zh": "充电"},
-        {"tr": "Bildirim", "en": "Notification", "es": "Notificación", "fr": "Notification", "de": "Benachrichtigung", "it": "Notifica", "pt": "Notificação", "ru": "Уведомление", "ar": "إشعار", "zh": "通知"}
+        {"tr": "Örümcek ağı", "en": "Spider web", "es": "Telaraña", "fr": "Toile d'araignée", "de": "Spinnennetz", "it": "Ragnatela", "pt": "Teia de aranha", "ru": "Паутина", "ar": "شبكة عنكبوت", "zh": "蜘蛛网"},
+        {"tr": "Düşmek", "en": "Dropping", "es": "Caída", "fr": "Chute", "de": "Fallen", "it": "Caduta", "pt": "Queda", "ru": "Падение", "ar": "سقوط", "zh": "摔落"}
       ]
     },
     {
-      "word": {"tr": "Bilgisayar", "en": "Computer", "es": "Ordenador", "fr": "Ordinateur", "de": "Computer", "it": "Computer", "pt": "Computador", "ru": "Компьютер", "ar": "حاسوب", "zh": "电脑"},
+      "word": {"tr": "Dizüstü bilgisayar", "en": "Laptop", "es": "Portátil", "fr": "Ordinateur portable", "de": "Laptop", "it": "Portatile", "pt": "Notebook", "ru": "Ноутбук", "ar": "حاسوب محمول", "zh": "笔记本电脑"},
       "clues": [
-        {"tr": "Klavye", "en": "Keyboard", "es": "Teclado", "fr": "Clavier", "de": "Tastatur", "it": "Tastiera", "pt": "Teclado", "ru": "Клавиатура", "ar": "لوحة مفاتيح", "zh": "键盘"},
-        {"tr": "Ekran", "en": "Screen", "es": "Pantalla", "fr": "Écran", "de": "Bildschirm", "it": "Schermo", "pt": "Tela", "ru": "Экран", "ar": "شاشة", "zh": "屏幕"}
+        {"tr": "Kafe", "en": "Café", "es": "Cafetería", "fr": "Café", "de": "Café", "it": "Bar", "pt": "Cafeteria", "ru": "Кафе", "ar": "مقهى", "zh": "咖啡馆"},
+        {"tr": "Kapak", "en": "Lid", "es": "Tapa", "fr": "Couvercle", "de": "Deckel", "it": "Coperchio", "pt": "Tampa", "ru": "Крышка", "ar": "غطاء", "zh": "盖子"}
       ]
     },
     {
       "word": {"tr": "Tablet", "en": "Tablet", "es": "Tableta", "fr": "Tablette", "de": "Tablet", "it": "Tablet", "pt": "Tablet", "ru": "Планшет", "ar": "جهاز لوحي", "zh": "平板电脑"},
       "clues": [
-        {"tr": "Dokunmatik", "en": "Touchscreen", "es": "Táctil", "fr": "Tactile", "de": "Touchscreen", "it": "Touchscreen", "pt": "Touch", "ru": "Сенсорный", "ar": "لمس", "zh": "触屏"},
-        {"tr": "Kılıf", "en": "Case", "es": "Funda", "fr": "Étui", "de": "Hülle", "it": "Custodia", "pt": "Capa", "ru": "Чехол", "ar": "غلاف", "zh": "保护套"}
+        {"tr": "Kılıf", "en": "Case", "es": "Funda", "fr": "Étui", "de": "Hülle", "it": "Custodia", "pt": "Capa", "ru": "Чехол", "ar": "غلاف", "zh": "保护套"},
+        {"tr": "Çocuk", "en": "Kids", "es": "Niños", "fr": "Enfants", "de": "Kinder", "it": "Bambini", "pt": "Crianças", "ru": "Дети", "ar": "أطفال", "zh": "小孩"}
       ]
     },
     {
       "word": {"tr": "Akıllı saat", "en": "Smartwatch", "es": "Reloj inteligente", "fr": "Montre connectée", "de": "Smartwatch", "it": "Smartwatch", "pt": "Relógio inteligente", "ru": "Умные часы", "ar": "ساعة ذكية", "zh": "智能手表"},
       "clues": [
         {"tr": "Adım", "en": "Steps", "es": "Pasos", "fr": "Pas", "de": "Schritte", "it": "Passi", "pt": "Passos", "ru": "Шаги", "ar": "خطوات", "zh": "步数"},
-        {"tr": "Bilek", "en": "Wrist", "es": "Muñeca", "fr": "Poignet", "de": "Handgelenk", "it": "Polso", "pt": "Pulso", "ru": "Запястье", "ar": "معصم", "zh": "手腕"}
+        {"tr": "Nabız", "en": "Pulse", "es": "Pulso", "fr": "Pouls", "de": "Puls", "it": "Battito", "pt": "Pulso", "ru": "Пульс", "ar": "نبض", "zh": "心率"}
       ]
     },
     {
       "word": {"tr": "Drone", "en": "Drone", "es": "Dron", "fr": "Drone", "de": "Drohne", "it": "Drone", "pt": "Drone", "ru": "Дрон", "ar": "طائرة مسيرة", "zh": "无人机"},
       "clues": [
         {"tr": "Pervane", "en": "Propellers", "es": "Hélices", "fr": "Hélices", "de": "Propeller", "it": "Eliche", "pt": "Hélices", "ru": "Пропеллеры", "ar": "مراوح", "zh": "螺旋桨"},
-        {"tr": "Havadan çekim", "en": "Aerial shot", "es": "Toma aérea", "fr": "Vue aérienne", "de": "Luftaufnahme", "it": "Ripresa aerea", "pt": "Imagem aérea", "ru": "Съёмка с воздуха", "ar": "تصوير جوي", "zh": "航拍"}
+        {"tr": "Vızıltı", "en": "Buzzing", "es": "Zumbido", "fr": "Bourdonnement", "de": "Summen", "it": "Ronzio", "pt": "Zumbido", "ru": "Жужжание", "ar": "طنين", "zh": "嗡嗡声"}
       ]
     },
     {
@@ -49,43 +49,43 @@
     {
       "word": {"tr": "Oyun konsolu", "en": "Game console", "es": "Videoconsola", "fr": "Console de jeux", "de": "Spielkonsole", "it": "Console", "pt": "Videogame", "ru": "Игровая приставка", "ar": "جهاز ألعاب", "zh": "游戏机"},
       "clues": [
-        {"tr": "Kol", "en": "Controller", "es": "Mando", "fr": "Manette", "de": "Controller", "it": "Joystick", "pt": "Controle", "ru": "Джойстик", "ar": "يد تحكم", "zh": "手柄"},
-        {"tr": "Seviye", "en": "Level", "es": "Nivel", "fr": "Niveau", "de": "Level", "it": "Livello", "pt": "Nível", "ru": "Уровень", "ar": "مستوى", "zh": "关卡"}
+        {"tr": "Seviye", "en": "Level", "es": "Nivel", "fr": "Niveau", "de": "Level", "it": "Livello", "pt": "Nível", "ru": "Уровень", "ar": "مستوى", "zh": "关卡"},
+        {"tr": "Kanepe", "en": "Couch", "es": "Sofá", "fr": "Canapé", "de": "Couch", "it": "Divano", "pt": "Sofá", "ru": "Диван", "ar": "كنبة", "zh": "沙发"}
       ]
     },
     {
       "word": {"tr": "Selfie çubuğu", "en": "Selfie stick", "es": "Palo selfie", "fr": "Perche à selfie", "de": "Selfie-Stick", "it": "Bastone per selfie", "pt": "Pau de selfie", "ru": "Селфи-палка", "ar": "عصا سيلفي", "zh": "自拍杆"},
       "clues": [
         {"tr": "Turist", "en": "Tourist", "es": "Turista", "fr": "Touriste", "de": "Tourist", "it": "Turista", "pt": "Turista", "ru": "Турист", "ar": "سائح", "zh": "游客"},
-        {"tr": "Poz", "en": "Pose", "es": "Pose", "fr": "Pose", "de": "Pose", "it": "Posa", "pt": "Pose", "ru": "Поза", "ar": "وضعية", "zh": "摆拍"}
+        {"tr": "Uzun kol", "en": "Long arm", "es": "Brazo largo", "fr": "Long bras", "de": "Langer Arm", "it": "Braccio lungo", "pt": "Braço longo", "ru": "Длинная рука", "ar": "ذراع طويلة", "zh": "长臂"}
       ]
     },
     {
       "word": {"tr": "Yazıcı", "en": "Printer", "es": "Impresora", "fr": "Imprimante", "de": "Drucker", "it": "Stampante", "pt": "Impressora", "ru": "Принтер", "ar": "طابعة", "zh": "打印机"},
       "clues": [
-        {"tr": "Kâğıt", "en": "Paper", "es": "Papel", "fr": "Papier", "de": "Papier", "it": "Carta", "pt": "Papel", "ru": "Бумага", "ar": "ورق", "zh": "纸"},
-        {"tr": "Mürekkep", "en": "Ink", "es": "Tinta", "fr": "Encre", "de": "Tinte", "it": "Inchiostro", "pt": "Tinta", "ru": "Чернила", "ar": "حبر", "zh": "墨水"}
+        {"tr": "Mürekkep", "en": "Ink", "es": "Tinta", "fr": "Encre", "de": "Tinte", "it": "Inchiostro", "pt": "Tinta", "ru": "Чернила", "ar": "حبر", "zh": "墨水"},
+        {"tr": "Sıkışmak", "en": "Jam", "es": "Atasco", "fr": "Bourrage", "de": "Stau", "it": "Inceppamento", "pt": "Atolamento", "ru": "Замятие", "ar": "انحشار", "zh": "卡住"}
       ]
     },
     {
       "word": {"tr": "Fare", "en": "Computer mouse", "es": "Ratón", "fr": "Souris d'ordinateur", "de": "Computermaus", "it": "Mouse", "pt": "Mouse", "ru": "Компьютерная мышь", "ar": "فأرة الحاسوب", "zh": "鼠标"},
       "clues": [
         {"tr": "Tık", "en": "Click", "es": "Clic", "fr": "Clic", "de": "Klick", "it": "Clic", "pt": "Clique", "ru": "Клик", "ar": "نقرة", "zh": "点击"},
-        {"tr": "İmleç", "en": "Cursor", "es": "Cursor", "fr": "Curseur", "de": "Cursor", "it": "Cursore", "pt": "Cursor", "ru": "Курсор", "ar": "مؤشر", "zh": "光标"}
+        {"tr": "Kuyruk", "en": "Tail", "es": "Cola", "fr": "Queue", "de": "Schwanz", "it": "Coda", "pt": "Rabo", "ru": "Хвост", "ar": "ذيل", "zh": "尾巴"}
       ]
     },
     {
       "word": {"tr": "Şarj aleti", "en": "Charger", "es": "Cargador", "fr": "Chargeur", "de": "Ladegerät", "it": "Caricabatterie", "pt": "Carregador", "ru": "Зарядное устройство", "ar": "شاحن", "zh": "充电器"},
       "clues": [
         {"tr": "Priz", "en": "Socket", "es": "Enchufe", "fr": "Prise", "de": "Steckdose", "it": "Presa", "pt": "Tomada", "ru": "Розетка", "ar": "مقبس", "zh": "插座"},
-        {"tr": "Kablo", "en": "Cable", "es": "Cable", "fr": "Câble", "de": "Kabel", "it": "Cavo", "pt": "Cabo", "ru": "Кабель", "ar": "سلك", "zh": "数据线"}
+        {"tr": "Gece", "en": "Overnight", "es": "Noche", "fr": "Nuit", "de": "Nacht", "it": "Notte", "pt": "Noite", "ru": "Ночь", "ar": "ليل", "zh": "整夜"}
       ]
     },
     {
       "word": {"tr": "Wi-Fi", "en": "Wi-Fi", "es": "Wifi", "fr": "Wi-Fi", "de": "WLAN", "it": "Wi-Fi", "pt": "Wi-Fi", "ru": "Вай-фай", "ar": "واي فاي", "zh": "无线网络"},
       "clues": [
         {"tr": "Şifre", "en": "Password", "es": "Contraseña", "fr": "Mot de passe", "de": "Passwort", "it": "Password", "pt": "Senha", "ru": "Пароль", "ar": "كلمة مرور", "zh": "密码"},
-        {"tr": "Sinyal", "en": "Signal", "es": "Señal", "fr": "Signal", "de": "Signal", "it": "Segnale", "pt": "Sinal", "ru": "Сигнал", "ar": "إشارة", "zh": "信号"}
+        {"tr": "Misafir", "en": "Guests", "es": "Invitados", "fr": "Invités", "de": "Gäste", "it": "Ospiti", "pt": "Visitas", "ru": "Гости", "ar": "ضيوف", "zh": "客人"}
       ]
     },
     {
@@ -98,22 +98,22 @@
     {
       "word": {"tr": "Hoparlör", "en": "Speaker", "es": "Altavoz", "fr": "Enceinte", "de": "Lautsprecher", "it": "Altoparlante", "pt": "Caixa de som", "ru": "Колонка", "ar": "مكبر صوت", "zh": "音箱"},
       "clues": [
-        {"tr": "Bluetooth", "en": "Bluetooth", "es": "Bluetooth", "fr": "Bluetooth", "de": "Bluetooth", "it": "Bluetooth", "pt": "Bluetooth", "ru": "Блютуз", "ar": "بلوتوث", "zh": "蓝牙"},
-        {"tr": "Parti", "en": "Party", "es": "Fiesta", "fr": "Fête", "de": "Party", "it": "Festa", "pt": "Festa", "ru": "Вечеринка", "ar": "حفلة", "zh": "派对"}
+        {"tr": "Parti", "en": "Party", "es": "Fiesta", "fr": "Fête", "de": "Party", "it": "Festa", "pt": "Festa", "ru": "Вечеринка", "ar": "حفلة", "zh": "派对"},
+        {"tr": "Bas", "en": "Bass", "es": "Graves", "fr": "Basses", "de": "Bass", "it": "Bassi", "pt": "Grave", "ru": "Басы", "ar": "صوت عميق", "zh": "低音"}
       ]
     },
     {
-      "word": {"tr": "Kamera", "en": "Camera", "es": "Cámara", "fr": "Caméra", "de": "Kamera", "it": "Videocamera", "pt": "Câmera", "ru": "Камера", "ar": "كاميرا", "zh": "摄像机"},
+      "word": {"tr": "Güvenlik kamerası", "en": "Security camera", "es": "Cámara de seguridad", "fr": "Caméra de surveillance", "de": "Überwachungskamera", "it": "Telecamera di sicurezza", "pt": "Câmera de segurança", "ru": "Камера наблюдения", "ar": "كاميرا مراقبة", "zh": "监控摄像头"},
       "clues": [
-        {"tr": "Kayıt", "en": "Recording", "es": "Grabación", "fr": "Enregistrement", "de": "Aufnahme", "it": "Registrazione", "pt": "Gravação", "ru": "Запись", "ar": "تسجيل", "zh": "录像"},
-        {"tr": "Lens", "en": "Lens", "es": "Lente", "fr": "Objectif", "de": "Objektiv", "it": "Obiettivo", "pt": "Lente", "ru": "Объектив", "ar": "عدسة", "zh": "镜头"}
+        {"tr": "Köşe", "en": "Corner", "es": "Rincón", "fr": "Coin", "de": "Ecke", "it": "Angolo", "pt": "Canto", "ru": "Угол", "ar": "زاوية", "zh": "角落"},
+        {"tr": "Kırmızı ışık", "en": "Red light", "es": "Luz roja", "fr": "Voyant rouge", "de": "Rotes Licht", "it": "Luce rossa", "pt": "Luz vermelha", "ru": "Красный огонёк", "ar": "ضوء أحمر", "zh": "红灯"}
       ]
     },
     {
       "word": {"tr": "Emoji", "en": "Emoji", "es": "Emoji", "fr": "Emoji", "de": "Emoji", "it": "Emoji", "pt": "Emoji", "ru": "Эмодзи", "ar": "إيموجي", "zh": "表情符号"},
       "clues": [
         {"tr": "Mesaj", "en": "Message", "es": "Mensaje", "fr": "Message", "de": "Nachricht", "it": "Messaggio", "pt": "Mensagem", "ru": "Сообщение", "ar": "رسالة", "zh": "消息"},
-        {"tr": "Gülen yüz", "en": "Smiley face", "es": "Carita sonriente", "fr": "Visage souriant", "de": "Smiley", "it": "Faccina", "pt": "Carinha feliz", "ru": "Смайлик", "ar": "وجه مبتسم", "zh": "笑脸"}
+        {"tr": "Sarı", "en": "Yellow", "es": "Amarillo", "fr": "Jaune", "de": "Gelb", "it": "Giallo", "pt": "Amarelo", "ru": "Жёлтый", "ar": "أصفر", "zh": "黄色"}
       ]
     },
     {
@@ -121,7 +121,7 @@
       "drawable": false,
       "clues": [
         {"tr": "İndirmek", "en": "Download", "es": "Descargar", "fr": "Télécharger", "de": "Herunterladen", "it": "Scaricare", "pt": "Baixar", "ru": "Скачать", "ar": "تنزيل", "zh": "下载"},
-        {"tr": "Mağaza", "en": "Store", "es": "Tienda", "fr": "Boutique", "de": "Store", "it": "Store", "pt": "Loja", "ru": "Магазин", "ar": "متجر", "zh": "商店"}
+        {"tr": "Güncelleme", "en": "Update", "es": "Actualización", "fr": "Mise à jour", "de": "Update", "it": "Aggiornamento", "pt": "Atualização", "ru": "Обновление", "ar": "تحديث", "zh": "更新"}
       ]
     },
     {
@@ -129,7 +129,7 @@
       "drawable": false,
       "clues": [
         {"tr": "Sohbet", "en": "Chat", "es": "Chat", "fr": "Discussion", "de": "Chat", "it": "Chat", "pt": "Conversa", "ru": "Чат", "ar": "محادثة", "zh": "聊天"},
-        {"tr": "Gelecek", "en": "Future", "es": "Futuro", "fr": "Avenir", "de": "Zukunft", "it": "Futuro", "pt": "Futuro", "ru": "Будущее", "ar": "مستقبل", "zh": "未来"}
+        {"tr": "Gelecek", "en": "Future", "es": "Futuro", "fr": "Avenir", "de": "Zukunft", "it": "Futuro", "pt": "Futuro", "ru": "Будущее", "ar": "المستقبل", "zh": "未来"}
       ]
     },
     {
@@ -142,8 +142,8 @@
     {
       "word": {"tr": "Powerbank", "en": "Power bank", "es": "Batería externa", "fr": "Batterie externe", "de": "Powerbank", "it": "Power bank", "pt": "Carregador portátil", "ru": "Пауэрбанк", "ar": "شاحن متنقل", "zh": "充电宝"},
       "clues": [
-        {"tr": "Çanta", "en": "Bag", "es": "Bolso", "fr": "Sac", "de": "Tasche", "it": "Borsa", "pt": "Bolsa", "ru": "Сумка", "ar": "حقيبة", "zh": "包"},
-        {"tr": "Yüzde", "en": "Percent", "es": "Porcentaje", "fr": "Pourcentage", "de": "Prozent", "it": "Percentuale", "pt": "Porcentagem", "ru": "Процент", "ar": "نسبة مئوية", "zh": "百分比"}
+        {"tr": "Yüzde", "en": "Percent", "es": "Porcentaje", "fr": "Pourcentage", "de": "Prozent", "it": "Percentuale", "pt": "Porcentagem", "ru": "Проценты", "ar": "نسبة مئوية", "zh": "百分比"},
+        {"tr": "Çanta", "en": "Bag", "es": "Bolso", "fr": "Sac", "de": "Tasche", "it": "Borsa", "pt": "Bolsa", "ru": "Сумка", "ar": "حقيبة", "zh": "包"}
       ]
     },
     {
@@ -156,8 +156,8 @@
     {
       "word": {"tr": "QR kod", "en": "QR code", "es": "Código QR", "fr": "Code QR", "de": "QR-Code", "it": "Codice QR", "pt": "QR code", "ru": "QR-код", "ar": "رمز QR", "zh": "二维码"},
       "clues": [
-        {"tr": "Okutmak", "en": "Scan", "es": "Escanear", "fr": "Scanner", "de": "Scannen", "it": "Scansionare", "pt": "Escanear", "ru": "Сканировать", "ar": "مسح", "zh": "扫描"},
-        {"tr": "Menü", "en": "Menu", "es": "Menú", "fr": "Menu", "de": "Speisekarte", "it": "Menù", "pt": "Cardápio", "ru": "Меню", "ar": "قائمة", "zh": "菜单"}
+        {"tr": "Menü", "en": "Menu", "es": "Menú", "fr": "Menu", "de": "Speisekarte", "it": "Menù", "pt": "Cardápio", "ru": "Меню", "ar": "قائمة", "zh": "菜单"},
+        {"tr": "Siyah beyaz", "en": "Black and white", "es": "Blanco y negro", "fr": "Noir et blanc", "de": "Schwarz-weiß", "it": "Bianco e nero", "pt": "Preto e branco", "ru": "Чёрно-белый", "ar": "أبيض وأسود", "zh": "黑白"}
       ]
     }
   ]

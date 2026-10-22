@@ -8,34 +8,34 @@
       "word": {"tr": "Mona Lisa", "en": "Mona Lisa", "es": "Mona Lisa", "fr": "La Joconde", "de": "Mona Lisa", "it": "Gioconda", "pt": "Mona Lisa", "ru": "Мона Лиза", "ar": "الموناليزا", "zh": "蒙娜丽莎"},
       "clues": [
         {"tr": "Gülümseme", "en": "Smile", "es": "Sonrisa", "fr": "Sourire", "de": "Lächeln", "it": "Sorriso", "pt": "Sorriso", "ru": "Улыбка", "ar": "ابتسامة", "zh": "微笑"},
-        {"tr": "Louvre", "en": "Louvre", "es": "Louvre", "fr": "Louvre", "de": "Louvre", "it": "Louvre", "pt": "Louvre", "ru": "Лувр", "ar": "اللوفر", "zh": "卢浮宫"}
+        {"tr": "Kalabalık", "en": "Crowds", "es": "Multitudes", "fr": "Foule", "de": "Menschenmenge", "it": "Folla", "pt": "Multidão", "ru": "Толпы", "ar": "حشود", "zh": "人潮"}
       ]
     },
     {
       "word": {"tr": "Heykel", "en": "Sculpture", "es": "Escultura", "fr": "Sculpture", "de": "Skulptur", "it": "Scultura", "pt": "Escultura", "ru": "Скульптура", "ar": "تمثال", "zh": "雕塑"},
       "clues": [
         {"tr": "Mermer", "en": "Marble", "es": "Mármol", "fr": "Marbre", "de": "Marmor", "it": "Marmo", "pt": "Mármore", "ru": "Мрамор", "ar": "رخام", "zh": "大理石"},
-        {"tr": "Keski", "en": "Chisel", "es": "Cincel", "fr": "Ciseau", "de": "Meißel", "it": "Scalpello", "pt": "Cinzel", "ru": "Резец", "ar": "إزميل", "zh": "凿子"}
+        {"tr": "Güvercin", "en": "Pigeons", "es": "Palomas", "fr": "Pigeons", "de": "Tauben", "it": "Piccioni", "pt": "Pombos", "ru": "Голуби", "ar": "حمام", "zh": "鸽子"}
       ]
     },
     {
       "word": {"tr": "Tiyatro", "en": "Theater", "es": "Teatro", "fr": "Théâtre", "de": "Theater", "it": "Teatro", "pt": "Teatro", "ru": "Театр", "ar": "مسرح", "zh": "剧院"},
       "clues": [
-        {"tr": "Sahne", "en": "Stage", "es": "Escenario", "fr": "Scène", "de": "Bühne", "it": "Palcoscenico", "pt": "Palco", "ru": "Сцена", "ar": "خشبة", "zh": "舞台"},
-        {"tr": "Perde", "en": "Curtain", "es": "Telón", "fr": "Rideau", "de": "Vorhang", "it": "Sipario", "pt": "Cortina", "ru": "Занавес", "ar": "ستارة", "zh": "幕布"}
+        {"tr": "Perde", "en": "Curtain", "es": "Telón", "fr": "Rideau", "de": "Vorhang", "it": "Sipario", "pt": "Cortina", "ru": "Занавес", "ar": "ستارة", "zh": "幕布"},
+        {"tr": "Ara", "en": "Intermission", "es": "Intermedio", "fr": "Entracte", "de": "Pause", "it": "Intervallo", "pt": "Intervalo", "ru": "Антракт", "ar": "استراحة", "zh": "幕间休息"}
       ]
     },
     {
       "word": {"tr": "Bale", "en": "Ballet", "es": "Ballet", "fr": "Ballet", "de": "Ballett", "it": "Balletto", "pt": "Balé", "ru": "Балет", "ar": "باليه", "zh": "芭蕾"},
       "clues": [
         {"tr": "Parmak ucu", "en": "Tiptoe", "es": "Puntillas", "fr": "Pointes", "de": "Zehenspitzen", "it": "Punte", "pt": "Ponta dos pés", "ru": "Пуанты", "ar": "أطراف الأصابع", "zh": "踮脚尖"},
-        {"tr": "Tütü", "en": "Tutu", "es": "Tutú", "fr": "Tutu", "de": "Tutu", "it": "Tutù", "pt": "Tutu", "ru": "Пачка", "ar": "تنورة الباليه", "zh": "芭蕾舞裙"}
+        {"tr": "Kuğu", "en": "Swan", "es": "Cisne", "fr": "Cygne", "de": "Schwan", "it": "Cigno", "pt": "Cisne", "ru": "Лебедь", "ar": "بجعة", "zh": "天鹅"}
       ]
     },
     {
-      "word": {"tr": "Fotoğraf", "en": "Photograph", "es": "Fotografía", "fr": "Photographie", "de": "Foto", "it": "Fotografia", "pt": "Fotografia", "ru": "Фотография", "ar": "صورة", "zh": "照片"},
+      "word": {"tr": "Polaroid", "en": "Polaroid", "es": "Polaroid", "fr": "Polaroid", "de": "Polaroid", "it": "Polaroid", "pt": "Polaroid", "ru": "Полароид", "ar": "بولارويد", "zh": "拍立得"},
       "clues": [
-        {"tr": "Kamera", "en": "Camera", "es": "Cámara", "fr": "Appareil photo", "de": "Kamera", "it": "Macchina fotografica", "pt": "Câmera", "ru": "Камера", "ar": "كاميرا", "zh": "相机"},
+        {"tr": "Sallamak", "en": "Shaking", "es": "Agitar", "fr": "Secouer", "de": "Schütteln", "it": "Scuotere", "pt": "Sacudir", "ru": "Трясти", "ar": "هزّ", "zh": "甩一甩"},
         {"tr": "Anı", "en": "Memory", "es": "Recuerdo", "fr": "Souvenir", "de": "Erinnerung", "it": "Ricordo", "pt": "Lembrança", "ru": "Воспоминание", "ar": "ذكرى", "zh": "回忆"}
       ]
     },
@@ -50,7 +50,7 @@
       "word": {"tr": "Origami", "en": "Origami", "es": "Origami", "fr": "Origami", "de": "Origami", "it": "Origami", "pt": "Origami", "ru": "Оригами", "ar": "أوريغامي", "zh": "折纸"},
       "clues": [
         {"tr": "Kâğıt", "en": "Paper", "es": "Papel", "fr": "Papier", "de": "Papier", "it": "Carta", "pt": "Papel", "ru": "Бумага", "ar": "ورق", "zh": "纸"},
-        {"tr": "Katlamak", "en": "Fold", "es": "Doblar", "fr": "Plier", "de": "Falten", "it": "Piegare", "pt": "Dobrar", "ru": "Складывать", "ar": "طي", "zh": "折叠"}
+        {"tr": "Turna", "en": "Crane", "es": "Grulla", "fr": "Grue", "de": "Kranich", "it": "Gru", "pt": "Grou", "ru": "Журавлик", "ar": "كركي", "zh": "鹤"}
       ]
     },
     {
@@ -69,10 +69,10 @@
       ]
     },
     {
-      "word": {"tr": "Film", "en": "Movie", "es": "Película", "fr": "Film", "de": "Film", "it": "Film", "pt": "Filme", "ru": "Фильм", "ar": "فيلم", "zh": "电影"},
+      "word": {"tr": "Sessiz film", "en": "Silent film", "es": "Cine mudo", "fr": "Film muet", "de": "Stummfilm", "it": "Film muto", "pt": "Filme mudo", "ru": "Немое кино", "ar": "فيلم صامت", "zh": "默片"},
       "clues": [
-        {"tr": "Yönetmen", "en": "Director", "es": "Director", "fr": "Réalisateur", "de": "Regisseur", "it": "Regista", "pt": "Diretor", "ru": "Режиссёр", "ar": "مخرج", "zh": "导演"},
-        {"tr": "Senaryo", "en": "Script", "es": "Guion", "fr": "Scénario", "de": "Drehbuch", "it": "Sceneggiatura", "pt": "Roteiro", "ru": "Сценарий", "ar": "سيناريو", "zh": "剧本"}
+        {"tr": "Siyah beyaz", "en": "Black and white", "es": "Blanco y negro", "fr": "Noir et blanc", "de": "Schwarz-weiß", "it": "Bianco e nero", "pt": "Preto e branco", "ru": "Чёрно-белый", "ar": "أبيض وأسود", "zh": "黑白"},
+        {"tr": "Bıyık", "en": "Mustache", "es": "Bigote", "fr": "Moustache", "de": "Schnurrbart", "it": "Baffi", "pt": "Bigode", "ru": "Усики", "ar": "شارب", "zh": "小胡子"}
       ]
     },
     {
@@ -107,7 +107,7 @@
       "word": {"tr": "Pandomim", "en": "Mime", "es": "Mimo", "fr": "Mime", "de": "Pantomime", "it": "Mimo", "pt": "Mímica", "ru": "Мим", "ar": "تمثيل صامت", "zh": "哑剧"},
       "clues": [
         {"tr": "Sessiz", "en": "Silent", "es": "Silencioso", "fr": "Silencieux", "de": "Stumm", "it": "Silenzioso", "pt": "Silencioso", "ru": "Молчаливый", "ar": "صامت", "zh": "无声"},
-        {"tr": "Beyaz yüz", "en": "White face", "es": "Cara blanca", "fr": "Visage blanc", "de": "Weißes Gesicht", "it": "Viso bianco", "pt": "Rosto branco", "ru": "Белое лицо", "ar": "وجه أبيض", "zh": "白脸"}
+        {"tr": "Beyaz eldiven", "en": "White gloves", "es": "Guantes blancos", "fr": "Gants blancs", "de": "Weiße Handschuhe", "it": "Guanti bianchi", "pt": "Luvas brancas", "ru": "Белые перчатки", "ar": "قفازات بيضاء", "zh": "白手套"}
       ]
     },
     {
@@ -121,7 +121,7 @@
       "word": {"tr": "Dövme", "en": "Tattoo", "es": "Tatuaje", "fr": "Tatouage", "de": "Tattoo", "it": "Tatuaggio", "pt": "Tatuagem", "ru": "Татуировка", "ar": "وشم", "zh": "纹身"},
       "clues": [
         {"tr": "İğne", "en": "Needle", "es": "Aguja", "fr": "Aiguille", "de": "Nadel", "it": "Ago", "pt": "Agulha", "ru": "Игла", "ar": "إبرة", "zh": "针"},
-        {"tr": "Mürekkep", "en": "Ink", "es": "Tinta", "fr": "Encre", "de": "Tinte", "it": "Inchiostro", "pt": "Tinta", "ru": "Чернила", "ar": "حبر", "zh": "墨水"}
+        {"tr": "Kalıcı", "en": "Permanent", "es": "Permanente", "fr": "Permanent", "de": "Dauerhaft", "it": "Permanente", "pt": "Permanente", "ru": "Навсегда", "ar": "دائم", "zh": "永久"}
       ]
     },
     {
@@ -134,8 +134,8 @@
     {
       "word": {"tr": "Sergi", "en": "Exhibition", "es": "Exposición", "fr": "Exposition", "de": "Ausstellung", "it": "Mostra", "pt": "Exposição", "ru": "Выставка", "ar": "معرض", "zh": "展览"},
       "clues": [
-        {"tr": "Galeri", "en": "Gallery", "es": "Galería", "fr": "Galerie", "de": "Galerie", "it": "Galleria", "pt": "Galeria", "ru": "Галерея", "ar": "معرض فني", "zh": "画廊"},
-        {"tr": "Açılış", "en": "Opening", "es": "Inauguración", "fr": "Vernissage", "de": "Eröffnung", "it": "Inaugurazione", "pt": "Abertura", "ru": "Открытие", "ar": "افتتاح", "zh": "开幕"}
+        {"tr": "Açılış", "en": "Opening", "es": "Inauguración", "fr": "Vernissage", "de": "Eröffnung", "it": "Inaugurazione", "pt": "Abertura", "ru": "Открытие", "ar": "افتتاح", "zh": "开幕"},
+        {"tr": "Davetiye", "en": "Invitation", "es": "Invitación", "fr": "Invitation", "de": "Einladung", "it": "Invito", "pt": "Convite", "ru": "Приглашение", "ar": "دعوة", "zh": "请柬"}
       ]
     },
     {

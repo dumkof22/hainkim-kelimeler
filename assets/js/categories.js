@@ -4,7 +4,7 @@
 import { currentLang, t } from './lang.js';
 
 // Uygulamadaki PremiumConfig.freeCategories ile aynı.
-const FREE = new Set(['animals', 'foods', 'fruits_veggies', 'vehicles']);
+const FREE = new Set(['mixed']);
 
 let packs = null;
 

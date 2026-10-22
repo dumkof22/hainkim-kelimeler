@@ -5,178 +5,185 @@
   "drawable": true,
   "words": [
     {
-      "word": {"tr": "Futbol", "en": "Football", "es": "Fútbol", "fr": "Football", "de": "Fußball", "it": "Calcio", "pt": "Futebol", "ru": "Футбол", "ar": "كرة القدم", "zh": "足球"},
+      "word": {"tr": "Penaltı", "en": "Penalty kick", "es": "Penalti", "fr": "Penalty", "de": "Elfmeter", "it": "Rigore", "pt": "Pênalti", "ru": "Пенальти", "ar": "ركلة جزاء", "zh": "点球"},
       "clues": [
-        {"tr": "Kale", "en": "Goal", "es": "Portería", "fr": "But", "de": "Tor", "it": "Porta", "pt": "Gol", "ru": "Ворота", "ar": "مرمى", "zh": "球门"},
-        {"tr": "Hakem", "en": "Referee", "es": "Árbitro", "fr": "Arbitre", "de": "Schiedsrichter", "it": "Arbitro", "pt": "Árbitro", "ru": "Судья", "ar": "حكم", "zh": "裁判"}
+        {"tr": "Gerginlik", "en": "Tension", "es": "Tensión", "fr": "Tension", "de": "Spannung", "it": "Tensione", "pt": "Tensão", "ru": "Напряжение", "ar": "توتر", "zh": "紧张"},
+        {"tr": "Düdük", "en": "Whistle", "es": "Silbato", "fr": "Sifflet", "de": "Pfiff", "it": "Fischio", "pt": "Apito", "ru": "Свисток", "ar": "صافرة", "zh": "哨声"}
       ]
     },
     {
-      "word": {"tr": "Basketbol", "en": "Basketball", "es": "Baloncesto", "fr": "Basket", "de": "Basketball", "it": "Pallacanestro", "pt": "Basquete", "ru": "Баскетбол", "ar": "كرة السلة", "zh": "篮球"},
+      "word": {"tr": "Smaç", "en": "Slam dunk", "es": "Mate", "fr": "Dunk", "de": "Dunking", "it": "Schiacciata", "pt": "Enterrada", "ru": "Слэм-данк", "ar": "تغميس الكرة", "zh": "扣篮"},
       "clues": [
-        {"tr": "Pota", "en": "Hoop", "es": "Aro", "fr": "Panier", "de": "Korb", "it": "Canestro", "pt": "Cesta", "ru": "Кольцо", "ar": "سلة", "zh": "篮筐"},
+        {"tr": "Zıplamak", "en": "Jump", "es": "Salto", "fr": "Saut", "de": "Sprung", "it": "Salto", "pt": "Salto", "ru": "Прыжок", "ar": "قفزة", "zh": "跳跃"},
         {"tr": "Uzun boylu", "en": "Tall", "es": "Alto", "fr": "Grand", "de": "Groß", "it": "Alto", "pt": "Alto", "ru": "Высокий", "ar": "طويل القامة", "zh": "高个子"}
       ]
     },
     {
-      "word": {"tr": "Voleybol", "en": "Volleyball", "es": "Voleibol", "fr": "Volley-ball", "de": "Volleyball", "it": "Pallavolo", "pt": "Vôlei", "ru": "Волейбол", "ar": "الكرة الطائرة", "zh": "排球"},
+      "word": {"tr": "Plaj voleybolu", "en": "Beach volleyball", "es": "Vóley playa", "fr": "Beach-volley", "de": "Beachvolleyball", "it": "Beach volley", "pt": "Vôlei de praia", "ru": "Пляжный волейбол", "ar": "كرة الطائرة الشاطئية", "zh": "沙滩排球"},
       "clues": [
-        {"tr": "File", "en": "Net", "es": "Red", "fr": "Filet", "de": "Netz", "it": "Rete", "pt": "Rede", "ru": "Сетка", "ar": "شبكة", "zh": "球网"},
-        {"tr": "Takım", "en": "Team", "es": "Equipo", "fr": "Équipe", "de": "Mannschaft", "it": "Squadra", "pt": "Time", "ru": "Команда", "ar": "فريق", "zh": "球队"}
+        {"tr": "Kum", "en": "Sand", "es": "Arena", "fr": "Sable", "de": "Sand", "it": "Sabbia", "pt": "Areia", "ru": "Песок", "ar": "رمل", "zh": "沙子"},
+        {"tr": "İkili", "en": "Pairs", "es": "Parejas", "fr": "Duo", "de": "Zweierteams", "it": "Coppia", "pt": "Dupla", "ru": "Пары", "ar": "ثنائي", "zh": "双人"}
       ]
     },
     {
-      "word": {"tr": "Tenis", "en": "Tennis", "es": "Tenis", "fr": "Tennis", "de": "Tennis", "it": "Tennis", "pt": "Tênis", "ru": "Теннис", "ar": "تنس", "zh": "网球"},
+      "word": {"tr": "Badminton", "en": "Badminton", "es": "Bádminton", "fr": "Badminton", "de": "Badminton", "it": "Badminton", "pt": "Badminton", "ru": "Бадминтон", "ar": "بادمنتون", "zh": "羽毛球"},
       "clues": [
         {"tr": "Raket", "en": "Racket", "es": "Raqueta", "fr": "Raquette", "de": "Schläger", "it": "Racchetta", "pt": "Raquete", "ru": "Ракетка", "ar": "مضرب", "zh": "球拍"},
-        {"tr": "Sarı top", "en": "Yellow ball", "es": "Pelota amarilla", "fr": "Balle jaune", "de": "Gelber Ball", "it": "Pallina gialla", "pt": "Bola amarela", "ru": "Жёлтый мяч", "ar": "كرة صفراء", "zh": "黄色球"}
+        {"tr": "Bahçe", "en": "Backyard", "es": "Jardín", "fr": "Jardin", "de": "Garten", "it": "Giardino", "pt": "Quintal", "ru": "Двор", "ar": "حديقة", "zh": "后院"}
       ]
     },
     {
-      "word": {"tr": "Yüzme", "en": "Swimming", "es": "Natación", "fr": "Natation", "de": "Schwimmen", "it": "Nuoto", "pt": "Natação", "ru": "Плавание", "ar": "سباحة", "zh": "游泳"},
+      "word": {"tr": "Su topu", "en": "Water polo", "es": "Waterpolo", "fr": "Water-polo", "de": "Wasserball", "it": "Pallanuoto", "pt": "Polo aquático", "ru": "Водное поло", "ar": "كرة الماء", "zh": "水球"},
       "clues": [
-        {"tr": "Havuz", "en": "Pool", "es": "Piscina", "fr": "Piscine", "de": "Becken", "it": "Piscina", "pt": "Piscina", "ru": "Бассейн", "ar": "مسبح", "zh": "泳池"},
-        {"tr": "Bone", "en": "Swim cap", "es": "Gorro de natación", "fr": "Bonnet de bain", "de": "Badekappe", "it": "Cuffia", "pt": "Touca", "ru": "Шапочка", "ar": "قبعة سباحة", "zh": "泳帽"}
+        {"tr": "Bone", "en": "Swim cap", "es": "Gorro", "fr": "Bonnet", "de": "Badekappe", "it": "Cuffia", "pt": "Touca", "ru": "Шапочка", "ar": "قبعة سباحة", "zh": "泳帽"},
+        {"tr": "Havuz", "en": "Pool", "es": "Piscina", "fr": "Piscine", "de": "Schwimmbad", "it": "Piscina", "pt": "Piscina", "ru": "Бассейн", "ar": "مسبح", "zh": "泳池"}
       ]
     },
     {
       "word": {"tr": "Boks", "en": "Boxing", "es": "Boxeo", "fr": "Boxe", "de": "Boxen", "it": "Pugilato", "pt": "Boxe", "ru": "Бокс", "ar": "ملاكمة", "zh": "拳击"},
       "clues": [
-        {"tr": "Eldiven", "en": "Gloves", "es": "Guantes", "fr": "Gants", "de": "Handschuhe", "it": "Guantoni", "pt": "Luvas", "ru": "Перчатки", "ar": "قفازات", "zh": "手套"},
-        {"tr": "Ring", "en": "Ring", "es": "Ring", "fr": "Ring", "de": "Ring", "it": "Ring", "pt": "Ringue", "ru": "Ринг", "ar": "حلبة", "zh": "拳台"}
+        {"tr": "Zil", "en": "Bell", "es": "Campana", "fr": "Cloche", "de": "Gong", "it": "Campana", "pt": "Sino", "ru": "Гонг", "ar": "جرس", "zh": "铃声"},
+        {"tr": "Köşe", "en": "Corner", "es": "Esquina", "fr": "Coin", "de": "Ecke", "it": "Angolo", "pt": "Canto", "ru": "Угол", "ar": "زاوية", "zh": "角落"}
       ]
     },
     {
       "word": {"tr": "Kayak", "en": "Skiing", "es": "Esquí", "fr": "Ski", "de": "Skifahren", "it": "Sci", "pt": "Esqui", "ru": "Лыжи", "ar": "تزلج", "zh": "滑雪"},
       "clues": [
-        {"tr": "Kar", "en": "Snow", "es": "Nieve", "fr": "Neige", "de": "Schnee", "it": "Neve", "pt": "Neve", "ru": "Снег", "ar": "ثلج", "zh": "雪"},
-        {"tr": "Gözlük", "en": "Goggles", "es": "Gafas", "fr": "Masque", "de": "Brille", "it": "Maschera", "pt": "Óculos", "ru": "Очки", "ar": "نظارات", "zh": "护目镜"}
+        {"tr": "Gözlük", "en": "Goggles", "es": "Gafas", "fr": "Lunettes", "de": "Brille", "it": "Occhiali", "pt": "Óculos", "ru": "Очки", "ar": "نظارات", "zh": "护目镜"},
+        {"tr": "Kış tatili", "en": "Winter holiday", "es": "Vacaciones de invierno", "fr": "Vacances d'hiver", "de": "Winterurlaub", "it": "Vacanze invernali", "pt": "Férias de inverno", "ru": "Зимний отпуск", "ar": "عطلة شتوية", "zh": "寒假"}
       ]
     },
     {
       "word": {"tr": "Satranç", "en": "Chess", "es": "Ajedrez", "fr": "Échecs", "de": "Schach", "it": "Scacchi", "pt": "Xadrez", "ru": "Шахматы", "ar": "شطرنج", "zh": "国际象棋"},
       "clues": [
-        {"tr": "Şah", "en": "King", "es": "Rey", "fr": "Roi", "de": "König", "it": "Re", "pt": "Rei", "ru": "Король", "ar": "ملك", "zh": "国王"},
-        {"tr": "Strateji", "en": "Strategy", "es": "Estrategia", "fr": "Stratégie", "de": "Strategie", "it": "Strategia", "pt": "Estratégia", "ru": "Стратегия", "ar": "استراتيجية", "zh": "策略"}
+        {"tr": "Strateji", "en": "Strategy", "es": "Estrategia", "fr": "Stratégie", "de": "Strategie", "it": "Strategia", "pt": "Estratégia", "ru": "Стратегия", "ar": "استراتيجية", "zh": "策略"},
+        {"tr": "Saat", "en": "Clock", "es": "Reloj", "fr": "Pendule", "de": "Uhr", "it": "Orologio", "pt": "Relógio", "ru": "Часы", "ar": "ساعة", "zh": "计时钟"}
       ]
     },
     {
       "word": {"tr": "Golf", "en": "Golf", "es": "Golf", "fr": "Golf", "de": "Golf", "it": "Golf", "pt": "Golfe", "ru": "Гольф", "ar": "غولف", "zh": "高尔夫"},
       "clues": [
-        {"tr": "Delik", "en": "Hole", "es": "Hoyo", "fr": "Trou", "de": "Loch", "it": "Buca", "pt": "Buraco", "ru": "Лунка", "ar": "حفرة", "zh": "洞"},
-        {"tr": "Sopa", "en": "Club", "es": "Palo", "fr": "Club", "de": "Schläger", "it": "Mazza", "pt": "Taco", "ru": "Клюшка", "ar": "مضرب", "zh": "球杆"}
+        {"tr": "Sessizlik", "en": "Silence", "es": "Silencio", "fr": "Silence", "de": "Stille", "it": "Silenzio", "pt": "Silêncio", "ru": "Тишина", "ar": "صمت", "zh": "安静"},
+        {"tr": "Çim", "en": "Grass", "es": "Césped", "fr": "Gazon", "de": "Rasen", "it": "Prato", "pt": "Gramado", "ru": "Трава", "ar": "عشب", "zh": "草地"}
       ]
     },
     {
       "word": {"tr": "Okçuluk", "en": "Archery", "es": "Tiro con arco", "fr": "Tir à l'arc", "de": "Bogenschießen", "it": "Tiro con l'arco", "pt": "Tiro com arco", "ru": "Стрельба из лука", "ar": "رماية بالسهام", "zh": "射箭"},
       "clues": [
         {"tr": "Hedef", "en": "Target", "es": "Diana", "fr": "Cible", "de": "Zielscheibe", "it": "Bersaglio", "pt": "Alvo", "ru": "Мишень", "ar": "هدف", "zh": "靶子"},
-        {"tr": "Yay", "en": "Bow", "es": "Arco", "fr": "Arc", "de": "Bogen", "it": "Arco", "pt": "Arco", "ru": "Лук", "ar": "قوس", "zh": "弓"}
+        {"tr": "Rüzgâr", "en": "Wind", "es": "Viento", "fr": "Vent", "de": "Wind", "it": "Vento", "pt": "Vento", "ru": "Ветер", "ar": "رياح", "zh": "风"}
       ]
     },
     {
-      "word": {"tr": "Güreş", "en": "Wrestling", "es": "Lucha", "fr": "Lutte", "de": "Ringen", "it": "Lotta", "pt": "Luta", "ru": "Борьба", "ar": "مصارعة", "zh": "摔跤"},
+      "word": {"tr": "Sumo", "en": "Sumo", "es": "Sumo", "fr": "Sumo", "de": "Sumo", "it": "Sumo", "pt": "Sumô", "ru": "Сумо", "ar": "سومو", "zh": "相扑"},
       "clues": [
-        {"tr": "Minder", "en": "Mat", "es": "Colchoneta", "fr": "Tapis", "de": "Matte", "it": "Tappeto", "pt": "Tatame", "ru": "Ковёр", "ar": "حصيرة", "zh": "垫子"},
-        {"tr": "Yağ", "en": "Oil", "es": "Aceite", "fr": "Huile", "de": "Öl", "it": "Olio", "pt": "Óleo", "ru": "Масло", "ar": "زيت", "zh": "油"}
+        {"tr": "Kilo", "en": "Weight", "es": "Peso", "fr": "Poids", "de": "Gewicht", "it": "Peso", "pt": "Peso", "ru": "Вес", "ar": "وزن", "zh": "体重"},
+        {"tr": "Tuz", "en": "Salt", "es": "Sal", "fr": "Sel", "de": "Salz", "it": "Sale", "pt": "Sal", "ru": "Соль", "ar": "ملح", "zh": "盐"}
       ]
     },
     {
       "word": {"tr": "Masa tenisi", "en": "Table tennis", "es": "Tenis de mesa", "fr": "Tennis de table", "de": "Tischtennis", "it": "Ping pong", "pt": "Tênis de mesa", "ru": "Настольный теннис", "ar": "تنس الطاولة", "zh": "乒乓球"},
       "clues": [
-        {"tr": "Küçük top", "en": "Small ball", "es": "Pelota pequeña", "fr": "Petite balle", "de": "Kleiner Ball", "it": "Pallina", "pt": "Bola pequena", "ru": "Маленький мяч", "ar": "كرة صغيرة", "zh": "小球"},
-        {"tr": "Refleks", "en": "Reflexes", "es": "Reflejos", "fr": "Réflexes", "de": "Reflexe", "it": "Riflessi", "pt": "Reflexos", "ru": "Реакция", "ar": "ردود فعل", "zh": "反应"}
+        {"tr": "Refleks", "en": "Reflexes", "es": "Reflejos", "fr": "Réflexes", "de": "Reflexe", "it": "Riflessi", "pt": "Reflexos", "ru": "Реакция", "ar": "ردود فعل", "zh": "反应"},
+        {"tr": "Hafif", "en": "Light", "es": "Ligero", "fr": "Léger", "de": "Leicht", "it": "Leggero", "pt": "Leve", "ru": "Лёгкий", "ar": "خفيف", "zh": "轻"}
       ]
     },
     {
       "word": {"tr": "Maraton", "en": "Marathon", "es": "Maratón", "fr": "Marathon", "de": "Marathon", "it": "Maratona", "pt": "Maratona", "ru": "Марафон", "ar": "ماراثون", "zh": "马拉松"},
       "clues": [
-        {"tr": "Koşu", "en": "Running", "es": "Correr", "fr": "Course", "de": "Laufen", "it": "Corsa", "pt": "Corrida", "ru": "Бег", "ar": "جري", "zh": "跑步"},
+        {"tr": "Kilometre", "en": "Kilometers", "es": "Kilómetros", "fr": "Kilomètres", "de": "Kilometer", "it": "Chilometri", "pt": "Quilômetros", "ru": "Километры", "ar": "كيلومترات", "zh": "公里"},
         {"tr": "Bitiş çizgisi", "en": "Finish line", "es": "Meta", "fr": "Ligne d'arrivée", "de": "Ziellinie", "it": "Traguardo", "pt": "Linha de chegada", "ru": "Финиш", "ar": "خط النهاية", "zh": "终点线"}
       ]
     },
     {
       "word": {"tr": "Sörf", "en": "Surfing", "es": "Surf", "fr": "Surf", "de": "Surfen", "it": "Surf", "pt": "Surfe", "ru": "Сёрфинг", "ar": "ركوب الأمواج", "zh": "冲浪"},
       "clues": [
-        {"tr": "Dalga", "en": "Wave", "es": "Ola", "fr": "Vague", "de": "Welle", "it": "Onda", "pt": "Onda", "ru": "Волна", "ar": "موجة", "zh": "海浪"},
-        {"tr": "Tahta", "en": "Board", "es": "Tabla", "fr": "Planche", "de": "Brett", "it": "Tavola", "pt": "Prancha", "ru": "Доска", "ar": "لوح", "zh": "板"}
+        {"tr": "Tahta", "en": "Board", "es": "Tabla", "fr": "Planche", "de": "Brett", "it": "Tavola", "pt": "Prancha", "ru": "Доска", "ar": "لوح", "zh": "板子"},
+        {"tr": "Denge", "en": "Balance", "es": "Equilibrio", "fr": "Équilibre", "de": "Gleichgewicht", "it": "Equilibrio", "pt": "Equilíbrio", "ru": "Равновесие", "ar": "توازن", "zh": "平衡"}
       ]
     },
     {
       "word": {"tr": "Yoga", "en": "Yoga", "es": "Yoga", "fr": "Yoga", "de": "Yoga", "it": "Yoga", "pt": "Ioga", "ru": "Йога", "ar": "يوغا", "zh": "瑜伽"},
       "clues": [
-        {"tr": "Mat", "en": "Mat", "es": "Esterilla", "fr": "Tapis", "de": "Matte", "it": "Tappetino", "pt": "Tapete", "ru": "Коврик", "ar": "سجادة", "zh": "垫子"},
-        {"tr": "Nefes", "en": "Breath", "es": "Respiración", "fr": "Respiration", "de": "Atem", "it": "Respiro", "pt": "Respiração", "ru": "Дыхание", "ar": "تنفس", "zh": "呼吸"}
+        {"tr": "Nefes", "en": "Breathing", "es": "Respiración", "fr": "Respiration", "de": "Atmung", "it": "Respiro", "pt": "Respiração", "ru": "Дыхание", "ar": "تنفس", "zh": "呼吸"},
+        {"tr": "Mat", "en": "Mat", "es": "Esterilla", "fr": "Tapis", "de": "Matte", "it": "Tappetino", "pt": "Tapete", "ru": "Коврик", "ar": "سجادة", "zh": "垫子"}
       ]
     },
     {
       "word": {"tr": "Bowling", "en": "Bowling", "es": "Bolos", "fr": "Bowling", "de": "Bowling", "it": "Bowling", "pt": "Boliche", "ru": "Боулинг", "ar": "بولينغ", "zh": "保龄球"},
       "clues": [
-        {"tr": "Lobut", "en": "Pins", "es": "Bolos", "fr": "Quilles", "de": "Kegel", "it": "Birilli", "pt": "Pinos", "ru": "Кегли", "ar": "قوارير", "zh": "球瓶"},
-        {"tr": "Strike", "en": "Strike", "es": "Pleno", "fr": "Strike", "de": "Strike", "it": "Strike", "pt": "Strike", "ru": "Страйк", "ar": "ضربة كاملة", "zh": "全中"}
+        {"tr": "Ayakkabı", "en": "Shoes", "es": "Zapatos", "fr": "Chaussures", "de": "Schuhe", "it": "Scarpe", "pt": "Sapatos", "ru": "Обувь", "ar": "أحذية", "zh": "鞋子"},
+        {"tr": "Ağır top", "en": "Heavy ball", "es": "Bola pesada", "fr": "Boule lourde", "de": "Schwere Kugel", "it": "Palla pesante", "pt": "Bola pesada", "ru": "Тяжёлый шар", "ar": "كرة ثقيلة", "zh": "重球"}
       ]
     },
     {
       "word": {"tr": "Buz pateni", "en": "Ice skating", "es": "Patinaje sobre hielo", "fr": "Patinage", "de": "Eislaufen", "it": "Pattinaggio", "pt": "Patinação no gelo", "ru": "Фигурное катание", "ar": "تزلج على الجليد", "zh": "滑冰"},
       "clues": [
-        {"tr": "Buz", "en": "Ice", "es": "Hielo", "fr": "Glace", "de": "Eis", "it": "Ghiaccio", "pt": "Gelo", "ru": "Лёд", "ar": "جليد", "zh": "冰"},
-        {"tr": "Piruet", "en": "Spin", "es": "Pirueta", "fr": "Pirouette", "de": "Pirouette", "it": "Piroetta", "pt": "Pirueta", "ru": "Вращение", "ar": "دوران", "zh": "旋转"}
+        {"tr": "Piruet", "en": "Spin", "es": "Pirueta", "fr": "Pirouette", "de": "Pirouette", "it": "Piroetta", "pt": "Pirueta", "ru": "Вращение", "ar": "دوران", "zh": "旋转"},
+        {"tr": "Bıçak", "en": "Blades", "es": "Cuchillas", "fr": "Lames", "de": "Kufen", "it": "Lame", "pt": "Lâminas", "ru": "Лезвия", "ar": "شفرات", "zh": "刀刃"}
       ]
     },
     {
       "word": {"tr": "Dalış", "en": "Diving", "es": "Buceo", "fr": "Plongée", "de": "Tauchen", "it": "Immersione", "pt": "Mergulho", "ru": "Дайвинг", "ar": "غوص", "zh": "潜水"},
       "clues": [
         {"tr": "Tüp", "en": "Air tank", "es": "Botella", "fr": "Bouteille", "de": "Flasche", "it": "Bombola", "pt": "Cilindro", "ru": "Баллон", "ar": "أسطوانة", "zh": "氧气瓶"},
-        {"tr": "Mercan", "en": "Coral", "es": "Coral", "fr": "Corail", "de": "Koralle", "it": "Corallo", "pt": "Coral", "ru": "Коралл", "ar": "مرجان", "zh": "珊瑚"}
+        {"tr": "Basınç", "en": "Pressure", "es": "Presión", "fr": "Pression", "de": "Druck", "it": "Pressione", "pt": "Pressão", "ru": "Давление", "ar": "ضغط", "zh": "压力"}
       ]
     },
     {
       "word": {"tr": "Eskrim", "en": "Fencing", "es": "Esgrima", "fr": "Escrime", "de": "Fechten", "it": "Scherma", "pt": "Esgrima", "ru": "Фехтование", "ar": "مبارزة", "zh": "击剑"},
       "clues": [
-        {"tr": "Kılıç", "en": "Sword", "es": "Espada", "fr": "Épée", "de": "Degen", "it": "Spada", "pt": "Espada", "ru": "Шпага", "ar": "سيف", "zh": "剑"},
+        {"tr": "Beyaz", "en": "White", "es": "Blanco", "fr": "Blanc", "de": "Weiß", "it": "Bianco", "pt": "Branco", "ru": "Белый", "ar": "أبيض", "zh": "白色"},
         {"tr": "Maske", "en": "Mask", "es": "Máscara", "fr": "Masque", "de": "Maske", "it": "Maschera", "pt": "Máscara", "ru": "Маска", "ar": "قناع", "zh": "面罩"}
       ]
     },
     {
       "word": {"tr": "Halter", "en": "Weightlifting", "es": "Halterofilia", "fr": "Haltérophilie", "de": "Gewichtheben", "it": "Sollevamento pesi", "pt": "Levantamento de peso", "ru": "Тяжёлая атлетика", "ar": "رفع الأثقال", "zh": "举重"},
       "clues": [
-        {"tr": "Ağırlık", "en": "Weight", "es": "Peso", "fr": "Poids", "de": "Gewicht", "it": "Peso", "pt": "Peso", "ru": "Вес", "ar": "وزن", "zh": "重量"},
-        {"tr": "Kas", "en": "Muscle", "es": "Músculo", "fr": "Muscle", "de": "Muskel", "it": "Muscolo", "pt": "Músculo", "ru": "Мышцы", "ar": "عضلات", "zh": "肌肉"}
+        {"tr": "Kas", "en": "Muscles", "es": "Músculos", "fr": "Muscles", "de": "Muskeln", "it": "Muscoli", "pt": "Músculos", "ru": "Мышцы", "ar": "عضلات", "zh": "肌肉"},
+        {"tr": "Bağırmak", "en": "Grunting", "es": "Gritos", "fr": "Cris", "de": "Stöhnen", "it": "Urla", "pt": "Gritos", "ru": "Крик", "ar": "صراخ", "zh": "吼叫"}
       ]
     },
     {
       "word": {"tr": "Jimnastik", "en": "Gymnastics", "es": "Gimnasia", "fr": "Gymnastique", "de": "Turnen", "it": "Ginnastica", "pt": "Ginástica", "ru": "Гимнастика", "ar": "جمباز", "zh": "体操"},
       "clues": [
-        {"tr": "Takla", "en": "Flip", "es": "Voltereta", "fr": "Salto", "de": "Salto", "it": "Capriola", "pt": "Cambalhota", "ru": "Сальто", "ar": "شقلبة", "zh": "翻跟头"},
-        {"tr": "Denge", "en": "Balance", "es": "Equilibrio", "fr": "Équilibre", "de": "Gleichgewicht", "it": "Equilibrio", "pt": "Equilíbrio", "ru": "Равновесие", "ar": "توازن", "zh": "平衡"}
+        {"tr": "Takla", "en": "Somersault", "es": "Voltereta", "fr": "Roulade", "de": "Purzelbaum", "it": "Capriola", "pt": "Cambalhota", "ru": "Кувырок", "ar": "شقلبة", "zh": "翻跟头"},
+        {"tr": "Kurdele", "en": "Ribbon", "es": "Cinta", "fr": "Ruban", "de": "Band", "it": "Nastro", "pt": "Fita", "ru": "Лента", "ar": "شريط", "zh": "丝带"}
       ]
     },
     {
       "word": {"tr": "Beyzbol", "en": "Baseball", "es": "Béisbol", "fr": "Baseball", "de": "Baseball", "it": "Baseball", "pt": "Beisebol", "ru": "Бейсбол", "ar": "بيسبول", "zh": "棒球"},
       "clues": [
-        {"tr": "Amerika", "en": "America", "es": "América", "fr": "Amérique", "de": "Amerika", "it": "America", "pt": "América", "ru": "Америка", "ar": "أمريكا", "zh": "美国"},
+        {"tr": "Şapka", "en": "Cap", "es": "Gorra", "fr": "Casquette", "de": "Kappe", "it": "Cappellino", "pt": "Boné", "ru": "Кепка", "ar": "قبعة", "zh": "帽子"},
         {"tr": "Vuruş", "en": "Hit", "es": "Golpe", "fr": "Frappe", "de": "Schlag", "it": "Battuta", "pt": "Rebatida", "ru": "Удар", "ar": "ضربة", "zh": "击球"}
       ]
     },
     {
       "word": {"tr": "Dağcılık", "en": "Mountaineering", "es": "Alpinismo", "fr": "Alpinisme", "de": "Bergsteigen", "it": "Alpinismo", "pt": "Alpinismo", "ru": "Альпинизм", "ar": "تسلق الجبال", "zh": "登山"},
       "clues": [
-        {"tr": "Zirve", "en": "Summit", "es": "Cumbre", "fr": "Sommet", "de": "Gipfel", "it": "Vetta", "pt": "Cume", "ru": "Вершина", "ar": "قمة", "zh": "山顶"},
-        {"tr": "İp", "en": "Rope", "es": "Cuerda", "fr": "Corde", "de": "Seil", "it": "Corda", "pt": "Corda", "ru": "Верёвка", "ar": "حبل", "zh": "绳子"}
+        {"tr": "Oksijen", "en": "Oxygen", "es": "Oxígeno", "fr": "Oxygène", "de": "Sauerstoff", "it": "Ossigeno", "pt": "Oxigênio", "ru": "Кислород", "ar": "أكسجين", "zh": "氧气"},
+        {"tr": "Bayrak", "en": "Flag", "es": "Bandera", "fr": "Drapeau", "de": "Flagge", "it": "Bandiera", "pt": "Bandeira", "ru": "Флаг", "ar": "علم", "zh": "旗帜"}
       ]
     },
     {
       "word": {"tr": "Binicilik", "en": "Horse riding", "es": "Equitación", "fr": "Équitation", "de": "Reiten", "it": "Equitazione", "pt": "Hipismo", "ru": "Верховая езда", "ar": "ركوب الخيل", "zh": "马术"},
       "clues": [
-        {"tr": "Eyer", "en": "Saddle", "es": "Silla de montar", "fr": "Selle", "de": "Sattel", "it": "Sella", "pt": "Sela", "ru": "Седло", "ar": "سرج", "zh": "马鞍"},
-        {"tr": "Engel", "en": "Obstacle", "es": "Obstáculo", "fr": "Obstacle", "de": "Hindernis", "it": "Ostacolo", "pt": "Obstáculo", "ru": "Препятствие", "ar": "حاجز", "zh": "障碍"}
+        {"tr": "Engel", "en": "Obstacle", "es": "Obstáculo", "fr": "Obstacle", "de": "Hindernis", "it": "Ostacolo", "pt": "Obstáculo", "ru": "Препятствие", "ar": "حاجز", "zh": "障碍"},
+        {"tr": "Saman", "en": "Hay", "es": "Heno", "fr": "Foin", "de": "Heu", "it": "Fieno", "pt": "Feno", "ru": "Сено", "ar": "قش", "zh": "干草"}
       ]
     },
     {
-      "word": {"tr": "Kürek sporu", "en": "Rowing", "es": "Remo", "fr": "Aviron", "de": "Rudern", "it": "Canottaggio", "pt": "Remo", "ru": "Гребля", "ar": "تجديف", "zh": "赛艇"},
+      "word": {"tr": "Dart", "en": "Darts", "es": "Dardos", "fr": "Fléchettes", "de": "Darts", "it": "Freccette", "pt": "Dardos", "ru": "Дартс", "ar": "رمي السهام", "zh": "飞镖"},
       "clues": [
-        {"tr": "Tekne", "en": "Boat", "es": "Bote", "fr": "Bateau", "de": "Boot", "it": "Barca", "pt": "Barco", "ru": "Лодка", "ar": "قارب", "zh": "船"},
-        {"tr": "Ritim", "en": "Rhythm", "es": "Ritmo", "fr": "Rythme", "de": "Rhythmus", "it": "Ritmo", "pt": "Ritmo", "ru": "Ритм", "ar": "إيقاع", "zh": "节奏"}
+        {"tr": "Bar", "en": "Pub", "es": "Bar", "fr": "Pub", "de": "Kneipe", "it": "Pub", "pt": "Bar", "ru": "Паб", "ar": "حانة", "zh": "酒吧"},
+        {"tr": "Sivri", "en": "Pointy", "es": "Puntiagudo", "fr": "Pointu", "de": "Spitz", "it": "Appuntito", "pt": "Pontudo", "ru": "Острый", "ar": "مدبب", "zh": "尖尖的"}
+      ]
+    },
+    {
+      "word": {"tr": "Bilardo", "en": "Billiards", "es": "Billar", "fr": "Billard", "de": "Billard", "it": "Biliardo", "pt": "Sinuca", "ru": "Бильярд", "ar": "بلياردو", "zh": "台球"},
+      "clues": [
+        {"tr": "Tebeşir", "en": "Chalk", "es": "Tiza", "fr": "Craie", "de": "Kreide", "it": "Gesso", "pt": "Giz", "ru": "Мел", "ar": "طباشير", "zh": "巧粉"},
+        {"tr": "Yeşil", "en": "Green", "es": "Verde", "fr": "Vert", "de": "Grün", "it": "Verde", "pt": "Verde", "ru": "Зелёный", "ar": "أخضر", "zh": "绿色"}
       ]
     }
   ]

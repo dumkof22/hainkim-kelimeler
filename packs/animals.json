@@ -5,198 +5,198 @@
   "drawable": true,
   "words": [
     {
-      "word": {"tr": "Kedi", "en": "Cat", "es": "Gato", "fr": "Chat", "de": "Katze", "it": "Gatto", "pt": "Gato", "ru": "Кошка", "ar": "قطة", "zh": "猫"},
+      "word": {"tr": "Kirpi", "en": "Hedgehog", "es": "Erizo", "fr": "Hérisson", "de": "Igel", "it": "Riccio", "pt": "Ouriço", "ru": "Ёж", "ar": "قنفذ", "zh": "刺猬"},
       "clues": [
-        {"tr": "Bıyık", "en": "Whiskers", "es": "Bigotes", "fr": "Moustaches", "de": "Schnurrhaare", "it": "Baffi", "pt": "Bigodes", "ru": "Усы", "ar": "شوارب", "zh": "胡须"},
-        {"tr": "Pati", "en": "Paw", "es": "Pata", "fr": "Patte", "de": "Pfote", "it": "Zampa", "pt": "Pata", "ru": "Лапа", "ar": "كف", "zh": "爪子"}
+        {"tr": "Elma", "en": "Apple", "es": "Manzana", "fr": "Pomme", "de": "Apfel", "it": "Mela", "pt": "Maçã", "ru": "Яблоко", "ar": "تفاحة", "zh": "苹果"},
+        {"tr": "Top", "en": "Ball", "es": "Bola", "fr": "Boule", "de": "Kugel", "it": "Palla", "pt": "Bola", "ru": "Клубок", "ar": "كرة", "zh": "球"}
       ]
     },
     {
-      "word": {"tr": "Köpek", "en": "Dog", "es": "Perro", "fr": "Chien", "de": "Hund", "it": "Cane", "pt": "Cachorro", "ru": "Собака", "ar": "كلب", "zh": "狗"},
+      "word": {"tr": "Bukalemun", "en": "Chameleon", "es": "Camaleón", "fr": "Caméléon", "de": "Chamäleon", "it": "Camaleonte", "pt": "Camaleão", "ru": "Хамелеон", "ar": "حرباء", "zh": "变色龙"},
       "clues": [
-        {"tr": "Sadık", "en": "Loyal", "es": "Leal", "fr": "Fidèle", "de": "Treu", "it": "Fedele", "pt": "Leal", "ru": "Верный", "ar": "وفي", "zh": "忠诚"},
-        {"tr": "Gezinti", "en": "Walk", "es": "Paseo", "fr": "Promenade", "de": "Spaziergang", "it": "Passeggiata", "pt": "Passeio", "ru": "Прогулка", "ar": "نزهة", "zh": "散步"}
+        {"tr": "Dil", "en": "Tongue", "es": "Lengua", "fr": "Langue", "de": "Zunge", "it": "Lingua", "pt": "Língua", "ru": "Язык", "ar": "لسان", "zh": "舌头"},
+        {"tr": "Göz", "en": "Eyes", "es": "Ojos", "fr": "Yeux", "de": "Augen", "it": "Occhi", "pt": "Olhos", "ru": "Глаза", "ar": "عيون", "zh": "眼睛"}
       ]
     },
     {
-      "word": {"tr": "Aslan", "en": "Lion", "es": "León", "fr": "Lion", "de": "Löwe", "it": "Leone", "pt": "Leão", "ru": "Лев", "ar": "أسد", "zh": "狮子"},
+      "word": {"tr": "Tavus kuşu", "en": "Peacock", "es": "Pavo real", "fr": "Paon", "de": "Pfau", "it": "Pavone", "pt": "Pavão", "ru": "Павлин", "ar": "طاووس", "zh": "孔雀"},
       "clues": [
-        {"tr": "Yele", "en": "Mane", "es": "Melena", "fr": "Crinière", "de": "Mähne", "it": "Criniera", "pt": "Juba", "ru": "Грива", "ar": "لبدة", "zh": "鬃毛"},
-        {"tr": "Kral", "en": "King", "es": "Rey", "fr": "Roi", "de": "König", "it": "Re", "pt": "Rei", "ru": "Король", "ar": "ملك", "zh": "国王"}
+        {"tr": "Mavi", "en": "Blue", "es": "Azul", "fr": "Bleu", "de": "Blau", "it": "Blu", "pt": "Azul", "ru": "Синий", "ar": "أزرق", "zh": "蓝色"},
+        {"tr": "Gösteriş", "en": "Showing off", "es": "Presumir", "fr": "Frimer", "de": "Angeben", "it": "Vanità", "pt": "Exibição", "ru": "Хвастовство", "ar": "تباهٍ", "zh": "炫耀"}
       ]
     },
     {
-      "word": {"tr": "Fil", "en": "Elephant", "es": "Elefante", "fr": "Éléphant", "de": "Elefant", "it": "Elefante", "pt": "Elefante", "ru": "Слон", "ar": "فيل", "zh": "大象"},
+      "word": {"tr": "Flamingo", "en": "Flamingo", "es": "Flamenco", "fr": "Flamant rose", "de": "Flamingo", "it": "Fenicottero", "pt": "Flamingo", "ru": "Фламинго", "ar": "نحام", "zh": "火烈鸟"},
       "clues": [
-        {"tr": "Hafıza", "en": "Memory", "es": "Memoria", "fr": "Mémoire", "de": "Gedächtnis", "it": "Memoria", "pt": "Memória", "ru": "Память", "ar": "ذاكرة", "zh": "记忆"},
-        {"tr": "Kulak", "en": "Ear", "es": "Oreja", "fr": "Oreille", "de": "Ohr", "it": "Orecchio", "pt": "Orelha", "ru": "Ухо", "ar": "أذن", "zh": "耳朵"}
+        {"tr": "Karides", "en": "Shrimp", "es": "Camarón", "fr": "Crevette", "de": "Garnele", "it": "Gamberetto", "pt": "Camarão", "ru": "Креветка", "ar": "روبيان", "zh": "虾"},
+        {"tr": "Uzun bacak", "en": "Long legs", "es": "Patas largas", "fr": "Longues pattes", "de": "Lange Beine", "it": "Zampe lunghe", "pt": "Pernas longas", "ru": "Длинные ноги", "ar": "أرجل طويلة", "zh": "长腿"}
       ]
     },
     {
-      "word": {"tr": "Zürafa", "en": "Giraffe", "es": "Jirafa", "fr": "Girafe", "de": "Giraffe", "it": "Giraffa", "pt": "Girafa", "ru": "Жираф", "ar": "زرافة", "zh": "长颈鹿"},
+      "word": {"tr": "Yarasa", "en": "Bat", "es": "Murciélago", "fr": "Chauve-souris", "de": "Fledermaus", "it": "Pipistrello", "pt": "Morcego", "ru": "Летучая мышь", "ar": "خفاش", "zh": "蝙蝠"},
       "clues": [
-        {"tr": "Benek", "en": "Spots", "es": "Manchas", "fr": "Taches", "de": "Flecken", "it": "Macchie", "pt": "Manchas", "ru": "Пятна", "ar": "بقع", "zh": "斑点"},
-        {"tr": "Yaprak", "en": "Leaves", "es": "Hojas", "fr": "Feuilles", "de": "Blätter", "it": "Foglie", "pt": "Folhas", "ru": "Листья", "ar": "أوراق", "zh": "树叶"}
+        {"tr": "Mağara", "en": "Cave", "es": "Cueva", "fr": "Grotte", "de": "Höhle", "it": "Grotta", "pt": "Caverna", "ru": "Пещера", "ar": "كهف", "zh": "洞穴"},
+        {"tr": "Çatı arası", "en": "Attic", "es": "Desván", "fr": "Grenier", "de": "Dachboden", "it": "Soffitta", "pt": "Sótão", "ru": "Чердак", "ar": "علية", "zh": "阁楼"}
+      ]
+    },
+    {
+      "word": {"tr": "Kunduz", "en": "Beaver", "es": "Castor", "fr": "Castor", "de": "Biber", "it": "Castoro", "pt": "Castor", "ru": "Бобр", "ar": "قندس", "zh": "河狸"},
+      "clues": [
+        {"tr": "Nehir", "en": "River", "es": "Río", "fr": "Rivière", "de": "Fluss", "it": "Fiume", "pt": "Rio", "ru": "Река", "ar": "نهر", "zh": "溪流"},
+        {"tr": "Ağaç", "en": "Tree", "es": "Árbol", "fr": "Arbre", "de": "Baum", "it": "Albero", "pt": "Árvore", "ru": "Дерево", "ar": "شجرة", "zh": "树木"}
+      ]
+    },
+    {
+      "word": {"tr": "Su aygırı", "en": "Hippo", "es": "Hipopótamo", "fr": "Hippopotame", "de": "Nilpferd", "it": "Ippopotamo", "pt": "Hipopótamo", "ru": "Бегемот", "ar": "فرس النهر", "zh": "河马"},
+      "clues": [
+        {"tr": "Çamur", "en": "Mud", "es": "Barro", "fr": "Boue", "de": "Schlamm", "it": "Fango", "pt": "Lama", "ru": "Грязь", "ar": "طين", "zh": "泥巴"},
+        {"tr": "Esnemek", "en": "Yawn", "es": "Bostezo", "fr": "Bâillement", "de": "Gähnen", "it": "Sbadiglio", "pt": "Bocejo", "ru": "Зевок", "ar": "تثاؤب", "zh": "打哈欠"}
+      ]
+    },
+    {
+      "word": {"tr": "Tembel hayvan", "en": "Sloth", "es": "Perezoso", "fr": "Paresseux", "de": "Faultier", "it": "Bradipo", "pt": "Bicho-preguiça", "ru": "Ленивец", "ar": "كسلان", "zh": "树懒"},
+      "clues": [
+        {"tr": "Uyku", "en": "Sleep", "es": "Sueño", "fr": "Sommeil", "de": "Schlaf", "it": "Sonno", "pt": "Sono", "ru": "Сон", "ar": "نوم", "zh": "睡觉"},
+        {"tr": "Dal", "en": "Branch", "es": "Rama", "fr": "Branche", "de": "Ast", "it": "Ramo", "pt": "Galho", "ru": "Ветка", "ar": "غصن", "zh": "枝条"}
+      ]
+    },
+    {
+      "word": {"tr": "Devekuşu", "en": "Ostrich", "es": "Avestruz", "fr": "Autruche", "de": "Strauß", "it": "Struzzo", "pt": "Avestruz", "ru": "Страус", "ar": "نعامة", "zh": "鸵鸟"},
+      "clues": [
+        {"tr": "Yumurta", "en": "Egg", "es": "Huevo", "fr": "Œuf", "de": "Ei", "it": "Uovo", "pt": "Ovo", "ru": "Яйцо", "ar": "بيضة", "zh": "蛋"},
+        {"tr": "Koşu", "en": "Running", "es": "Carrera", "fr": "Course", "de": "Laufen", "it": "Corsa", "pt": "Corrida", "ru": "Бег", "ar": "ركض", "zh": "奔跑"}
+      ]
+    },
+    {
+      "word": {"tr": "Denizanası", "en": "Jellyfish", "es": "Medusa", "fr": "Méduse", "de": "Qualle", "it": "Medusa", "pt": "Água-viva", "ru": "Медуза", "ar": "قنديل البحر", "zh": "水母"},
+      "clues": [
+        {"tr": "Kaygan", "en": "Slippery", "es": "Resbaladizo", "fr": "Glissant", "de": "Glitschig", "it": "Viscido", "pt": "Escorregadio", "ru": "Скользкий", "ar": "زلق", "zh": "滑溜溜"},
+        {"tr": "Yaz", "en": "Summer", "es": "Verano", "fr": "Été", "de": "Sommer", "it": "Estate", "pt": "Verão", "ru": "Лето", "ar": "صيف", "zh": "夏天"}
+      ]
+    },
+    {
+      "word": {"tr": "Ağaçkakan", "en": "Woodpecker", "es": "Pájaro carpintero", "fr": "Pic", "de": "Specht", "it": "Picchio", "pt": "Pica-pau", "ru": "Дятел", "ar": "نقار الخشب", "zh": "啄木鸟"},
+      "clues": [
+        {"tr": "Ritim", "en": "Rhythm", "es": "Ritmo", "fr": "Rythme", "de": "Rhythmus", "it": "Ritmo", "pt": "Ritmo", "ru": "Ритм", "ar": "إيقاع", "zh": "节奏"},
+        {"tr": "Böcek", "en": "Bugs", "es": "Insectos", "fr": "Insectes", "de": "Insekten", "it": "Insetti", "pt": "Insetos", "ru": "Жуки", "ar": "حشرات", "zh": "虫子"}
+      ]
+    },
+    {
+      "word": {"tr": "Salyangoz", "en": "Snail", "es": "Caracol", "fr": "Escargot", "de": "Schnecke", "it": "Lumaca", "pt": "Caracol", "ru": "Улитка", "ar": "حلزون", "zh": "蜗牛"},
+      "clues": [
+        {"tr": "Yağmur", "en": "Rain", "es": "Lluvia", "fr": "Pluie", "de": "Regen", "it": "Pioggia", "pt": "Chuva", "ru": "Дождь", "ar": "مطر", "zh": "雨"},
+        {"tr": "Marul", "en": "Lettuce", "es": "Lechuga", "fr": "Laitue", "de": "Kopfsalat", "it": "Lattuga", "pt": "Alface", "ru": "Латук", "ar": "خس", "zh": "生菜"}
+      ]
+    },
+    {
+      "word": {"tr": "Kutup ayısı", "en": "Polar bear", "es": "Oso polar", "fr": "Ours polaire", "de": "Eisbär", "it": "Orso polare", "pt": "Urso-polar", "ru": "Белый медведь", "ar": "دب قطبي", "zh": "北极熊"},
+      "clues": [
+        {"tr": "Fok", "en": "Seal", "es": "Foca", "fr": "Phoque", "de": "Robbe", "it": "Foca", "pt": "Foca", "ru": "Тюлень", "ar": "فقمة", "zh": "海豹"},
+        {"tr": "Kürk", "en": "Fur", "es": "Pelaje", "fr": "Fourrure", "de": "Fell", "it": "Pelliccia", "pt": "Pelagem", "ru": "Мех", "ar": "فرو", "zh": "毛皮"}
+      ]
+    },
+    {
+      "word": {"tr": "Koala", "en": "Koala", "es": "Koala", "fr": "Koala", "de": "Koala", "it": "Koala", "pt": "Coala", "ru": "Коала", "ar": "كوالا", "zh": "考拉"},
+      "clues": [
+        {"tr": "Yaprak", "en": "Leaves", "es": "Hojas", "fr": "Feuilles", "de": "Blätter", "it": "Foglie", "pt": "Folhas", "ru": "Листья", "ar": "أوراق", "zh": "叶子"},
+        {"tr": "Gri", "en": "Gray", "es": "Gris", "fr": "Gris", "de": "Grau", "it": "Grigio", "pt": "Cinza", "ru": "Серый", "ar": "رمادي", "zh": "灰色"}
+      ]
+    },
+    {
+      "word": {"tr": "Mors", "en": "Walrus", "es": "Morsa", "fr": "Morse", "de": "Walross", "it": "Tricheco", "pt": "Morsa", "ru": "Морж", "ar": "فظ", "zh": "海象"},
+      "clues": [
+        {"tr": "Bıyık", "en": "Mustache", "es": "Bigote", "fr": "Moustache", "de": "Schnurrbart", "it": "Baffi", "pt": "Bigode", "ru": "Усы", "ar": "شارب", "zh": "胡子"},
+        {"tr": "Buz", "en": "Ice", "es": "Hielo", "fr": "Glace", "de": "Eis", "it": "Ghiaccio", "pt": "Gelo", "ru": "Лёд", "ar": "جليد", "zh": "冰"}
       ]
     },
     {
       "word": {"tr": "Penguen", "en": "Penguin", "es": "Pingüino", "fr": "Pingouin", "de": "Pinguin", "it": "Pinguino", "pt": "Pinguim", "ru": "Пингвин", "ar": "بطريق", "zh": "企鹅"},
       "clues": [
-        {"tr": "Buz", "en": "Ice", "es": "Hielo", "fr": "Glace", "de": "Eis", "it": "Ghiaccio", "pt": "Gelo", "ru": "Лёд", "ar": "جليد", "zh": "冰"},
-        {"tr": "Siyah beyaz", "en": "Black and white", "es": "Blanco y negro", "fr": "Noir et blanc", "de": "Schwarz-weiß", "it": "Bianco e nero", "pt": "Preto e branco", "ru": "Чёрно-белый", "ar": "أبيض وأسود", "zh": "黑白"}
+        {"tr": "Siyah beyaz", "en": "Black and white", "es": "Blanco y negro", "fr": "Noir et blanc", "de": "Schwarz-weiß", "it": "Bianco e nero", "pt": "Preto e branco", "ru": "Чёрно-белый", "ar": "أبيض وأسود", "zh": "黑白"},
+        {"tr": "Kalabalık", "en": "Crowd", "es": "Multitud", "fr": "Foule", "de": "Menge", "it": "Folla", "pt": "Multidão", "ru": "Толпа", "ar": "حشد", "zh": "成群结队"}
       ]
     },
     {
-      "word": {"tr": "Tavşan", "en": "Rabbit", "es": "Conejo", "fr": "Lapin", "de": "Hase", "it": "Coniglio", "pt": "Coelho", "ru": "Кролик", "ar": "أرنب", "zh": "兔子"},
+      "word": {"tr": "Ahtapot", "en": "Octopus", "es": "Pulpo", "fr": "Pieuvre", "de": "Krake", "it": "Polpo", "pt": "Polvo", "ru": "Осьминог", "ar": "أخطبوط", "zh": "章鱼"},
       "clues": [
-        {"tr": "Havuç", "en": "Carrot", "es": "Zanahoria", "fr": "Carotte", "de": "Karotte", "it": "Carota", "pt": "Cenoura", "ru": "Морковь", "ar": "جزر", "zh": "胡萝卜"},
-        {"tr": "Sihirbaz", "en": "Magician", "es": "Mago", "fr": "Magicien", "de": "Zauberer", "it": "Mago", "pt": "Mágico", "ru": "Фокусник", "ar": "ساحر", "zh": "魔术师"}
-      ]
-    },
-    {
-      "word": {"tr": "Kaplumbağa", "en": "Turtle", "es": "Tortuga", "fr": "Tortue", "de": "Schildkröte", "it": "Tartaruga", "pt": "Tartaruga", "ru": "Черепаха", "ar": "سلحفاة", "zh": "乌龟"},
-      "clues": [
-        {"tr": "Kabuk", "en": "Shell", "es": "Caparazón", "fr": "Carapace", "de": "Panzer", "it": "Guscio", "pt": "Casco", "ru": "Панцирь", "ar": "درع", "zh": "壳"},
-        {"tr": "Yavaş", "en": "Slow", "es": "Lento", "fr": "Lent", "de": "Langsam", "it": "Lento", "pt": "Lento", "ru": "Медленный", "ar": "بطيء", "zh": "慢"}
-      ]
-    },
-    {
-      "word": {"tr": "Yunus", "en": "Dolphin", "es": "Delfín", "fr": "Dauphin", "de": "Delfin", "it": "Delfino", "pt": "Golfinho", "ru": "Дельфин", "ar": "دلفين", "zh": "海豚"},
-      "clues": [
-        {"tr": "Akıllı", "en": "Smart", "es": "Inteligente", "fr": "Intelligent", "de": "Klug", "it": "Intelligente", "pt": "Inteligente", "ru": "Умный", "ar": "ذكي", "zh": "聪明"},
-        {"tr": "Deniz", "en": "Sea", "es": "Mar", "fr": "Mer", "de": "Meer", "it": "Mare", "pt": "Mar", "ru": "Море", "ar": "بحر", "zh": "大海"}
-      ]
-    },
-    {
-      "word": {"tr": "Arı", "en": "Bee", "es": "Abeja", "fr": "Abeille", "de": "Biene", "it": "Ape", "pt": "Abelha", "ru": "Пчела", "ar": "نحلة", "zh": "蜜蜂"},
-      "clues": [
-        {"tr": "Bal", "en": "Honey", "es": "Miel", "fr": "Miel", "de": "Honig", "it": "Miele", "pt": "Mel", "ru": "Мёд", "ar": "عسل", "zh": "蜂蜜"},
-        {"tr": "Çiçek", "en": "Flower", "es": "Flor", "fr": "Fleur", "de": "Blume", "it": "Fiore", "pt": "Flor", "ru": "Цветок", "ar": "زهرة", "zh": "花"}
-      ]
-    },
-    {
-      "word": {"tr": "Kelebek", "en": "Butterfly", "es": "Mariposa", "fr": "Papillon", "de": "Schmetterling", "it": "Farfalla", "pt": "Borboleta", "ru": "Бабочка", "ar": "فراشة", "zh": "蝴蝶"},
-      "clues": [
-        {"tr": "Kanat", "en": "Wing", "es": "Ala", "fr": "Aile", "de": "Flügel", "it": "Ala", "pt": "Asa", "ru": "Крыло", "ar": "جناح", "zh": "翅膀"},
-        {"tr": "Renkli", "en": "Colorful", "es": "Colorido", "fr": "Coloré", "de": "Bunt", "it": "Colorato", "pt": "Colorido", "ru": "Разноцветный", "ar": "ملون", "zh": "多彩"}
-      ]
-    },
-    {
-      "word": {"tr": "Timsah", "en": "Crocodile", "es": "Cocodrilo", "fr": "Crocodile", "de": "Krokodil", "it": "Coccodrillo", "pt": "Crocodilo", "ru": "Крокодил", "ar": "تمساح", "zh": "鳄鱼"},
-      "clues": [
-        {"tr": "Bataklık", "en": "Swamp", "es": "Pantano", "fr": "Marais", "de": "Sumpf", "it": "Palude", "pt": "Pântano", "ru": "Болото", "ar": "مستنقع", "zh": "沼泽"},
-        {"tr": "Pullu", "en": "Scaly", "es": "Escamoso", "fr": "Écailleux", "de": "Schuppig", "it": "Squamoso", "pt": "Escamoso", "ru": "Чешуйчатый", "ar": "حرشفي", "zh": "有鳞"}
-      ]
-    },
-    {
-      "word": {"tr": "Baykuş", "en": "Owl", "es": "Búho", "fr": "Hibou", "de": "Eule", "it": "Gufo", "pt": "Coruja", "ru": "Сова", "ar": "بومة", "zh": "猫头鹰"},
-      "clues": [
-        {"tr": "Gece", "en": "Night", "es": "Noche", "fr": "Nuit", "de": "Nacht", "it": "Notte", "pt": "Noite", "ru": "Ночь", "ar": "ليل", "zh": "夜晚"},
-        {"tr": "Bilge", "en": "Wise", "es": "Sabio", "fr": "Sage", "de": "Weise", "it": "Saggio", "pt": "Sábio", "ru": "Мудрый", "ar": "حكيم", "zh": "智慧"}
-      ]
-    },
-    {
-      "word": {"tr": "Maymun", "en": "Monkey", "es": "Mono", "fr": "Singe", "de": "Affe", "it": "Scimmia", "pt": "Macaco", "ru": "Обезьяна", "ar": "قرد", "zh": "猴子"},
-      "clues": [
-        {"tr": "Muz", "en": "Banana", "es": "Plátano", "fr": "Banane", "de": "Banane", "it": "Banana", "pt": "Banana", "ru": "Банан", "ar": "موز", "zh": "香蕉"},
-        {"tr": "Dal", "en": "Branch", "es": "Rama", "fr": "Branche", "de": "Ast", "it": "Ramo", "pt": "Galho", "ru": "Ветка", "ar": "غصن", "zh": "树枝"}
-      ]
-    },
-    {
-      "word": {"tr": "Ayı", "en": "Bear", "es": "Oso", "fr": "Ours", "de": "Bär", "it": "Orso", "pt": "Urso", "ru": "Медведь", "ar": "دب", "zh": "熊"},
-      "clues": [
-        {"tr": "Kış uykusu", "en": "Hibernation", "es": "Hibernación", "fr": "Hibernation", "de": "Winterschlaf", "it": "Letargo", "pt": "Hibernação", "ru": "Спячка", "ar": "سبات", "zh": "冬眠"},
-        {"tr": "Orman", "en": "Forest", "es": "Bosque", "fr": "Forêt", "de": "Wald", "it": "Foresta", "pt": "Floresta", "ru": "Лес", "ar": "غابة", "zh": "森林"}
-      ]
-    },
-    {
-      "word": {"tr": "At", "en": "Horse", "es": "Caballo", "fr": "Cheval", "de": "Pferd", "it": "Cavallo", "pt": "Cavalo", "ru": "Лошадь", "ar": "حصان", "zh": "马"},
-      "clues": [
-        {"tr": "Yarış", "en": "Race", "es": "Carrera", "fr": "Course", "de": "Rennen", "it": "Corsa", "pt": "Corrida", "ru": "Гонка", "ar": "سباق", "zh": "比赛"},
-        {"tr": "Ahır", "en": "Barn", "es": "Establo", "fr": "Grange", "de": "Stall", "it": "Stalla", "pt": "Estábulo", "ru": "Сарай", "ar": "حظيرة", "zh": "畜棚"}
-      ]
-    },
-    {
-      "word": {"tr": "İnek", "en": "Cow", "es": "Vaca", "fr": "Vache", "de": "Kuh", "it": "Mucca", "pt": "Vaca", "ru": "Корова", "ar": "بقرة", "zh": "奶牛"},
-      "clues": [
-        {"tr": "Süt", "en": "Milk", "es": "Leche", "fr": "Lait", "de": "Milch", "it": "Latte", "pt": "Leite", "ru": "Молоко", "ar": "حليب", "zh": "乳制品"},
-        {"tr": "Çayır", "en": "Meadow", "es": "Prado", "fr": "Prairie", "de": "Wiese", "it": "Prato", "pt": "Prado", "ru": "Луг", "ar": "مرج", "zh": "草地"}
-      ]
-    },
-    {
-      "word": {"tr": "Tilki", "en": "Fox", "es": "Zorro", "fr": "Renard", "de": "Fuchs", "it": "Volpe", "pt": "Raposa", "ru": "Лиса", "ar": "ثعلب", "zh": "狐狸"},
-      "clues": [
-        {"tr": "Kurnaz", "en": "Cunning", "es": "Astuto", "fr": "Rusé", "de": "Schlau", "it": "Furbo", "pt": "Esperto", "ru": "Хитрый", "ar": "ماكر", "zh": "狡猾"},
-        {"tr": "Kuyruk", "en": "Tail", "es": "Cola", "fr": "Queue", "de": "Schwanz", "it": "Coda", "pt": "Cauda", "ru": "Хвост", "ar": "ذيل", "zh": "尾巴"}
+        {"tr": "Mercan", "en": "Coral", "es": "Coral", "fr": "Corail", "de": "Koralle", "it": "Corallo", "pt": "Coral", "ru": "Коралл", "ar": "مرجان", "zh": "珊瑚"},
+        {"tr": "Kaya", "en": "Rock", "es": "Roca", "fr": "Rocher", "de": "Felsen", "it": "Roccia", "pt": "Rocha", "ru": "Камень", "ar": "صخرة", "zh": "岩石"}
       ]
     },
     {
       "word": {"tr": "Kanguru", "en": "Kangaroo", "es": "Canguro", "fr": "Kangourou", "de": "Känguru", "it": "Canguro", "pt": "Canguru", "ru": "Кенгуру", "ar": "كنغر", "zh": "袋鼠"},
       "clues": [
         {"tr": "Zıplamak", "en": "Jump", "es": "Saltar", "fr": "Sauter", "de": "Springen", "it": "Saltare", "pt": "Pular", "ru": "Прыгать", "ar": "قفز", "zh": "跳跃"},
-        {"tr": "Avustralya", "en": "Australia", "es": "Australia", "fr": "Australie", "de": "Australien", "it": "Australia", "pt": "Austrália", "ru": "Австралия", "ar": "أستراليا", "zh": "澳大利亚"}
-      ]
-    },
-    {
-      "word": {"tr": "Ahtapot", "en": "Octopus", "es": "Pulpo", "fr": "Pieuvre", "de": "Oktopus", "it": "Polpo", "pt": "Polvo", "ru": "Осьминог", "ar": "أخطبوط", "zh": "章鱼"},
-      "clues": [
-        {"tr": "Mürekkep", "en": "Ink", "es": "Tinta", "fr": "Encre", "de": "Tinte", "it": "Inchiostro", "pt": "Tinta", "ru": "Чернила", "ar": "حبر", "zh": "墨汁"},
-        {"tr": "Mercan", "en": "Coral", "es": "Coral", "fr": "Corail", "de": "Koralle", "it": "Corallo", "pt": "Coral", "ru": "Коралл", "ar": "مرجان", "zh": "珊瑚"}
-      ]
-    },
-    {
-      "word": {"tr": "Köpekbalığı", "en": "Shark", "es": "Tiburón", "fr": "Requin", "de": "Hai", "it": "Squalo", "pt": "Tubarão", "ru": "Акула", "ar": "قرش", "zh": "鲨鱼"},
-      "clues": [
-        {"tr": "Yüzgeç", "en": "Fin", "es": "Aleta", "fr": "Nageoire", "de": "Flosse", "it": "Pinna", "pt": "Barbatana", "ru": "Плавник", "ar": "زعنفة", "zh": "鳍"},
-        {"tr": "Diş", "en": "Teeth", "es": "Dientes", "fr": "Dents", "de": "Zähne", "it": "Denti", "pt": "Dentes", "ru": "Зубы", "ar": "أسنان", "zh": "牙齿"}
-      ]
-    },
-    {
-      "word": {"tr": "Kartal", "en": "Eagle", "es": "Águila", "fr": "Aigle", "de": "Adler", "it": "Aquila", "pt": "Águia", "ru": "Орёл", "ar": "نسر", "zh": "老鹰"},
-      "clues": [
-        {"tr": "Yüksek", "en": "High", "es": "Alto", "fr": "Haut", "de": "Hoch", "it": "Alto", "pt": "Alto", "ru": "Высоко", "ar": "عال", "zh": "高空"},
-        {"tr": "Keskin göz", "en": "Sharp eyes", "es": "Vista aguda", "fr": "Œil perçant", "de": "Scharfer Blick", "it": "Vista acuta", "pt": "Olhar aguçado", "ru": "Зоркий глаз", "ar": "نظر حاد", "zh": "锐利的眼睛"}
-      ]
-    },
-    {
-      "word": {"tr": "Yılan", "en": "Snake", "es": "Serpiente", "fr": "Serpent", "de": "Schlange", "it": "Serpente", "pt": "Cobra", "ru": "Змея", "ar": "ثعبان", "zh": "蛇"},
-      "clues": [
-        {"tr": "Tıslamak", "en": "Hiss", "es": "Silbido", "fr": "Sifflement", "de": "Zischen", "it": "Sibilo", "pt": "Sibilo", "ru": "Шипение", "ar": "فحيح", "zh": "嘶嘶声"},
-        {"tr": "Zehir", "en": "Venom", "es": "Veneno", "fr": "Venin", "de": "Gift", "it": "Veleno", "pt": "Veneno", "ru": "Яд", "ar": "سم", "zh": "毒液"}
-      ]
-    },
-    {
-      "word": {"tr": "Kurbağa", "en": "Frog", "es": "Rana", "fr": "Grenouille", "de": "Frosch", "it": "Rana", "pt": "Sapo", "ru": "Лягушка", "ar": "ضفدع", "zh": "青蛙"},
-      "clues": [
-        {"tr": "Gölet", "en": "Pond", "es": "Estanque", "fr": "Mare", "de": "Teich", "it": "Stagno", "pt": "Lagoa", "ru": "Пруд", "ar": "بركة", "zh": "池塘"},
-        {"tr": "Prens", "en": "Prince", "es": "Príncipe", "fr": "Prince", "de": "Prinz", "it": "Principe", "pt": "Príncipe", "ru": "Принц", "ar": "أمير", "zh": "王子"}
-      ]
-    },
-    {
-      "word": {"tr": "Panda", "en": "Panda", "es": "Panda", "fr": "Panda", "de": "Panda", "it": "Panda", "pt": "Panda", "ru": "Панда", "ar": "باندا", "zh": "熊猫"},
-      "clues": [
-        {"tr": "Çin", "en": "China", "es": "China", "fr": "Chine", "de": "China", "it": "Cina", "pt": "China", "ru": "Китай", "ar": "الصين", "zh": "中国"},
-        {"tr": "Tembel", "en": "Lazy", "es": "Perezoso", "fr": "Paresseux", "de": "Faul", "it": "Pigro", "pt": "Preguiçoso", "ru": "Ленивый", "ar": "كسول", "zh": "懒惰"}
-      ]
-    },
-    {
-      "word": {"tr": "Horoz", "en": "Rooster", "es": "Gallo", "fr": "Coq", "de": "Hahn", "it": "Gallo", "pt": "Galo", "ru": "Петух", "ar": "ديك", "zh": "公鸡"},
-      "clues": [
-        {"tr": "Sabah", "en": "Morning", "es": "Mañana", "fr": "Matin", "de": "Morgen", "it": "Mattina", "pt": "Manhã", "ru": "Утро", "ar": "صباح", "zh": "早晨"},
-        {"tr": "Çiftlik", "en": "Farm", "es": "Granja", "fr": "Ferme", "de": "Bauernhof", "it": "Fattoria", "pt": "Fazenda", "ru": "Ферма", "ar": "مزرعة", "zh": "农场"}
-      ]
-    },
-    {
-      "word": {"tr": "Fare", "en": "Mouse", "es": "Ratón", "fr": "Souris", "de": "Maus", "it": "Topo", "pt": "Rato", "ru": "Мышь", "ar": "فأر", "zh": "老鼠"},
-      "clues": [
-        {"tr": "Peynir", "en": "Cheese", "es": "Queso", "fr": "Fromage", "de": "Käse", "it": "Formaggio", "pt": "Queijo", "ru": "Сыр", "ar": "جبن", "zh": "奶酪"},
-        {"tr": "Delik", "en": "Hole", "es": "Agujero", "fr": "Trou", "de": "Loch", "it": "Buco", "pt": "Buraco", "ru": "Нора", "ar": "جحر", "zh": "洞"}
+        {"tr": "Boks", "en": "Boxing", "es": "Boxeo", "fr": "Boxe", "de": "Boxen", "it": "Boxe", "pt": "Boxe", "ru": "Бокс", "ar": "ملاكمة", "zh": "拳击"}
       ]
     },
     {
       "word": {"tr": "Deve", "en": "Camel", "es": "Camello", "fr": "Chameau", "de": "Kamel", "it": "Cammello", "pt": "Camelo", "ru": "Верблюд", "ar": "جمل", "zh": "骆驼"},
       "clues": [
-        {"tr": "Çöl", "en": "Desert", "es": "Desierto", "fr": "Désert", "de": "Wüste", "it": "Deserto", "pt": "Deserto", "ru": "Пустыня", "ar": "صحراء", "zh": "沙漠"},
+        {"tr": "Kum", "en": "Sand", "es": "Arena", "fr": "Sable", "de": "Sand", "it": "Sabbia", "pt": "Areia", "ru": "Песок", "ar": "رمل", "zh": "沙子"},
+        {"tr": "Uzun yol", "en": "Long journey", "es": "Viaje largo", "fr": "Long voyage", "de": "Lange Reise", "it": "Lungo viaggio", "pt": "Longa viagem", "ru": "Долгий путь", "ar": "رحلة طويلة", "zh": "长途跋涉"}
+      ]
+    },
+    {
+      "word": {"tr": "Zebra", "en": "Zebra", "es": "Cebra", "fr": "Zèbre", "de": "Zebra", "it": "Zebra", "pt": "Zebra", "ru": "Зебра", "ar": "حمار وحشي", "zh": "斑马"},
+      "clues": [
+        {"tr": "Savan", "en": "Savanna", "es": "Sabana", "fr": "Savane", "de": "Savanne", "it": "Savana", "pt": "Savana", "ru": "Саванна", "ar": "سافانا", "zh": "草原"},
+        {"tr": "Sürü", "en": "Herd", "es": "Manada", "fr": "Troupeau", "de": "Herde", "it": "Mandria", "pt": "Manada", "ru": "Стадо", "ar": "قطيع", "zh": "兽群"}
+      ]
+    },
+    {
+      "word": {"tr": "Gergedan", "en": "Rhino", "es": "Rinoceronte", "fr": "Rhinocéros", "de": "Nashorn", "it": "Rinoceronte", "pt": "Rinoceronte", "ru": "Носорог", "ar": "وحيد القرن", "zh": "犀牛"},
+      "clues": [
+        {"tr": "Zırh", "en": "Armor", "es": "Armadura", "fr": "Armure", "de": "Panzer", "it": "Armatura", "pt": "Armadura", "ru": "Броня", "ar": "درع", "zh": "盔甲"},
+        {"tr": "Ağır", "en": "Heavy", "es": "Pesado", "fr": "Lourd", "de": "Schwer", "it": "Pesante", "pt": "Pesado", "ru": "Тяжёлый", "ar": "ثقيل", "zh": "沉重"}
+      ]
+    },
+    {
+      "word": {"tr": "Karınca", "en": "Ant", "es": "Hormiga", "fr": "Fourmi", "de": "Ameise", "it": "Formica", "pt": "Formiga", "ru": "Муравей", "ar": "نملة", "zh": "蚂蚁"},
+      "clues": [
+        {"tr": "Şeker", "en": "Sugar", "es": "Azúcar", "fr": "Sucre", "de": "Zucker", "it": "Zucchero", "pt": "Açúcar", "ru": "Сахар", "ar": "سكر", "zh": "糖"},
+        {"tr": "Piknik", "en": "Picnic", "es": "Pícnic", "fr": "Pique-nique", "de": "Picknick", "it": "Picnic", "pt": "Piquenique", "ru": "Пикник", "ar": "نزهة", "zh": "野餐"}
+      ]
+    },
+    {
+      "word": {"tr": "Örümcek", "en": "Spider", "es": "Araña", "fr": "Araignée", "de": "Spinne", "it": "Ragno", "pt": "Aranha", "ru": "Паук", "ar": "عنكبوت", "zh": "蜘蛛"},
+      "clues": [
+        {"tr": "Köşe", "en": "Corner", "es": "Rincón", "fr": "Coin", "de": "Ecke", "it": "Angolo", "pt": "Canto", "ru": "Угол", "ar": "زاوية", "zh": "角落"},
+        {"tr": "Korku", "en": "Fear", "es": "Miedo", "fr": "Peur", "de": "Angst", "it": "Paura", "pt": "Medo", "ru": "Страх", "ar": "خوف", "zh": "恐惧"}
+      ]
+    },
+    {
+      "word": {"tr": "Leylek", "en": "Stork", "es": "Cigüeña", "fr": "Cigogne", "de": "Storch", "it": "Cicogna", "pt": "Cegonha", "ru": "Аист", "ar": "لقلق", "zh": "鹳"},
+      "clues": [
+        {"tr": "Göç", "en": "Migration", "es": "Migración", "fr": "Migration", "de": "Wanderung", "it": "Migrazione", "pt": "Migração", "ru": "Перелёт", "ar": "هجرة", "zh": "迁徙"},
+        {"tr": "Uzun gaga", "en": "Long beak", "es": "Pico largo", "fr": "Long bec", "de": "Langer Schnabel", "it": "Becco lungo", "pt": "Bico longo", "ru": "Длинный клюв", "ar": "منقار طويل", "zh": "长喙"}
+      ]
+    },
+    {
+      "word": {"tr": "Papağan", "en": "Parrot", "es": "Loro", "fr": "Perroquet", "de": "Papagei", "it": "Pappagallo", "pt": "Papagaio", "ru": "Попугай", "ar": "ببغاء", "zh": "鹦鹉"},
+      "clues": [
+        {"tr": "Renkli", "en": "Colorful", "es": "Colorido", "fr": "Coloré", "de": "Bunt", "it": "Colorato", "pt": "Colorido", "ru": "Яркий", "ar": "ملون", "zh": "五颜六色"},
+        {"tr": "Taklit", "en": "Imitation", "es": "Imitación", "fr": "Imitation", "de": "Nachahmen", "it": "Imitazione", "pt": "Imitação", "ru": "Подражание", "ar": "تقليد", "zh": "模仿"}
+      ]
+    },
+    {
+      "word": {"tr": "Hamster", "en": "Hamster", "es": "Hámster", "fr": "Hamster", "de": "Hamster", "it": "Criceto", "pt": "Hamster", "ru": "Хомяк", "ar": "هامستر", "zh": "仓鼠"},
+      "clues": [
+        {"tr": "Kafes", "en": "Cage", "es": "Jaula", "fr": "Cage", "de": "Käfig", "it": "Gabbia", "pt": "Gaiola", "ru": "Клетка", "ar": "قفص", "zh": "笼子"},
+        {"tr": "Tohum", "en": "Seeds", "es": "Semillas", "fr": "Graines", "de": "Körner", "it": "Semi", "pt": "Sementes", "ru": "Семена", "ar": "بذور", "zh": "种子"}
+      ]
+    },
+    {
+      "word": {"tr": "Dalmaçyalı", "en": "Dalmatian", "es": "Dálmata", "fr": "Dalmatien", "de": "Dalmatiner", "it": "Dalmata", "pt": "Dálmata", "ru": "Далматинец", "ar": "كلب دلماسي", "zh": "大麦町犬"},
+      "clues": [
+        {"tr": "Benekli", "en": "Spotted", "es": "Con manchas", "fr": "Tacheté", "de": "Gefleckt", "it": "Maculato", "pt": "Malhado", "ru": "Пятнистый", "ar": "مرقط", "zh": "斑点"},
+        {"tr": "İtfaiye", "en": "Fire station", "es": "Bomberos", "fr": "Pompiers", "de": "Feuerwehr", "it": "Pompieri", "pt": "Bombeiros", "ru": "Пожарные", "ar": "الإطفاء", "zh": "消防站"}
+      ]
+    },
+    {
+      "word": {"tr": "Akbaba", "en": "Vulture", "es": "Buitre", "fr": "Vautour", "de": "Geier", "it": "Avvoltoio", "pt": "Urubu", "ru": "Стервятник", "ar": "نسر", "zh": "秃鹫"},
+      "clues": [
+        {"tr": "Gökyüzü", "en": "Sky", "es": "Cielo", "fr": "Ciel", "de": "Himmel", "it": "Cielo", "pt": "Céu", "ru": "Небо", "ar": "سماء", "zh": "天空"},
         {"tr": "Sabır", "en": "Patience", "es": "Paciencia", "fr": "Patience", "de": "Geduld", "it": "Pazienza", "pt": "Paciência", "ru": "Терпение", "ar": "صبر", "zh": "耐心"}
       ]
     }

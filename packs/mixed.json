@@ -1,0 +1,288 @@
+{
+  "id": "mixed",
+  "icon": "🎲",
+  "name": {"tr": "Karışık", "en": "Mixed", "es": "Variado", "fr": "Mélange", "de": "Gemischt", "it": "Misto", "pt": "Variado", "ru": "Вперемешку", "ar": "منوعات", "zh": "大杂烩"},
+  "drawable": true,
+  "words": [
+    {
+      "word": {"tr": "Kedi kumu", "en": "Cat litter", "es": "Arena para gatos", "fr": "Litière pour chat", "de": "Katzenstreu", "it": "Lettiera per gatti", "pt": "Areia de gato", "ru": "Кошачий наполнитель", "ar": "رمل القطط", "zh": "猫砂"},
+      "clues": [
+        {"tr": "Taneli", "en": "Grainy", "es": "Granulado", "fr": "Granuleux", "de": "Körnig", "it": "Granuloso", "pt": "Granulado", "ru": "Зернистый", "ar": "حبيبات", "zh": "颗粒状"},
+        {"tr": "Koku", "en": "Smell", "es": "Olor", "fr": "Odeur", "de": "Geruch", "it": "Odore", "pt": "Cheiro", "ru": "Запах", "ar": "رائحة", "zh": "气味"}
+      ]
+    },
+    {
+      "word": {"tr": "Diş ipi", "en": "Dental floss", "es": "Hilo dental", "fr": "Fil dentaire", "de": "Zahnseide", "it": "Filo interdentale", "pt": "Fio dental", "ru": "Зубная нить", "ar": "خيط الأسنان", "zh": "牙线"},
+      "clues": [
+        {"tr": "Nane", "en": "Mint", "es": "Menta", "fr": "Menthe", "de": "Minze", "it": "Menta", "pt": "Menta", "ru": "Мята", "ar": "نعناع", "zh": "薄荷"},
+        {"tr": "İnce", "en": "Thin", "es": "Fino", "fr": "Fin", "de": "Dünn", "it": "Sottile", "pt": "Fino", "ru": "Тонкий", "ar": "رفيع", "zh": "细"}
+      ]
+    },
+    {
+      "word": {"tr": "Çamaşır mandalı", "en": "Clothespin", "es": "Pinza de la ropa", "fr": "Pince à linge", "de": "Wäscheklammer", "it": "Molletta", "pt": "Prendedor de roupa", "ru": "Прищепка", "ar": "ملقط الغسيل", "zh": "晾衣夹"},
+      "clues": [
+        {"tr": "Balkon", "en": "Balcony", "es": "Balcón", "fr": "Balcon", "de": "Balkon", "it": "Balcone", "pt": "Varanda", "ru": "Балкон", "ar": "شرفة", "zh": "阳台"},
+        {"tr": "Islak", "en": "Wet", "es": "Mojado", "fr": "Mouillé", "de": "Nass", "it": "Bagnato", "pt": "Molhado", "ru": "Мокрый", "ar": "مبلل", "zh": "湿"}
+      ]
+    },
+    {
+      "word": {"tr": "Uzaktan kumanda", "en": "Remote control", "es": "Control remoto", "fr": "Télécommande", "de": "Fernbedienung", "it": "Telecomando", "pt": "Controle remoto", "ru": "Пульт", "ar": "جهاز التحكم", "zh": "遥控器"},
+      "clues": [
+        {"tr": "Kanepe", "en": "Sofa", "es": "Sofá", "fr": "Canapé", "de": "Sofa", "it": "Divano", "pt": "Sofá", "ru": "Диван", "ar": "كنبة", "zh": "沙发"},
+        {"tr": "Pil", "en": "Batteries", "es": "Pilas", "fr": "Piles", "de": "Batterien", "it": "Pile", "pt": "Pilhas", "ru": "Батарейки", "ar": "بطاريات", "zh": "电池"}
+      ]
+    },
+    {
+      "word": {"tr": "Fermuar", "en": "Zipper", "es": "Cremallera", "fr": "Fermeture éclair", "de": "Reißverschluss", "it": "Cerniera", "pt": "Zíper", "ru": "Молния", "ar": "سحّاب", "zh": "拉链"},
+      "clues": [
+        {"tr": "Diş", "en": "Teeth", "es": "Dientes", "fr": "Dents", "de": "Zähne", "it": "Denti", "pt": "Dentes", "ru": "Зубчики", "ar": "أسنان", "zh": "齿"},
+        {"tr": "Sıkışmak", "en": "Get stuck", "es": "Atascarse", "fr": "Se coincer", "de": "Klemmen", "it": "Incastrarsi", "pt": "Emperrar", "ru": "Застрять", "ar": "يعلق", "zh": "卡住"}
+      ]
+    },
+    {
+      "word": {"tr": "Yapışkan not", "en": "Sticky note", "es": "Nota adhesiva", "fr": "Post-it", "de": "Haftnotiz", "it": "Post-it", "pt": "Post-it", "ru": "Стикер", "ar": "ورقة لاصقة", "zh": "便利贴"},
+      "clues": [
+        {"tr": "Sarı", "en": "Yellow", "es": "Amarillo", "fr": "Jaune", "de": "Gelb", "it": "Giallo", "pt": "Amarelo", "ru": "Жёлтый", "ar": "أصفر", "zh": "黄色"},
+        {"tr": "Unutkan", "en": "Forgetful", "es": "Olvidadizo", "fr": "Tête en l'air", "de": "Vergesslich", "it": "Smemorato", "pt": "Esquecido", "ru": "Забывчивый", "ar": "كثير النسيان", "zh": "健忘"}
+      ]
+    },
+    {
+      "word": {"tr": "Kürdan", "en": "Toothpick", "es": "Palillo", "fr": "Cure-dent", "de": "Zahnstocher", "it": "Stuzzicadenti", "pt": "Palito de dente", "ru": "Зубочистка", "ar": "عود أسنان", "zh": "牙签"},
+      "clues": [
+        {"tr": "Zeytin", "en": "Olive", "es": "Aceituna", "fr": "Olive", "de": "Olive", "it": "Oliva", "pt": "Azeitona", "ru": "Оливка", "ar": "زيتون", "zh": "橄榄"},
+        {"tr": "Sivri", "en": "Pointy", "es": "Puntiagudo", "fr": "Pointu", "de": "Spitz", "it": "Appuntito", "pt": "Pontudo", "ru": "Острый", "ar": "مدبب", "zh": "尖"}
+      ]
+    },
+    {
+      "word": {"tr": "Çöp poşeti", "en": "Trash bag", "es": "Bolsa de basura", "fr": "Sac poubelle", "de": "Müllbeutel", "it": "Sacco della spazzatura", "pt": "Saco de lixo", "ru": "Мусорный пакет", "ar": "كيس قمامة", "zh": "垃圾袋"},
+      "clues": [
+        {"tr": "Siyah", "en": "Black", "es": "Negro", "fr": "Noir", "de": "Schwarz", "it": "Nero", "pt": "Preto", "ru": "Чёрный", "ar": "أسود", "zh": "黑色"},
+        {"tr": "Düğüm", "en": "Knot", "es": "Nudo", "fr": "Nœud", "de": "Knoten", "it": "Nodo", "pt": "Nó", "ru": "Узел", "ar": "عقدة", "zh": "结"}
+      ]
+    },
+    {
+      "word": {"tr": "Kapı paspası", "en": "Doormat", "es": "Felpudo", "fr": "Paillasson", "de": "Fußmatte", "it": "Zerbino", "pt": "Capacho", "ru": "Коврик у двери", "ar": "ممسحة الأرجل", "zh": "门垫"},
+      "clues": [
+        {"tr": "Çamur", "en": "Mud", "es": "Barro", "fr": "Boue", "de": "Schlamm", "it": "Fango", "pt": "Lama", "ru": "Грязь", "ar": "طين", "zh": "泥巴"},
+        {"tr": "Hoş geldin", "en": "Welcome", "es": "Bienvenido", "fr": "Bienvenue", "de": "Willkommen", "it": "Benvenuto", "pt": "Bem-vindo", "ru": "Добро пожаловать", "ar": "أهلاً وسهلاً", "zh": "欢迎"}
+      ]
+    },
+    {
+      "word": {"tr": "Anahtarlık", "en": "Keychain", "es": "Llavero", "fr": "Porte-clés", "de": "Schlüsselanhänger", "it": "Portachiavi", "pt": "Chaveiro", "ru": "Брелок", "ar": "ميدالية مفاتيح", "zh": "钥匙扣"},
+      "clues": [
+        {"tr": "Halka", "en": "Ring", "es": "Aro", "fr": "Anneau", "de": "Ring", "it": "Anello", "pt": "Argola", "ru": "Кольцо", "ar": "حلقة", "zh": "圆环"},
+        {"tr": "Cep", "en": "Pocket", "es": "Bolsillo", "fr": "Poche", "de": "Hosentasche", "it": "Tasca", "pt": "Bolso", "ru": "Карман", "ar": "جيب", "zh": "口袋"}
+      ]
+    },
+    {
+      "word": {"tr": "Cımbız", "en": "Tweezers", "es": "Pinzas", "fr": "Pince à épiler", "de": "Pinzette", "it": "Pinzetta", "pt": "Pinça", "ru": "Пинцет", "ar": "ملقط", "zh": "镊子"},
+      "clues": [
+        {"tr": "Kıymık", "en": "Splinter", "es": "Astilla", "fr": "Écharde", "de": "Splitter", "it": "Scheggia", "pt": "Farpa", "ru": "Заноза", "ar": "شظية", "zh": "木刺"},
+        {"tr": "Kaş", "en": "Eyebrow", "es": "Ceja", "fr": "Sourcil", "de": "Augenbraue", "it": "Sopracciglio", "pt": "Sobrancelha", "ru": "Бровь", "ar": "حاجب", "zh": "眉毛"}
+      ]
+    },
+    {
+      "word": {"tr": "Acı sos", "en": "Hot sauce", "es": "Salsa picante", "fr": "Sauce piquante", "de": "Scharfe Soße", "it": "Salsa piccante", "pt": "Molho de pimenta", "ru": "Острый соус", "ar": "صلصة حارة", "zh": "辣酱"},
+      "clues": [
+        {"tr": "Gözyaşı", "en": "Tears", "es": "Lágrimas", "fr": "Larmes", "de": "Tränen", "it": "Lacrime", "pt": "Lágrimas", "ru": "Слёзы", "ar": "دموع", "zh": "眼泪"},
+        {"tr": "Şişe", "en": "Bottle", "es": "Botella", "fr": "Bouteille", "de": "Flasche", "it": "Bottiglia", "pt": "Garrafa", "ru": "Бутылка", "ar": "زجاجة", "zh": "瓶子"}
+      ]
+    },
+    {
+      "word": {"tr": "Fıstık ezmesi", "en": "Peanut butter", "es": "Mantequilla de maní", "fr": "Beurre de cacahuète", "de": "Erdnussbutter", "it": "Burro di arachidi", "pt": "Pasta de amendoim", "ru": "Арахисовая паста", "ar": "زبدة الفول السوداني", "zh": "花生酱"},
+      "clues": [
+        {"tr": "Kavanoz", "en": "Jar", "es": "Frasco", "fr": "Pot", "de": "Glas", "it": "Barattolo", "pt": "Pote", "ru": "Банка", "ar": "مرطبان", "zh": "罐子"},
+        {"tr": "Kahvaltı", "en": "Breakfast", "es": "Desayuno", "fr": "Petit-déjeuner", "de": "Frühstück", "it": "Colazione", "pt": "Café da manhã", "ru": "Завтрак", "ar": "فطور", "zh": "早餐"}
+      ]
+    },
+    {
+      "word": {"tr": "Tuzluk", "en": "Salt shaker", "es": "Salero", "fr": "Salière", "de": "Salzstreuer", "it": "Saliera", "pt": "Saleiro", "ru": "Солонка", "ar": "مملحة", "zh": "盐瓶"},
+      "clues": [
+        {"tr": "Delikli", "en": "Holes", "es": "Agujeros", "fr": "Trous", "de": "Löcher", "it": "Buchi", "pt": "Furinhos", "ru": "Дырочки", "ar": "ثقوب", "zh": "小孔"},
+        {"tr": "Beyaz", "en": "White", "es": "Blanco", "fr": "Blanc", "de": "Weiß", "it": "Bianco", "pt": "Branco", "ru": "Белый", "ar": "أبيض", "zh": "白色"}
+      ]
+    },
+    {
+      "word": {"tr": "Ay çekirdeği", "en": "Sunflower seeds", "es": "Semillas de girasol", "fr": "Graines de tournesol", "de": "Sonnenblumenkerne", "it": "Semi di girasole", "pt": "Semente de girassol", "ru": "Семечки", "ar": "بذور دوار الشمس", "zh": "葵花籽"},
+      "clues": [
+        {"tr": "Kabuk", "en": "Shell", "es": "Cáscara", "fr": "Coque", "de": "Schale", "it": "Guscio", "pt": "Casca", "ru": "Шелуха", "ar": "قشر", "zh": "壳"},
+        {"tr": "Maç", "en": "Match", "es": "Partido", "fr": "Match", "de": "Spiel", "it": "Partita", "pt": "Jogo", "ru": "Матч", "ar": "مباراة", "zh": "比赛"}
+      ]
+    },
+    {
+      "word": {"tr": "Mısır gevreği", "en": "Cornflakes", "es": "Copos de maíz", "fr": "Corn flakes", "de": "Cornflakes", "it": "Corn flakes", "pt": "Flocos de milho", "ru": "Кукурузные хлопья", "ar": "رقائق الذرة", "zh": "玉米片"},
+      "clues": [
+        {"tr": "Kase", "en": "Bowl", "es": "Tazón", "fr": "Bol", "de": "Schüssel", "it": "Ciotola", "pt": "Tigela", "ru": "Миска", "ar": "وعاء", "zh": "碗"},
+        {"tr": "Çıtır", "en": "Crunchy", "es": "Crujiente", "fr": "Croustillant", "de": "Knusprig", "it": "Croccante", "pt": "Crocante", "ru": "Хрустящий", "ar": "مقرمش", "zh": "酥脆"}
+      ]
+    },
+    {
+      "word": {"tr": "Japon balığı", "en": "Goldfish", "es": "Pez dorado", "fr": "Poisson rouge", "de": "Goldfisch", "it": "Pesce rosso", "pt": "Peixinho dourado", "ru": "Золотая рыбка", "ar": "سمكة ذهبية", "zh": "金鱼"},
+      "clues": [
+        {"tr": "Turuncu", "en": "Orange", "es": "Naranja", "fr": "Orange", "de": "Orange", "it": "Arancione", "pt": "Laranja", "ru": "Оранжевый", "ar": "برتقالي", "zh": "橙色"},
+        {"tr": "Cam", "en": "Glass", "es": "Vidrio", "fr": "Verre", "de": "Glas", "it": "Vetro", "pt": "Vidro", "ru": "Стекло", "ar": "زجاج", "zh": "玻璃"}
+      ]
+    },
+    {
+      "word": {"tr": "Uğur böceği", "en": "Ladybug", "es": "Mariquita", "fr": "Coccinelle", "de": "Marienkäfer", "it": "Coccinella", "pt": "Joaninha", "ru": "Божья коровка", "ar": "دعسوقة", "zh": "瓢虫"},
+      "clues": [
+        {"tr": "Benekli", "en": "Spotted", "es": "Con lunares", "fr": "Tacheté", "de": "Gepunktet", "it": "A pois", "pt": "Pintado", "ru": "В горошек", "ar": "منقط", "zh": "带斑点"},
+        {"tr": "Şans", "en": "Luck", "es": "Suerte", "fr": "Chance", "de": "Glück", "it": "Fortuna", "pt": "Sorte", "ru": "Удача", "ar": "حظ", "zh": "好运"}
+      ]
+    },
+    {
+      "word": {"tr": "Ateş böceği", "en": "Firefly", "es": "Luciérnaga", "fr": "Luciole", "de": "Glühwürmchen", "it": "Lucciola", "pt": "Vaga-lume", "ru": "Светлячок", "ar": "يراعة", "zh": "萤火虫"},
+      "clues": [
+        {"tr": "Yaz gecesi", "en": "Summer night", "es": "Noche de verano", "fr": "Nuit d'été", "de": "Sommernacht", "it": "Notte d'estate", "pt": "Noite de verão", "ru": "Летняя ночь", "ar": "ليلة صيفية", "zh": "夏夜"},
+        {"tr": "Parıltı", "en": "Glow", "es": "Brillo", "fr": "Lueur", "de": "Leuchten", "it": "Bagliore", "pt": "Brilho", "ru": "Свечение", "ar": "وهج", "zh": "微光"}
+      ]
+    },
+    {
+      "word": {"tr": "Muhabbet kuşu", "en": "Budgie", "es": "Periquito", "fr": "Perruche", "de": "Wellensittich", "it": "Pappagallino", "pt": "Periquito", "ru": "Волнистый попугай", "ar": "طائر الحب", "zh": "虎皮鹦鹉"},
+      "clues": [
+        {"tr": "Kafes", "en": "Cage", "es": "Jaula", "fr": "Cage", "de": "Käfig", "it": "Gabbia", "pt": "Gaiola", "ru": "Клетка", "ar": "قفص", "zh": "笼子"},
+        {"tr": "Yeşil", "en": "Green", "es": "Verde", "fr": "Vert", "de": "Grün", "it": "Verde", "pt": "Verde", "ru": "Зелёный", "ar": "أخضر", "zh": "绿色"}
+      ]
+    },
+    {
+      "word": {"tr": "Asansör", "en": "Elevator", "es": "Ascensor", "fr": "Ascenseur", "de": "Aufzug", "it": "Ascensore", "pt": "Elevador", "ru": "Лифт", "ar": "مصعد", "zh": "电梯"},
+      "clues": [
+        {"tr": "Ayna", "en": "Mirror", "es": "Espejo", "fr": "Miroir", "de": "Spiegel", "it": "Specchio", "pt": "Espelho", "ru": "Зеркало", "ar": "مرآة", "zh": "镜子"},
+        {"tr": "Sessizlik", "en": "Silence", "es": "Silencio", "fr": "Silence", "de": "Stille", "it": "Silenzio", "pt": "Silêncio", "ru": "Тишина", "ar": "صمت", "zh": "沉默"}
+      ]
+    },
+    {
+      "word": {"tr": "Trafik lambası", "en": "Traffic light", "es": "Semáforo", "fr": "Feu de circulation", "de": "Ampel", "it": "Semaforo", "pt": "Semáforo", "ru": "Светофор", "ar": "إشارة المرور", "zh": "红绿灯"},
+      "clues": [
+        {"tr": "Üç", "en": "Three", "es": "Tres", "fr": "Trois", "de": "Drei", "it": "Tre", "pt": "Três", "ru": "Три", "ar": "ثلاثة", "zh": "三"},
+        {"tr": "Bekleme", "en": "Waiting", "es": "Espera", "fr": "Attente", "de": "Warten", "it": "Attesa", "pt": "Espera", "ru": "Ожидание", "ar": "انتظار", "zh": "等待"}
+      ]
+    },
+    {
+      "word": {"tr": "Posta kutusu", "en": "Mailbox", "es": "Buzón", "fr": "Boîte aux lettres", "de": "Briefkasten", "it": "Cassetta delle lettere", "pt": "Caixa de correio", "ru": "Почтовый ящик", "ar": "صندوق البريد", "zh": "信箱"},
+      "clues": [
+        {"tr": "Fatura", "en": "Bills", "es": "Facturas", "fr": "Factures", "de": "Rechnungen", "it": "Bollette", "pt": "Contas", "ru": "Счета", "ar": "فواتير", "zh": "账单"},
+        {"tr": "Yarık", "en": "Slot", "es": "Ranura", "fr": "Fente", "de": "Schlitz", "it": "Fessura", "pt": "Fenda", "ru": "Щель", "ar": "فتحة", "zh": "缝隙"}
+      ]
+    },
+    {
+      "word": {"tr": "Kumbara", "en": "Piggy bank", "es": "Alcancía", "fr": "Tirelire", "de": "Sparschwein", "it": "Salvadanaio", "pt": "Cofrinho", "ru": "Копилка", "ar": "حصالة", "zh": "存钱罐"},
+      "clues": [
+        {"tr": "Kırmak", "en": "Break", "es": "Romper", "fr": "Casser", "de": "Zerbrechen", "it": "Rompere", "pt": "Quebrar", "ru": "Разбить", "ar": "كسر", "zh": "打碎"},
+        {"tr": "Sabır", "en": "Patience", "es": "Paciencia", "fr": "Patience", "de": "Geduld", "it": "Pazienza", "pt": "Paciência", "ru": "Терпение", "ar": "صبر", "zh": "耐心"}
+      ]
+    },
+    {
+      "word": {"tr": "Yo-yo", "en": "Yo-yo", "es": "Yoyó", "fr": "Yo-yo", "de": "Jo-Jo", "it": "Yo-yo", "pt": "Ioiô", "ru": "Йо-йо", "ar": "يويو", "zh": "溜溜球"},
+      "clues": [
+        {"tr": "İp", "en": "String", "es": "Cuerda", "fr": "Ficelle", "de": "Schnur", "it": "Filo", "pt": "Cordão", "ru": "Верёвочка", "ar": "خيط", "zh": "绳子"},
+        {"tr": "İnip çıkmak", "en": "Up and down", "es": "Arriba y abajo", "fr": "Monter et descendre", "de": "Auf und ab", "it": "Su e giù", "pt": "Sobe e desce", "ru": "Вверх-вниз", "ar": "صعود ونزول", "zh": "上上下下"}
+      ]
+    },
+    {
+      "word": {"tr": "Rubik küpü", "en": "Rubik's cube", "es": "Cubo de Rubik", "fr": "Rubik's Cube", "de": "Zauberwürfel", "it": "Cubo di Rubik", "pt": "Cubo mágico", "ru": "Кубик Рубика", "ar": "مكعب روبيك", "zh": "魔方"},
+      "clues": [
+        {"tr": "Bulmaca", "en": "Puzzle", "es": "Rompecabezas", "fr": "Casse-tête", "de": "Rätsel", "it": "Rompicapo", "pt": "Quebra-cabeça", "ru": "Головоломка", "ar": "لغز", "zh": "谜题"},
+        {"tr": "Altı", "en": "Six", "es": "Seis", "fr": "Six", "de": "Sechs", "it": "Sei", "pt": "Seis", "ru": "Шесть", "ar": "ستة", "zh": "六"}
+      ]
+    },
+    {
+      "word": {"tr": "Uçurtma", "en": "Kite", "es": "Cometa", "fr": "Cerf-volant", "de": "Drachen", "it": "Aquilone", "pt": "Pipa", "ru": "Воздушный змей", "ar": "طائرة ورقية", "zh": "风筝"},
+      "clues": [
+        {"tr": "Rüzgâr", "en": "Wind", "es": "Viento", "fr": "Vent", "de": "Wind", "it": "Vento", "pt": "Vento", "ru": "Ветер", "ar": "رياح", "zh": "风"},
+        {"tr": "Kuyruk", "en": "Tail", "es": "Cola", "fr": "Queue", "de": "Schwanz", "it": "Coda", "pt": "Cauda", "ru": "Хвост", "ar": "ذيل", "zh": "尾巴"}
+      ]
+    },
+    {
+      "word": {"tr": "Sabun köpüğü", "en": "Soap bubbles", "es": "Pompas de jabón", "fr": "Bulles de savon", "de": "Seifenblasen", "it": "Bolle di sapone", "pt": "Bolhas de sabão", "ru": "Мыльные пузыри", "ar": "فقاعات الصابون", "zh": "肥皂泡"},
+      "clues": [
+        {"tr": "Üflemek", "en": "Blow", "es": "Soplar", "fr": "Souffler", "de": "Pusten", "it": "Soffiare", "pt": "Soprar", "ru": "Дуть", "ar": "نفخ", "zh": "吹"},
+        {"tr": "Gökkuşağı", "en": "Rainbow", "es": "Arcoíris", "fr": "Arc-en-ciel", "de": "Regenbogen", "it": "Arcobaleno", "pt": "Arco-íris", "ru": "Радуга", "ar": "قوس قزح", "zh": "彩虹"}
+      ]
+    },
+    {
+      "word": {"tr": "Şişme yatak", "en": "Air mattress", "es": "Colchón inflable", "fr": "Matelas gonflable", "de": "Luftmatratze", "it": "Materassino gonfiabile", "pt": "Colchão inflável", "ru": "Надувной матрас", "ar": "مرتبة هوائية", "zh": "充气床垫"},
+      "clues": [
+        {"tr": "Misafir", "en": "Guest", "es": "Invitado", "fr": "Invité", "de": "Gast", "it": "Ospite", "pt": "Visita", "ru": "Гость", "ar": "ضيف", "zh": "客人"},
+        {"tr": "Pompa", "en": "Pump", "es": "Bomba de aire", "fr": "Pompe", "de": "Pumpe", "it": "Pompa", "pt": "Bomba de ar", "ru": "Насос", "ar": "منفاخ", "zh": "打气筒"}
+      ]
+    },
+    {
+      "word": {"tr": "Kar küresi", "en": "Snow globe", "es": "Globo de nieve", "fr": "Boule à neige", "de": "Schneekugel", "it": "Sfera con la neve", "pt": "Globo de neve", "ru": "Снежный шар", "ar": "كرة الثلج الزجاجية", "zh": "雪花球"},
+      "clues": [
+        {"tr": "Sallamak", "en": "Shake", "es": "Agitar", "fr": "Secouer", "de": "Schütteln", "it": "Scuotere", "pt": "Sacudir", "ru": "Трясти", "ar": "هزّ", "zh": "摇晃"},
+        {"tr": "Hatıra", "en": "Keepsake", "es": "Recuerdo", "fr": "Souvenir", "de": "Andenken", "it": "Ricordo", "pt": "Lembrança", "ru": "Сувенир", "ar": "تذكار", "zh": "纪念品"}
+      ]
+    },
+    {
+      "word": {"tr": "Kum saati", "en": "Hourglass", "es": "Reloj de arena", "fr": "Sablier", "de": "Sanduhr", "it": "Clessidra", "pt": "Ampulheta", "ru": "Песочные часы", "ar": "ساعة رملية", "zh": "沙漏"},
+      "clues": [
+        {"tr": "Ters çevirmek", "en": "Flip over", "es": "Dar la vuelta", "fr": "Retourner", "de": "Umdrehen", "it": "Capovolgere", "pt": "Virar", "ru": "Перевернуть", "ar": "قلب", "zh": "翻转"},
+        {"tr": "Zaman", "en": "Time", "es": "Tiempo", "fr": "Temps", "de": "Zeit", "it": "Tempo", "pt": "Tempo", "ru": "Время", "ar": "وقت", "zh": "时间"}
+      ]
+    },
+    {
+      "word": {"tr": "Kardan adam", "en": "Snowman", "es": "Muñeco de nieve", "fr": "Bonhomme de neige", "de": "Schneemann", "it": "Pupazzo di neve", "pt": "Boneco de neve", "ru": "Снеговик", "ar": "رجل الثلج", "zh": "雪人"},
+      "clues": [
+        {"tr": "Atkı", "en": "Scarf", "es": "Bufanda", "fr": "Écharpe", "de": "Schal", "it": "Sciarpa", "pt": "Cachecol", "ru": "Шарф", "ar": "وشاح", "zh": "围巾"},
+        {"tr": "Erimek", "en": "Melt", "es": "Derretirse", "fr": "Fondre", "de": "Schmelzen", "it": "Sciogliersi", "pt": "Derreter", "ru": "Таять", "ar": "ذوبان", "zh": "融化"}
+      ]
+    },
+    {
+      "word": {"tr": "Deniz feneri", "en": "Lighthouse", "es": "Faro", "fr": "Phare", "de": "Leuchtturm", "it": "Faro", "pt": "Farol", "ru": "Маяк", "ar": "منارة", "zh": "灯塔"},
+      "clues": [
+        {"tr": "Kayalık", "en": "Rocks", "es": "Rocas", "fr": "Rochers", "de": "Felsen", "it": "Scogli", "pt": "Rochas", "ru": "Скалы", "ar": "صخور", "zh": "礁石"},
+        {"tr": "Yalnızlık", "en": "Loneliness", "es": "Soledad", "fr": "Solitude", "de": "Einsamkeit", "it": "Solitudine", "pt": "Solidão", "ru": "Одиночество", "ar": "وحدة", "zh": "孤独"}
+      ]
+    },
+    {
+      "word": {"tr": "Yel değirmeni", "en": "Windmill", "es": "Molino de viento", "fr": "Moulin à vent", "de": "Windmühle", "it": "Mulino a vento", "pt": "Moinho de vento", "ru": "Ветряная мельница", "ar": "طاحونة هواء", "zh": "风车"},
+      "clues": [
+        {"tr": "Un", "en": "Flour", "es": "Harina", "fr": "Farine", "de": "Mehl", "it": "Farina", "pt": "Farinha", "ru": "Мука", "ar": "دقيق", "zh": "面粉"},
+        {"tr": "Dönmek", "en": "Spin", "es": "Girar", "fr": "Tourner", "de": "Drehen", "it": "Girare", "pt": "Girar", "ru": "Вращаться", "ar": "دوران", "zh": "旋转"}
+      ]
+    },
+    {
+      "word": {"tr": "Salıncak", "en": "Swing", "es": "Columpio", "fr": "Balançoire", "de": "Schaukel", "it": "Altalena", "pt": "Balanço", "ru": "Качели", "ar": "أرجوحة", "zh": "秋千"},
+      "clues": [
+        {"tr": "Zincir", "en": "Chain", "es": "Cadena", "fr": "Chaîne", "de": "Kette", "it": "Catena", "pt": "Corrente", "ru": "Цепь", "ar": "سلسلة", "zh": "链条"},
+        {"tr": "Çocukluk", "en": "Childhood", "es": "Infancia", "fr": "Enfance", "de": "Kindheit", "it": "Infanzia", "pt": "Infância", "ru": "Детство", "ar": "طفولة", "zh": "童年"}
+      ]
+    },
+    {
+      "word": {"tr": "Havai fişek", "en": "Fireworks", "es": "Fuegos artificiales", "fr": "Feu d'artifice", "de": "Feuerwerk", "it": "Fuochi d'artificio", "pt": "Fogos de artifício", "ru": "Фейерверк", "ar": "ألعاب نارية", "zh": "烟花"},
+      "clues": [
+        {"tr": "Yılbaşı", "en": "New Year", "es": "Año Nuevo", "fr": "Nouvel An", "de": "Silvester", "it": "Capodanno", "pt": "Ano-Novo", "ru": "Новый год", "ar": "رأس السنة", "zh": "新年"},
+        {"tr": "Gökyüzü", "en": "Sky", "es": "Cielo", "fr": "Ciel", "de": "Himmel", "it": "Cielo", "pt": "Céu", "ru": "Небо", "ar": "سماء", "zh": "天空"}
+      ]
+    },
+    {
+      "word": {"tr": "Mangal", "en": "Barbecue grill", "es": "Parrilla", "fr": "Barbecue", "de": "Grill", "it": "Barbecue", "pt": "Churrasqueira", "ru": "Мангал", "ar": "شواية", "zh": "烧烤架"},
+      "clues": [
+        {"tr": "Duman", "en": "Smoke", "es": "Humo", "fr": "Fumée", "de": "Rauch", "it": "Fumo", "pt": "Fumaça", "ru": "Дым", "ar": "دخان", "zh": "烟"},
+        {"tr": "Kömür", "en": "Charcoal", "es": "Carbón", "fr": "Charbon", "de": "Holzkohle", "it": "Carbonella", "pt": "Carvão", "ru": "Уголь", "ar": "فحم", "zh": "木炭"}
+      ]
+    },
+    {
+      "word": {"tr": "El feneri", "en": "Flashlight", "es": "Linterna", "fr": "Lampe torche", "de": "Taschenlampe", "it": "Torcia", "pt": "Lanterna", "ru": "Фонарик", "ar": "مصباح يدوي", "zh": "手电筒"},
+      "clues": [
+        {"tr": "Karanlık", "en": "Darkness", "es": "Oscuridad", "fr": "Obscurité", "de": "Dunkelheit", "it": "Buio", "pt": "Escuridão", "ru": "Темнота", "ar": "ظلام", "zh": "黑暗"},
+        {"tr": "Kamp", "en": "Camping", "es": "Campamento", "fr": "Camping", "de": "Camping", "it": "Campeggio", "pt": "Acampamento", "ru": "Поход", "ar": "تخييم", "zh": "露营"}
+      ]
+    },
+    {
+      "word": {"tr": "Çalar saat", "en": "Alarm clock", "es": "Despertador", "fr": "Réveil", "de": "Wecker", "it": "Sveglia", "pt": "Despertador", "ru": "Будильник", "ar": "منبه", "zh": "闹钟"},
+      "clues": [
+        {"tr": "Pazartesi", "en": "Monday", "es": "Lunes", "fr": "Lundi", "de": "Montag", "it": "Lunedì", "pt": "Segunda-feira", "ru": "Понедельник", "ar": "الاثنين", "zh": "星期一"},
+        {"tr": "Komodin", "en": "Nightstand", "es": "Mesita de noche", "fr": "Table de chevet", "de": "Nachttisch", "it": "Comodino", "pt": "Mesa de cabeceira", "ru": "Тумбочка", "ar": "منضدة السرير", "zh": "床头柜"}
+      ]
+    },
+    {
+      "word": {"tr": "Kozalak", "en": "Pine cone", "es": "Piña de pino", "fr": "Pomme de pin", "de": "Tannenzapfen", "it": "Pigna", "pt": "Pinha", "ru": "Шишка", "ar": "كوز الصنوبر", "zh": "松果"},
+      "clues": [
+        {"tr": "Sincap", "en": "Squirrel", "es": "Ardilla", "fr": "Écureuil", "de": "Eichhörnchen", "it": "Scoiattolo", "pt": "Esquilo", "ru": "Белка", "ar": "سنجاب", "zh": "松鼠"},
+        {"tr": "Sonbahar", "en": "Autumn", "es": "Otoño", "fr": "Automne", "de": "Herbst", "it": "Autunno", "pt": "Outono", "ru": "Осень", "ar": "خريف", "zh": "秋天"}
+      ]
+    }
+  ]
+}

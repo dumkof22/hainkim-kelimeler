@@ -5,23 +5,23 @@
   "drawable": true,
   "words": [
     {
-      "word": {"tr": "Gitar", "en": "Guitar", "es": "Guitarra", "fr": "Guitare", "de": "Gitarre", "it": "Chitarra", "pt": "Violão", "ru": "Гитара", "ar": "غيتار", "zh": "吉他"},
+      "word": {"tr": "Elektro gitar", "en": "Electric guitar", "es": "Guitarra eléctrica", "fr": "Guitare électrique", "de": "E-Gitarre", "it": "Chitarra elettrica", "pt": "Guitarra elétrica", "ru": "Электрогитара", "ar": "غيتار كهربائي", "zh": "电吉他"},
       "clues": [
-        {"tr": "Tel", "en": "Strings", "es": "Cuerdas", "fr": "Cordes", "de": "Saiten", "it": "Corde", "pt": "Cordas", "ru": "Струны", "ar": "أوتار", "zh": "琴弦"},
-        {"tr": "Kamp ateşi", "en": "Campfire", "es": "Fogata", "fr": "Feu de camp", "de": "Lagerfeuer", "it": "Falò", "pt": "Fogueira", "ru": "Костёр", "ar": "نار المخيم", "zh": "篝火"}
+        {"tr": "Uzun saç", "en": "Long hair", "es": "Pelo largo", "fr": "Cheveux longs", "de": "Lange Haare", "it": "Capelli lunghi", "pt": "Cabelo comprido", "ru": "Длинные волосы", "ar": "شعر طويل", "zh": "长发"},
+        {"tr": "Kablo", "en": "Cable", "es": "Cable", "fr": "Câble", "de": "Kabel", "it": "Cavo", "pt": "Cabo", "ru": "Шнур", "ar": "كابل", "zh": "电线"}
       ]
     },
     {
-      "word": {"tr": "Piyano", "en": "Piano", "es": "Piano", "fr": "Piano", "de": "Klavier", "it": "Pianoforte", "pt": "Piano", "ru": "Пианино", "ar": "بيانو", "zh": "钢琴"},
+      "word": {"tr": "Kuyruklu piyano", "en": "Grand piano", "es": "Piano de cola", "fr": "Piano à queue", "de": "Flügel", "it": "Pianoforte a coda", "pt": "Piano de cauda", "ru": "Рояль", "ar": "بيانو كبير", "zh": "三角钢琴"},
       "clues": [
-        {"tr": "Tuş", "en": "Keys", "es": "Teclas", "fr": "Touches", "de": "Tasten", "it": "Tasti", "pt": "Teclas", "ru": "Клавиши", "ar": "مفاتيح", "zh": "琴键"},
-        {"tr": "Pedal", "en": "Pedal", "es": "Pedal", "fr": "Pédale", "de": "Pedal", "it": "Pedale", "pt": "Pedal", "ru": "Педаль", "ar": "دواسة", "zh": "踏板"}
+        {"tr": "Siyah beyaz", "en": "Black and white", "es": "Blanco y negro", "fr": "Noir et blanc", "de": "Schwarz-weiß", "it": "Bianco e nero", "pt": "Preto e branco", "ru": "Чёрно-белый", "ar": "أبيض وأسود", "zh": "黑白"},
+        {"tr": "Pedal", "en": "Pedals", "es": "Pedales", "fr": "Pédales", "de": "Pedale", "it": "Pedali", "pt": "Pedais", "ru": "Педали", "ar": "دواسات", "zh": "踏板"}
       ]
     },
     {
-      "word": {"tr": "Davul", "en": "Drum", "es": "Tambor", "fr": "Tambour", "de": "Trommel", "it": "Tamburo", "pt": "Tambor", "ru": "Барабан", "ar": "طبل", "zh": "鼓"},
+      "word": {"tr": "Bateri", "en": "Drum kit", "es": "Batería", "fr": "Batterie", "de": "Schlagzeug", "it": "Batteria", "pt": "Bateria", "ru": "Ударная установка", "ar": "طقم طبول", "zh": "架子鼓"},
       "clues": [
-        {"tr": "Baget", "en": "Drumsticks", "es": "Baquetas", "fr": "Baguettes", "de": "Trommelstöcke", "it": "Bacchette", "pt": "Baquetas", "ru": "Палочки", "ar": "عصي الطبل", "zh": "鼓槌"},
+        {"tr": "Komşu", "en": "Neighbors", "es": "Vecinos", "fr": "Voisins", "de": "Nachbarn", "it": "Vicini", "pt": "Vizinhos", "ru": "Соседи", "ar": "جيران", "zh": "邻居"},
         {"tr": "Ritim", "en": "Rhythm", "es": "Ritmo", "fr": "Rythme", "de": "Rhythmus", "it": "Ritmo", "pt": "Ritmo", "ru": "Ритм", "ar": "إيقاع", "zh": "节奏"}
       ]
     },
@@ -29,20 +29,20 @@
       "word": {"tr": "Keman", "en": "Violin", "es": "Violín", "fr": "Violon", "de": "Geige", "it": "Violino", "pt": "Violino", "ru": "Скрипка", "ar": "كمان", "zh": "小提琴"},
       "clues": [
         {"tr": "Yay", "en": "Bow", "es": "Arco", "fr": "Archet", "de": "Bogen", "it": "Archetto", "pt": "Arco", "ru": "Смычок", "ar": "قوس", "zh": "琴弓"},
-        {"tr": "Orkestra", "en": "Orchestra", "es": "Orquesta", "fr": "Orchestre", "de": "Orchester", "it": "Orchestra", "pt": "Orquestra", "ru": "Оркестр", "ar": "أوركسترا", "zh": "管弦乐团"}
+        {"tr": "Çene", "en": "Chin", "es": "Barbilla", "fr": "Menton", "de": "Kinn", "it": "Mento", "pt": "Queixo", "ru": "Подбородок", "ar": "ذقن", "zh": "下巴"}
       ]
     },
     {
       "word": {"tr": "Mikrofon", "en": "Microphone", "es": "Micrófono", "fr": "Micro", "de": "Mikrofon", "it": "Microfono", "pt": "Microfone", "ru": "Микрофон", "ar": "ميكروفون", "zh": "麦克风"},
       "clues": [
         {"tr": "Sahne", "en": "Stage", "es": "Escenario", "fr": "Scène", "de": "Bühne", "it": "Palco", "pt": "Palco", "ru": "Сцена", "ar": "مسرح", "zh": "舞台"},
-        {"tr": "Ses", "en": "Voice", "es": "Voz", "fr": "Voix", "de": "Stimme", "it": "Voce", "pt": "Voz", "ru": "Голос", "ar": "صوت", "zh": "声音"}
+        {"tr": "Cızırtı", "en": "Feedback", "es": "Acople", "fr": "Larsen", "de": "Rückkopplung", "it": "Fischio", "pt": "Chiado", "ru": "Свист", "ar": "صفير", "zh": "啸叫"}
       ]
     },
     {
       "word": {"tr": "Flüt", "en": "Flute", "es": "Flauta", "fr": "Flûte", "de": "Flöte", "it": "Flauto", "pt": "Flauta", "ru": "Флейта", "ar": "ناي", "zh": "长笛"},
       "clues": [
-        {"tr": "Nefes", "en": "Breath", "es": "Aliento", "fr": "Souffle", "de": "Atem", "it": "Fiato", "pt": "Sopro", "ru": "Дыхание", "ar": "نفس", "zh": "气息"},
+        {"tr": "Delikler", "en": "Holes", "es": "Agujeros", "fr": "Trous", "de": "Löcher", "it": "Buchi", "pt": "Furos", "ru": "Дырочки", "ar": "ثقوب", "zh": "孔"},
         {"tr": "İnce ses", "en": "High pitch", "es": "Agudo", "fr": "Aigu", "de": "Hoher Ton", "it": "Acuto", "pt": "Agudo", "ru": "Высокий звук", "ar": "صوت حاد", "zh": "高音"}
       ]
     },
@@ -50,28 +50,28 @@
       "word": {"tr": "Trompet", "en": "Trumpet", "es": "Trompeta", "fr": "Trompette", "de": "Trompete", "it": "Tromba", "pt": "Trompete", "ru": "Труба", "ar": "بوق", "zh": "小号"},
       "clues": [
         {"tr": "Bando", "en": "Marching band", "es": "Banda", "fr": "Fanfare", "de": "Blaskapelle", "it": "Banda", "pt": "Banda", "ru": "Духовой оркестр", "ar": "فرقة نحاسية", "zh": "军乐队"},
-        {"tr": "Üflemek", "en": "Blow", "es": "Soplar", "fr": "Souffler", "de": "Blasen", "it": "Soffiare", "pt": "Soprar", "ru": "Дуть", "ar": "نفخ", "zh": "吹"}
+        {"tr": "Yanak", "en": "Cheeks", "es": "Mejillas", "fr": "Joues", "de": "Backen", "it": "Guance", "pt": "Bochechas", "ru": "Щёки", "ar": "خدود", "zh": "腮帮子"}
       ]
     },
     {
       "word": {"tr": "Akordeon", "en": "Accordion", "es": "Acordeón", "fr": "Accordéon", "de": "Akkordeon", "it": "Fisarmonica", "pt": "Acordeão", "ru": "Аккордеон", "ar": "أكورديون", "zh": "手风琴"},
       "clues": [
-        {"tr": "Körük", "en": "Bellows", "es": "Fuelle", "fr": "Soufflet", "de": "Balg", "it": "Mantice", "pt": "Fole", "ru": "Меха", "ar": "منفاخ", "zh": "风箱"},
-        {"tr": "Sokak müzisyeni", "en": "Street musician", "es": "Músico callejero", "fr": "Musicien de rue", "de": "Straßenmusiker", "it": "Musicista di strada", "pt": "Músico de rua", "ru": "Уличный музыкант", "ar": "موسيقي الشارع", "zh": "街头艺人"}
+        {"tr": "Sokak müzisyeni", "en": "Street musician", "es": "Músico callejero", "fr": "Musicien de rue", "de": "Straßenmusiker", "it": "Musicista di strada", "pt": "Músico de rua", "ru": "Уличный музыкант", "ar": "موسيقي الشارع", "zh": "街头艺人"},
+        {"tr": "Düğmeler", "en": "Buttons", "es": "Botones", "fr": "Boutons", "de": "Knöpfe", "it": "Bottoni", "pt": "Botões", "ru": "Кнопки", "ar": "أزرار", "zh": "按钮"}
       ]
     },
     {
-      "word": {"tr": "Konser", "en": "Concert", "es": "Concierto", "fr": "Concert", "de": "Konzert", "it": "Concerto", "pt": "Show", "ru": "Концерт", "ar": "حفلة موسيقية", "zh": "音乐会"},
+      "word": {"tr": "Rock konseri", "en": "Rock concert", "es": "Concierto de rock", "fr": "Concert de rock", "de": "Rockkonzert", "it": "Concerto rock", "pt": "Show de rock", "ru": "Рок-концерт", "ar": "حفلة روك", "zh": "摇滚演唱会"},
       "clues": [
-        {"tr": "Bilet", "en": "Ticket", "es": "Entrada", "fr": "Billet", "de": "Ticket", "it": "Biglietto", "pt": "Ingresso", "ru": "Билет", "ar": "تذكرة", "zh": "门票"},
-        {"tr": "Kalabalık", "en": "Crowd", "es": "Multitud", "fr": "Foule", "de": "Menge", "it": "Folla", "pt": "Multidão", "ru": "Толпа", "ar": "حشد", "zh": "人群"}
+        {"tr": "Kalabalık", "en": "Crowd", "es": "Multitud", "fr": "Foule", "de": "Menge", "it": "Folla", "pt": "Multidão", "ru": "Толпа", "ar": "حشد", "zh": "人群"},
+        {"tr": "Çakmak", "en": "Lighters", "es": "Mecheros", "fr": "Briquets", "de": "Feuerzeuge", "it": "Accendini", "pt": "Isqueiros", "ru": "Зажигалки", "ar": "ولاعات", "zh": "打火机"}
       ]
     },
     {
       "word": {"tr": "Kulaklık", "en": "Headphones", "es": "Auriculares", "fr": "Casque", "de": "Kopfhörer", "it": "Cuffie", "pt": "Fones de ouvido", "ru": "Наушники", "ar": "سماعات", "zh": "耳机"},
       "clues": [
-        {"tr": "Kablo", "en": "Cable", "es": "Cable", "fr": "Câble", "de": "Kabel", "it": "Cavo", "pt": "Cabo", "ru": "Провод", "ar": "سلك", "zh": "耳机线"},
-        {"tr": "Bas", "en": "Bass", "es": "Graves", "fr": "Basses", "de": "Bass", "it": "Bassi", "pt": "Grave", "ru": "Басы", "ar": "صوت عميق", "zh": "低音"}
+        {"tr": "Dolaşmak", "en": "Tangled", "es": "Enredado", "fr": "Emmêlé", "de": "Verheddert", "it": "Aggrovigliato", "pt": "Embolado", "ru": "Запутаться", "ar": "تشابك", "zh": "缠绕"},
+        {"tr": "Otobüs", "en": "Bus", "es": "Autobús", "fr": "Bus", "de": "Bus", "it": "Autobus", "pt": "Ônibus", "ru": "Автобус", "ar": "حافلة", "zh": "公交车"}
       ]
     },
     {
@@ -84,15 +84,15 @@
     {
       "word": {"tr": "Saksafon", "en": "Saxophone", "es": "Saxofón", "fr": "Saxophone", "de": "Saxophon", "it": "Sassofono", "pt": "Saxofone", "ru": "Саксофон", "ar": "ساكسفون", "zh": "萨克斯"},
       "clues": [
-        {"tr": "Caz", "en": "Jazz", "es": "Jazz", "fr": "Jazz", "de": "Jazz", "it": "Jazz", "pt": "Jazz", "ru": "Джаз", "ar": "جاز", "zh": "爵士乐"},
-        {"tr": "Gece kulübü", "en": "Nightclub", "es": "Club nocturno", "fr": "Boîte de nuit", "de": "Nachtclub", "it": "Locale notturno", "pt": "Boate", "ru": "Ночной клуб", "ar": "ملهى ليلي", "zh": "夜店"}
+        {"tr": "Gece kulübü", "en": "Nightclub", "es": "Club nocturno", "fr": "Boîte de nuit", "de": "Nachtclub", "it": "Locale notturno", "pt": "Boate", "ru": "Ночной клуб", "ar": "ملهى ليلي", "zh": "夜店"},
+        {"tr": "Kıvrım", "en": "Curve", "es": "Curva", "fr": "Courbe", "de": "Kurve", "it": "Curva", "pt": "Curva", "ru": "Изгиб", "ar": "انحناء", "zh": "弯曲"}
       ]
     },
     {
       "word": {"tr": "Orkestra şefi", "en": "Conductor", "es": "Director de orquesta", "fr": "Chef d'orchestre", "de": "Dirigent", "it": "Direttore d'orchestra", "pt": "Maestro", "ru": "Дирижёр", "ar": "قائد الأوركسترا", "zh": "指挥家"},
       "clues": [
-        {"tr": "Baton", "en": "Baton", "es": "Batuta", "fr": "Baguette", "de": "Taktstock", "it": "Bacchetta", "pt": "Batuta", "ru": "Палочка", "ar": "عصا القيادة", "zh": "指挥棒"},
-        {"tr": "Alkış", "en": "Applause", "es": "Aplauso", "fr": "Applaudissements", "de": "Applaus", "it": "Applauso", "pt": "Aplausos", "ru": "Аплодисменты", "ar": "تصفيق", "zh": "掌声"}
+        {"tr": "Alkış", "en": "Applause", "es": "Aplauso", "fr": "Applaudissements", "de": "Applaus", "it": "Applauso", "pt": "Aplausos", "ru": "Аплодисменты", "ar": "تصفيق", "zh": "掌声"},
+        {"tr": "Sırt", "en": "Back", "es": "Espalda", "fr": "Dos", "de": "Rücken", "it": "Schiena", "pt": "Costas", "ru": "Спина", "ar": "ظهر", "zh": "背影"}
       ]
     },
     {
@@ -105,8 +105,8 @@
     {
       "word": {"tr": "Opera", "en": "Opera", "es": "Ópera", "fr": "Opéra", "de": "Oper", "it": "Opera", "pt": "Ópera", "ru": "Опера", "ar": "أوبرا", "zh": "歌剧"},
       "clues": [
-        {"tr": "Yüksek nota", "en": "High note", "es": "Nota alta", "fr": "Note aiguë", "de": "Hoher Ton", "it": "Nota acuta", "pt": "Nota alta", "ru": "Высокая нота", "ar": "نغمة عالية", "zh": "高音符"},
-        {"tr": "Kostüm", "en": "Costume", "es": "Vestuario", "fr": "Costume", "de": "Kostüm", "it": "Costume", "pt": "Figurino", "ru": "Костюм", "ar": "زي", "zh": "戏服"}
+        {"tr": "Kostüm", "en": "Costume", "es": "Vestuario", "fr": "Costume", "de": "Kostüm", "it": "Costume", "pt": "Figurino", "ru": "Костюм", "ar": "زي", "zh": "戏服"},
+        {"tr": "Cam kırmak", "en": "Breaking glass", "es": "Romper copas", "fr": "Briser le verre", "de": "Glas zerspringen", "it": "Rompere i bicchieri", "pt": "Quebrar taças", "ru": "Разбить стекло", "ar": "تكسير الزجاج", "zh": "震碎玻璃"}
       ]
     },
     {
@@ -119,8 +119,8 @@
     {
       "word": {"tr": "Metronom", "en": "Metronome", "es": "Metrónomo", "fr": "Métronome", "de": "Metronom", "it": "Metronomo", "pt": "Metrônomo", "ru": "Метроном", "ar": "ميترونوم", "zh": "节拍器"},
       "clues": [
-        {"tr": "Tik tak", "en": "Tick-tock", "es": "Tic tac", "fr": "Tic-tac", "de": "Tick-tack", "it": "Tic tac", "pt": "Tique-taque", "ru": "Тик-так", "ar": "تك تك", "zh": "滴答"},
-        {"tr": "Tempo", "en": "Tempo", "es": "Tempo", "fr": "Tempo", "de": "Tempo", "it": "Tempo", "pt": "Andamento", "ru": "Темп", "ar": "إيقاع", "zh": "速度"}
+        {"tr": "Sarkaç", "en": "Pendulum", "es": "Péndulo", "fr": "Pendule", "de": "Pendel", "it": "Pendolo", "pt": "Pêndulo", "ru": "Маятник", "ar": "بندول", "zh": "摆锤"},
+        {"tr": "Düzen", "en": "Steady beat", "es": "Regularidad", "fr": "Régularité", "de": "Gleichmaß", "it": "Regolarità", "pt": "Regularidade", "ru": "Размеренность", "ar": "انتظام", "zh": "规律"}
       ]
     },
     {

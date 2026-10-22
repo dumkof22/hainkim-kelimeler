@@ -5,171 +5,171 @@
   "drawable": true,
   "words": [
     {
-      "word": {"tr": "Şapka", "en": "Hat", "es": "Sombrero", "fr": "Chapeau", "de": "Hut", "it": "Cappello", "pt": "Chapéu", "ru": "Шляпа", "ar": "قبعة", "zh": "帽子"},
+      "word": {"tr": "Kovboy şapkası", "en": "Cowboy hat", "es": "Sombrero vaquero", "fr": "Chapeau de cowboy", "de": "Cowboyhut", "it": "Cappello da cowboy", "pt": "Chapéu de caubói", "ru": "Ковбойская шляпа", "ar": "قبعة رعاة البقر", "zh": "牛仔帽"},
       "clues": [
-        {"tr": "Kafa", "en": "Head", "es": "Cabeza", "fr": "Tête", "de": "Kopf", "it": "Testa", "pt": "Cabeça", "ru": "Голова", "ar": "رأس", "zh": "头"},
-        {"tr": "Güneş", "en": "Sun", "es": "Sol", "fr": "Soleil", "de": "Sonne", "it": "Sole", "pt": "Sol", "ru": "Солнце", "ar": "شمس", "zh": "太阳"}
+        {"tr": "At", "en": "Horse", "es": "Caballo", "fr": "Cheval", "de": "Pferd", "it": "Cavallo", "pt": "Cavalo", "ru": "Лошадь", "ar": "حصان", "zh": "马"},
+        {"tr": "Toz", "en": "Dust", "es": "Polvo", "fr": "Poussière", "de": "Staub", "it": "Polvere", "pt": "Poeira", "ru": "Пыль", "ar": "غبار", "zh": "灰尘"}
       ]
     },
     {
-      "word": {"tr": "Gözlük", "en": "Glasses", "es": "Gafas", "fr": "Lunettes", "de": "Brille", "it": "Occhiali", "pt": "Óculos", "ru": "Очки", "ar": "نظارة", "zh": "眼镜"},
+      "word": {"tr": "Okuma gözlüğü", "en": "Reading glasses", "es": "Gafas de lectura", "fr": "Lunettes de lecture", "de": "Lesebrille", "it": "Occhiali da lettura", "pt": "Óculos de leitura", "ru": "Очки для чтения", "ar": "نظارة قراءة", "zh": "老花镜"},
       "clues": [
-        {"tr": "Görmek", "en": "See", "es": "Ver", "fr": "Voir", "de": "Sehen", "it": "Vedere", "pt": "Ver", "ru": "Видеть", "ar": "رؤية", "zh": "看"},
-        {"tr": "Çerçeve", "en": "Frame", "es": "Montura", "fr": "Monture", "de": "Gestell", "it": "Montatura", "pt": "Armação", "ru": "Оправа", "ar": "إطار", "zh": "镜框"}
+        {"tr": "Büyükbaba", "en": "Grandpa", "es": "Abuelo", "fr": "Grand-père", "de": "Opa", "it": "Nonno", "pt": "Vovô", "ru": "Дедушка", "ar": "جد", "zh": "爷爷"},
+        {"tr": "Gazete", "en": "Newspaper", "es": "Periódico", "fr": "Journal", "de": "Zeitung", "it": "Giornale", "pt": "Jornal", "ru": "Газета", "ar": "جريدة", "zh": "报纸"}
       ]
     },
     {
-      "word": {"tr": "Ayakkabı", "en": "Shoes", "es": "Zapatos", "fr": "Chaussures", "de": "Schuhe", "it": "Scarpe", "pt": "Sapatos", "ru": "Обувь", "ar": "حذاء", "zh": "鞋子"},
+      "word": {"tr": "Topuklu ayakkabı", "en": "High heels", "es": "Tacones", "fr": "Talons hauts", "de": "High Heels", "it": "Tacchi alti", "pt": "Salto alto", "ru": "Туфли на каблуке", "ar": "كعب عالٍ", "zh": "高跟鞋"},
       "clues": [
-        {"tr": "Bağcık", "en": "Laces", "es": "Cordones", "fr": "Lacets", "de": "Schnürsenkel", "it": "Lacci", "pt": "Cadarços", "ru": "Шнурки", "ar": "أربطة", "zh": "鞋带"},
-        {"tr": "Numara", "en": "Size", "es": "Talla", "fr": "Pointure", "de": "Größe", "it": "Numero", "pt": "Número", "ru": "Размер", "ar": "مقاس", "zh": "尺码"}
+        {"tr": "Tıkırtı", "en": "Click-clack", "es": "Repiqueteo", "fr": "Claquement", "de": "Klackern", "it": "Ticchettio", "pt": "Toc-toc", "ru": "Цокот", "ar": "طقطقة", "zh": "嗒嗒声"},
+        {"tr": "Ağrı", "en": "Sore feet", "es": "Dolor", "fr": "Douleur", "de": "Schmerzen", "it": "Dolore", "pt": "Dor", "ru": "Боль", "ar": "ألم", "zh": "疼痛"}
       ]
     },
     {
-      "word": {"tr": "Çorap", "en": "Socks", "es": "Calcetines", "fr": "Chaussettes", "de": "Socken", "it": "Calzini", "pt": "Meias", "ru": "Носки", "ar": "جوارب", "zh": "袜子"},
+      "word": {"tr": "Noel çorabı", "en": "Christmas stocking", "es": "Calcetín navideño", "fr": "Chaussette de Noël", "de": "Nikolausstrumpf", "it": "Calza della Befana", "pt": "Meia de Natal", "ru": "Рождественский носок", "ar": "جورب عيد الميلاد", "zh": "圣诞袜"},
       "clues": [
-        {"tr": "Çift", "en": "Pair", "es": "Par", "fr": "Paire", "de": "Paar", "it": "Paio", "pt": "Par", "ru": "Пара", "ar": "زوج", "zh": "一双"},
-        {"tr": "Kaybolmak", "en": "Go missing", "es": "Desaparecer", "fr": "Disparaître", "de": "Verschwinden", "it": "Sparire", "pt": "Sumir", "ru": "Пропадать", "ar": "يختفي", "zh": "丢失"}
+        {"tr": "Şömine", "en": "Fireplace", "es": "Chimenea", "fr": "Cheminée", "de": "Kamin", "it": "Camino", "pt": "Lareira", "ru": "Камин", "ar": "مدفأة", "zh": "壁炉"},
+        {"tr": "Hediye", "en": "Gifts", "es": "Regalos", "fr": "Cadeaux", "de": "Geschenke", "it": "Regali", "pt": "Presentes", "ru": "Подарки", "ar": "هدايا", "zh": "礼物"}
       ]
     },
     {
-      "word": {"tr": "Elbise", "en": "Dress", "es": "Vestido", "fr": "Robe", "de": "Kleid", "it": "Vestito", "pt": "Vestido", "ru": "Платье", "ar": "فستان", "zh": "连衣裙"},
+      "word": {"tr": "Gelinlik", "en": "Wedding dress", "es": "Vestido de novia", "fr": "Robe de mariée", "de": "Brautkleid", "it": "Abito da sposa", "pt": "Vestido de noiva", "ru": "Свадебное платье", "ar": "فستان زفاف", "zh": "婚纱"},
       "clues": [
-        {"tr": "Parti", "en": "Party", "es": "Fiesta", "fr": "Fête", "de": "Party", "it": "Festa", "pt": "Festa", "ru": "Вечеринка", "ar": "حفلة", "zh": "派对"},
-        {"tr": "Askı", "en": "Hanger", "es": "Percha", "fr": "Cintre", "de": "Kleiderbügel", "it": "Gruccia", "pt": "Cabide", "ru": "Вешалка", "ar": "علاقة", "zh": "衣架"}
+        {"tr": "Beyaz", "en": "White", "es": "Blanco", "fr": "Blanc", "de": "Weiß", "it": "Bianco", "pt": "Branco", "ru": "Белый", "ar": "أبيض", "zh": "白色"},
+        {"tr": "Tül", "en": "Tulle", "es": "Tul", "fr": "Tulle", "de": "Tüll", "it": "Tulle", "pt": "Tule", "ru": "Тюль", "ar": "تول", "zh": "薄纱"}
       ]
     },
     {
       "word": {"tr": "Kravat", "en": "Tie", "es": "Corbata", "fr": "Cravate", "de": "Krawatte", "it": "Cravatta", "pt": "Gravata", "ru": "Галстук", "ar": "ربطة عنق", "zh": "领带"},
       "clues": [
-        {"tr": "Boyun", "en": "Neck", "es": "Cuello", "fr": "Cou", "de": "Hals", "it": "Collo", "pt": "Pescoço", "ru": "Шея", "ar": "رقبة", "zh": "脖子"},
-        {"tr": "Takım elbise", "en": "Suit", "es": "Traje", "fr": "Costume", "de": "Anzug", "it": "Completo", "pt": "Terno", "ru": "Костюм", "ar": "بدلة", "zh": "西装"}
+        {"tr": "Düğüm", "en": "Knot", "es": "Nudo", "fr": "Nœud", "de": "Knoten", "it": "Nodo", "pt": "Nó", "ru": "Узел", "ar": "عقدة", "zh": "结"},
+        {"tr": "Toplantı", "en": "Meeting", "es": "Reunión", "fr": "Réunion", "de": "Meeting", "it": "Riunione", "pt": "Reunião", "ru": "Совещание", "ar": "اجتماع", "zh": "开会"}
       ]
     },
     {
-      "word": {"tr": "Eldiven", "en": "Gloves", "es": "Guantes", "fr": "Gants", "de": "Handschuhe", "it": "Guanti", "pt": "Luvas", "ru": "Перчатки", "ar": "قفازات", "zh": "手套"},
+      "word": {"tr": "Kar maskesi", "en": "Balaclava", "es": "Pasamontañas", "fr": "Cagoule", "de": "Sturmhaube", "it": "Passamontagna", "pt": "Balaclava", "ru": "Балаклава", "ar": "قناع تزلج", "zh": "巴拉克拉法帽"},
       "clues": [
-        {"tr": "Parmak", "en": "Fingers", "es": "Dedos", "fr": "Doigts", "de": "Finger", "it": "Dita", "pt": "Dedos", "ru": "Пальцы", "ar": "أصابع", "zh": "手指"},
-        {"tr": "Kış", "en": "Winter", "es": "Invierno", "fr": "Hiver", "de": "Winter", "it": "Inverno", "pt": "Inverno", "ru": "Зима", "ar": "شتاء", "zh": "冬天"}
+        {"tr": "Soygun", "en": "Robbery", "es": "Atraco", "fr": "Braquage", "de": "Überfall", "it": "Rapina", "pt": "Assalto", "ru": "Ограбление", "ar": "سرقة", "zh": "抢劫"},
+        {"tr": "Soğuk", "en": "Cold", "es": "Frío", "fr": "Froid", "de": "Kälte", "it": "Freddo", "pt": "Frio", "ru": "Холод", "ar": "برد", "zh": "寒冷"}
       ]
     },
     {
       "word": {"tr": "Atkı", "en": "Scarf", "es": "Bufanda", "fr": "Écharpe", "de": "Schal", "it": "Sciarpa", "pt": "Cachecol", "ru": "Шарф", "ar": "وشاح", "zh": "围巾"},
       "clues": [
         {"tr": "Örgü", "en": "Knitting", "es": "Tejido", "fr": "Tricot", "de": "Stricken", "it": "Maglia", "pt": "Tricô", "ru": "Вязание", "ar": "حياكة", "zh": "编织"},
-        {"tr": "Rüzgar", "en": "Wind", "es": "Viento", "fr": "Vent", "de": "Wind", "it": "Vento", "pt": "Vento", "ru": "Ветер", "ar": "ريح", "zh": "风"}
+        {"tr": "Boğaz", "en": "Throat", "es": "Garganta", "fr": "Gorge", "de": "Hals", "it": "Gola", "pt": "Garganta", "ru": "Горло", "ar": "حلق", "zh": "喉咙"}
       ]
     },
     {
-      "word": {"tr": "Kot pantolon", "en": "Jeans", "es": "Vaqueros", "fr": "Jean", "de": "Jeans", "it": "Jeans", "pt": "Calça jeans", "ru": "Джинсы", "ar": "جينز", "zh": "牛仔裤"},
+      "word": {"tr": "Yırtık kot", "en": "Ripped jeans", "es": "Vaqueros rotos", "fr": "Jean déchiré", "de": "Zerrissene Jeans", "it": "Jeans strappati", "pt": "Calça rasgada", "ru": "Рваные джинсы", "ar": "جينز ممزق", "zh": "破洞牛仔裤"},
       "clues": [
-        {"tr": "Mavi", "en": "Blue", "es": "Azul", "fr": "Bleu", "de": "Blau", "it": "Blu", "pt": "Azul", "ru": "Синий", "ar": "أزرق", "zh": "蓝色"},
-        {"tr": "Cep", "en": "Pocket", "es": "Bolsillo", "fr": "Poche", "de": "Tasche", "it": "Tasca", "pt": "Bolso", "ru": "Карман", "ar": "جيب", "zh": "口袋"}
+        {"tr": "Moda", "en": "Fashion", "es": "Moda", "fr": "Mode", "de": "Mode", "it": "Moda", "pt": "Moda", "ru": "Мода", "ar": "موضة", "zh": "时尚"},
+        {"tr": "Delik", "en": "Holes", "es": "Agujeros", "fr": "Trous", "de": "Löcher", "it": "Buchi", "pt": "Buracos", "ru": "Дырки", "ar": "ثقوب", "zh": "窟窿"}
       ]
     },
     {
       "word": {"tr": "Pijama", "en": "Pajamas", "es": "Pijama", "fr": "Pyjama", "de": "Schlafanzug", "it": "Pigiama", "pt": "Pijama", "ru": "Пижама", "ar": "بيجامة", "zh": "睡衣"},
       "clues": [
         {"tr": "Uyku", "en": "Sleep", "es": "Sueño", "fr": "Sommeil", "de": "Schlaf", "it": "Sonno", "pt": "Sono", "ru": "Сон", "ar": "نوم", "zh": "睡觉"},
-        {"tr": "Pazar", "en": "Sunday", "es": "Domingo", "fr": "Dimanche", "de": "Sonntag", "it": "Domenica", "pt": "Domingo", "ru": "Воскресенье", "ar": "الأحد", "zh": "星期天"}
+        {"tr": "Pazar sabahı", "en": "Sunday morning", "es": "Domingo por la mañana", "fr": "Dimanche matin", "de": "Sonntagmorgen", "it": "Domenica mattina", "pt": "Domingo de manhã", "ru": "Воскресное утро", "ar": "صباح الأحد", "zh": "周日早晨"}
       ]
     },
     {
       "word": {"tr": "Mayo", "en": "Swimsuit", "es": "Bañador", "fr": "Maillot de bain", "de": "Badeanzug", "it": "Costume da bagno", "pt": "Maiô", "ru": "Купальник", "ar": "ملابس سباحة", "zh": "泳衣"},
       "clues": [
         {"tr": "Havuz", "en": "Pool", "es": "Piscina", "fr": "Piscine", "de": "Schwimmbad", "it": "Piscina", "pt": "Piscina", "ru": "Бассейн", "ar": "مسبح", "zh": "泳池"},
-        {"tr": "Yaz", "en": "Summer", "es": "Verano", "fr": "Été", "de": "Sommer", "it": "Estate", "pt": "Verão", "ru": "Лето", "ar": "صيف", "zh": "夏天"}
+        {"tr": "Bronz", "en": "Tan lines", "es": "Bronceado", "fr": "Bronzage", "de": "Bräune", "it": "Abbronzatura", "pt": "Bronzeado", "ru": "Загар", "ar": "سمرة", "zh": "晒痕"}
       ]
     },
     {
       "word": {"tr": "Yağmurluk", "en": "Raincoat", "es": "Impermeable", "fr": "Imperméable", "de": "Regenmantel", "it": "Impermeabile", "pt": "Capa de chuva", "ru": "Дождевик", "ar": "معطف مطر", "zh": "雨衣"},
       "clues": [
-        {"tr": "Yağmur", "en": "Rain", "es": "Lluvia", "fr": "Pluie", "de": "Regen", "it": "Pioggia", "pt": "Chuva", "ru": "Дождь", "ar": "مطر", "zh": "雨"},
-        {"tr": "Kapüşon", "en": "Hood", "es": "Capucha", "fr": "Capuche", "de": "Kapuze", "it": "Cappuccio", "pt": "Capuz", "ru": "Капюшон", "ar": "قلنسوة", "zh": "兜帽"}
+        {"tr": "Kapüşon", "en": "Hood", "es": "Capucha", "fr": "Capuche", "de": "Kapuze", "it": "Cappuccio", "pt": "Capuz", "ru": "Капюшон", "ar": "قلنسوة", "zh": "兜帽"},
+        {"tr": "Sarı", "en": "Yellow", "es": "Amarillo", "fr": "Jaune", "de": "Gelb", "it": "Giallo", "pt": "Amarelo", "ru": "Жёлтый", "ar": "أصفر", "zh": "黄色"}
       ]
     },
     {
       "word": {"tr": "Kol saati", "en": "Wristwatch", "es": "Reloj de pulsera", "fr": "Montre", "de": "Armbanduhr", "it": "Orologio da polso", "pt": "Relógio de pulso", "ru": "Наручные часы", "ar": "ساعة يد", "zh": "手表"},
       "clues": [
-        {"tr": "Bilek", "en": "Wrist", "es": "Muñeca", "fr": "Poignet", "de": "Handgelenk", "it": "Polso", "pt": "Pulso", "ru": "Запястье", "ar": "معصم", "zh": "手腕"},
-        {"tr": "Zaman", "en": "Time", "es": "Tiempo", "fr": "Temps", "de": "Zeit", "it": "Tempo", "pt": "Tempo", "ru": "Время", "ar": "وقت", "zh": "时间"}
+        {"tr": "Akrep yelkovan", "en": "Clock hands", "es": "Manecillas", "fr": "Aiguilles", "de": "Zeiger", "it": "Lancette", "pt": "Ponteiros", "ru": "Стрелки", "ar": "عقارب", "zh": "指针"},
+        {"tr": "Kayış", "en": "Strap", "es": "Correa", "fr": "Bracelet", "de": "Armband", "it": "Cinturino", "pt": "Pulseira", "ru": "Ремешок", "ar": "سوار", "zh": "带子"}
       ]
     },
     {
-      "word": {"tr": "Yüzük", "en": "Ring", "es": "Anillo", "fr": "Bague", "de": "Ring", "it": "Anello", "pt": "Anel", "ru": "Кольцо", "ar": "خاتم", "zh": "戒指"},
+      "word": {"tr": "Nişan yüzüğü", "en": "Engagement ring", "es": "Anillo de compromiso", "fr": "Bague de fiançailles", "de": "Verlobungsring", "it": "Anello di fidanzamento", "pt": "Anel de noivado", "ru": "Помолвочное кольцо", "ar": "خاتم الخطوبة", "zh": "订婚戒指"},
       "clues": [
-        {"tr": "Evlilik teklifi", "en": "Proposal", "es": "Pedida de mano", "fr": "Demande en mariage", "de": "Heiratsantrag", "it": "Proposta di matrimonio", "pt": "Pedido de casamento", "ru": "Предложение руки", "ar": "عرض زواج", "zh": "求婚"},
-        {"tr": "Elmas", "en": "Diamond", "es": "Diamante", "fr": "Diamant", "de": "Diamant", "it": "Diamante", "pt": "Diamante", "ru": "Бриллиант", "ar": "ألماس", "zh": "钻石"}
+        {"tr": "Diz çökmek", "en": "Kneeling", "es": "Arrodillarse", "fr": "À genoux", "de": "Knien", "it": "In ginocchio", "pt": "Ajoelhar", "ru": "На одном колене", "ar": "الركوع", "zh": "单膝跪地"},
+        {"tr": "Parlak", "en": "Shiny", "es": "Brillante", "fr": "Brillant", "de": "Glänzend", "it": "Brillante", "pt": "Brilhante", "ru": "Блестящий", "ar": "لامع", "zh": "闪亮"}
       ]
     },
     {
-      "word": {"tr": "Kolye", "en": "Necklace", "es": "Collar", "fr": "Collier", "de": "Halskette", "it": "Collana", "pt": "Colar", "ru": "Ожерелье", "ar": "قلادة", "zh": "项链"},
+      "word": {"tr": "İnci kolye", "en": "Pearl necklace", "es": "Collar de perlas", "fr": "Collier de perles", "de": "Perlenkette", "it": "Collana di perle", "pt": "Colar de pérolas", "ru": "Жемчужное ожерелье", "ar": "عقد لؤلؤ", "zh": "珍珠项链"},
       "clues": [
-        {"tr": "İnci", "en": "Pearl", "es": "Perla", "fr": "Perle", "de": "Perle", "it": "Perla", "pt": "Pérola", "ru": "Жемчуг", "ar": "لؤلؤ", "zh": "珍珠"},
-        {"tr": "Zincir", "en": "Chain", "es": "Cadena", "fr": "Chaîne", "de": "Kette", "it": "Catena", "pt": "Corrente", "ru": "Цепочка", "ar": "سلسلة", "zh": "链子"}
+        {"tr": "Deniz", "en": "Sea", "es": "Mar", "fr": "Mer", "de": "Meer", "it": "Mare", "pt": "Mar", "ru": "Море", "ar": "بحر", "zh": "大海"},
+        {"tr": "Zarif", "en": "Elegant", "es": "Elegante", "fr": "Élégant", "de": "Elegant", "it": "Elegante", "pt": "Elegante", "ru": "Элегантный", "ar": "أنيق", "zh": "优雅"}
       ]
     },
     {
-      "word": {"tr": "Çanta", "en": "Bag", "es": "Bolso", "fr": "Sac", "de": "Tasche", "it": "Borsa", "pt": "Bolsa", "ru": "Сумка", "ar": "حقيبة", "zh": "包"},
+      "word": {"tr": "Bel çantası", "en": "Fanny pack", "es": "Riñonera", "fr": "Banane", "de": "Bauchtasche", "it": "Marsupio", "pt": "Pochete", "ru": "Поясная сумка", "ar": "حقيبة خصر", "zh": "腰包"},
       "clues": [
-        {"tr": "Omuz", "en": "Shoulder", "es": "Hombro", "fr": "Épaule", "de": "Schulter", "it": "Spalla", "pt": "Ombro", "ru": "Плечо", "ar": "كتف", "zh": "肩膀"},
-        {"tr": "Cüzdan", "en": "Wallet", "es": "Cartera", "fr": "Portefeuille", "de": "Geldbörse", "it": "Portafoglio", "pt": "Carteira", "ru": "Кошелёк", "ar": "محفظة", "zh": "钱包"}
+        {"tr": "Turist", "en": "Tourist", "es": "Turista", "fr": "Touriste", "de": "Tourist", "it": "Turista", "pt": "Turista", "ru": "Турист", "ar": "سائح", "zh": "游客"},
+        {"tr": "90'lar", "en": "The 90s", "es": "Los 90", "fr": "Les années 90", "de": "Die 90er", "it": "Anni '90", "pt": "Anos 90", "ru": "90-е", "ar": "التسعينات", "zh": "90年代"}
       ]
     },
     {
       "word": {"tr": "Kemer", "en": "Belt", "es": "Cinturón", "fr": "Ceinture", "de": "Gürtel", "it": "Cintura", "pt": "Cinto", "ru": "Ремень", "ar": "حزام", "zh": "腰带"},
       "clues": [
         {"tr": "Toka", "en": "Buckle", "es": "Hebilla", "fr": "Boucle", "de": "Schnalle", "it": "Fibbia", "pt": "Fivela", "ru": "Пряжка", "ar": "إبزيم", "zh": "带扣"},
-        {"tr": "Bel", "en": "Waist", "es": "Cintura", "fr": "Taille", "de": "Taille", "it": "Vita", "pt": "Cintura", "ru": "Талия", "ar": "خصر", "zh": "腰"}
+        {"tr": "Deri", "en": "Leather", "es": "Cuero", "fr": "Cuir", "de": "Leder", "it": "Pelle", "pt": "Couro", "ru": "Кожа", "ar": "جلد", "zh": "皮革"}
       ]
     },
     {
-      "word": {"tr": "Bot", "en": "Boots", "es": "Botas", "fr": "Bottes", "de": "Stiefel", "it": "Stivali", "pt": "Botas", "ru": "Сапоги", "ar": "جزمة", "zh": "靴子"},
+      "word": {"tr": "Yağmur botu", "en": "Rain boots", "es": "Botas de lluvia", "fr": "Bottes de pluie", "de": "Gummistiefel", "it": "Stivali di gomma", "pt": "Galocha", "ru": "Резиновые сапоги", "ar": "جزمة مطر", "zh": "雨靴"},
       "clues": [
-        {"tr": "Çamur", "en": "Mud", "es": "Barro", "fr": "Boue", "de": "Schlamm", "it": "Fango", "pt": "Lama", "ru": "Грязь", "ar": "طين", "zh": "泥"},
-        {"tr": "Kar", "en": "Snow", "es": "Nieve", "fr": "Neige", "de": "Schnee", "it": "Neve", "pt": "Neve", "ru": "Снег", "ar": "ثلج", "zh": "雪"}
+        {"tr": "Su birikintisi", "en": "Puddles", "es": "Charcos", "fr": "Flaques", "de": "Pfützen", "it": "Pozzanghere", "pt": "Poças", "ru": "Лужи", "ar": "برك ماء", "zh": "水坑"},
+        {"tr": "Çamur", "en": "Mud", "es": "Barro", "fr": "Boue", "de": "Schlamm", "it": "Fango", "pt": "Lama", "ru": "Грязь", "ar": "طين", "zh": "泥巴"}
       ]
     },
     {
       "word": {"tr": "Terlik", "en": "Slippers", "es": "Zapatillas", "fr": "Pantoufles", "de": "Hausschuhe", "it": "Pantofole", "pt": "Chinelos", "ru": "Тапочки", "ar": "شبشب", "zh": "拖鞋"},
       "clues": [
-        {"tr": "Ev", "en": "Home", "es": "Casa", "fr": "Maison", "de": "Zuhause", "it": "Casa", "pt": "Casa", "ru": "Дом", "ar": "بيت", "zh": "家"},
-        {"tr": "Anne", "en": "Mom", "es": "Mamá", "fr": "Maman", "de": "Mama", "it": "Mamma", "pt": "Mãe", "ru": "Мама", "ar": "أم", "zh": "妈妈"}
+        {"tr": "Anne", "en": "Mom", "es": "Mamá", "fr": "Maman", "de": "Mama", "it": "Mamma", "pt": "Mãe", "ru": "Мама", "ar": "أم", "zh": "妈妈"},
+        {"tr": "Ev", "en": "Home", "es": "Casa", "fr": "Maison", "de": "Zuhause", "it": "Casa", "pt": "Casa", "ru": "Дом", "ar": "بيت", "zh": "家"}
       ]
     },
     {
-      "word": {"tr": "Kazak", "en": "Sweater", "es": "Jersey", "fr": "Pull", "de": "Pullover", "it": "Maglione", "pt": "Suéter", "ru": "Свитер", "ar": "كنزة", "zh": "毛衣"},
+      "word": {"tr": "Balıkçı yaka kazak", "en": "Turtleneck", "es": "Jersey de cuello alto", "fr": "Col roulé", "de": "Rollkragenpullover", "it": "Dolcevita", "pt": "Gola alta", "ru": "Водолазка", "ar": "كنزة برقبة عالية", "zh": "高领毛衣"},
       "clues": [
-        {"tr": "Yün", "en": "Wool", "es": "Lana", "fr": "Laine", "de": "Wolle", "it": "Lana", "pt": "Lã", "ru": "Шерсть", "ar": "صوف", "zh": "羊毛"},
-        {"tr": "Kaşınmak", "en": "Itchy", "es": "Picar", "fr": "Gratter", "de": "Kratzen", "it": "Pizzicare", "pt": "Coçar", "ru": "Колючий", "ar": "حكة", "zh": "发痒"}
+        {"tr": "Kış", "en": "Winter", "es": "Invierno", "fr": "Hiver", "de": "Winter", "it": "Inverno", "pt": "Inverno", "ru": "Зима", "ar": "شتاء", "zh": "冬天"},
+        {"tr": "Kaşıntı", "en": "Itchy", "es": "Picor", "fr": "Ça gratte", "de": "Kratzig", "it": "Prurito", "pt": "Coceira", "ru": "Колючий", "ar": "حكة", "zh": "发痒"}
       ]
     },
     {
-      "word": {"tr": "Etek", "en": "Skirt", "es": "Falda", "fr": "Jupe", "de": "Rock", "it": "Gonna", "pt": "Saia", "ru": "Юбка", "ar": "تنورة", "zh": "裙子"},
+      "word": {"tr": "Pileli etek", "en": "Pleated skirt", "es": "Falda plisada", "fr": "Jupe plissée", "de": "Faltenrock", "it": "Gonna a pieghe", "pt": "Saia plissada", "ru": "Плиссированная юбка", "ar": "تنورة بكسرات", "zh": "百褶裙"},
       "clues": [
-        {"tr": "Pileli", "en": "Pleated", "es": "Plisada", "fr": "Plissée", "de": "Plissiert", "it": "Plissettata", "pt": "Plissada", "ru": "Плиссированный", "ar": "بثنيات", "zh": "百褶"},
-        {"tr": "Diz", "en": "Knee", "es": "Rodilla", "fr": "Genou", "de": "Knie", "it": "Ginocchio", "pt": "Joelho", "ru": "Колено", "ar": "ركبة", "zh": "膝盖"}
+        {"tr": "Okul", "en": "School", "es": "Colegio", "fr": "École", "de": "Schule", "it": "Scuola", "pt": "Escola", "ru": "Школа", "ar": "مدرسة", "zh": "学校"},
+        {"tr": "Ütü", "en": "Ironing", "es": "Plancha", "fr": "Repassage", "de": "Bügeln", "it": "Stiro", "pt": "Passar roupa", "ru": "Глажка", "ar": "كي", "zh": "熨烫"}
       ]
     },
     {
       "word": {"tr": "Bere", "en": "Beanie", "es": "Gorro", "fr": "Bonnet", "de": "Mütze", "it": "Berretto", "pt": "Gorro", "ru": "Шапка", "ar": "قبعة صوف", "zh": "毛线帽"},
       "clues": [
         {"tr": "Ponpon", "en": "Pompom", "es": "Pompón", "fr": "Pompon", "de": "Bommel", "it": "Pompon", "pt": "Pompom", "ru": "Помпон", "ar": "كرة صوف", "zh": "绒球"},
-        {"tr": "Kulaklar", "en": "Ears", "es": "Orejas", "fr": "Oreilles", "de": "Ohren", "it": "Orecchie", "pt": "Orelhas", "ru": "Уши", "ar": "آذان", "zh": "耳朵"}
+        {"tr": "Kayak", "en": "Skiing", "es": "Esquí", "fr": "Ski", "de": "Skifahren", "it": "Sci", "pt": "Esqui", "ru": "Лыжи", "ar": "تزلج", "zh": "滑雪"}
       ]
     },
     {
       "word": {"tr": "Papyon", "en": "Bow tie", "es": "Pajarita", "fr": "Nœud papillon", "de": "Fliege", "it": "Papillon", "pt": "Gravata-borboleta", "ru": "Бабочка", "ar": "ربطة فراشة", "zh": "领结"},
       "clues": [
         {"tr": "Smokin", "en": "Tuxedo", "es": "Esmoquin", "fr": "Smoking", "de": "Smoking", "it": "Smoking", "pt": "Smoking", "ru": "Смокинг", "ar": "بدلة سهرة", "zh": "燕尾服"},
-        {"tr": "Şık", "en": "Elegant", "es": "Elegante", "fr": "Élégant", "de": "Elegant", "it": "Elegante", "pt": "Elegante", "ru": "Элегантный", "ar": "أنيق", "zh": "优雅"}
+        {"tr": "Garson", "en": "Waiter", "es": "Camarero", "fr": "Serveur", "de": "Kellner", "it": "Cameriere", "pt": "Garçom", "ru": "Официант", "ar": "نادل", "zh": "服务员"}
       ]
     },
     {
       "word": {"tr": "Küpe", "en": "Earrings", "es": "Pendientes", "fr": "Boucles d'oreilles", "de": "Ohrringe", "it": "Orecchini", "pt": "Brincos", "ru": "Серьги", "ar": "أقراط", "zh": "耳环"},
       "clues": [
-        {"tr": "Delik", "en": "Piercing", "es": "Agujero", "fr": "Trou", "de": "Loch", "it": "Buco", "pt": "Furo", "ru": "Прокол", "ar": "ثقب", "zh": "耳洞"},
-        {"tr": "Sallanmak", "en": "Dangling", "es": "Colgante", "fr": "Pendant", "de": "Baumelnd", "it": "Pendente", "pt": "Pendente", "ru": "Свисающий", "ar": "متدلي", "zh": "晃动"}
+        {"tr": "Sallanmak", "en": "Dangling", "es": "Colgar", "fr": "Pendre", "de": "Baumeln", "it": "Penzolare", "pt": "Balançar", "ru": "Болтаться", "ar": "تتدلى", "zh": "晃动"},
+        {"tr": "Gümüş", "en": "Silver", "es": "Plata", "fr": "Argent", "de": "Silber", "it": "Argento", "pt": "Prata", "ru": "Серебро", "ar": "فضة", "zh": "银"}
       ]
     }
   ]

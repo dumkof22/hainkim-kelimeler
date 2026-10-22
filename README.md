@@ -35,9 +35,14 @@ tools/validate.py     her kayıtta otomatik çalışan denetim
 4. **Actions** sekmesinde yeşil tik görünmeli. Kırmızı çarpı varsa açın;
    mesaj hangi dosyanın hangi satırında sorun olduğunu söyler.
 
-İyi bir ipucu kelimeyle ilgilidir ama onu ele vermez: "Kedi" için "Bıyık"
-iyi, "Miyav" fazla açık, "Hayvan" fazla genel. Her turda ipuçlarından biri
-rastgele seçilir.
+Hain kategoriyi görmez, yalnızca ipucunu görür; hedef dengedir. Kelime ilk
+akla gelen olmasın ("Kedi" değil "Kedi kumu", "Çorba" değil "Mercimek
+çorbası"). İpucu kelimeyi ele vermesin ama hain onu söylediğinde masumlar
+"eh, fena değil" desin: "Kedi kumu" için "Pati" olmaz, "Taneli" iyidir.
+Her turda iki ipucundan biri rastgele seçilir.
+
+`packs/mixed.json` (Karışık) ücretsiz sürümün paketidir: sabit 40 kelime,
+hepsi çizilebilir. Silmeyin ve kelime sayısını değiştirmeyin.
 
 ## Yeni kategori
 

@@ -5,192 +5,185 @@
   "drawable": true,
   "words": [
     {
-      "word": {"tr": "Hastane", "en": "Hospital", "es": "Hospital", "fr": "Hôpital", "de": "Krankenhaus", "it": "Ospedale", "pt": "Hospital", "ru": "Больница", "ar": "مستشفى", "zh": "医院"},
+      "word": {"tr": "Acil servis", "en": "Emergency room", "es": "Urgencias", "fr": "Urgences", "de": "Notaufnahme", "it": "Pronto soccorso", "pt": "Pronto-socorro", "ru": "Приёмное отделение", "ar": "قسم الطوارئ", "zh": "急诊室"},
       "clues": [
-        {"tr": "Ambulans", "en": "Ambulance", "es": "Ambulancia", "fr": "Ambulance", "de": "Krankenwagen", "it": "Ambulanza", "pt": "Ambulância", "ru": "Скорая", "ar": "سيارة إسعاف", "zh": "救护车"},
-        {"tr": "Bekleme", "en": "Waiting", "es": "Espera", "fr": "Attente", "de": "Warten", "it": "Attesa", "pt": "Espera", "ru": "Ожидание", "ar": "انتظار", "zh": "等待"}
+        {"tr": "Telaş", "en": "Hurry", "es": "Prisa", "fr": "Agitation", "de": "Hektik", "it": "Fretta", "pt": "Correria", "ru": "Суета", "ar": "عجلة", "zh": "匆忙"},
+        {"tr": "Beyaz", "en": "White", "es": "Blanco", "fr": "Blanc", "de": "Weiß", "it": "Bianco", "pt": "Branco", "ru": "Белый", "ar": "أبيض", "zh": "白色"}
       ]
     },
     {
-      "word": {"tr": "Okul", "en": "School", "es": "Escuela", "fr": "École", "de": "Schule", "it": "Scuola", "pt": "Escola", "ru": "Школа", "ar": "مدرسة", "zh": "学校"},
+      "word": {"tr": "Duty free", "en": "Duty-free shop", "es": "Duty free", "fr": "Duty free", "de": "Duty-free-Shop", "it": "Duty free", "pt": "Free shop", "ru": "Дьюти-фри", "ar": "السوق الحرة", "zh": "免税店"},
       "clues": [
-        {"tr": "Teneffüs", "en": "Recess", "es": "Recreo", "fr": "Récréation", "de": "Pause", "it": "Ricreazione", "pt": "Recreio", "ru": "Перемена", "ar": "استراحة", "zh": "课间"},
-        {"tr": "Zil", "en": "Bell", "es": "Timbre", "fr": "Sonnerie", "de": "Klingel", "it": "Campanella", "pt": "Sinal", "ru": "Звонок", "ar": "جرس", "zh": "铃声"}
+        {"tr": "Parfüm", "en": "Perfume", "es": "Perfume", "fr": "Parfum", "de": "Parfüm", "it": "Profumo", "pt": "Perfume", "ru": "Духи", "ar": "عطر", "zh": "香水"},
+        {"tr": "Çikolata", "en": "Chocolate", "es": "Chocolate", "fr": "Chocolat", "de": "Schokolade", "it": "Cioccolato", "pt": "Chocolate", "ru": "Шоколад", "ar": "شوكولاتة", "zh": "巧克力"}
       ]
     },
     {
-      "word": {"tr": "Havalimanı", "en": "Airport", "es": "Aeropuerto", "fr": "Aéroport", "de": "Flughafen", "it": "Aeroporto", "pt": "Aeroporto", "ru": "Аэропорт", "ar": "مطار", "zh": "机场"},
+      "word": {"tr": "Açık hava sineması", "en": "Open-air cinema", "es": "Cine al aire libre", "fr": "Cinéma en plein air", "de": "Freiluftkino", "it": "Cinema all'aperto", "pt": "Cinema ao ar livre", "ru": "Летний кинотеатр", "ar": "سينما في الهواء الطلق", "zh": "露天电影院"},
       "clues": [
-        {"tr": "Bavul", "en": "Suitcase", "es": "Maleta", "fr": "Valise", "de": "Koffer", "it": "Valigia", "pt": "Mala", "ru": "Чемодан", "ar": "حقيبة سفر", "zh": "行李箱"},
-        {"tr": "Pasaport", "en": "Passport", "es": "Pasaporte", "fr": "Passeport", "de": "Reisepass", "it": "Passaporto", "pt": "Passaporte", "ru": "Паспорт", "ar": "جواز سفر", "zh": "护照"}
-      ]
-    },
-    {
-      "word": {"tr": "Sinema", "en": "Cinema", "es": "Cine", "fr": "Cinéma", "de": "Kino", "it": "Cinema", "pt": "Cinema", "ru": "Кинотеатр", "ar": "سينما", "zh": "电影院"},
-      "clues": [
-        {"tr": "Perde", "en": "Screen", "es": "Pantalla", "fr": "Écran", "de": "Leinwand", "it": "Schermo", "pt": "Tela", "ru": "Экран", "ar": "شاشة", "zh": "银幕"},
-        {"tr": "Karanlık", "en": "Dark", "es": "Oscuro", "fr": "Sombre", "de": "Dunkel", "it": "Buio", "pt": "Escuro", "ru": "Темно", "ar": "ظلام", "zh": "黑暗"}
+        {"tr": "Sivrisinek", "en": "Mosquito", "es": "Mosquito", "fr": "Moustique", "de": "Mücke", "it": "Zanzara", "pt": "Mosquito", "ru": "Комар", "ar": "بعوض", "zh": "蚊子"},
+        {"tr": "Yıldızlar", "en": "Stars", "es": "Estrellas", "fr": "Étoiles", "de": "Sterne", "it": "Stelle", "pt": "Estrelas", "ru": "Звёзды", "ar": "نجوم", "zh": "星星"}
       ]
     },
     {
       "word": {"tr": "Kütüphane", "en": "Library", "es": "Biblioteca", "fr": "Bibliothèque", "de": "Bibliothek", "it": "Biblioteca", "pt": "Biblioteca", "ru": "Библиотека", "ar": "مكتبة", "zh": "图书馆"},
       "clues": [
-        {"tr": "Kitap", "en": "Books", "es": "Libros", "fr": "Livres", "de": "Bücher", "it": "Libri", "pt": "Livros", "ru": "Книги", "ar": "كتب", "zh": "书"},
-        {"tr": "Sessiz", "en": "Quiet", "es": "Silencioso", "fr": "Calme", "de": "Leise", "it": "Silenzioso", "pt": "Silencioso", "ru": "Тихо", "ar": "هادئ", "zh": "安静"}
+        {"tr": "Raf", "en": "Shelf", "es": "Estante", "fr": "Étagère", "de": "Regal", "it": "Scaffale", "pt": "Prateleira", "ru": "Полка", "ar": "رف", "zh": "架子"},
+        {"tr": "Sınav dönemi", "en": "Exam season", "es": "Época de exámenes", "fr": "Période d'examens", "de": "Prüfungszeit", "it": "Sessione d'esami", "pt": "Época de provas", "ru": "Сессия", "ar": "موسم الامتحانات", "zh": "考试周"}
       ]
     },
     {
-      "word": {"tr": "Plaj", "en": "Beach", "es": "Playa", "fr": "Plage", "de": "Strand", "it": "Spiaggia", "pt": "Praia", "ru": "Пляж", "ar": "شاطئ", "zh": "海滩"},
+      "word": {"tr": "İskele", "en": "Pier", "es": "Muelle", "fr": "Jetée", "de": "Steg", "it": "Molo", "pt": "Píer", "ru": "Пирс", "ar": "رصيف بحري", "zh": "码头"},
       "clues": [
-        {"tr": "Kum", "en": "Sand", "es": "Arena", "fr": "Sable", "de": "Sand", "it": "Sabbia", "pt": "Areia", "ru": "Песок", "ar": "رمل", "zh": "沙子"},
-        {"tr": "Güneş", "en": "Sun", "es": "Sol", "fr": "Soleil", "de": "Sonne", "it": "Sole", "pt": "Sol", "ru": "Солнце", "ar": "شمس", "zh": "太阳"}
+        {"tr": "Martı", "en": "Seagull", "es": "Gaviota", "fr": "Mouette", "de": "Möwe", "it": "Gabbiano", "pt": "Gaivota", "ru": "Чайка", "ar": "نورس", "zh": "海鸥"},
+        {"tr": "Olta", "en": "Fishing rod", "es": "Caña de pescar", "fr": "Canne à pêche", "de": "Angel", "it": "Canna da pesca", "pt": "Vara de pescar", "ru": "Удочка", "ar": "صنارة", "zh": "鱼竿"}
       ]
     },
     {
-      "word": {"tr": "Müze", "en": "Museum", "es": "Museo", "fr": "Musée", "de": "Museum", "it": "Museo", "pt": "Museu", "ru": "Музей", "ar": "متحف", "zh": "博物馆"},
+      "word": {"tr": "Balmumu müzesi", "en": "Wax museum", "es": "Museo de cera", "fr": "Musée de cire", "de": "Wachsfigurenkabinett", "it": "Museo delle cere", "pt": "Museu de cera", "ru": "Музей восковых фигур", "ar": "متحف الشمع", "zh": "蜡像馆"},
       "clues": [
-        {"tr": "Tarih", "en": "History", "es": "Historia", "fr": "Histoire", "de": "Geschichte", "it": "Storia", "pt": "História", "ru": "История", "ar": "تاريخ", "zh": "历史"},
-        {"tr": "Bilet", "en": "Ticket", "es": "Entrada", "fr": "Billet", "de": "Eintrittskarte", "it": "Biglietto", "pt": "Ingresso", "ru": "Билет", "ar": "تذكرة", "zh": "门票"}
+        {"tr": "Ünlüler", "en": "Celebrities", "es": "Famosos", "fr": "Célébrités", "de": "Prominente", "it": "Celebrità", "pt": "Celebridades", "ru": "Знаменитости", "ar": "مشاهير", "zh": "名人"},
+        {"tr": "Hareketsiz", "en": "Motionless", "es": "Inmóvil", "fr": "Immobile", "de": "Regungslos", "it": "Immobile", "pt": "Imóvel", "ru": "Неподвижный", "ar": "ساكن", "zh": "一动不动"}
       ]
     },
     {
-      "word": {"tr": "Market", "en": "Supermarket", "es": "Supermercado", "fr": "Supermarché", "de": "Supermarkt", "it": "Supermercato", "pt": "Supermercado", "ru": "Супермаркет", "ar": "سوبرماركت", "zh": "超市"},
+      "word": {"tr": "Pazar yeri", "en": "Street market", "es": "Mercadillo", "fr": "Marché", "de": "Wochenmarkt", "it": "Mercato rionale", "pt": "Feira livre", "ru": "Рынок", "ar": "سوق شعبي", "zh": "集市"},
       "clues": [
-        {"tr": "Sepet", "en": "Basket", "es": "Cesta", "fr": "Panier", "de": "Korb", "it": "Cestino", "pt": "Cesta", "ru": "Корзина", "ar": "سلة", "zh": "购物篮"},
-        {"tr": "Kasa", "en": "Checkout", "es": "Caja", "fr": "Caisse", "de": "Kasse", "it": "Cassa", "pt": "Caixa", "ru": "Касса", "ar": "صندوق الدفع", "zh": "收银台"}
+        {"tr": "Poşet", "en": "Bags", "es": "Bolsas", "fr": "Sacs", "de": "Tüten", "it": "Sacchetti", "pt": "Sacolas", "ru": "Пакеты", "ar": "أكياس", "zh": "袋子"},
+        {"tr": "Kalabalık", "en": "Crowd", "es": "Multitud", "fr": "Foule", "de": "Gedränge", "it": "Folla", "pt": "Multidão", "ru": "Толпа", "ar": "زحام", "zh": "人群"}
       ]
     },
     {
-      "word": {"tr": "Hayvanat bahçesi", "en": "Zoo", "es": "Zoológico", "fr": "Zoo", "de": "Zoo", "it": "Zoo", "pt": "Zoológico", "ru": "Зоопарк", "ar": "حديقة حيوانات", "zh": "动物园"},
+      "word": {"tr": "Pastane", "en": "Patisserie", "es": "Pastelería", "fr": "Pâtisserie", "de": "Konditorei", "it": "Pasticceria", "pt": "Confeitaria", "ru": "Кондитерская", "ar": "محل حلويات", "zh": "蛋糕店"},
       "clues": [
-        {"tr": "Kafes", "en": "Cage", "es": "Jaula", "fr": "Cage", "de": "Käfig", "it": "Gabbia", "pt": "Jaula", "ru": "Клетка", "ar": "قفص", "zh": "笼子"},
-        {"tr": "Ziyaretçi", "en": "Visitors", "es": "Visitantes", "fr": "Visiteurs", "de": "Besucher", "it": "Visitatori", "pt": "Visitantes", "ru": "Посетители", "ar": "زوار", "zh": "游客"}
-      ]
-    },
-    {
-      "word": {"tr": "Restoran", "en": "Restaurant", "es": "Restaurante", "fr": "Restaurant", "de": "Restaurant", "it": "Ristorante", "pt": "Restaurante", "ru": "Ресторан", "ar": "مطعم", "zh": "餐厅"},
-      "clues": [
-        {"tr": "Menü", "en": "Menu", "es": "Menú", "fr": "Menu", "de": "Speisekarte", "it": "Menù", "pt": "Cardápio", "ru": "Меню", "ar": "قائمة طعام", "zh": "菜单"},
-        {"tr": "Rezervasyon", "en": "Reservation", "es": "Reserva", "fr": "Réservation", "de": "Reservierung", "it": "Prenotazione", "pt": "Reserva", "ru": "Бронь", "ar": "حجز", "zh": "预订"}
+        {"tr": "Vitrin", "en": "Display window", "es": "Vitrina", "fr": "Vitrine", "de": "Schaufenster", "it": "Vetrina", "pt": "Vitrine", "ru": "Витрина", "ar": "واجهة العرض", "zh": "橱窗"},
+        {"tr": "Doğum günü", "en": "Birthday", "es": "Cumpleaños", "fr": "Anniversaire", "de": "Geburtstag", "it": "Compleanno", "pt": "Aniversário", "ru": "День рождения", "ar": "عيد ميلاد", "zh": "生日"}
       ]
     },
     {
       "word": {"tr": "Spor salonu", "en": "Gym", "es": "Gimnasio", "fr": "Salle de sport", "de": "Fitnessstudio", "it": "Palestra", "pt": "Academia", "ru": "Спортзал", "ar": "صالة رياضية", "zh": "健身房"},
       "clues": [
-        {"tr": "Ter", "en": "Sweat", "es": "Sudor", "fr": "Sueur", "de": "Schweiß", "it": "Sudore", "pt": "Suor", "ru": "Пот", "ar": "عرق", "zh": "汗水"},
-        {"tr": "Ağırlık", "en": "Weights", "es": "Pesas", "fr": "Haltères", "de": "Gewichte", "it": "Pesi", "pt": "Pesos", "ru": "Гантели", "ar": "أثقال", "zh": "哑铃"}
-      ]
-    },
-    {
-      "word": {"tr": "Lunapark", "en": "Amusement park", "es": "Parque de atracciones", "fr": "Parc d'attractions", "de": "Freizeitpark", "it": "Luna park", "pt": "Parque de diversões", "ru": "Парк аттракционов", "ar": "مدينة ملاهي", "zh": "游乐园"},
-      "clues": [
-        {"tr": "Dönme dolap", "en": "Ferris wheel", "es": "Noria", "fr": "Grande roue", "de": "Riesenrad", "it": "Ruota panoramica", "pt": "Roda-gigante", "ru": "Колесо обозрения", "ar": "عجلة دوارة", "zh": "摩天轮"},
-        {"tr": "Çığlık", "en": "Scream", "es": "Grito", "fr": "Cri", "de": "Schrei", "it": "Urlo", "pt": "Grito", "ru": "Крик", "ar": "صراخ", "zh": "尖叫"}
-      ]
-    },
-    {
-      "word": {"tr": "Kuaför", "en": "Hair salon", "es": "Peluquería", "fr": "Salon de coiffure", "de": "Friseursalon", "it": "Parrucchiere", "pt": "Salão de beleza", "ru": "Салон красоты", "ar": "صالون تجميل", "zh": "美发店"},
-      "clues": [
         {"tr": "Ayna", "en": "Mirror", "es": "Espejo", "fr": "Miroir", "de": "Spiegel", "it": "Specchio", "pt": "Espelho", "ru": "Зеркало", "ar": "مرآة", "zh": "镜子"},
-        {"tr": "Fön", "en": "Blow-dry", "es": "Secador", "fr": "Brushing", "de": "Föhnen", "it": "Piega", "pt": "Escova", "ru": "Укладка", "ar": "سشوار", "zh": "吹发"}
+        {"tr": "Yeni yıl kararı", "en": "New Year's resolution", "es": "Propósito de Año Nuevo", "fr": "Bonne résolution", "de": "Neujahrsvorsatz", "it": "Buoni propositi", "pt": "Resolução de Ano-Novo", "ru": "Новогоднее обещание", "ar": "قرار السنة الجديدة", "zh": "新年计划"}
+      ]
+    },
+    {
+      "word": {"tr": "Lunapark", "en": "Amusement park", "es": "Parque de atracciones", "fr": "Fête foraine", "de": "Freizeitpark", "it": "Luna park", "pt": "Parque de diversões", "ru": "Парк аттракционов", "ar": "مدينة ملاهي", "zh": "游乐园"},
+      "clues": [
+        {"tr": "Çığlık", "en": "Screams", "es": "Gritos", "fr": "Cris", "de": "Schreie", "it": "Urla", "pt": "Gritos", "ru": "Визг", "ar": "صراخ", "zh": "尖叫"},
+        {"tr": "Jeton", "en": "Token", "es": "Ficha", "fr": "Jeton", "de": "Chip", "it": "Gettone", "pt": "Ficha", "ru": "Жетон", "ar": "فيشة", "zh": "代币"}
+      ]
+    },
+    {
+      "word": {"tr": "Kuaför", "en": "Hair salon", "es": "Peluquería", "fr": "Salon de coiffure", "de": "Friseursalon", "it": "Parrucchiere", "pt": "Salão de beleza", "ru": "Парикмахерская", "ar": "صالون تجميل", "zh": "美发店"},
+      "clues": [
+        {"tr": "Dedikodu", "en": "Gossip", "es": "Chisme", "fr": "Commérages", "de": "Klatsch", "it": "Pettegolezzi", "pt": "Fofoca", "ru": "Сплетни", "ar": "نميمة", "zh": "八卦"},
+        {"tr": "Dergi", "en": "Magazines", "es": "Revistas", "fr": "Magazines", "de": "Zeitschriften", "it": "Riviste", "pt": "Revistas", "ru": "Журналы", "ar": "مجلات", "zh": "杂志"}
       ]
     },
     {
       "word": {"tr": "Banka", "en": "Bank", "es": "Banco", "fr": "Banque", "de": "Bank", "it": "Banca", "pt": "Banco", "ru": "Банк", "ar": "بنك", "zh": "银行"},
       "clues": [
-        {"tr": "Para", "en": "Money", "es": "Dinero", "fr": "Argent", "de": "Geld", "it": "Soldi", "pt": "Dinheiro", "ru": "Деньги", "ar": "مال", "zh": "钱"},
-        {"tr": "Sıra", "en": "Queue", "es": "Cola", "fr": "File d'attente", "de": "Schlange", "it": "Fila", "pt": "Fila", "ru": "Очередь", "ar": "طابور", "zh": "排队"}
+        {"tr": "Sıra", "en": "Queue", "es": "Fila", "fr": "File d'attente", "de": "Warteschlange", "it": "Coda", "pt": "Fila", "ru": "Очередь", "ar": "طابور", "zh": "排队"},
+        {"tr": "Kamera", "en": "Camera", "es": "Cámara", "fr": "Caméra", "de": "Kamera", "it": "Telecamera", "pt": "Câmera", "ru": "Камера", "ar": "كاميرا", "zh": "摄像头"}
       ]
     },
     {
       "word": {"tr": "Stadyum", "en": "Stadium", "es": "Estadio", "fr": "Stade", "de": "Stadion", "it": "Stadio", "pt": "Estádio", "ru": "Стадион", "ar": "ملعب", "zh": "体育场"},
       "clues": [
-        {"tr": "Tribün", "en": "Stands", "es": "Gradas", "fr": "Tribunes", "de": "Tribüne", "it": "Tribuna", "pt": "Arquibancada", "ru": "Трибуны", "ar": "مدرجات", "zh": "看台"},
-        {"tr": "Maç", "en": "Match", "es": "Partido", "fr": "Match", "de": "Spiel", "it": "Partita", "pt": "Partida", "ru": "Матч", "ar": "مباراة", "zh": "比赛"}
+        {"tr": "Dalga", "en": "Wave", "es": "Ola", "fr": "Ola", "de": "Welle", "it": "Ola", "pt": "Ola", "ru": "Волна", "ar": "موجة", "zh": "波浪"},
+        {"tr": "Çimen", "en": "Grass", "es": "Césped", "fr": "Pelouse", "de": "Rasen", "it": "Erba", "pt": "Grama", "ru": "Газон", "ar": "عشب", "zh": "草坪"}
       ]
     },
     {
       "word": {"tr": "Otel", "en": "Hotel", "es": "Hotel", "fr": "Hôtel", "de": "Hotel", "it": "Albergo", "pt": "Hotel", "ru": "Отель", "ar": "فندق", "zh": "酒店"},
       "clues": [
-        {"tr": "Anahtar", "en": "Key", "es": "Llave", "fr": "Clé", "de": "Schlüssel", "it": "Chiave", "pt": "Chave", "ru": "Ключ", "ar": "مفتاح", "zh": "钥匙"},
-        {"tr": "Resepsiyon", "en": "Reception", "es": "Recepción", "fr": "Réception", "de": "Rezeption", "it": "Reception", "pt": "Recepção", "ru": "Ресепшен", "ar": "استقبال", "zh": "前台"}
+        {"tr": "Havlu", "en": "Towels", "es": "Toallas", "fr": "Serviettes", "de": "Handtücher", "it": "Asciugamani", "pt": "Toalhas", "ru": "Полотенца", "ar": "مناشف", "zh": "毛巾"},
+        {"tr": "Kart", "en": "Key card", "es": "Tarjeta", "fr": "Carte", "de": "Karte", "it": "Tessera", "pt": "Cartão", "ru": "Карта", "ar": "بطاقة", "zh": "卡片"}
       ]
     },
     {
-      "word": {"tr": "Kamp alanı", "en": "Campsite", "es": "Camping", "fr": "Camping", "de": "Campingplatz", "it": "Campeggio", "pt": "Acampamento", "ru": "Кемпинг", "ar": "مخيم", "zh": "营地"},
+      "word": {"tr": "Kamp alanı", "en": "Campsite", "es": "Camping", "fr": "Camping", "de": "Campingplatz", "it": "Campeggio", "pt": "Área de camping", "ru": "Кемпинг", "ar": "موقع تخييم", "zh": "露营地"},
       "clues": [
-        {"tr": "Çadır", "en": "Tent", "es": "Tienda de campaña", "fr": "Tente", "de": "Zelt", "it": "Tenda", "pt": "Barraca", "ru": "Палатка", "ar": "خيمة", "zh": "帐篷"},
-        {"tr": "Ateş", "en": "Fire", "es": "Fuego", "fr": "Feu", "de": "Feuer", "it": "Fuoco", "pt": "Fogo", "ru": "Костёр", "ar": "نار", "zh": "篝火"}
+        {"tr": "Odun", "en": "Firewood", "es": "Leña", "fr": "Bois", "de": "Brennholz", "it": "Legna", "pt": "Lenha", "ru": "Дрова", "ar": "حطب", "zh": "木柴"},
+        {"tr": "Gitar", "en": "Guitar", "es": "Guitarra", "fr": "Guitare", "de": "Gitarre", "it": "Chitarra", "pt": "Violão", "ru": "Гитара", "ar": "غيتار", "zh": "吉他"}
       ]
     },
     {
       "word": {"tr": "Hapishane", "en": "Prison", "es": "Cárcel", "fr": "Prison", "de": "Gefängnis", "it": "Prigione", "pt": "Prisão", "ru": "Тюрьма", "ar": "سجن", "zh": "监狱"},
       "clues": [
-        {"tr": "Parmaklık", "en": "Bars", "es": "Barrotes", "fr": "Barreaux", "de": "Gitter", "it": "Sbarre", "pt": "Grades", "ru": "Решётка", "ar": "قضبان", "zh": "铁栏"},
-        {"tr": "Firar", "en": "Escape", "es": "Fuga", "fr": "Évasion", "de": "Flucht", "it": "Evasione", "pt": "Fuga", "ru": "Побег", "ar": "هروب", "zh": "越狱"}
+        {"tr": "Turuncu", "en": "Orange", "es": "Naranja", "fr": "Orange", "de": "Orange", "it": "Arancione", "pt": "Laranja", "ru": "Оранжевый", "ar": "برتقالي", "zh": "橙色"},
+        {"tr": "Ziyaret", "en": "Visits", "es": "Visitas", "fr": "Visites", "de": "Besuch", "it": "Visite", "pt": "Visitas", "ru": "Свидание", "ar": "زيارة", "zh": "探视"}
       ]
     },
     {
       "word": {"tr": "Eczane", "en": "Pharmacy", "es": "Farmacia", "fr": "Pharmacie", "de": "Apotheke", "it": "Farmacia", "pt": "Farmácia", "ru": "Аптека", "ar": "صيدلية", "zh": "药店"},
       "clues": [
-        {"tr": "İlaç", "en": "Medicine", "es": "Medicina", "fr": "Médicament", "de": "Medikament", "it": "Medicina", "pt": "Remédio", "ru": "Лекарство", "ar": "دواء", "zh": "药"},
-        {"tr": "Reçete", "en": "Prescription", "es": "Receta", "fr": "Ordonnance", "de": "Rezept", "it": "Ricetta", "pt": "Receita", "ru": "Рецепт", "ar": "وصفة طبية", "zh": "处方"}
+        {"tr": "Vitamin", "en": "Vitamins", "es": "Vitaminas", "fr": "Vitamines", "de": "Vitamine", "it": "Vitamine", "pt": "Vitaminas", "ru": "Витамины", "ar": "فيتامينات", "zh": "维生素"},
+        {"tr": "Nöbet", "en": "On duty", "es": "De guardia", "fr": "De garde", "de": "Notdienst", "it": "Di turno", "pt": "Plantão", "ru": "Дежурство", "ar": "مناوبة", "zh": "值班"}
       ]
     },
     {
       "word": {"tr": "Çiftlik", "en": "Farm", "es": "Granja", "fr": "Ferme", "de": "Bauernhof", "it": "Fattoria", "pt": "Fazenda", "ru": "Ферма", "ar": "مزرعة", "zh": "农场"},
       "clues": [
-        {"tr": "Ahır", "en": "Barn", "es": "Granero", "fr": "Grange", "de": "Scheune", "it": "Fienile", "pt": "Celeiro", "ru": "Амбар", "ar": "حظيرة", "zh": "谷仓"},
-        {"tr": "Sabah erken", "en": "Early morning", "es": "Madrugada", "fr": "Petit matin", "de": "Frühmorgens", "it": "Mattina presto", "pt": "Madrugada", "ru": "Раннее утро", "ar": "الصباح الباكر", "zh": "清晨"}
+        {"tr": "Sabah erken", "en": "Early morning", "es": "Madrugada", "fr": "Aube", "de": "Frühmorgens", "it": "All'alba", "pt": "Madrugada", "ru": "Рано утром", "ar": "الصباح الباكر", "zh": "清晨"},
+        {"tr": "Çamur", "en": "Mud", "es": "Barro", "fr": "Boue", "de": "Schlamm", "it": "Fango", "pt": "Lama", "ru": "Грязь", "ar": "طين", "zh": "泥巴"}
       ]
     },
     {
-      "word": {"tr": "Kale", "en": "Castle", "es": "Castillo", "fr": "Château", "de": "Burg", "it": "Castello", "pt": "Castelo", "ru": "Замок", "ar": "قلعة", "zh": "城堡"},
+      "word": {"tr": "Kale", "en": "Castle", "es": "Castillo", "fr": "Château fort", "de": "Burg", "it": "Castello", "pt": "Castelo", "ru": "Замок", "ar": "قلعة", "zh": "城堡"},
       "clues": [
-        {"tr": "Şövalye", "en": "Knight", "es": "Caballero", "fr": "Chevalier", "de": "Ritter", "it": "Cavaliere", "pt": "Cavaleiro", "ru": "Рыцарь", "ar": "فارس", "zh": "骑士"},
-        {"tr": "Hendek", "en": "Moat", "es": "Foso", "fr": "Douves", "de": "Burggraben", "it": "Fossato", "pt": "Fosso", "ru": "Ров", "ar": "خندق", "zh": "护城河"}
+        {"tr": "Taş", "en": "Stone", "es": "Piedra", "fr": "Pierre", "de": "Stein", "it": "Pietra", "pt": "Pedra", "ru": "Камень", "ar": "حجر", "zh": "石头"},
+        {"tr": "Kule", "en": "Tower", "es": "Torre", "fr": "Tour", "de": "Turm", "it": "Torre", "pt": "Torre", "ru": "Башня", "ar": "برج", "zh": "塔楼"}
       ]
     },
     {
       "word": {"tr": "Uzay istasyonu", "en": "Space station", "es": "Estación espacial", "fr": "Station spatiale", "de": "Raumstation", "it": "Stazione spaziale", "pt": "Estação espacial", "ru": "Космическая станция", "ar": "محطة فضائية", "zh": "空间站"},
       "clues": [
-        {"tr": "Yörünge", "en": "Orbit", "es": "Órbita", "fr": "Orbite", "de": "Umlaufbahn", "it": "Orbita", "pt": "Órbita", "ru": "Орбита", "ar": "مدار", "zh": "轨道"},
-        {"tr": "Yerçekimsiz", "en": "Zero gravity", "es": "Ingravidez", "fr": "Apesanteur", "de": "Schwerelosigkeit", "it": "Gravità zero", "pt": "Gravidade zero", "ru": "Невесомость", "ar": "انعدام الجاذبية", "zh": "失重"}
+        {"tr": "Süzülmek", "en": "Floating", "es": "Flotar", "fr": "Flotter", "de": "Schweben", "it": "Fluttuare", "pt": "Flutuar", "ru": "Парить", "ar": "طفو", "zh": "漂浮"},
+        {"tr": "Pencere", "en": "Porthole", "es": "Ventanilla", "fr": "Hublot", "de": "Fenster", "it": "Oblò", "pt": "Janela", "ru": "Иллюминатор", "ar": "نافذة", "zh": "舷窗"}
       ]
     },
     {
-      "word": {"tr": "Akvaryum", "en": "Aquarium", "es": "Acuario", "fr": "Aquarium", "de": "Aquarium", "it": "Acquario", "pt": "Aquário", "ru": "Аквариум", "ar": "حوض أسماك", "zh": "水族馆"},
+      "word": {"tr": "Akvaryum", "en": "Aquarium", "es": "Acuario", "fr": "Aquarium", "de": "Aquarium", "it": "Acquario", "pt": "Aquário", "ru": "Океанариум", "ar": "حوض أسماك", "zh": "水族馆"},
       "clues": [
-        {"tr": "Cam", "en": "Glass", "es": "Cristal", "fr": "Verre", "de": "Glas", "it": "Vetro", "pt": "Vidro", "ru": "Стекло", "ar": "زجاج", "zh": "玻璃"},
-        {"tr": "Balık", "en": "Fish", "es": "Peces", "fr": "Poissons", "de": "Fische", "it": "Pesci", "pt": "Peixes", "ru": "Рыбы", "ar": "أسماك", "zh": "鱼"}
-      ]
-    },
-    {
-      "word": {"tr": "Fırın", "en": "Bakery", "es": "Panadería", "fr": "Boulangerie", "de": "Bäckerei", "it": "Panetteria", "pt": "Padaria", "ru": "Пекарня", "ar": "مخبز", "zh": "面包店"},
-      "clues": [
-        {"tr": "Ekmek", "en": "Bread", "es": "Pan", "fr": "Pain", "de": "Brot", "it": "Pane", "pt": "Pão", "ru": "Хлеб", "ar": "خبز", "zh": "面包"},
-        {"tr": "Sabah", "en": "Morning", "es": "Mañana", "fr": "Matin", "de": "Morgen", "it": "Mattina", "pt": "Manhã", "ru": "Утро", "ar": "صباح", "zh": "早晨"}
+        {"tr": "Mavi", "en": "Blue", "es": "Azul", "fr": "Bleu", "de": "Blau", "it": "Blu", "pt": "Azul", "ru": "Синий", "ar": "أزرق", "zh": "蓝色"},
+        {"tr": "Tünel", "en": "Tunnel", "es": "Túnel", "fr": "Tunnel", "de": "Tunnel", "it": "Tunnel", "pt": "Túnel", "ru": "Тоннель", "ar": "نفق", "zh": "隧道"}
       ]
     },
     {
       "word": {"tr": "Tren istasyonu", "en": "Train station", "es": "Estación de tren", "fr": "Gare", "de": "Bahnhof", "it": "Stazione", "pt": "Estação de trem", "ru": "Вокзал", "ar": "محطة قطار", "zh": "火车站"},
       "clues": [
-        {"tr": "Peron", "en": "Platform", "es": "Andén", "fr": "Quai", "de": "Bahnsteig", "it": "Binario", "pt": "Plataforma", "ru": "Перрон", "ar": "رصيف", "zh": "站台"},
-        {"tr": "Gecikme", "en": "Delay", "es": "Retraso", "fr": "Retard", "de": "Verspätung", "it": "Ritardo", "pt": "Atraso", "ru": "Опоздание", "ar": "تأخير", "zh": "晚点"}
+        {"tr": "Gecikme", "en": "Delay", "es": "Retraso", "fr": "Retard", "de": "Verspätung", "it": "Ritardo", "pt": "Atraso", "ru": "Опоздание", "ar": "تأخير", "zh": "延误"},
+        {"tr": "Büyük saat", "en": "Big clock", "es": "Reloj grande", "fr": "Grande horloge", "de": "Große Uhr", "it": "Grande orologio", "pt": "Relógio grande", "ru": "Большие часы", "ar": "ساعة كبيرة", "zh": "大钟"}
       ]
     },
     {
-      "word": {"tr": "Mağara", "en": "Cave", "es": "Cueva", "fr": "Grotte", "de": "Höhle", "it": "Grotta", "pt": "Caverna", "ru": "Пещера", "ar": "كهف", "zh": "山洞"},
+      "word": {"tr": "Mağara", "en": "Cave", "es": "Cueva", "fr": "Grotte", "de": "Höhle", "it": "Grotta", "pt": "Caverna", "ru": "Пещера", "ar": "كهف", "zh": "洞穴"},
       "clues": [
-        {"tr": "Yarasa", "en": "Bats", "es": "Murciélagos", "fr": "Chauves-souris", "de": "Fledermäuse", "it": "Pipistrelli", "pt": "Morcegos", "ru": "Летучие мыши", "ar": "خفافيش", "zh": "蝙蝠"},
-        {"tr": "Yankı", "en": "Echo", "es": "Eco", "fr": "Écho", "de": "Echo", "it": "Eco", "pt": "Eco", "ru": "Эхо", "ar": "صدى", "zh": "回声"}
+        {"tr": "Yankı", "en": "Echo", "es": "Eco", "fr": "Écho", "de": "Echo", "it": "Eco", "pt": "Eco", "ru": "Эхо", "ar": "صدى", "zh": "回声"},
+        {"tr": "Damla", "en": "Dripping", "es": "Goteo", "fr": "Gouttes", "de": "Tropfen", "it": "Gocce", "pt": "Gotas", "ru": "Капли", "ar": "قطرات", "zh": "滴水"}
       ]
     },
     {
       "word": {"tr": "Saray", "en": "Palace", "es": "Palacio", "fr": "Palais", "de": "Palast", "it": "Palazzo", "pt": "Palácio", "ru": "Дворец", "ar": "قصر", "zh": "宫殿"},
       "clues": [
-        {"tr": "Taht", "en": "Throne", "es": "Trono", "fr": "Trône", "de": "Thron", "it": "Trono", "pt": "Trono", "ru": "Трон", "ar": "عرش", "zh": "王座"},
-        {"tr": "Kraliçe", "en": "Queen", "es": "Reina", "fr": "Reine", "de": "Königin", "it": "Regina", "pt": "Rainha", "ru": "Королева", "ar": "ملكة", "zh": "女王"}
+        {"tr": "Avize", "en": "Chandelier", "es": "Candelabro", "fr": "Lustre", "de": "Kronleuchter", "it": "Lampadario", "pt": "Lustre", "ru": "Люстра", "ar": "ثريا", "zh": "吊灯"},
+        {"tr": "Muhafız", "en": "Guards", "es": "Guardias", "fr": "Gardes", "de": "Wachen", "it": "Guardie", "pt": "Guardas", "ru": "Стража", "ar": "حراس", "zh": "卫兵"}
+      ]
+    },
+    {
+      "word": {"tr": "Düğün salonu", "en": "Wedding hall", "es": "Salón de bodas", "fr": "Salle des fêtes", "de": "Hochzeitssaal", "it": "Sala ricevimenti", "pt": "Salão de festas", "ru": "Банкетный зал", "ar": "قاعة أفراح", "zh": "婚礼礼堂"},
+      "clues": [
+        {"tr": "Dans", "en": "Dancing", "es": "Baile", "fr": "Danse", "de": "Tanz", "it": "Ballo", "pt": "Dança", "ru": "Танцы", "ar": "رقص", "zh": "跳舞"},
+        {"tr": "Takım elbise", "en": "Suit", "es": "Traje", "fr": "Costume", "de": "Anzug", "it": "Abito", "pt": "Terno", "ru": "Костюм", "ar": "بدلة", "zh": "西装"}
+      ]
+    },
+    {
+      "word": {"tr": "Otopark", "en": "Parking garage", "es": "Estacionamiento", "fr": "Parking", "de": "Parkhaus", "it": "Parcheggio", "pt": "Estacionamento", "ru": "Парковка", "ar": "موقف سيارات", "zh": "停车场"},
+      "clues": [
+        {"tr": "Beton", "en": "Concrete", "es": "Cemento", "fr": "Béton", "de": "Beton", "it": "Cemento", "pt": "Concreto", "ru": "Бетон", "ar": "خرسانة", "zh": "混凝土"},
+        {"tr": "Bilet", "en": "Ticket", "es": "Ticket", "fr": "Ticket", "de": "Ticket", "it": "Biglietto", "pt": "Tíquete", "ru": "Талон", "ar": "تذكرة", "zh": "票据"}
       ]
     }
   ]

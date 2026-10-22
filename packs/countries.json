@@ -5,157 +5,150 @@
   "drawable": false,
   "words": [
     {
-      "word": {"tr": "Türkiye", "en": "Türkiye", "es": "Turquía", "fr": "Turquie", "de": "Türkei", "it": "Turchia", "pt": "Turquia", "ru": "Турция", "ar": "تركيا", "zh": "土耳其"},
-      "clues": [
-        {"tr": "Çay", "en": "Tea", "es": "Té", "fr": "Thé", "de": "Tee", "it": "Tè", "pt": "Chá", "ru": "Чай", "ar": "شاي", "zh": "茶"},
-        {"tr": "Boğaz", "en": "Strait", "es": "Estrecho", "fr": "Détroit", "de": "Meerenge", "it": "Stretto", "pt": "Estreito", "ru": "Пролив", "ar": "مضيق", "zh": "海峡"}
-      ]
-    },
-    {
       "word": {"tr": "İtalya", "en": "Italy", "es": "Italia", "fr": "Italie", "de": "Italien", "it": "Italia", "pt": "Itália", "ru": "Италия", "ar": "إيطاليا", "zh": "意大利"},
       "clues": [
-        {"tr": "Çizme", "en": "Boot", "es": "Bota", "fr": "Botte", "de": "Stiefel", "it": "Stivale", "pt": "Bota", "ru": "Сапог", "ar": "حذاء طويل", "zh": "靴子"},
+        {"tr": "El hareketi", "en": "Hand gestures", "es": "Gestos con las manos", "fr": "Gestes des mains", "de": "Handgesten", "it": "Gesti con le mani", "pt": "Gestos com as mãos", "ru": "Жестикуляция", "ar": "إشارات اليد", "zh": "手势"},
         {"tr": "Opera", "en": "Opera", "es": "Ópera", "fr": "Opéra", "de": "Oper", "it": "Opera", "pt": "Ópera", "ru": "Опера", "ar": "أوبرا", "zh": "歌剧"}
       ]
     },
     {
       "word": {"tr": "Fransa", "en": "France", "es": "Francia", "fr": "France", "de": "Frankreich", "it": "Francia", "pt": "França", "ru": "Франция", "ar": "فرنسا", "zh": "法国"},
       "clues": [
-        {"tr": "Kule", "en": "Tower", "es": "Torre", "fr": "Tour", "de": "Turm", "it": "Torre", "pt": "Torre", "ru": "Башня", "ar": "برج", "zh": "塔"},
-        {"tr": "Şarap", "en": "Wine", "es": "Vino", "fr": "Vin", "de": "Wein", "it": "Vino", "pt": "Vinho", "ru": "Вино", "ar": "نبيذ", "zh": "葡萄酒"}
+        {"tr": "Peynir", "en": "Cheese", "es": "Queso", "fr": "Fromage", "de": "Käse", "it": "Formaggio", "pt": "Queijo", "ru": "Сыр", "ar": "جبن", "zh": "奶酪"},
+        {"tr": "Bere", "en": "Beret", "es": "Boina", "fr": "Béret", "de": "Baskenmütze", "it": "Basco", "pt": "Boina", "ru": "Берет", "ar": "بيريه", "zh": "贝雷帽"}
       ]
     },
     {
       "word": {"tr": "Japonya", "en": "Japan", "es": "Japón", "fr": "Japon", "de": "Japan", "it": "Giappone", "pt": "Japão", "ru": "Япония", "ar": "اليابان", "zh": "日本"},
       "clues": [
-        {"tr": "Sakura", "en": "Cherry blossom", "es": "Flor de cerezo", "fr": "Fleur de cerisier", "de": "Kirschblüte", "it": "Fiore di ciliegio", "pt": "Flor de cerejeira", "ru": "Сакура", "ar": "زهر الكرز", "zh": "樱花"},
-        {"tr": "Teknoloji", "en": "Technology", "es": "Tecnología", "fr": "Technologie", "de": "Technologie", "it": "Tecnologia", "pt": "Tecnologia", "ru": "Технологии", "ar": "تكنولوجيا", "zh": "科技"}
+        {"tr": "Dakiklik", "en": "Punctuality", "es": "Puntualidad", "fr": "Ponctualité", "de": "Pünktlichkeit", "it": "Puntualità", "pt": "Pontualidade", "ru": "Пунктуальность", "ar": "الدقة في المواعيد", "zh": "守时"},
+        {"tr": "Eğilmek", "en": "Bowing", "es": "Reverencia", "fr": "Courbette", "de": "Verbeugung", "it": "Inchino", "pt": "Reverência", "ru": "Поклон", "ar": "انحناء", "zh": "鞠躬"}
       ]
     },
     {
       "word": {"tr": "Mısır", "en": "Egypt", "es": "Egipto", "fr": "Égypte", "de": "Ägypten", "it": "Egitto", "pt": "Egito", "ru": "Египет", "ar": "مصر", "zh": "埃及"},
       "clues": [
-        {"tr": "Piramit", "en": "Pyramid", "es": "Pirámide", "fr": "Pyramide", "de": "Pyramide", "it": "Piramide", "pt": "Pirâmide", "ru": "Пирамида", "ar": "هرم", "zh": "金字塔"},
-        {"tr": "Nil", "en": "Nile", "es": "Nilo", "fr": "Nil", "de": "Nil", "it": "Nilo", "pt": "Nilo", "ru": "Нил", "ar": "النيل", "zh": "尼罗河"}
+        {"tr": "Kedi", "en": "Cats", "es": "Gatos", "fr": "Chats", "de": "Katzen", "it": "Gatti", "pt": "Gatos", "ru": "Кошки", "ar": "قطط", "zh": "猫"},
+        {"tr": "Pamuk", "en": "Cotton", "es": "Algodón", "fr": "Coton", "de": "Baumwolle", "it": "Cotone", "pt": "Algodão", "ru": "Хлопок", "ar": "قطن", "zh": "棉花"}
       ]
     },
     {
       "word": {"tr": "Brezilya", "en": "Brazil", "es": "Brasil", "fr": "Brésil", "de": "Brasilien", "it": "Brasile", "pt": "Brasil", "ru": "Бразилия", "ar": "البرازيل", "zh": "巴西"},
       "clues": [
         {"tr": "Karnaval", "en": "Carnival", "es": "Carnaval", "fr": "Carnaval", "de": "Karneval", "it": "Carnevale", "pt": "Carnaval", "ru": "Карнавал", "ar": "كرنفال", "zh": "狂欢节"},
-        {"tr": "Futbol", "en": "Football", "es": "Fútbol", "fr": "Football", "de": "Fußball", "it": "Calcio", "pt": "Futebol", "ru": "Футбол", "ar": "كرة القدم", "zh": "足球"}
+        {"tr": "Kahve", "en": "Coffee", "es": "Café", "fr": "Café", "de": "Kaffee", "it": "Caffè", "pt": "Café", "ru": "Кофе", "ar": "قهوة", "zh": "咖啡"}
       ]
     },
     {
-      "word": {"tr": "Amerika", "en": "USA", "es": "Estados Unidos", "fr": "États-Unis", "de": "USA", "it": "Stati Uniti", "pt": "Estados Unidos", "ru": "США", "ar": "أمريكا", "zh": "美国"},
+      "word": {"tr": "Küba", "en": "Cuba", "es": "Cuba", "fr": "Cuba", "de": "Kuba", "it": "Cuba", "pt": "Cuba", "ru": "Куба", "ar": "كوبا", "zh": "古巴"},
       "clues": [
-        {"tr": "Dolar", "en": "Dollar", "es": "Dólar", "fr": "Dollar", "de": "Dollar", "it": "Dollaro", "pt": "Dólar", "ru": "Доллар", "ar": "دولار", "zh": "美元"},
-        {"tr": "Hollywood", "en": "Hollywood", "es": "Hollywood", "fr": "Hollywood", "de": "Hollywood", "it": "Hollywood", "pt": "Hollywood", "ru": "Голливуд", "ar": "هوليوود", "zh": "好莱坞"}
+        {"tr": "Eski arabalar", "en": "Vintage cars", "es": "Coches antiguos", "fr": "Vieilles voitures", "de": "Oldtimer", "it": "Auto d'epoca", "pt": "Carros antigos", "ru": "Старые машины", "ar": "سيارات قديمة", "zh": "老爷车"},
+        {"tr": "Salsa", "en": "Salsa", "es": "Salsa", "fr": "Salsa", "de": "Salsa", "it": "Salsa", "pt": "Salsa", "ru": "Сальса", "ar": "سالسا", "zh": "萨尔萨舞"}
       ]
     },
     {
       "word": {"tr": "Çin", "en": "China", "es": "China", "fr": "Chine", "de": "China", "it": "Cina", "pt": "China", "ru": "Китай", "ar": "الصين", "zh": "中国"},
       "clues": [
-        {"tr": "Duvar", "en": "Wall", "es": "Muralla", "fr": "Muraille", "de": "Mauer", "it": "Muraglia", "pt": "Muralha", "ru": "Стена", "ar": "سور", "zh": "长城"},
-        {"tr": "Kalabalık", "en": "Crowded", "es": "Multitud", "fr": "Foule", "de": "Menschenmenge", "it": "Folla", "pt": "Multidão", "ru": "Многолюдно", "ar": "مزدحم", "zh": "人多"}
+        {"tr": "Kalabalık", "en": "Crowded", "es": "Multitud", "fr": "Foule", "de": "Menschenmenge", "it": "Folla", "pt": "Multidão", "ru": "Многолюдно", "ar": "مزدحم", "zh": "人多"},
+        {"tr": "Çubuk", "en": "Chopsticks", "es": "Palillos", "fr": "Baguettes", "de": "Stäbchen", "it": "Bacchette", "pt": "Hashi", "ru": "Палочки", "ar": "عيدان", "zh": "筷子"}
       ]
     },
     {
       "word": {"tr": "Rusya", "en": "Russia", "es": "Rusia", "fr": "Russie", "de": "Russland", "it": "Russia", "pt": "Rússia", "ru": "Россия", "ar": "روسيا", "zh": "俄罗斯"},
       "clues": [
-        {"tr": "Soğuk", "en": "Cold", "es": "Frío", "fr": "Froid", "de": "Kälte", "it": "Freddo", "pt": "Frio", "ru": "Холод", "ar": "برد", "zh": "寒冷"},
-        {"tr": "Matruşka", "en": "Matryoshka", "es": "Matrioska", "fr": "Matriochka", "de": "Matrjoschka", "it": "Matrioska", "pt": "Matrioska", "ru": "Матрёшка", "ar": "دمية ماتريوشكا", "zh": "套娃"}
+        {"tr": "Kış", "en": "Winter", "es": "Invierno", "fr": "Hiver", "de": "Winter", "it": "Inverno", "pt": "Inverno", "ru": "Зима", "ar": "شتاء", "zh": "冬天"},
+        {"tr": "Bale", "en": "Ballet", "es": "Ballet", "fr": "Ballet", "de": "Ballett", "it": "Balletto", "pt": "Balé", "ru": "Балет", "ar": "باليه", "zh": "芭蕾"}
       ]
     },
     {
       "word": {"tr": "Hindistan", "en": "India", "es": "India", "fr": "Inde", "de": "Indien", "it": "India", "pt": "Índia", "ru": "Индия", "ar": "الهند", "zh": "印度"},
       "clues": [
         {"tr": "Baharat", "en": "Spices", "es": "Especias", "fr": "Épices", "de": "Gewürze", "it": "Spezie", "pt": "Especiarias", "ru": "Специи", "ar": "بهارات", "zh": "香料"},
-        {"tr": "Bollywood", "en": "Bollywood", "es": "Bollywood", "fr": "Bollywood", "de": "Bollywood", "it": "Bollywood", "pt": "Bollywood", "ru": "Болливуд", "ar": "بوليوود", "zh": "宝莱坞"}
+        {"tr": "Kriket", "en": "Cricket", "es": "Críquet", "fr": "Cricket", "de": "Cricket", "it": "Cricket", "pt": "Críquete", "ru": "Крикет", "ar": "كريكيت", "zh": "板球"}
       ]
     },
     {
       "word": {"tr": "Meksika", "en": "Mexico", "es": "México", "fr": "Mexique", "de": "Mexiko", "it": "Messico", "pt": "México", "ru": "Мексика", "ar": "المكسيك", "zh": "墨西哥"},
       "clues": [
-        {"tr": "Sombrero", "en": "Sombrero", "es": "Sombrero", "fr": "Sombrero", "de": "Sombrero", "it": "Sombrero", "pt": "Sombrero", "ru": "Сомбреро", "ar": "سومبريرو", "zh": "墨西哥帽"},
-        {"tr": "Acı", "en": "Spicy", "es": "Picante", "fr": "Épicé", "de": "Scharf", "it": "Piccante", "pt": "Apimentado", "ru": "Острое", "ar": "حار", "zh": "辣"}
+        {"tr": "Acı", "en": "Spicy", "es": "Picante", "fr": "Épicé", "de": "Scharf", "it": "Piccante", "pt": "Apimentado", "ru": "Острое", "ar": "حار", "zh": "辣"},
+        {"tr": "Kaktüs", "en": "Cactus", "es": "Cactus", "fr": "Cactus", "de": "Kaktus", "it": "Cactus", "pt": "Cacto", "ru": "Кактус", "ar": "صبار", "zh": "仙人掌"}
       ]
     },
     {
       "word": {"tr": "İngiltere", "en": "England", "es": "Inglaterra", "fr": "Angleterre", "de": "England", "it": "Inghilterra", "pt": "Inglaterra", "ru": "Англия", "ar": "إنجلترا", "zh": "英国"},
       "clues": [
-        {"tr": "Kraliçe", "en": "Queen", "es": "Reina", "fr": "Reine", "de": "Königin", "it": "Regina", "pt": "Rainha", "ru": "Королева", "ar": "ملكة", "zh": "女王"},
-        {"tr": "Yağmur", "en": "Rain", "es": "Lluvia", "fr": "Pluie", "de": "Regen", "it": "Pioggia", "pt": "Chuva", "ru": "Дождь", "ar": "مطر", "zh": "雨"}
+        {"tr": "Yağmur", "en": "Rain", "es": "Lluvia", "fr": "Pluie", "de": "Regen", "it": "Pioggia", "pt": "Chuva", "ru": "Дождь", "ar": "مطر", "zh": "雨"},
+        {"tr": "Sol şerit", "en": "Driving on the left", "es": "Conducir por la izquierda", "fr": "Conduite à gauche", "de": "Linksverkehr", "it": "Guida a sinistra", "pt": "Dirigir pela esquerda", "ru": "Левостороннее движение", "ar": "القيادة على اليسار", "zh": "靠左行驶"}
       ]
     },
     {
       "word": {"tr": "Almanya", "en": "Germany", "es": "Alemania", "fr": "Allemagne", "de": "Deutschland", "it": "Germania", "pt": "Alemanha", "ru": "Германия", "ar": "ألمانيا", "zh": "德国"},
       "clues": [
         {"tr": "Otomobil", "en": "Cars", "es": "Coches", "fr": "Voitures", "de": "Autos", "it": "Auto", "pt": "Carros", "ru": "Автомобили", "ar": "سيارات", "zh": "汽车"},
-        {"tr": "Sosis", "en": "Sausage", "es": "Salchicha", "fr": "Saucisse", "de": "Wurst", "it": "Salsiccia", "pt": "Salsicha", "ru": "Колбаса", "ar": "نقانق", "zh": "香肠"}
+        {"tr": "Kurallar", "en": "Rules", "es": "Reglas", "fr": "Règles", "de": "Regeln", "it": "Regole", "pt": "Regras", "ru": "Правила", "ar": "قواعد", "zh": "规矩"}
       ]
     },
     {
       "word": {"tr": "İspanya", "en": "Spain", "es": "España", "fr": "Espagne", "de": "Spanien", "it": "Spagna", "pt": "Espanha", "ru": "Испания", "ar": "إسبانيا", "zh": "西班牙"},
       "clues": [
-        {"tr": "Flamenko", "en": "Flamenco", "es": "Flamenco", "fr": "Flamenco", "de": "Flamenco", "it": "Flamenco", "pt": "Flamenco", "ru": "Фламенко", "ar": "فلامنكو", "zh": "弗拉门戈"},
-        {"tr": "Boğa", "en": "Bull", "es": "Toro", "fr": "Taureau", "de": "Stier", "it": "Toro", "pt": "Touro", "ru": "Бык", "ar": "ثور", "zh": "公牛"}
+        {"tr": "Öğle uykusu", "en": "Siesta", "es": "Siesta", "fr": "Sieste", "de": "Mittagsschlaf", "it": "Pisolino", "pt": "Sesta", "ru": "Сиеста", "ar": "قيلولة", "zh": "午睡"},
+        {"tr": "Zeytin", "en": "Olives", "es": "Aceitunas", "fr": "Olives", "de": "Oliven", "it": "Olive", "pt": "Azeitonas", "ru": "Оливки", "ar": "زيتون", "zh": "橄榄"}
       ]
     },
     {
       "word": {"tr": "Yunanistan", "en": "Greece", "es": "Grecia", "fr": "Grèce", "de": "Griechenland", "it": "Grecia", "pt": "Grécia", "ru": "Греция", "ar": "اليونان", "zh": "希腊"},
       "clues": [
         {"tr": "Adalar", "en": "Islands", "es": "Islas", "fr": "Îles", "de": "Inseln", "it": "Isole", "pt": "Ilhas", "ru": "Острова", "ar": "جزر", "zh": "岛屿"},
-        {"tr": "Mitoloji", "en": "Mythology", "es": "Mitología", "fr": "Mythologie", "de": "Mythologie", "it": "Mitologia", "pt": "Mitologia", "ru": "Мифология", "ar": "أساطير", "zh": "神话"}
+        {"tr": "Beyaz mavi", "en": "White and blue", "es": "Blanco y azul", "fr": "Blanc et bleu", "de": "Weiß und Blau", "it": "Bianco e blu", "pt": "Branco e azul", "ru": "Бело-голубой", "ar": "أبيض وأزرق", "zh": "蓝白"}
       ]
     },
     {
       "word": {"tr": "Avustralya", "en": "Australia", "es": "Australia", "fr": "Australie", "de": "Australien", "it": "Australia", "pt": "Austrália", "ru": "Австралия", "ar": "أستراليا", "zh": "澳大利亚"},
       "clues": [
-        {"tr": "Bumerang", "en": "Boomerang", "es": "Bumerán", "fr": "Boomerang", "de": "Bumerang", "it": "Boomerang", "pt": "Bumerangue", "ru": "Бумеранг", "ar": "بوميرانج", "zh": "回旋镖"},
-        {"tr": "Ters dünya", "en": "Down under", "es": "Antípodas", "fr": "Antipodes", "de": "Down Under", "it": "Antipodi", "pt": "Antípodas", "ru": "Другой конец света", "ar": "الطرف الآخر من العالم", "zh": "地球另一端"}
+        {"tr": "Ters dünya", "en": "Down under", "es": "Antípodas", "fr": "Antipodes", "de": "Down Under", "it": "Antipodi", "pt": "Antípodas", "ru": "Другой конец света", "ar": "الطرف الآخر من العالم", "zh": "地球另一端"},
+        {"tr": "Örümcek", "en": "Spiders", "es": "Arañas", "fr": "Araignées", "de": "Spinnen", "it": "Ragni", "pt": "Aranhas", "ru": "Пауки", "ar": "عناكب", "zh": "蜘蛛"}
       ]
     },
     {
       "word": {"tr": "Kanada", "en": "Canada", "es": "Canadá", "fr": "Canada", "de": "Kanada", "it": "Canada", "pt": "Canadá", "ru": "Канада", "ar": "كندا", "zh": "加拿大"},
       "clues": [
-        {"tr": "Akçaağaç", "en": "Maple", "es": "Arce", "fr": "Érable", "de": "Ahorn", "it": "Acero", "pt": "Bordo", "ru": "Клён", "ar": "قيقب", "zh": "枫树"},
-        {"tr": "Kar", "en": "Snow", "es": "Nieve", "fr": "Neige", "de": "Schnee", "it": "Neve", "pt": "Neve", "ru": "Снег", "ar": "ثلج", "zh": "雪"}
+        {"tr": "Kibar", "en": "Polite", "es": "Educado", "fr": "Poli", "de": "Höflich", "it": "Educato", "pt": "Educado", "ru": "Вежливый", "ar": "مهذب", "zh": "礼貌"},
+        {"tr": "Ayı", "en": "Bears", "es": "Osos", "fr": "Ours", "de": "Bären", "it": "Orsi", "pt": "Ursos", "ru": "Медведи", "ar": "دببة", "zh": "熊"}
       ]
     },
     {
       "word": {"tr": "Hollanda", "en": "Netherlands", "es": "Países Bajos", "fr": "Pays-Bas", "de": "Niederlande", "it": "Paesi Bassi", "pt": "Países Baixos", "ru": "Нидерланды", "ar": "هولندا", "zh": "荷兰"},
       "clues": [
-        {"tr": "Lale", "en": "Tulip", "es": "Tulipán", "fr": "Tulipe", "de": "Tulpe", "it": "Tulipano", "pt": "Tulipa", "ru": "Тюльпан", "ar": "توليب", "zh": "郁金香"},
-        {"tr": "Bisiklet", "en": "Bicycle", "es": "Bicicleta", "fr": "Vélo", "de": "Fahrrad", "it": "Bicicletta", "pt": "Bicicleta", "ru": "Велосипед", "ar": "دراجة", "zh": "自行车"}
+        {"tr": "Bisiklet", "en": "Bicycle", "es": "Bicicleta", "fr": "Vélo", "de": "Fahrrad", "it": "Bicicletta", "pt": "Bicicleta", "ru": "Велосипед", "ar": "دراجة", "zh": "自行车"},
+        {"tr": "Turuncu", "en": "Orange", "es": "Naranja", "fr": "Orange", "de": "Orange", "it": "Arancione", "pt": "Laranja", "ru": "Оранжевый", "ar": "برتقالي", "zh": "橙色"}
       ]
     },
     {
       "word": {"tr": "İsviçre", "en": "Switzerland", "es": "Suiza", "fr": "Suisse", "de": "Schweiz", "it": "Svizzera", "pt": "Suíça", "ru": "Швейцария", "ar": "سويسرا", "zh": "瑞士"},
       "clues": [
-        {"tr": "Saat", "en": "Watches", "es": "Relojes", "fr": "Montres", "de": "Uhren", "it": "Orologi", "pt": "Relógios", "ru": "Часы", "ar": "ساعات", "zh": "手表"},
-        {"tr": "Çikolata", "en": "Chocolate", "es": "Chocolate", "fr": "Chocolat", "de": "Schokolade", "it": "Cioccolato", "pt": "Chocolate", "ru": "Шоколад", "ar": "شوكولاتة", "zh": "巧克力"}
+        {"tr": "Çikolata", "en": "Chocolate", "es": "Chocolate", "fr": "Chocolat", "de": "Schokolade", "it": "Cioccolato", "pt": "Chocolate", "ru": "Шоколад", "ar": "شوكولاتة", "zh": "巧克力"},
+        {"tr": "Banka", "en": "Banks", "es": "Bancos", "fr": "Banques", "de": "Banken", "it": "Banche", "pt": "Bancos", "ru": "Банки", "ar": "بنوك", "zh": "银行"}
       ]
     },
     {
       "word": {"tr": "Norveç", "en": "Norway", "es": "Noruega", "fr": "Norvège", "de": "Norwegen", "it": "Norvegia", "pt": "Noruega", "ru": "Норвегия", "ar": "النرويج", "zh": "挪威"},
       "clues": [
-        {"tr": "Fiyort", "en": "Fjord", "es": "Fiordo", "fr": "Fjord", "de": "Fjord", "it": "Fiordo", "pt": "Fiorde", "ru": "Фьорд", "ar": "مضيق بحري", "zh": "峡湾"},
-        {"tr": "Kuzey ışıkları", "en": "Northern lights", "es": "Auroras boreales", "fr": "Aurores boréales", "de": "Nordlichter", "it": "Aurora boreale", "pt": "Aurora boreal", "ru": "Северное сияние", "ar": "الشفق القطبي", "zh": "北极光"}
+        {"tr": "Somon", "en": "Salmon", "es": "Salmón", "fr": "Saumon", "de": "Lachs", "it": "Salmone", "pt": "Salmão", "ru": "Лосось", "ar": "سلمون", "zh": "三文鱼"},
+        {"tr": "Kayak", "en": "Skiing", "es": "Esquí", "fr": "Ski", "de": "Skifahren", "it": "Sci", "pt": "Esqui", "ru": "Лыжи", "ar": "تزلج", "zh": "滑雪"}
       ]
     },
     {
       "word": {"tr": "Arjantin", "en": "Argentina", "es": "Argentina", "fr": "Argentine", "de": "Argentinien", "it": "Argentina", "pt": "Argentina", "ru": "Аргентина", "ar": "الأرجنتين", "zh": "阿根廷"},
       "clues": [
-        {"tr": "Tango", "en": "Tango", "es": "Tango", "fr": "Tango", "de": "Tango", "it": "Tango", "pt": "Tango", "ru": "Танго", "ar": "تانغو", "zh": "探戈"},
-        {"tr": "Messi", "en": "Messi", "es": "Messi", "fr": "Messi", "de": "Messi", "it": "Messi", "pt": "Messi", "ru": "Месси", "ar": "ميسي", "zh": "梅西"}
+        {"tr": "Et", "en": "Beef", "es": "Carne", "fr": "Viande", "de": "Rindfleisch", "it": "Carne", "pt": "Carne", "ru": "Мясо", "ar": "لحم", "zh": "牛肉"},
+        {"tr": "Dans", "en": "Dance", "es": "Baile", "fr": "Danse", "de": "Tanz", "it": "Ballo", "pt": "Dança", "ru": "Танец", "ar": "رقص", "zh": "舞蹈"}
       ]
     },
     {
       "word": {"tr": "Güney Kore", "en": "South Korea", "es": "Corea del Sur", "fr": "Corée du Sud", "de": "Südkorea", "it": "Corea del Sud", "pt": "Coreia do Sul", "ru": "Южная Корея", "ar": "كوريا الجنوبية", "zh": "韩国"},
       "clues": [
-        {"tr": "K-pop", "en": "K-pop", "es": "K-pop", "fr": "K-pop", "de": "K-Pop", "it": "K-pop", "pt": "K-pop", "ru": "K-pop", "ar": "كي بوب", "zh": "韩流音乐"},
-        {"tr": "Kimçi", "en": "Kimchi", "es": "Kimchi", "fr": "Kimchi", "de": "Kimchi", "it": "Kimchi", "pt": "Kimchi", "ru": "Кимчи", "ar": "كيمتشي", "zh": "泡菜"}
+        {"tr": "Dizi", "en": "TV series", "es": "Series", "fr": "Séries", "de": "Serien", "it": "Serie TV", "pt": "Novelas", "ru": "Сериалы", "ar": "مسلسلات", "zh": "电视剧"},
+        {"tr": "Kozmetik", "en": "Cosmetics", "es": "Cosméticos", "fr": "Cosmétiques", "de": "Kosmetik", "it": "Cosmetici", "pt": "Cosméticos", "ru": "Косметика", "ar": "مستحضرات تجميل", "zh": "化妆品"}
       ]
     },
     {
@@ -168,8 +161,8 @@
     {
       "word": {"tr": "Peru", "en": "Peru", "es": "Perú", "fr": "Pérou", "de": "Peru", "it": "Perù", "pt": "Peru", "ru": "Перу", "ar": "بيرو", "zh": "秘鲁"},
       "clues": [
-        {"tr": "Machu Picchu", "en": "Machu Picchu", "es": "Machu Picchu", "fr": "Machu Picchu", "de": "Machu Picchu", "it": "Machu Picchu", "pt": "Machu Picchu", "ru": "Мачу-Пикчу", "ar": "ماتشو بيتشو", "zh": "马丘比丘"},
-        {"tr": "Lama", "en": "Llama", "es": "Llama", "fr": "Lama", "de": "Lama", "it": "Lama", "pt": "Lhama", "ru": "Лама", "ar": "لاما", "zh": "羊驼"}
+        {"tr": "Lama", "en": "Llama", "es": "Llama", "fr": "Lama", "de": "Lama", "it": "Lama", "pt": "Lhama", "ru": "Лама", "ar": "لاما", "zh": "羊驼"},
+        {"tr": "Dağlar", "en": "Mountains", "es": "Montañas", "fr": "Montagnes", "de": "Berge", "it": "Montagne", "pt": "Montanhas", "ru": "Горы", "ar": "جبال", "zh": "高山"}
       ]
     },
     {
@@ -177,6 +170,20 @@
       "clues": [
         {"tr": "Çarşı", "en": "Bazaar", "es": "Zoco", "fr": "Souk", "de": "Basar", "it": "Suk", "pt": "Bazar", "ru": "Базар", "ar": "سوق", "zh": "集市"},
         {"tr": "Kuskus", "en": "Couscous", "es": "Cuscús", "fr": "Couscous", "de": "Couscous", "it": "Cuscus", "pt": "Cuscuz", "ru": "Кускус", "ar": "كسكس", "zh": "蒸粗麦粉"}
+      ]
+    },
+    {
+      "word": {"tr": "İzlanda", "en": "Iceland", "es": "Islandia", "fr": "Islande", "de": "Island", "it": "Islanda", "pt": "Islândia", "ru": "Исландия", "ar": "آيسلندا", "zh": "冰岛"},
+      "clues": [
+        {"tr": "Yanardağ", "en": "Volcanoes", "es": "Volcanes", "fr": "Volcans", "de": "Vulkane", "it": "Vulcani", "pt": "Vulcões", "ru": "Вулканы", "ar": "براكين", "zh": "火山"},
+        {"tr": "Az nüfus", "en": "Few people", "es": "Poca gente", "fr": "Peu d'habitants", "de": "Wenige Einwohner", "it": "Pochi abitanti", "pt": "Pouca gente", "ru": "Мало людей", "ar": "قلة السكان", "zh": "人口稀少"}
+      ]
+    },
+    {
+      "word": {"tr": "Tayland", "en": "Thailand", "es": "Tailandia", "fr": "Thaïlande", "de": "Thailand", "it": "Thailandia", "pt": "Tailândia", "ru": "Таиланд", "ar": "تايلاند", "zh": "泰国"},
+      "clues": [
+        {"tr": "Fil", "en": "Elephants", "es": "Elefantes", "fr": "Éléphants", "de": "Elefanten", "it": "Elefanti", "pt": "Elefantes", "ru": "Слоны", "ar": "فيلة", "zh": "大象"},
+        {"tr": "Masaj", "en": "Massage", "es": "Masaje", "fr": "Massage", "de": "Massage", "it": "Massaggio", "pt": "Massagem", "ru": "Массаж", "ar": "تدليك", "zh": "按摩"}
       ]
     }
   ]

@@ -5,171 +5,171 @@
   "drawable": true,
   "words": [
     {
-      "word": {"tr": "Ejderha", "en": "Dragon", "es": "Dragón", "fr": "Dragon", "de": "Drache", "it": "Drago", "pt": "Dragão", "ru": "Дракон", "ar": "تنين", "zh": "龙"},
+      "word": {"tr": "Ejderha yumurtası", "en": "Dragon egg", "es": "Huevo de dragón", "fr": "Œuf de dragon", "de": "Drachenei", "it": "Uovo di drago", "pt": "Ovo de dragão", "ru": "Драконье яйцо", "ar": "بيضة التنين", "zh": "龙蛋"},
       "clues": [
-        {"tr": "Ateş", "en": "Fire", "es": "Fuego", "fr": "Feu", "de": "Feuer", "it": "Fuoco", "pt": "Fogo", "ru": "Огонь", "ar": "نار", "zh": "火"},
-        {"tr": "Hazine", "en": "Treasure", "es": "Tesoro", "fr": "Trésor", "de": "Schatz", "it": "Tesoro", "pt": "Tesouro", "ru": "Сокровище", "ar": "كنز", "zh": "宝藏"}
+        {"tr": "Pul pul", "en": "Scaly", "es": "Escamoso", "fr": "Écailleux", "de": "Schuppig", "it": "Squamoso", "pt": "Escamoso", "ru": "Чешуйчатый", "ar": "حرشفي", "zh": "有鳞片"},
+        {"tr": "Kuluçka", "en": "Hatching", "es": "Eclosión", "fr": "Éclosion", "de": "Ausbrüten", "it": "Schiusa", "pt": "Chocar", "ru": "Вылупление", "ar": "فقس", "zh": "孵化"}
       ]
     },
     {
       "word": {"tr": "Deniz kızı", "en": "Mermaid", "es": "Sirena", "fr": "Sirène", "de": "Meerjungfrau", "it": "Sirena", "pt": "Sereia", "ru": "Русалка", "ar": "حورية البحر", "zh": "美人鱼"},
       "clues": [
-        {"tr": "Kuyruk", "en": "Tail", "es": "Cola", "fr": "Queue", "de": "Schwanz", "it": "Coda", "pt": "Cauda", "ru": "Хвост", "ar": "ذيل", "zh": "尾巴"},
-        {"tr": "Deniz kabuğu", "en": "Seashell", "es": "Concha", "fr": "Coquillage", "de": "Muschel", "it": "Conchiglia", "pt": "Concha", "ru": "Ракушка", "ar": "صدفة", "zh": "贝壳"}
+        {"tr": "Ses", "en": "Voice", "es": "Voz", "fr": "Voix", "de": "Stimme", "it": "Voce", "pt": "Voz", "ru": "Голос", "ar": "صوت", "zh": "嗓音"},
+        {"tr": "Tarak", "en": "Comb", "es": "Peine", "fr": "Peigne", "de": "Kamm", "it": "Pettine", "pt": "Pente", "ru": "Гребень", "ar": "مشط", "zh": "梳子"}
       ]
     },
     {
-      "word": {"tr": "Tek boynuzlu at", "en": "Unicorn", "es": "Unicornio", "fr": "Licorne", "de": "Einhorn", "it": "Unicorno", "pt": "Unicórnio", "ru": "Единорог", "ar": "وحيد القرن الأسطوري", "zh": "独角兽"},
+      "word": {"tr": "Tek boynuzlu at", "en": "Unicorn", "es": "Unicornio", "fr": "Licorne", "de": "Einhorn", "it": "Unicorno", "pt": "Unicórnio", "ru": "Единорог", "ar": "حصان وحيد القرن", "zh": "独角兽"},
       "clues": [
-        {"tr": "Boynuz", "en": "Horn", "es": "Cuerno", "fr": "Corne", "de": "Horn", "it": "Corno", "pt": "Chifre", "ru": "Рог", "ar": "قرن", "zh": "角"},
-        {"tr": "Gökkuşağı", "en": "Rainbow", "es": "Arcoíris", "fr": "Arc-en-ciel", "de": "Regenbogen", "it": "Arcobaleno", "pt": "Arco-íris", "ru": "Радуга", "ar": "قوس قزح", "zh": "彩虹"}
+        {"tr": "Parıltı", "en": "Sparkle", "es": "Destellos", "fr": "Paillettes", "de": "Glitzer", "it": "Brillantini", "pt": "Purpurina", "ru": "Блёстки", "ar": "بريق", "zh": "闪光"},
+        {"tr": "Beyaz", "en": "White", "es": "Blanco", "fr": "Blanc", "de": "Weiß", "it": "Bianco", "pt": "Branco", "ru": "Белый", "ar": "أبيض", "zh": "白色"}
       ]
     },
     {
-      "word": {"tr": "Cadı", "en": "Witch", "es": "Bruja", "fr": "Sorcière", "de": "Hexe", "it": "Strega", "pt": "Bruxa", "ru": "Ведьма", "ar": "ساحرة", "zh": "女巫"},
+      "word": {"tr": "Uçan süpürge", "en": "Flying broom", "es": "Escoba voladora", "fr": "Balai volant", "de": "Fliegender Besen", "it": "Scopa volante", "pt": "Vassoura voadora", "ru": "Летающая метла", "ar": "مكنسة طائرة", "zh": "飞天扫帚"},
       "clues": [
-        {"tr": "Süpürge", "en": "Broom", "es": "Escoba", "fr": "Balai", "de": "Besen", "it": "Scopa", "pt": "Vassoura", "ru": "Метла", "ar": "مكنسة", "zh": "扫帚"},
-        {"tr": "Kazan", "en": "Cauldron", "es": "Caldero", "fr": "Chaudron", "de": "Kessel", "it": "Calderone", "pt": "Caldeirão", "ru": "Котёл", "ar": "قدر", "zh": "大锅"}
+        {"tr": "Sap", "en": "Handle", "es": "Mango", "fr": "Manche", "de": "Stiel", "it": "Manico", "pt": "Cabo", "ru": "Черенок", "ar": "مقبض", "zh": "长柄"},
+        {"tr": "Hız", "en": "Speed", "es": "Velocidad", "fr": "Vitesse", "de": "Geschwindigkeit", "it": "Velocità", "pt": "Velocidade", "ru": "Скорость", "ar": "سرعة", "zh": "速度"}
       ]
     },
     {
-      "word": {"tr": "Vampir", "en": "Vampire", "es": "Vampiro", "fr": "Vampire", "de": "Vampir", "it": "Vampiro", "pt": "Vampiro", "ru": "Вампир", "ar": "مصاص دماء", "zh": "吸血鬼"},
+      "word": {"tr": "Sihirli değnek", "en": "Magic wand", "es": "Varita mágica", "fr": "Baguette magique", "de": "Zauberstab", "it": "Bacchetta magica", "pt": "Varinha mágica", "ru": "Волшебная палочка", "ar": "عصا سحرية", "zh": "魔杖"},
       "clues": [
-        {"tr": "Kan", "en": "Blood", "es": "Sangre", "fr": "Sang", "de": "Blut", "it": "Sangue", "pt": "Sangue", "ru": "Кровь", "ar": "دم", "zh": "血"},
-        {"tr": "Tabut", "en": "Coffin", "es": "Ataúd", "fr": "Cercueil", "de": "Sarg", "it": "Bara", "pt": "Caixão", "ru": "Гроб", "ar": "تابوت", "zh": "棺材"}
+        {"tr": "Yıldız", "en": "Star", "es": "Estrella", "fr": "Étoile", "de": "Stern", "it": "Stella", "pt": "Estrela", "ru": "Звезда", "ar": "نجمة", "zh": "星星"},
+        {"tr": "Kıvılcım", "en": "Sparks", "es": "Chispas", "fr": "Étincelles", "de": "Funken", "it": "Scintille", "pt": "Faíscas", "ru": "Искры", "ar": "شرارات", "zh": "火花"}
       ]
     },
     {
       "word": {"tr": "Zombi", "en": "Zombie", "es": "Zombi", "fr": "Zombie", "de": "Zombie", "it": "Zombie", "pt": "Zumbi", "ru": "Зомби", "ar": "زومبي", "zh": "僵尸"},
       "clues": [
-        {"tr": "Beyin", "en": "Brain", "es": "Cerebro", "fr": "Cerveau", "de": "Gehirn", "it": "Cervello", "pt": "Cérebro", "ru": "Мозг", "ar": "دماغ", "zh": "大脑"},
-        {"tr": "Yavaş", "en": "Slow", "es": "Lento", "fr": "Lent", "de": "Langsam", "it": "Lento", "pt": "Lento", "ru": "Медленный", "ar": "بطيء", "zh": "缓慢"}
+        {"tr": "Yavaş", "en": "Slow", "es": "Lento", "fr": "Lent", "de": "Langsam", "it": "Lento", "pt": "Lento", "ru": "Медленный", "ar": "بطيء", "zh": "缓慢"},
+        {"tr": "Aç", "en": "Hungry", "es": "Hambriento", "fr": "Affamé", "de": "Hungrig", "it": "Affamato", "pt": "Faminto", "ru": "Голодный", "ar": "جائع", "zh": "饥饿"}
       ]
     },
     {
-      "word": {"tr": "Hayalet", "en": "Ghost", "es": "Fantasma", "fr": "Fantôme", "de": "Gespenst", "it": "Fantasma", "pt": "Fantasma", "ru": "Привидение", "ar": "شبح", "zh": "鬼魂"},
+      "word": {"tr": "Perili köşk", "en": "Haunted house", "es": "Casa embrujada", "fr": "Maison hantée", "de": "Spukhaus", "it": "Casa infestata", "pt": "Casa mal-assombrada", "ru": "Дом с привидениями", "ar": "بيت مسكون", "zh": "鬼屋"},
       "clues": [
-        {"tr": "Çarşaf", "en": "Sheet", "es": "Sábana", "fr": "Drap", "de": "Laken", "it": "Lenzuolo", "pt": "Lençol", "ru": "Простыня", "ar": "ملاءة", "zh": "床单"},
-        {"tr": "Ürpermek", "en": "Shiver", "es": "Escalofrío", "fr": "Frisson", "de": "Gänsehaut", "it": "Brivido", "pt": "Arrepio", "ru": "Мурашки", "ar": "قشعريرة", "zh": "毛骨悚然"}
+        {"tr": "Gıcırtı", "en": "Creaking", "es": "Crujidos", "fr": "Grincements", "de": "Knarren", "it": "Scricchiolii", "pt": "Rangidos", "ru": "Скрип", "ar": "صرير", "zh": "吱嘎声"},
+        {"tr": "Örümcek ağı", "en": "Cobwebs", "es": "Telarañas", "fr": "Toiles d'araignée", "de": "Spinnweben", "it": "Ragnatele", "pt": "Teias de aranha", "ru": "Паутина", "ar": "خيوط العنكبوت", "zh": "蜘蛛网"}
       ]
     },
     {
-      "word": {"tr": "Peri", "en": "Fairy", "es": "Hada", "fr": "Fée", "de": "Fee", "it": "Fata", "pt": "Fada", "ru": "Фея", "ar": "جنية", "zh": "仙女"},
+      "word": {"tr": "Diş perisi", "en": "Tooth fairy", "es": "Ratoncito Pérez", "fr": "Petite souris", "de": "Zahnfee", "it": "Fatina dei denti", "pt": "Fada do dente", "ru": "Зубная фея", "ar": "جنية الأسنان", "zh": "牙仙"},
       "clues": [
-        {"tr": "Asa", "en": "Wand", "es": "Varita", "fr": "Baguette", "de": "Zauberstab", "it": "Bacchetta", "pt": "Varinha", "ru": "Палочка", "ar": "عصا سحرية", "zh": "魔杖"},
-        {"tr": "Kanatlar", "en": "Wings", "es": "Alas", "fr": "Ailes", "de": "Flügel", "it": "Ali", "pt": "Asas", "ru": "Крылья", "ar": "أجنحة", "zh": "翅膀"}
+        {"tr": "Yastık", "en": "Pillow", "es": "Almohada", "fr": "Oreiller", "de": "Kissen", "it": "Cuscino", "pt": "Travesseiro", "ru": "Подушка", "ar": "وسادة", "zh": "枕头"},
+        {"tr": "Bozuk para", "en": "Coin", "es": "Moneda", "fr": "Pièce", "de": "Münze", "it": "Moneta", "pt": "Moeda", "ru": "Монетка", "ar": "عملة معدنية", "zh": "硬币"}
       ]
     },
     {
-      "word": {"tr": "Dev", "en": "Giant", "es": "Gigante", "fr": "Géant", "de": "Riese", "it": "Gigante", "pt": "Gigante", "ru": "Великан", "ar": "عملاق", "zh": "巨人"},
+      "word": {"tr": "Sihirli fasulye", "en": "Magic beans", "es": "Frijoles mágicos", "fr": "Haricots magiques", "de": "Zauberbohnen", "it": "Fagioli magici", "pt": "Feijões mágicos", "ru": "Волшебные бобы", "ar": "الفاصوليا السحرية", "zh": "魔豆"},
       "clues": [
-        {"tr": "Fasulye sırığı", "en": "Beanstalk", "es": "Planta de judías", "fr": "Haricot magique", "de": "Bohnenranke", "it": "Fagiolo magico", "pt": "Pé de feijão", "ru": "Бобовый стебель", "ar": "ساق الفاصوليا", "zh": "魔豆"},
-        {"tr": "Büyük", "en": "Big", "es": "Grande", "fr": "Grand", "de": "Groß", "it": "Grande", "pt": "Grande", "ru": "Огромный", "ar": "كبير", "zh": "巨大"}
+        {"tr": "Bulut", "en": "Clouds", "es": "Nubes", "fr": "Nuages", "de": "Wolken", "it": "Nuvole", "pt": "Nuvens", "ru": "Облака", "ar": "غيوم", "zh": "云朵"},
+        {"tr": "İnek", "en": "Cow", "es": "Vaca", "fr": "Vache", "de": "Kuh", "it": "Mucca", "pt": "Vaca", "ru": "Корова", "ar": "بقرة", "zh": "奶牛"}
       ]
     },
     {
       "word": {"tr": "Cüce", "en": "Dwarf", "es": "Enano", "fr": "Nain", "de": "Zwerg", "it": "Nano", "pt": "Anão", "ru": "Гном", "ar": "قزم", "zh": "小矮人"},
       "clues": [
-        {"tr": "Maden", "en": "Mine", "es": "Mina", "fr": "Mine", "de": "Bergwerk", "it": "Miniera", "pt": "Mina", "ru": "Шахта", "ar": "منجم", "zh": "矿山"},
-        {"tr": "Kazma", "en": "Pickaxe", "es": "Pico", "fr": "Pioche", "de": "Spitzhacke", "it": "Piccone", "pt": "Picareta", "ru": "Кирка", "ar": "معول", "zh": "镐"}
+        {"tr": "Sakal", "en": "Beard", "es": "Barba", "fr": "Barbe", "de": "Bart", "it": "Barba", "pt": "Barba", "ru": "Борода", "ar": "لحية", "zh": "胡子"},
+        {"tr": "Maden", "en": "Mine", "es": "Mina", "fr": "Mine", "de": "Bergwerk", "it": "Miniera", "pt": "Mina", "ru": "Шахта", "ar": "منجم", "zh": "矿山"}
       ]
     },
     {
       "word": {"tr": "Uçan halı", "en": "Flying carpet", "es": "Alfombra voladora", "fr": "Tapis volant", "de": "Fliegender Teppich", "it": "Tappeto volante", "pt": "Tapete voador", "ru": "Ковёр-самолёт", "ar": "البساط الطائر", "zh": "飞毯"},
       "clues": [
-        {"tr": "Uçmak", "en": "Fly", "es": "Volar", "fr": "Voler", "de": "Fliegen", "it": "Volare", "pt": "Voar", "ru": "Летать", "ar": "يطير", "zh": "飞行"},
-        {"tr": "Desen", "en": "Pattern", "es": "Patrón", "fr": "Motif", "de": "Muster", "it": "Motivo", "pt": "Padrão", "ru": "Узор", "ar": "نقش", "zh": "花纹"}
+        {"tr": "Desen", "en": "Pattern", "es": "Patrón", "fr": "Motif", "de": "Muster", "it": "Motivo", "pt": "Padrão", "ru": "Узор", "ar": "نقش", "zh": "花纹"},
+        {"tr": "Çöl", "en": "Desert", "es": "Desierto", "fr": "Désert", "de": "Wüste", "it": "Deserto", "pt": "Deserto", "ru": "Пустыня", "ar": "صحراء", "zh": "沙漠"}
       ]
     },
     {
       "word": {"tr": "Cin", "en": "Genie", "es": "Genio", "fr": "Génie", "de": "Dschinn", "it": "Genio", "pt": "Gênio", "ru": "Джинн", "ar": "جني", "zh": "精灵"},
       "clues": [
-        {"tr": "Dilek", "en": "Wish", "es": "Deseo", "fr": "Vœu", "de": "Wunsch", "it": "Desiderio", "pt": "Desejo", "ru": "Желание", "ar": "أمنية", "zh": "愿望"},
+        {"tr": "Duman", "en": "Smoke", "es": "Humo", "fr": "Fumée", "de": "Rauch", "it": "Fumo", "pt": "Fumaça", "ru": "Дым", "ar": "دخان", "zh": "烟雾"},
         {"tr": "Üç", "en": "Three", "es": "Tres", "fr": "Trois", "de": "Drei", "it": "Tre", "pt": "Três", "ru": "Три", "ar": "ثلاثة", "zh": "三"}
       ]
     },
     {
       "word": {"tr": "Şövalye", "en": "Knight", "es": "Caballero", "fr": "Chevalier", "de": "Ritter", "it": "Cavaliere", "pt": "Cavaleiro", "ru": "Рыцарь", "ar": "فارس", "zh": "骑士"},
       "clues": [
-        {"tr": "Zırh", "en": "Armor", "es": "Armadura", "fr": "Armure", "de": "Rüstung", "it": "Armatura", "pt": "Armadura", "ru": "Доспехи", "ar": "درع", "zh": "盔甲"},
-        {"tr": "Kılıç", "en": "Sword", "es": "Espada", "fr": "Épée", "de": "Schwert", "it": "Spada", "pt": "Espada", "ru": "Меч", "ar": "سيف", "zh": "剑"}
+        {"tr": "Onur", "en": "Honor", "es": "Honor", "fr": "Honneur", "de": "Ehre", "it": "Onore", "pt": "Honra", "ru": "Честь", "ar": "شرف", "zh": "荣誉"},
+        {"tr": "Turnuva", "en": "Tournament", "es": "Torneo", "fr": "Tournoi", "de": "Turnier", "it": "Torneo", "pt": "Torneio", "ru": "Турнир", "ar": "بطولة", "zh": "比武"}
       ]
     },
     {
-      "word": {"tr": "Prenses", "en": "Princess", "es": "Princesa", "fr": "Princesse", "de": "Prinzessin", "it": "Principessa", "pt": "Princesa", "ru": "Принцесса", "ar": "أميرة", "zh": "公主"},
+      "word": {"tr": "Kurbağa prens", "en": "Frog prince", "es": "Príncipe rana", "fr": "Prince grenouille", "de": "Froschkönig", "it": "Principe ranocchio", "pt": "Príncipe sapo", "ru": "Принц-лягушка", "ar": "الأمير الضفدع", "zh": "青蛙王子"},
       "clues": [
-        {"tr": "Taç", "en": "Tiara", "es": "Tiara", "fr": "Diadème", "de": "Diadem", "it": "Diadema", "pt": "Tiara", "ru": "Диадема", "ar": "تاج", "zh": "皇冠"},
-        {"tr": "Kule", "en": "Tower", "es": "Torre", "fr": "Tour", "de": "Turm", "it": "Torre", "pt": "Torre", "ru": "Башня", "ar": "برج", "zh": "高塔"}
+        {"tr": "Öpücük", "en": "Kiss", "es": "Beso", "fr": "Baiser", "de": "Kuss", "it": "Bacio", "pt": "Beijo", "ru": "Поцелуй", "ar": "قبلة", "zh": "亲吻"},
+        {"tr": "Gölet", "en": "Pond", "es": "Estanque", "fr": "Mare", "de": "Teich", "it": "Stagno", "pt": "Lagoa", "ru": "Пруд", "ar": "بركة", "zh": "池塘"}
       ]
     },
     {
       "word": {"tr": "Kurt adam", "en": "Werewolf", "es": "Hombre lobo", "fr": "Loup-garou", "de": "Werwolf", "it": "Lupo mannaro", "pt": "Lobisomem", "ru": "Оборотень", "ar": "مستذئب", "zh": "狼人"},
       "clues": [
-        {"tr": "Dolunay", "en": "Full moon", "es": "Luna llena", "fr": "Pleine lune", "de": "Vollmond", "it": "Luna piena", "pt": "Lua cheia", "ru": "Полнолуние", "ar": "بدر", "zh": "满月"},
-        {"tr": "Uluma", "en": "Howl", "es": "Aullido", "fr": "Hurlement", "de": "Heulen", "it": "Ululato", "pt": "Uivo", "ru": "Вой", "ar": "عواء", "zh": "嚎叫"}
+        {"tr": "Tüy", "en": "Fur", "es": "Pelo", "fr": "Poils", "de": "Fell", "it": "Pelo", "pt": "Pelo", "ru": "Шерсть", "ar": "فرو", "zh": "毛发"},
+        {"tr": "Gümüş", "en": "Silver", "es": "Plata", "fr": "Argent", "de": "Silber", "it": "Argento", "pt": "Prata", "ru": "Серебро", "ar": "فضة", "zh": "银"}
       ]
     },
     {
-      "word": {"tr": "Korsan", "en": "Pirate", "es": "Pirata", "fr": "Pirate", "de": "Pirat", "it": "Pirata", "pt": "Pirata", "ru": "Пират", "ar": "قرصان", "zh": "海盗"},
+      "word": {"tr": "Hazine haritası", "en": "Treasure map", "es": "Mapa del tesoro", "fr": "Carte au trésor", "de": "Schatzkarte", "it": "Mappa del tesoro", "pt": "Mapa do tesouro", "ru": "Карта сокровищ", "ar": "خريطة الكنز", "zh": "藏宝图"},
       "clues": [
-        {"tr": "Göz bandı", "en": "Eye patch", "es": "Parche", "fr": "Bandeau", "de": "Augenklappe", "it": "Benda sull'occhio", "pt": "Tapa-olho", "ru": "Повязка на глаз", "ar": "رقعة عين", "zh": "眼罩"},
-        {"tr": "Papağan", "en": "Parrot", "es": "Loro", "fr": "Perroquet", "de": "Papagei", "it": "Pappagallo", "pt": "Papagaio", "ru": "Попугай", "ar": "ببغاء", "zh": "鹦鹉"}
+        {"tr": "Ada", "en": "Island", "es": "Isla", "fr": "Île", "de": "Insel", "it": "Isola", "pt": "Ilha", "ru": "Остров", "ar": "جزيرة", "zh": "岛屿"},
+        {"tr": "Kürek", "en": "Shovel", "es": "Pala", "fr": "Pelle", "de": "Schaufel", "it": "Pala", "pt": "Pá", "ru": "Лопата", "ar": "مجرفة", "zh": "铲子"}
       ]
     },
     {
-      "word": {"tr": "Büyücü", "en": "Wizard", "es": "Mago", "fr": "Sorcier", "de": "Zauberer", "it": "Mago", "pt": "Mago", "ru": "Волшебник", "ar": "ساحر", "zh": "巫师"},
+      "word": {"tr": "Büyücü", "en": "Wizard", "es": "Hechicero", "fr": "Sorcier", "de": "Zauberer", "it": "Stregone", "pt": "Feiticeiro", "ru": "Волшебник", "ar": "ساحر", "zh": "巫师"},
       "clues": [
-        {"tr": "Sakal", "en": "Beard", "es": "Barba", "fr": "Barbe", "de": "Bart", "it": "Barba", "pt": "Barba", "ru": "Борода", "ar": "لحية", "zh": "胡子"},
-        {"tr": "Büyü", "en": "Spell", "es": "Hechizo", "fr": "Sort", "de": "Zauberspruch", "it": "Incantesimo", "pt": "Feitiço", "ru": "Заклинание", "ar": "تعويذة", "zh": "咒语"}
+        {"tr": "Kule", "en": "Tower", "es": "Torre", "fr": "Tour", "de": "Turm", "it": "Torre", "pt": "Torre", "ru": "Башня", "ar": "برج", "zh": "高塔"},
+        {"tr": "Kitap", "en": "Book", "es": "Libro", "fr": "Livre", "de": "Buch", "it": "Libro", "pt": "Livro", "ru": "Книга", "ar": "كتاب", "zh": "书"}
       ]
     },
     {
       "word": {"tr": "Mumya", "en": "Mummy", "es": "Momia", "fr": "Momie", "de": "Mumie", "it": "Mummia", "pt": "Múmia", "ru": "Мумия", "ar": "مومياء", "zh": "木乃伊"},
       "clues": [
-        {"tr": "Sargı", "en": "Bandages", "es": "Vendas", "fr": "Bandelettes", "de": "Bandagen", "it": "Bende", "pt": "Ataduras", "ru": "Бинты", "ar": "ضمادات", "zh": "绷带"},
-        {"tr": "Piramit", "en": "Pyramid", "es": "Pirámide", "fr": "Pyramide", "de": "Pyramide", "it": "Piramide", "pt": "Pirâmide", "ru": "Пирамида", "ar": "هرم", "zh": "金字塔"}
+        {"tr": "Lanet", "en": "Curse", "es": "Maldición", "fr": "Malédiction", "de": "Fluch", "it": "Maledizione", "pt": "Maldição", "ru": "Проклятие", "ar": "لعنة", "zh": "诅咒"},
+        {"tr": "Toz", "en": "Dust", "es": "Polvo", "fr": "Poussière", "de": "Staub", "it": "Polvere", "pt": "Poeira", "ru": "Пыль", "ar": "غبار", "zh": "灰尘"}
       ]
     },
     {
       "word": {"tr": "Uzaylı", "en": "Alien", "es": "Extraterrestre", "fr": "Extraterrestre", "de": "Außerirdischer", "it": "Alieno", "pt": "Alienígena", "ru": "Пришелец", "ar": "كائن فضائي", "zh": "外星人"},
       "clues": [
-        {"tr": "UFO", "en": "UFO", "es": "OVNI", "fr": "OVNI", "de": "UFO", "it": "UFO", "pt": "OVNI", "ru": "НЛО", "ar": "صحن طائر", "zh": "飞碟"},
-        {"tr": "Yeşil", "en": "Green", "es": "Verde", "fr": "Vert", "de": "Grün", "it": "Verde", "pt": "Verde", "ru": "Зелёный", "ar": "أخضر", "zh": "绿色"}
-      ]
-    },
-    {
-      "word": {"tr": "Hazine sandığı", "en": "Treasure chest", "es": "Cofre del tesoro", "fr": "Coffre au trésor", "de": "Schatztruhe", "it": "Forziere", "pt": "Baú do tesouro", "ru": "Сундук с сокровищами", "ar": "صندوق كنز", "zh": "宝箱"},
-      "clues": [
-        {"tr": "Altın", "en": "Gold", "es": "Oro", "fr": "Or", "de": "Gold", "it": "Oro", "pt": "Ouro", "ru": "Золото", "ar": "ذهب", "zh": "黄金"},
-        {"tr": "Harita", "en": "Map", "es": "Mapa", "fr": "Carte", "de": "Karte", "it": "Mappa", "pt": "Mapa", "ru": "Карта", "ar": "خريطة", "zh": "地图"}
+        {"tr": "Yeşil", "en": "Green", "es": "Verde", "fr": "Vert", "de": "Grün", "it": "Verde", "pt": "Verde", "ru": "Зелёный", "ar": "أخضر", "zh": "绿色"},
+        {"tr": "Anten", "en": "Antennae", "es": "Antenas", "fr": "Antennes", "de": "Antennen", "it": "Antenne", "pt": "Antenas", "ru": "Антенны", "ar": "هوائيات", "zh": "触角"}
       ]
     },
     {
       "word": {"tr": "Kristal küre", "en": "Crystal ball", "es": "Bola de cristal", "fr": "Boule de cristal", "de": "Kristallkugel", "it": "Sfera di cristallo", "pt": "Bola de cristal", "ru": "Хрустальный шар", "ar": "كرة بلورية", "zh": "水晶球"},
       "clues": [
-        {"tr": "Gelecek", "en": "Future", "es": "Futuro", "fr": "Avenir", "de": "Zukunft", "it": "Futuro", "pt": "Futuro", "ru": "Будущее", "ar": "مستقبل", "zh": "未来"},
-        {"tr": "Falcı", "en": "Fortune teller", "es": "Adivina", "fr": "Voyante", "de": "Wahrsagerin", "it": "Indovina", "pt": "Vidente", "ru": "Гадалка", "ar": "عرافة", "zh": "算命师"}
+        {"tr": "Sis", "en": "Mist", "es": "Niebla", "fr": "Brume", "de": "Nebel", "it": "Nebbia", "pt": "Névoa", "ru": "Туман", "ar": "ضباب", "zh": "迷雾"},
+        {"tr": "Sır", "en": "Secret", "es": "Secreto", "fr": "Secret", "de": "Geheimnis", "it": "Segreto", "pt": "Segredo", "ru": "Тайна", "ar": "سر", "zh": "秘密"}
       ]
     },
     {
       "word": {"tr": "Trol", "en": "Troll", "es": "Trol", "fr": "Troll", "de": "Troll", "it": "Troll", "pt": "Troll", "ru": "Тролль", "ar": "غول", "zh": "巨魔"},
       "clues": [
         {"tr": "Köprü", "en": "Bridge", "es": "Puente", "fr": "Pont", "de": "Brücke", "it": "Ponte", "pt": "Ponte", "ru": "Мост", "ar": "جسر", "zh": "桥"},
-        {"tr": "Çirkin", "en": "Ugly", "es": "Feo", "fr": "Laid", "de": "Hässlich", "it": "Brutto", "pt": "Feio", "ru": "Уродливый", "ar": "قبيح", "zh": "丑陋"}
+        {"tr": "Taş", "en": "Stone", "es": "Piedra", "fr": "Pierre", "de": "Stein", "it": "Pietra", "pt": "Pedra", "ru": "Камень", "ar": "حجر", "zh": "石头"}
       ]
     },
     {
       "word": {"tr": "Anka kuşu", "en": "Phoenix", "es": "Fénix", "fr": "Phénix", "de": "Phönix", "it": "Fenice", "pt": "Fênix", "ru": "Феникс", "ar": "العنقاء", "zh": "凤凰"},
       "clues": [
-        {"tr": "Küller", "en": "Ashes", "es": "Cenizas", "fr": "Cendres", "de": "Asche", "it": "Ceneri", "pt": "Cinzas", "ru": "Пепел", "ar": "رماد", "zh": "灰烬"},
-        {"tr": "Yeniden doğuş", "en": "Rebirth", "es": "Renacer", "fr": "Renaissance", "de": "Wiedergeburt", "it": "Rinascita", "pt": "Renascimento", "ru": "Возрождение", "ar": "ولادة جديدة", "zh": "重生"}
+        {"tr": "Alev", "en": "Flames", "es": "Llamas", "fr": "Flammes", "de": "Flammen", "it": "Fiamme", "pt": "Chamas", "ru": "Пламя", "ar": "لهب", "zh": "火焰"},
+        {"tr": "Ölümsüz", "en": "Immortal", "es": "Inmortal", "fr": "Immortel", "de": "Unsterblich", "it": "Immortale", "pt": "Imortal", "ru": "Бессмертный", "ar": "خالد", "zh": "不死"}
       ]
     },
     {
-      "word": {"tr": "Elf", "en": "Elf", "es": "Elfo", "fr": "Elfe", "de": "Elf", "it": "Elfo", "pt": "Elfo", "ru": "Эльф", "ar": "قزم الغابة", "zh": "精灵族"},
+      "word": {"tr": "Elf", "en": "Elf", "es": "Elfo", "fr": "Elfe", "de": "Elf", "it": "Elfo", "pt": "Elfo", "ru": "Эльф", "ar": "إلف", "zh": "精灵"},
       "clues": [
-        {"tr": "Sivri kulak", "en": "Pointy ears", "es": "Orejas puntiagudas", "fr": "Oreilles pointues", "de": "Spitze Ohren", "it": "Orecchie a punta", "pt": "Orelhas pontudas", "ru": "Острые уши", "ar": "آذان مدببة", "zh": "尖耳朵"},
-        {"tr": "Ok", "en": "Arrow", "es": "Flecha", "fr": "Flèche", "de": "Pfeil", "it": "Freccia", "pt": "Flecha", "ru": "Стрела", "ar": "سهم", "zh": "箭"}
+        {"tr": "Ok", "en": "Arrow", "es": "Flecha", "fr": "Flèche", "de": "Pfeil", "it": "Freccia", "pt": "Flecha", "ru": "Стрела", "ar": "سهم", "zh": "箭"},
+        {"tr": "Orman", "en": "Forest", "es": "Bosque", "fr": "Forêt", "de": "Wald", "it": "Foresta", "pt": "Floresta", "ru": "Лес", "ar": "غابة", "zh": "森林"}
+      ]
+    },
+    {
+      "word": {"tr": "Görünmezlik pelerini", "en": "Invisibility cloak", "es": "Capa de invisibilidad", "fr": "Cape d'invisibilité", "de": "Tarnumhang", "it": "Mantello dell'invisibilità", "pt": "Capa da invisibilidade", "ru": "Плащ-невидимка", "ar": "عباءة الإخفاء", "zh": "隐形斗篷"},
+      "clues": [
+        {"tr": "Kumaş", "en": "Fabric", "es": "Tela", "fr": "Tissu", "de": "Stoff", "it": "Tessuto", "pt": "Tecido", "ru": "Ткань", "ar": "قماش", "zh": "布料"},
+        {"tr": "Saklanmak", "en": "Hiding", "es": "Esconderse", "fr": "Se cacher", "de": "Verstecken", "it": "Nascondersi", "pt": "Esconder-se", "ru": "Прятаться", "ar": "اختباء", "zh": "躲藏"}
       ]
     }
   ]
