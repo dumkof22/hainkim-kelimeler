@@ -1,23 +1,52 @@
 # Gizlilik Politikası — Hain Kim?
 
-*Son güncelleme: 11 Ekim 2026* · [English below](#privacy-policy--whos-the-imposter)
+*Son güncelleme: 28 Ekim 2026* · [English below](#privacy-policy--whos-the-imposter)
 
 Hain Kim? (Android paket adı `com.hkn.hainkim`), arkadaş gruplarının tek bir
-telefonla oynadığı bir parti oyunudur. Bu sayfa, uygulamanın hangi bilgileri
+telefonla ya da online olarak herkesin kendi telefonundan oynadığı bir parti
+oyunudur. Bu sayfa, uygulamanın hangi bilgileri
 nasıl kullandığını açıklar.
 
 ## Kısaca
 
-- Hesap oluşturmanız gerekmez; uygulama sizden kişisel veri toplamaz.
+- Tek telefonla oynarken hesap gerekmez; girdiğiniz her şey yalnızca kendi
+  cihazınızda kalır.
+- Online mod isteğe bağlıdır; kullanırsanız seçtiğiniz oyuncu adı, arkadaş
+  listeniz ve oyun odaları Google Firebase'de saklanır (aşağıya bakın).
 - Reklam, analiz (analytics) ya da takip aracı yoktur.
-- Girdiğiniz her şey yalnızca kendi cihazınızda kalır.
 
 ## Cihazınızda saklananlar
 
-Oyuncu adları ve renkleri, seçtiğiniz dil, ses ve oyun ayarları, indirilen
-kelime paketleri ve Premium aboneliğinizin son bilinen durumu yalnızca
-cihazınızda saklanır; hiçbir sunucuya gönderilmez. Uygulamayı silmek bu
+Oyuncu listesindeki adlar ve renkler, seçtiğiniz dil, ses ve oyun ayarları,
+indirilen kelime paketleri ve Premium aboneliğinizin son bilinen durumu
+yalnızca cihazınızda saklanır; hiçbir sunucuya gönderilmez. Uygulamayı silmek bu
 bilgilerin tamamını kaldırır.
+
+## Online mod (isteğe bağlı)
+
+Online modu kullandığınızda uygulama Google'ın Firebase hizmetlerini
+(Authentication ve Realtime Database) kullanır. Veriler Google'ın Avrupa'daki
+(Belçika) sunucularında saklanır.
+
+- **Anonim hesap:** Cihazınıza rastgele bir kullanıcı kimliği verilir. E-posta,
+  telefon numarası ya da gerçek ad istenmez.
+- **Online profil:** Seçtiğiniz oyuncu adı, renk ve maskot süsleri, arkadaş
+  kodunuz ve (Premium süslerin görünmesi için) aboneliğinizin etkin olup
+  olmadığı saklanır; odadaki oyuncular ve arkadaşlarınız bunları görür.
+- **Arkadaşlar:** Arkadaş listeniz, arkadaşlık istekleri, oda davetleri ve
+  çevrimiçi olup olmadığınız saklanır; çevrimiçi durumunuzu arkadaşlarınız
+  görür.
+- **Oyun odaları:** Odadaki oyuncular, oyun ayarları, oylar, tahminler ve
+  çizimler oyun süresince saklanır. Oda sahibi odadan çıkınca oda silinir;
+  terk edilen odalar en geç 12 saat sonra yeni bir odayla değiştirilir.
+- **Sesli sohbet** uygulamanın içinde değildir: WhatsApp, Telegram, BiP,
+  Discord, Google Meet ya da Signal'e yönlendirilirsiniz ve o uygulamaların
+  gizlilik politikaları geçerlidir. Hain Kim? ses kaydetmez.
+- **Silme:** Online → profili düzenle → *Online verilerimi sil* ile
+  profilinizi, arkadaş kodunuzu ve arkadaşlıklarınızı istediğiniz an
+  silebilirsiniz; anonim hesap da kapatılır.
+
+Firebase'in gizlilik bilgileri: <https://firebase.google.com/support/privacy>
 
 ## İnternet bağlantısı
 
@@ -46,7 +75,9 @@ veya iptal edebilirsiniz. Google'ın gizlilik politikası:
 
 ## Çocuklar
 
-Uygulama kimseden, çocuklar dahil, bilerek kişisel veri toplamaz.
+Uygulama kimseden, çocuklar dahil, bilerek kişisel veri toplamaz. Online
+modda yalnızca kullanıcının kendi seçtiği oyuncu adı saklanır; gerçek ad
+yerine takma ad kullanılmasını öneririz.
 
 ## Değişiklikler
 
@@ -62,24 +93,53 @@ e-posta adresine yazabilirsiniz.
 
 # Privacy Policy — Who's the Imposter?
 
-*Last updated: October 11, 2026*
+*Last updated: October 28, 2026*
 
 Who's the Imposter? (Hain Kim?, Android package `com.hkn.hainkim`) is a party
-game that friends play on a single phone. This page explains what information
+game that friends play on a single phone, or online with everyone on their own
+phone. This page explains what information
 the app uses and how.
 
 ## In short
 
-- No account is required and the app does not collect personal data.
+- Playing on a single phone needs no account; everything you enter stays on
+  your own device.
+- Online mode is optional; if you use it, the player name you pick, your
+  friend list and game rooms are stored in Google Firebase (see below).
 - There are no ads, analytics or tracking tools.
-- Everything you enter stays on your own device.
 
 ## Stored on your device
 
-Player names and colors, your language, sound and game settings, downloaded
-word packs and the last known state of your Premium subscription are stored
-only on your device and are never sent to a server. Uninstalling the app
+The names and colors in your player list, your language, sound and game
+settings, downloaded word packs and the last known state of your Premium
+subscription are stored only on your device and are never sent to a server. Uninstalling the app
 removes all of them.
+
+## Online mode (optional)
+
+When you use online mode, the app uses Google's Firebase services
+(Authentication and Realtime Database). Data is stored on Google's servers in
+Europe (Belgium).
+
+- **Anonymous account:** Your device gets a random user ID. No email, phone
+  number or real name is asked for.
+- **Online profile:** The player name, color and mascot accessories you pick,
+  your friend code and whether your subscription is active (so Premium
+  accessories can be shown) are stored; players in your room and your friends
+  can see them.
+- **Friends:** Your friend list, friend requests, room invites and whether you
+  are online are stored; your friends can see your online status.
+- **Game rooms:** The players in a room, game settings, votes, guesses and
+  drawings are stored while the game lasts. A room is deleted when its host
+  leaves; abandoned rooms are replaced by a new room after 12 hours at most.
+- **Voice chat** is not part of the app: you are sent to WhatsApp, Telegram,
+  BiP, Discord, Google Meet or Signal, whose privacy policies apply. Hain Kim?
+  never records audio.
+- **Deletion:** Under Online → edit profile → *Delete my online data* you can
+  delete your profile, friend code and friendships at any time; the anonymous
+  account is closed too.
+
+Firebase privacy information: <https://firebase.google.com/support/privacy>
 
 ## Internet access
 
@@ -107,7 +167,8 @@ subscriptions. Google's privacy policy: <https://policies.google.com/privacy>
 ## Children
 
 The app does not knowingly collect personal data from anyone, including
-children.
+children. In online mode only the player name the user chooses is stored; we
+recommend a nickname rather than a real name.
 
 ## Changes
 

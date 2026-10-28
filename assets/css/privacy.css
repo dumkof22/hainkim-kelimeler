@@ -82,6 +82,21 @@ html:not(.js) .policy + .policy {
   color: var(--muted);
 }
 
+/* Online mod gibi madde madde anlatılan bölümler. */
+.policy ul:not(.policy__summary) {
+  margin-top: 12px;
+  padding-inline-start: 22px;
+  color: var(--muted);
+}
+
+.policy ul:not(.policy__summary) li + li {
+  margin-top: 8px;
+}
+
+.policy strong {
+  color: var(--text);
+}
+
 .policy code {
   padding: 2px 6px;
   border-radius: 6px;
