@@ -145,7 +145,7 @@ export default {
   a5: 'Absolutely! The word packs live in a public GitHub repository, where you can suggest new words, hints or categories.',
   a5Link: 'Here’s how',
   q6: 'Where does my data go?',
-  a6: 'Nowhere. There are no accounts, ads or tracking; player names and settings are stored only on your phone.',
+  a6: 'On a single phone, nowhere: player names and settings stay on your phone. There are no ads or tracking. In the optional online mode only the player name you pick, your friends and game rooms are stored in Google Firebase.',
   a6Link: 'Privacy policy',
 
   ctaTitle: "So… who's the imposter?",

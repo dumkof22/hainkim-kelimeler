@@ -79,6 +79,25 @@ Uygulama kimseden, çocuklar dahil, bilerek kişisel veri toplamaz. Online
 modda yalnızca kullanıcının kendi seçtiği oyuncu adı saklanır; gerçek ad
 yerine takma ad kullanılmasını öneririz.
 
+## Online hesabınızı ve verilerinizi silme
+
+Tek telefonla oynarken sunucuda hiçbir veriniz olmaz; uygulamayı silmek her
+şeyi kaldırır. Online modu kullandıysanız:
+
+- **Uygulamadan:** Online → profili düzenle → *Online verilerimi sil*. Online
+  profiliniz, arkadaş kodunuz, arkadaş listeniz, arkadaşlık istekleriniz,
+  davetleriniz ve çevrimiçi durumunuz hemen silinir; anonim hesabınız kapatılır.
+- **Uygulama olmadan:** Uygulamayı kaldırdıysanız ya da açamıyorsanız
+  <playermindiptv@gmail.com> adresine "Hain Kim? veri silme" konulu bir e-posta
+  gönderin; biliyorsanız arkadaş kodunuzu ve online oyuncu adınızı yazın. Aynı
+  veriler en geç 30 gün içinde silinir ve size bildirilir.
+- **Saklanmaya devam eden:** Yalnızca başkalarına gönderdiğiniz ve henüz
+  yanıtlanmamış arkadaşlık istekleri ile oda davetleri, karşı taraf kabul edene,
+  reddedene ya da kendi verilerini silene kadar onda görünür. Oyun odaları zaten
+  oda sahibi çıkınca silinir ya da en geç 12 saat içinde yeni bir odayla değiştirilir. Abonelik
+  kayıtlarınızı Google Play tutar; bunlar için Google Play'in kendi politikası
+  geçerlidir.
+
 ## Değişiklikler
 
 Bu politika değişirse güncel hali bu sayfada yayımlanır ve yukarıdaki tarih
@@ -86,8 +105,7 @@ yenilenir.
 
 ## İletişim
 
-Sorularınız için Google Play'deki uygulama sayfasında yer alan geliştirici
-e-posta adresine yazabilirsiniz.
+Sorularınız için <playermindiptv@gmail.com> adresine yazabilirsiniz.
 
 ---
 
@@ -170,6 +188,24 @@ The app does not knowingly collect personal data from anyone, including
 children. In online mode only the player name the user chooses is stored; we
 recommend a nickname rather than a real name.
 
+## Deleting your online account and data
+
+Playing on a single phone leaves no data on any server; uninstalling the app
+removes everything. If you used online mode:
+
+- **In the app:** Online → edit profile → *Delete my online data*. Your online
+  profile, friend code, friend list, friend requests, invites and online status
+  are deleted right away, and your anonymous account is closed.
+- **Without the app:** If you uninstalled the app or can't open it, email
+  <playermindiptv@gmail.com> with the subject "Who's the Imposter? data deletion" and,
+  if you know them, your friend code and online player name. The same data is
+  deleted within 30 days and we will let you know.
+- **What is kept:** Only friend requests and room invites you sent that are
+  still unanswered stay visible to the other person until they accept, decline
+  or delete their own data. Game rooms are already deleted when the host
+  leaves or replaced by a new room within 12 hours. Your subscription records
+  are held by Google Play under its own policy.
+
 ## Changes
 
 If this policy changes, the updated version will be published on this page
@@ -177,5 +213,4 @@ and the date above will be updated.
 
 ## Contact
 
-For questions, please use the developer email address shown on the app's
-Google Play page.
+For questions, email <playermindiptv@gmail.com>.
