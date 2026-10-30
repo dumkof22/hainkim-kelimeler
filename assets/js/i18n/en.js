@@ -3,7 +3,7 @@
 export default {
   metaTitle: "Who's the Imposter? · A party game for one phone",
   metaDescription:
-    'Words, Drawing and Vampires & Villagers: pass the phone around and find the imposter among you. 3–16 players, 10 languages, no ads.',
+    'Words, Drawing and Vampires & Villagers: pass the phone around or meet in an online room, and find the imposter among you. 3–16 players, 850+ words, 10 languages, no ads.',
   privacyMetaTitle: "Privacy Policy · Who's the Imposter?",
 
   skip: 'Skip to content',
@@ -21,13 +21,14 @@ export default {
   heroEyebrow: '🎉 A party game for one phone',
   heroTagline: 'Find the imposter among you.',
   heroLead:
-    'Words, Drawing and Vampires & Villagers. Pass the phone around and let the app do the narrating. No accounts, no setup, no ads.',
+    'Words, Drawing and Vampires & Villagers. Pass the phone around or meet in an online room, and let the app do the narrating. No accounts, no ads.',
   ctaPlay: 'Get it on Google Play',
   ctaHow: 'How to play',
   factPlayers: '👥 3–16 players',
   factLanguages: '🌍 10 languages',
   factNoAds: '🚫 No ads',
   factOffline: '📴 Plays offline',
+  factOnline: '🌐 Online rooms',
 
   bandWords: '🕵️ Words',
   bandDrawing: '🎨 Drawing',
@@ -48,7 +49,7 @@ export default {
   wordsPoint2: 'A caught imposter gets one last chance: guess the word and still win the round!',
   wordsPoint3: 'Scores are kept round by round, with a final ranking at the end.',
   chipPlayers316: '👥 3–16 players',
-  chipCategories: '🗂️ 20+ categories',
+  chipCategories: '🗂️ 850+ words',
   altWord: 'Secret word card: Bear',
   altImposter: "The imposter's card shows only a hint",
   altVoting: 'Voting screen',
@@ -105,14 +106,14 @@ export default {
   f5Title: '10 languages',
   f5Text: 'Turkish, English, German, Spanish, French, Italian, Portuguese, Russian, Arabic and Chinese.',
   f6Title: 'Always fresh words',
-  f6Text: 'New words arrive online, without waiting for an app update.',
-  f7Title: 'No ads',
-  f7Text: 'Nothing interrupts the tension at the worst possible moment.',
-  f8Title: 'No sign-up',
-  f8Text: 'Play without an account; everything stays on your phone.',
+  f6Text: 'More than 850 words, and new ones arrive online without waiting for an app update.',
+  f7Title: 'No ads, no sign-up',
+  f7Text: 'No ads interrupting the game, and no account to create.',
+  f8Title: 'Online rooms',
+  f8Text: 'Open a room with friends far away; switch to WhatsApp or Discord for voice chat.',
 
   packsEyebrow: 'Categories',
-  packsTitle: 'From animals to celebrities, hundreds of words',
+  packsTitle: 'From animals to celebrities, more than 850 words',
   packsLead:
     'Every word has several hints, and one is picked at random each round. New categories arrive without an app update.',
   statCategories: 'categories',
@@ -123,11 +124,12 @@ export default {
   free: 'Free',
 
   premiumTitle: 'Premium',
-  premiumLead: 'Start for free and unlock every category whenever you like.',
+  premiumLead: 'Start for free and try Premium free for 3 days.',
   premium1: 'A 40-word Mixed pack is free in Words and Drawing',
   premium2: 'Vampires & Villagers is completely free',
-  premium3: 'Premium unlocks every category, plus new ones as they are added',
-  premium4: 'Monthly or yearly plan; new subscribers get a 3-day free trial on the yearly plan',
+  premium3: 'Premium unlocks all 22 categories (850+ words), plus new ones as they are added',
+  premium5: 'Unlimited online rooms; themes, hats, glasses and patterns',
+  premium4: 'Monthly or yearly plan; new subscribers get a 3-day free trial on both plans',
   premiumFine:
     'Payment is charged to your Google Play account and renews until cancelled. You can cancel anytime in Google Play › Payments & subscriptions.',
 
@@ -138,7 +140,7 @@ export default {
   q2: 'How many people can play?',
   a2: 'Words and Drawing are for 3 to 16 players. Vampires & Villagers needs at least 4, and it gets better with a bigger group.',
   q3: 'Do I need an internet connection?',
-  a3: 'No, the game works offline. When you are online, new word packs download automatically.',
+  a3: 'Not on a single phone: the game works offline, and new word packs download automatically when you are online. Online mode needs the internet, of course.',
   q4: 'Is it free?',
   a4: 'It is free to download. Words and Drawing include a free 40-word Mixed pack, and Vampires & Villagers is entirely free. The other categories unlock with a Premium subscription.',
   q5: 'Can I suggest words?',
@@ -147,6 +149,10 @@ export default {
   q6: 'Where does my data go?',
   a6: 'On a single phone, nowhere: player names and settings stay on your phone. There are no ads or tracking. In the optional online mode only the player name you pick, your friends and game rooms are stored in Google Firebase.',
   a6Link: 'Privacy policy',
+  q7: 'How does online play work?',
+  a7: 'One of you opens a room and the others join with the room code or an invite; everyone plays on their own phone. Anyone can host one online game for free, and Premium lets you host as many as you like. Joining a room is always free. For voice chat you switch to an app like WhatsApp or Discord.',
+  q8: 'How does the free trial work?',
+  a8: 'New subscribers can try the monthly or yearly plan free for 3 days. Cancel in Google Play › Payments & subscriptions before the trial ends and you won’t be charged; otherwise the plan you chose begins.',
 
   ctaTitle: "So… who's the imposter?",
   ctaText: 'Gather your friends and put the phone in the middle. First round is on you.',
@@ -154,6 +160,8 @@ export default {
   footerTagline: 'Party games for one phone: Words, Drawing and Vampires & Villagers.',
   footerPrivacy: 'Privacy policy',
   footerPacks: 'Word packs',
+  footerDelete: 'Delete account & data',
+  footerContact: 'Contact',
 
   privacyBack: '← Back to home',
 };

@@ -1,6 +1,6 @@
 # Gizlilik Politikası — Hain Kim?
 
-*Son güncelleme: 28 Ekim 2026* · [English below](#privacy-policy--whos-the-imposter)
+*Son güncelleme: 29 Ekim 2026* · [English below](#privacy-policy--whos-the-imposter)
 
 Hain Kim? (Android paket adı `com.hkn.hainkim`), arkadaş gruplarının tek bir
 telefonla ya da online olarak herkesin kendi telefonundan oynadığı bir parti
@@ -39,6 +39,12 @@ Online modu kullandığınızda uygulama Google'ın Firebase hizmetlerini
 - **Oyun odaları:** Odadaki oyuncular, oyun ayarları, oylar, tahminler ve
   çizimler oyun süresince saklanır. Oda sahibi odadan çıkınca oda silinir;
   terk edilen odalar en geç 12 saat sonra yeni bir odayla değiştirilir.
+- **Ücretsiz online oyun:** İlk online oyununuzu kurduğunuzda, cihazınızın bu
+  uygulamaya özel Android kimliğinden tek yönlü olarak (geri çevrilemeyecek
+  şekilde) türetilen bir anahtar ve kullanılan ücretsiz oyun sayısı saklanır.
+  Kimliğin kendisi gönderilmez; anahtar adınıza ya da hesabınıza bağlanmaz ve
+  yalnızca uygulamayı silip yeniden yükleyerek ücretsiz oyunun tekrar
+  alınmasını önlemek için kullanılır.
 - **Sesli sohbet** uygulamanın içinde değildir: WhatsApp, Telegram, BiP,
   Discord, Google Meet ya da Signal'e yönlendirilirsiniz ve o uygulamaların
   gizlilik politikaları geçerlidir. Hain Kim? ses kaydetmez.
@@ -96,7 +102,8 @@ Tek telefonla oynarken sunucuda hiçbir veriniz olmaz; uygulamayı silmek her
   reddedene ya da kendi verilerini silene kadar onda görünür. Oyun odaları zaten
   oda sahibi çıkınca silinir ya da en geç 12 saat içinde yeni bir odayla değiştirilir. Abonelik
   kayıtlarınızı Google Play tutar; bunlar için Google Play'in kendi politikası
-  geçerlidir.
+  geçerlidir. Ücretsiz online oyun kaydı (yukarıdaki cihaz anahtarı ve sayı)
+  kötüye kullanımı önlemek için silinmez.
 
 ## Değişiklikler
 
@@ -111,7 +118,7 @@ Sorularınız için <playermindiptv@gmail.com> adresine yazabilirsiniz.
 
 # Privacy Policy — Who's the Imposter?
 
-*Last updated: October 28, 2026*
+*Last updated: October 29, 2026*
 
 Who's the Imposter? (Hain Kim?, Android package `com.hkn.hainkim`) is a party
 game that friends play on a single phone, or online with everyone on their own
@@ -150,6 +157,11 @@ Europe (Belgium).
 - **Game rooms:** The players in a room, game settings, votes, guesses and
   drawings are stored while the game lasts. A room is deleted when its host
   leaves; abandoned rooms are replaced by a new room after 12 hours at most.
+- **Free online game:** When you host your first online game, a key derived
+  one-way (it can't be reversed) from your device's app-specific Android ID
+  and the number of free games used are stored. The ID itself is never sent;
+  the key isn't linked to your name or account and is only used to stop the
+  free game from being claimed again by reinstalling the app.
 - **Voice chat** is not part of the app: you are sent to WhatsApp, Telegram,
   BiP, Discord, Google Meet or Signal, whose privacy policies apply. Hain Kim?
   never records audio.
@@ -204,7 +216,8 @@ removes everything. If you used online mode:
   still unanswered stay visible to the other person until they accept, decline
   or delete their own data. Game rooms are already deleted when the host
   leaves or replaced by a new room within 12 hours. Your subscription records
-  are held by Google Play under its own policy.
+  are held by Google Play under its own policy. The free online game record
+  (the device key above and a count) is not deleted, to prevent abuse.
 
 ## Changes
 
