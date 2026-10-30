@@ -159,6 +159,137 @@
         {"tr": "Menü", "en": "Menu", "es": "Menú", "fr": "Menu", "de": "Speisekarte", "it": "Menù", "pt": "Cardápio", "ru": "Меню", "ar": "قائمة", "zh": "菜单"},
         {"tr": "Siyah beyaz", "en": "Black and white", "es": "Blanco y negro", "fr": "Noir et blanc", "de": "Schwarz-weiß", "it": "Bianco e nero", "pt": "Preto e branco", "ru": "Чёрно-белый", "ar": "أبيض وأسود", "zh": "黑白"}
       ]
+    },
+    {
+      "word": {"tr": "Mekanik klavye", "en": "Mechanical keyboard", "es": "Teclado mecánico", "fr": "Clavier mécanique", "de": "Mechanische Tastatur", "it": "Tastiera meccanica", "pt": "Teclado mecânico", "ru": "Механическая клавиатура", "ar": "لوحة مفاتيح ميكانيكية", "zh": "机械键盘"},
+      "clues": [
+        {"tr": "Tıkırtı", "en": "Clicking", "es": "Clic clic", "fr": "Cliquetis", "de": "Klackern", "it": "Ticchettio", "pt": "Barulhinho", "ru": "Щелчки", "ar": "طقطقة", "zh": "咔嗒声"},
+        {"tr": "Oyuncu", "en": "Gamer", "es": "Gamer", "fr": "Gamer", "de": "Gamer", "it": "Gamer", "pt": "Gamer", "ru": "Геймер", "ar": "لاعب", "zh": "游戏玩家"}
+      ]
+    },
+    {
+      "word": {"tr": "Web kamerası", "en": "Webcam", "es": "Cámara web", "fr": "Webcam", "de": "Webcam", "it": "Webcam", "pt": "Webcam", "ru": "Веб-камера", "ar": "كاميرا الويب", "zh": "摄像头"},
+      "clues": [
+        {"tr": "Bant", "en": "Tape", "es": "Cinta", "fr": "Scotch", "de": "Klebeband", "it": "Nastro adesivo", "pt": "Fita adesiva", "ru": "Скотч", "ar": "شريط لاصق", "zh": "胶带"},
+        {"tr": "Toplantı", "en": "Meeting", "es": "Reunión", "fr": "Réunion", "de": "Meeting", "it": "Riunione", "pt": "Reunião", "ru": "Совещание", "ar": "اجتماع", "zh": "会议"}
+      ]
+    },
+    {
+      "word": {"tr": "Bluetooth", "en": "Bluetooth", "es": "Bluetooth", "fr": "Bluetooth", "de": "Bluetooth", "it": "Bluetooth", "pt": "Bluetooth", "ru": "Блютуз", "ar": "بلوتوث", "zh": "蓝牙"},
+      "drawable": false,
+      "clues": [
+        {"tr": "Eşleştirme", "en": "Pairing", "es": "Emparejar", "fr": "Appairage", "de": "Koppeln", "it": "Associare", "pt": "Parear", "ru": "Сопряжение", "ar": "اقتران", "zh": "配对"},
+        {"tr": "Kulaklık", "en": "Headphones", "es": "Auriculares", "fr": "Écouteurs", "de": "Kopfhörer", "it": "Cuffie", "pt": "Fones", "ru": "Наушники", "ar": "سماعات", "zh": "耳机"}
+      ]
+    },
+    {
+      "word": {"tr": "Sesli asistan", "en": "Voice assistant", "es": "Asistente de voz", "fr": "Assistant vocal", "de": "Sprachassistent", "it": "Assistente vocale", "pt": "Assistente de voz", "ru": "Голосовой помощник", "ar": "المساعد الصوتي", "zh": "语音助手"},
+      "drawable": false,
+      "clues": [
+        {"tr": "Hava durumu", "en": "Weather", "es": "El tiempo", "fr": "Météo", "de": "Wetter", "it": "Meteo", "pt": "Previsão do tempo", "ru": "Погода", "ar": "الطقس", "zh": "天气"},
+        {"tr": "Alarm kurmak", "en": "Setting alarms", "es": "Poner alarmas", "fr": "Régler une alarme", "de": "Wecker stellen", "it": "Impostare la sveglia", "pt": "Programar alarme", "ru": "Ставить будильник", "ar": "ضبط المنبه", "zh": "设闹钟"}
+      ]
+    },
+    {
+      "word": {"tr": "Elektrikli araba", "en": "Electric car", "es": "Coche eléctrico", "fr": "Voiture électrique", "de": "Elektroauto", "it": "Auto elettrica", "pt": "Carro elétrico", "ru": "Электромобиль", "ar": "سيارة كهربائية", "zh": "电动汽车"},
+      "clues": [
+        {"tr": "Fişe takmak", "en": "Plugging in", "es": "Enchufar", "fr": "Brancher", "de": "Einstecken", "it": "Collegare", "pt": "Plugar", "ru": "Подключать", "ar": "توصيل بالقابس", "zh": "插上插头"},
+        {"tr": "Sessizlik", "en": "Silence", "es": "Silencio", "fr": "Silence", "de": "Stille", "it": "Silenzio", "pt": "Silêncio", "ru": "Тишина", "ar": "صمت", "zh": "安静"}
+      ]
+    },
+    {
+      "word": {"tr": "Tuşlu cep telefonu", "en": "Old cell phone", "es": "Móvil antiguo", "fr": "Vieux portable", "de": "Altes Handy", "it": "Vecchio cellulare", "pt": "Celular antigo", "ru": "Кнопочный телефон", "ar": "هاتف قديم بأزرار", "zh": "老式按键手机"},
+      "clues": [
+        {"tr": "Yılan oyunu", "en": "Snake game", "es": "Juego de la serpiente", "fr": "Jeu du serpent", "de": "Snake-Spiel", "it": "Gioco del serpente", "pt": "Jogo da cobrinha", "ru": "Змейка", "ar": "لعبة الثعبان", "zh": "贪吃蛇"},
+        {"tr": "Kırılmaz", "en": "Unbreakable", "es": "Indestructible", "fr": "Incassable", "de": "Unzerstörbar", "it": "Indistruttibile", "pt": "Indestrutível", "ru": "Неубиваемый", "ar": "لا ينكسر", "zh": "摔不坏"}
+      ]
+    },
+    {
+      "word": {"tr": "Disket", "en": "Floppy disk", "es": "Disquete", "fr": "Disquette", "de": "Diskette", "it": "Floppy disk", "pt": "Disquete", "ru": "Дискета", "ar": "قرص مرن", "zh": "软盘"},
+      "clues": [
+        {"tr": "Kaydet simgesi", "en": "Save icon", "es": "Icono de guardar", "fr": "Icône Enregistrer", "de": "Speichern-Symbol", "it": "Icona Salva", "pt": "Ícone de salvar", "ru": "Значок «Сохранить»", "ar": "أيقونة الحفظ", "zh": "保存图标"},
+        {"tr": "Kare", "en": "Square", "es": "Cuadrado", "fr": "Carré", "de": "Quadrat", "it": "Quadrato", "pt": "Quadrado", "ru": "Квадрат", "ar": "مربع", "zh": "方形"}
+      ]
+    },
+    {
+      "word": {"tr": "Navigasyon", "en": "GPS navigation", "es": "Navegador GPS", "fr": "GPS", "de": "Navi", "it": "Navigatore", "pt": "GPS", "ru": "Навигатор", "ar": "جهاز الملاحة", "zh": "导航仪"},
+      "clues": [
+        {"tr": "Yeniden hesaplanıyor", "en": "Recalculating", "es": "Recalculando", "fr": "Recalcul en cours", "de": "Route wird neu berechnet", "it": "Ricalcolo", "pt": "Recalculando", "ru": "Перестраиваю маршрут", "ar": "إعادة حساب المسار", "zh": "重新规划路线"},
+        {"tr": "Kavşak", "en": "Junction", "es": "Cruce", "fr": "Carrefour", "de": "Kreuzung", "it": "Incrocio", "pt": "Cruzamento", "ru": "Развязка", "ar": "تقاطع", "zh": "路口"}
+      ]
+    },
+    {
+      "word": {"tr": "Parmak izi okuyucu", "en": "Fingerprint scanner", "es": "Lector de huellas", "fr": "Lecteur d'empreintes", "de": "Fingerabdrucksensor", "it": "Lettore di impronte", "pt": "Leitor de digitais", "ru": "Сканер отпечатков", "ar": "قارئ البصمة", "zh": "指纹识别"},
+      "clues": [
+        {"tr": "Kilit açmak", "en": "Unlocking", "es": "Desbloquear", "fr": "Déverrouiller", "de": "Entsperren", "it": "Sbloccare", "pt": "Desbloquear", "ru": "Разблокировка", "ar": "فتح القفل", "zh": "解锁"},
+        {"tr": "Dedektif", "en": "Detective", "es": "Detective", "fr": "Détective", "de": "Detektiv", "it": "Detective", "pt": "Detetive", "ru": "Детектив", "ar": "محقق", "zh": "侦探"}
+      ]
+    },
+    {
+      "word": {"tr": "Bilgisayar virüsü", "en": "Computer virus", "es": "Virus informático", "fr": "Virus informatique", "de": "Computervirus", "it": "Virus informatico", "pt": "Vírus de computador", "ru": "Компьютерный вирус", "ar": "فيروس الحاسوب", "zh": "电脑病毒"},
+      "clues": [
+        {"tr": "Hapşırık", "en": "Sneeze", "es": "Estornudo", "fr": "Éternuement", "de": "Niesen", "it": "Starnuto", "pt": "Espirro", "ru": "Чих", "ar": "عطسة", "zh": "喷嚏"},
+        {"tr": "E-posta eki", "en": "Email attachment", "es": "Archivo adjunto", "fr": "Pièce jointe", "de": "E-Mail-Anhang", "it": "Allegato", "pt": "Anexo de e-mail", "ru": "Вложение", "ar": "مرفق البريد", "zh": "邮件附件"}
+      ]
+    },
+    {
+      "word": {"tr": "Podcast", "en": "Podcast", "es": "Pódcast", "fr": "Podcast", "de": "Podcast", "it": "Podcast", "pt": "Podcast", "ru": "Подкаст", "ar": "بودكاست", "zh": "播客"},
+      "clues": [
+        {"tr": "Sohbet", "en": "Chatting", "es": "Charla", "fr": "Bavardage", "de": "Plaudern", "it": "Chiacchiere", "pt": "Conversa", "ru": "Беседа", "ar": "دردشة", "zh": "聊天"},
+        {"tr": "Bölüm", "en": "Episode", "es": "Episodio", "fr": "Épisode", "de": "Folge", "it": "Episodio", "pt": "Episódio", "ru": "Выпуск", "ar": "حلقة", "zh": "一期节目"}
+      ]
+    },
+    {
+      "word": {"tr": "Hoverboard", "en": "Hoverboard", "es": "Hoverboard", "fr": "Hoverboard", "de": "Hoverboard", "it": "Hoverboard", "pt": "Hoverboard", "ru": "Гироскутер", "ar": "هوفربورد", "zh": "平衡车"},
+      "clues": [
+        {"tr": "İki teker", "en": "Two wheels", "es": "Dos ruedas", "fr": "Deux roues", "de": "Zwei Räder", "it": "Due ruote", "pt": "Duas rodas", "ru": "Два колеса", "ar": "عجلتان", "zh": "两个轮子"},
+        {"tr": "Alışveriş merkezi", "en": "Mall", "es": "Centro comercial", "fr": "Centre commercial", "de": "Einkaufszentrum", "it": "Centro commerciale", "pt": "Shopping", "ru": "Торговый центр", "ar": "مركز تجاري", "zh": "商场"}
+      ]
+    },
+    {
+      "word": {"tr": "E-kitap okuyucu", "en": "E-reader", "es": "Lector de libros electrónicos", "fr": "Liseuse", "de": "E-Reader", "it": "E-reader", "pt": "Leitor digital", "ru": "Электронная книга", "ar": "قارئ الكتب الإلكترونية", "zh": "电子阅读器"},
+      "clues": [
+        {"tr": "Sayfa çevirmek", "en": "Turning pages", "es": "Pasar páginas", "fr": "Tourner les pages", "de": "Umblättern", "it": "Sfogliare", "pt": "Virar a página", "ru": "Листать", "ar": "تقليب الصفحات", "zh": "翻页"},
+        {"tr": "Tatil", "en": "Vacation", "es": "Vacaciones", "fr": "Vacances", "de": "Urlaub", "it": "Vacanza", "pt": "Férias", "ru": "Отпуск", "ar": "عطلة", "zh": "度假"}
+      ]
+    },
+    {
+      "word": {"tr": "Ekran görüntüsü", "en": "Screenshot", "es": "Captura de pantalla", "fr": "Capture d'écran", "de": "Screenshot", "it": "Screenshot", "pt": "Captura de tela", "ru": "Скриншот", "ar": "لقطة شاشة", "zh": "截图"},
+      "drawable": false,
+      "clues": [
+        {"tr": "Kanıt", "en": "Proof", "es": "Prueba", "fr": "Preuve", "de": "Beweis", "it": "Prova", "pt": "Prova", "ru": "Доказательство", "ar": "دليل", "zh": "证据"},
+        {"tr": "Grup sohbeti", "en": "Group chat", "es": "Chat grupal", "fr": "Discussion de groupe", "de": "Gruppenchat", "it": "Chat di gruppo", "pt": "Conversa em grupo", "ru": "Групповой чат", "ar": "دردشة جماعية", "zh": "群聊"}
+      ]
+    },
+    {
+      "word": {"tr": "Düşük pil", "en": "Low battery", "es": "Batería baja", "fr": "Batterie faible", "de": "Akku fast leer", "it": "Batteria scarica", "pt": "Bateria fraca", "ru": "Низкий заряд", "ar": "بطارية ضعيفة", "zh": "低电量"},
+      "clues": [
+        {"tr": "Panik", "en": "Panic", "es": "Pánico", "fr": "Panique", "de": "Panik", "it": "Panico", "pt": "Pânico", "ru": "Паника", "ar": "ذعر", "zh": "恐慌"},
+        {"tr": "Priz arayışı", "en": "Hunting for a socket", "es": "Buscar un enchufe", "fr": "Chercher une prise", "de": "Steckdosensuche", "it": "Cercare una presa", "pt": "Procurar tomada", "ru": "Поиск розетки", "ar": "البحث عن مقبس", "zh": "找插座"}
+      ]
+    },
+    {
+      "word": {"tr": "Otomatik düzeltme", "en": "Autocorrect", "es": "Autocorrector", "fr": "Correcteur automatique", "de": "Autokorrektur", "it": "Correttore automatico", "pt": "Corretor automático", "ru": "Автозамена", "ar": "التصحيح التلقائي", "zh": "自动更正"},
+      "drawable": false,
+      "clues": [
+        {"tr": "Yanlış anlaşılma", "en": "Misunderstanding", "es": "Malentendido", "fr": "Malentendu", "de": "Missverständnis", "it": "Malinteso", "pt": "Mal-entendido", "ru": "Недоразумение", "ar": "سوء فهم", "zh": "误会"},
+        {"tr": "Utanç", "en": "Embarrassment", "es": "Vergüenza", "fr": "Gêne", "de": "Peinlichkeit", "it": "Imbarazzo", "pt": "Vergonha", "ru": "Стыд", "ar": "إحراج", "zh": "尴尬"}
+      ]
+    },
+    {
+      "word": {"tr": "Kripto para", "en": "Cryptocurrency", "es": "Criptomoneda", "fr": "Cryptomonnaie", "de": "Kryptowährung", "it": "Criptovaluta", "pt": "Criptomoeda", "ru": "Криптовалюта", "ar": "عملة مشفرة", "zh": "加密货币"},
+      "drawable": false,
+      "clues": [
+        {"tr": "Maden", "en": "Mining", "es": "Minería", "fr": "Minage", "de": "Mining", "it": "Mining", "pt": "Mineração", "ru": "Майнинг", "ar": "تعدين", "zh": "挖矿"},
+        {"tr": "Dalgalanma", "en": "Volatility", "es": "Volatilidad", "fr": "Volatilité", "de": "Schwankungen", "it": "Volatilità", "pt": "Volatilidade", "ru": "Волатильность", "ar": "تقلبات", "zh": "波动"}
+      ]
+    },
+    {
+      "word": {"tr": "Görüntülü arama", "en": "Video call", "es": "Videollamada", "fr": "Appel vidéo", "de": "Videoanruf", "it": "Videochiamata", "pt": "Chamada de vídeo", "ru": "Видеозвонок", "ar": "مكالمة فيديو", "zh": "视频通话"},
+      "clues": [
+        {"tr": "Sessiz", "en": "On mute", "es": "Silenciado", "fr": "Micro coupé", "de": "Stummgeschaltet", "it": "Muto", "pt": "No mudo", "ru": "Без звука", "ar": "كتم الصوت", "zh": "静音"},
+        {"tr": "Pijama altı", "en": "Pajama bottoms", "es": "Pantalón de pijama", "fr": "Bas de pyjama", "de": "Pyjamahose", "it": "Pantaloni del pigiama", "pt": "Calça de pijama", "ru": "Пижамные штаны", "ar": "سروال البيجاما", "zh": "睡裤"}
+      ]
     }
   ]
 }

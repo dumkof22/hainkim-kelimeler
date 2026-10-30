@@ -199,6 +199,90 @@
         {"tr": "Gökyüzü", "en": "Sky", "es": "Cielo", "fr": "Ciel", "de": "Himmel", "it": "Cielo", "pt": "Céu", "ru": "Небо", "ar": "سماء", "zh": "天空"},
         {"tr": "Sabır", "en": "Patience", "es": "Paciencia", "fr": "Patience", "de": "Geduld", "it": "Pazienza", "pt": "Paciência", "ru": "Терпение", "ar": "صبر", "zh": "耐心"}
       ]
+    },
+    {
+      "word": {"tr": "Baykuş", "en": "Owl", "es": "Búho", "fr": "Hibou", "de": "Eule", "it": "Gufo", "pt": "Coruja", "ru": "Сова", "ar": "بومة", "zh": "猫头鹰"},
+      "clues": [
+        {"tr": "Bilge", "en": "Wise", "es": "Sabio", "fr": "Sage", "de": "Weise", "it": "Saggio", "pt": "Sábio", "ru": "Мудрый", "ar": "حكيم", "zh": "智者"},
+        {"tr": "Ağaç kovuğu", "en": "Tree hollow", "es": "Hueco del árbol", "fr": "Creux d'arbre", "de": "Baumhöhle", "it": "Cavità dell'albero", "pt": "Oco da árvore", "ru": "Дупло", "ar": "جوف الشجرة", "zh": "树洞"}
+      ]
+    },
+    {
+      "word": {"tr": "Timsah", "en": "Crocodile", "es": "Cocodrilo", "fr": "Crocodile", "de": "Krokodil", "it": "Coccodrillo", "pt": "Crocodilo", "ru": "Крокодил", "ar": "تمساح", "zh": "鳄鱼"},
+      "clues": [
+        {"tr": "Gözyaşı", "en": "Tears", "es": "Lágrimas", "fr": "Larmes", "de": "Tränen", "it": "Lacrime", "pt": "Lágrimas", "ru": "Слёзы", "ar": "دموع", "zh": "眼泪"},
+        {"tr": "Nehir kıyısı", "en": "Riverbank", "es": "Orilla del río", "fr": "Berge", "de": "Flussufer", "it": "Riva del fiume", "pt": "Margem do rio", "ru": "Берег реки", "ar": "ضفة النهر", "zh": "河岸"}
+      ]
+    },
+    {
+      "word": {"tr": "Kaplumbağa", "en": "Turtle", "es": "Tortuga", "fr": "Tortue", "de": "Schildkröte", "it": "Tartaruga", "pt": "Tartaruga", "ru": "Черепаха", "ar": "سلحفاة", "zh": "乌龟"},
+      "clues": [
+        {"tr": "Ev", "en": "Home", "es": "Casa", "fr": "Maison", "de": "Zuhause", "it": "Casa", "pt": "Casa", "ru": "Дом", "ar": "بيت", "zh": "家"},
+        {"tr": "Yüz yıl", "en": "A hundred years", "es": "Cien años", "fr": "Cent ans", "de": "Hundert Jahre", "it": "Cent'anni", "pt": "Cem anos", "ru": "Сто лет", "ar": "مئة عام", "zh": "百年"}
+      ]
+    },
+    {
+      "word": {"tr": "Tilki", "en": "Fox", "es": "Zorro", "fr": "Renard", "de": "Fuchs", "it": "Volpe", "pt": "Raposa", "ru": "Лиса", "ar": "ثعلب", "zh": "狐狸"},
+      "clues": [
+        {"tr": "Kümes", "en": "Henhouse", "es": "Gallinero", "fr": "Poulailler", "de": "Hühnerstall", "it": "Pollaio", "pt": "Galinheiro", "ru": "Курятник", "ar": "قن الدجاج", "zh": "鸡舍"},
+        {"tr": "Üzüm", "en": "Grapes", "es": "Uvas", "fr": "Raisins", "de": "Trauben", "it": "Uva", "pt": "Uvas", "ru": "Виноград", "ar": "عنب", "zh": "葡萄"}
+      ]
+    },
+    {
+      "word": {"tr": "Sincap", "en": "Squirrel", "es": "Ardilla", "fr": "Écureuil", "de": "Eichhörnchen", "it": "Scoiattolo", "pt": "Esquilo", "ru": "Белка", "ar": "سنجاب", "zh": "松鼠"},
+      "clues": [
+        {"tr": "Kışlık erzak", "en": "Winter supplies", "es": "Provisiones de invierno", "fr": "Réserves d'hiver", "de": "Wintervorrat", "it": "Scorte per l'inverno", "pt": "Provisões de inverno", "ru": "Запасы на зиму", "ar": "مؤونة الشتاء", "zh": "过冬储粮"},
+        {"tr": "Yanak", "en": "Cheeks", "es": "Mejillas", "fr": "Joues", "de": "Backen", "it": "Guance", "pt": "Bochechas", "ru": "Щёки", "ar": "خدود", "zh": "腮帮子"}
+      ]
+    },
+    {
+      "word": {"tr": "Köstebek", "en": "Mole", "es": "Topo", "fr": "Taupe", "de": "Maulwurf", "it": "Talpa", "pt": "Toupeira", "ru": "Крот", "ar": "حيوان الخلد", "zh": "鼹鼠"},
+      "clues": [
+        {"tr": "Tümsek", "en": "Mound", "es": "Montículo", "fr": "Monticule", "de": "Erdhügel", "it": "Cumulo di terra", "pt": "Montinho de terra", "ru": "Холмик", "ar": "كومة تراب", "zh": "土堆"},
+        {"tr": "Gözlük", "en": "Glasses", "es": "Gafas", "fr": "Lunettes", "de": "Brille", "it": "Occhiali", "pt": "Óculos", "ru": "Очки", "ar": "نظارة", "zh": "眼镜"}
+      ]
+    },
+    {
+      "word": {"tr": "Martı", "en": "Seagull", "es": "Gaviota", "fr": "Mouette", "de": "Möwe", "it": "Gabbiano", "pt": "Gaivota", "ru": "Чайка", "ar": "نورس", "zh": "海鸥"},
+      "clues": [
+        {"tr": "Vapur", "en": "Ferry", "es": "Ferri", "fr": "Ferry", "de": "Fähre", "it": "Traghetto", "pt": "Balsa", "ru": "Паром", "ar": "عبّارة", "zh": "渡轮"},
+        {"tr": "Çığlık", "en": "Screech", "es": "Chillido", "fr": "Cri perçant", "de": "Kreischen", "it": "Strillo", "pt": "Grito", "ru": "Крик", "ar": "صراخ", "zh": "尖叫"}
+      ]
+    },
+    {
+      "word": {"tr": "Denizatı", "en": "Seahorse", "es": "Caballito de mar", "fr": "Hippocampe", "de": "Seepferdchen", "it": "Cavalluccio marino", "pt": "Cavalo-marinho", "ru": "Морской конёк", "ar": "حصان البحر", "zh": "海马"},
+      "clues": [
+        {"tr": "Satranç", "en": "Chess", "es": "Ajedrez", "fr": "Échecs", "de": "Schach", "it": "Scacchi", "pt": "Xadrez", "ru": "Шахматы", "ar": "شطرنج", "zh": "国际象棋"},
+        {"tr": "Kıvrık kuyruk", "en": "Curly tail", "es": "Cola rizada", "fr": "Queue enroulée", "de": "Ringelschwanz", "it": "Coda arricciata", "pt": "Rabo enrolado", "ru": "Закрученный хвост", "ar": "ذيل ملتف", "zh": "卷尾巴"}
+      ]
+    },
+    {
+      "word": {"tr": "Kraliçe arı", "en": "Queen bee", "es": "Abeja reina", "fr": "Reine des abeilles", "de": "Bienenkönigin", "it": "Ape regina", "pt": "Abelha-rainha", "ru": "Пчелиная матка", "ar": "ملكة النحل", "zh": "蜂后"},
+      "clues": [
+        {"tr": "Altıgen", "en": "Hexagon", "es": "Hexágono", "fr": "Hexagone", "de": "Sechseck", "it": "Esagono", "pt": "Hexágono", "ru": "Шестиугольник", "ar": "شكل سداسي", "zh": "六边形"},
+        {"tr": "Taht", "en": "Throne", "es": "Trono", "fr": "Trône", "de": "Thron", "it": "Trono", "pt": "Trono", "ru": "Трон", "ar": "عرش", "zh": "王座"}
+      ]
+    },
+    {
+      "word": {"tr": "Rakun", "en": "Raccoon", "es": "Mapache", "fr": "Raton laveur", "de": "Waschbär", "it": "Procione", "pt": "Guaxinim", "ru": "Енот", "ar": "راكون", "zh": "浣熊"},
+      "clues": [
+        {"tr": "Çöp kutusu", "en": "Trash can", "es": "Cubo de basura", "fr": "Poubelle", "de": "Mülltonne", "it": "Bidone della spazzatura", "pt": "Lata de lixo", "ru": "Мусорный бак", "ar": "صندوق القمامة", "zh": "垃圾桶"},
+        {"tr": "Maske", "en": "Mask", "es": "Antifaz", "fr": "Masque", "de": "Maske", "it": "Maschera", "pt": "Máscara", "ru": "Маска", "ar": "قناع", "zh": "面具"}
+      ]
+    },
+    {
+      "word": {"tr": "Yengeç", "en": "Crab", "es": "Cangrejo", "fr": "Crabe", "de": "Krabbe", "it": "Granchio", "pt": "Caranguejo", "ru": "Краб", "ar": "سلطعون", "zh": "螃蟹"},
+      "clues": [
+        {"tr": "Kabuk", "en": "Shell", "es": "Caparazón", "fr": "Carapace", "de": "Panzer", "it": "Guscio", "pt": "Carapaça", "ru": "Панцирь", "ar": "قشرة", "zh": "硬壳"},
+        {"tr": "Kayalık", "en": "Rocks", "es": "Rocas", "fr": "Rochers", "de": "Felsen", "it": "Scogli", "pt": "Rochas", "ru": "Скалы", "ar": "صخور", "zh": "礁石"}
+      ]
+    },
+    {
+      "word": {"tr": "Köpekbalığı", "en": "Shark", "es": "Tiburón", "fr": "Requin", "de": "Hai", "it": "Squalo", "pt": "Tubarão", "ru": "Акула", "ar": "سمك القرش", "zh": "鲨鱼"},
+      "clues": [
+        {"tr": "Panik", "en": "Panic", "es": "Pánico", "fr": "Panique", "de": "Panik", "it": "Panico", "pt": "Pânico", "ru": "Паника", "ar": "ذعر", "zh": "恐慌"},
+        {"tr": "Plaj", "en": "Beach", "es": "Playa", "fr": "Plage", "de": "Strand", "it": "Spiaggia", "pt": "Praia", "ru": "Пляж", "ar": "شاطئ", "zh": "海滩"}
+      ]
     }
   ]
 }

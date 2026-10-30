@@ -160,6 +160,134 @@
         {"tr": "Kutucuklar", "en": "Boxes", "es": "Casillas", "fr": "Cases", "de": "Kästchen", "it": "Caselle", "pt": "Quadradinhos", "ru": "Клеточки", "ar": "مربعات", "zh": "格子"},
         {"tr": "Harfler", "en": "Letters", "es": "Letras", "fr": "Lettres", "de": "Buchstaben", "it": "Lettere", "pt": "Letras", "ru": "Буквы", "ar": "حروف", "zh": "字母"}
       ]
+    },
+    {
+      "word": {"tr": "Mars", "en": "Mars", "es": "Marte", "fr": "Mars", "de": "Mars", "it": "Marte", "pt": "Marte", "ru": "Марс", "ar": "المريخ", "zh": "火星"},
+      "clues": [
+        {"tr": "Pas", "en": "Rust", "es": "Óxido", "fr": "Rouille", "de": "Rost", "it": "Ruggine", "pt": "Ferrugem", "ru": "Ржавчина", "ar": "صدأ", "zh": "铁锈"},
+        {"tr": "Gezgin robot", "en": "Rover", "es": "Vehículo explorador", "fr": "Rover", "de": "Rover", "it": "Rover", "pt": "Rover", "ru": "Планетоход", "ar": "مركبة جوالة", "zh": "探测车"}
+      ]
+    },
+    {
+      "word": {"tr": "Aya iniş", "en": "Moon landing", "es": "Llegada a la Luna", "fr": "Premier pas sur la Lune", "de": "Mondlandung", "it": "Allunaggio", "pt": "Pouso na Lua", "ru": "Высадка на Луну", "ar": "الهبوط على القمر", "zh": "登月"},
+      "clues": [
+        {"tr": "Bayrak", "en": "Flag", "es": "Bandera", "fr": "Drapeau", "de": "Flagge", "it": "Bandiera", "pt": "Bandeira", "ru": "Флаг", "ar": "علم", "zh": "旗帜"},
+        {"tr": "Komplo teorisi", "en": "Conspiracy theory", "es": "Teoría conspirativa", "fr": "Théorie du complot", "de": "Verschwörungstheorie", "it": "Teoria del complotto", "pt": "Teoria da conspiração", "ru": "Теория заговора", "ar": "نظرية المؤامرة", "zh": "阴谋论"}
+      ]
+    },
+    {
+      "word": {"tr": "Güneş sistemi", "en": "Solar system", "es": "Sistema solar", "fr": "Système solaire", "de": "Sonnensystem", "it": "Sistema solare", "pt": "Sistema solar", "ru": "Солнечная система", "ar": "المجموعة الشمسية", "zh": "太阳系"},
+      "clues": [
+        {"tr": "Sekiz", "en": "Eight", "es": "Ocho", "fr": "Huit", "de": "Acht", "it": "Otto", "pt": "Oito", "ru": "Восемь", "ar": "ثمانية", "zh": "八"},
+        {"tr": "Okul maketi", "en": "School model", "es": "Maqueta escolar", "fr": "Maquette d'école", "de": "Schulmodell", "it": "Plastico scolastico", "pt": "Maquete escolar", "ru": "Школьный макет", "ar": "مجسم مدرسي", "zh": "学校模型"}
+      ]
+    },
+    {
+      "word": {"tr": "Prizma", "en": "Prism", "es": "Prisma", "fr": "Prisme", "de": "Prisma", "it": "Prisma", "pt": "Prisma", "ru": "Призма", "ar": "منشور", "zh": "棱镜"},
+      "clues": [
+        {"tr": "Gökkuşağı", "en": "Rainbow", "es": "Arcoíris", "fr": "Arc-en-ciel", "de": "Regenbogen", "it": "Arcobaleno", "pt": "Arco-íris", "ru": "Радуга", "ar": "قوس قزح", "zh": "彩虹"},
+        {"tr": "Beyaz ışık", "en": "White light", "es": "Luz blanca", "fr": "Lumière blanche", "de": "Weißes Licht", "it": "Luce bianca", "pt": "Luz branca", "ru": "Белый свет", "ar": "ضوء أبيض", "zh": "白光"}
+      ]
+    },
+    {
+      "word": {"tr": "Aşı", "en": "Vaccine", "es": "Vacuna", "fr": "Vaccin", "de": "Impfung", "it": "Vaccino", "pt": "Vacina", "ru": "Прививка", "ar": "لقاح", "zh": "疫苗"},
+      "clues": [
+        {"tr": "Kol", "en": "Upper arm", "es": "Brazo", "fr": "Bras", "de": "Oberarm", "it": "Braccio", "pt": "Braço", "ru": "Плечо", "ar": "ذراع", "zh": "胳膊"},
+        {"tr": "Bağışıklık", "en": "Immunity", "es": "Inmunidad", "fr": "Immunité", "de": "Immunität", "it": "Immunità", "pt": "Imunidade", "ru": "Иммунитет", "ar": "مناعة", "zh": "抵抗力"}
+      ]
+    },
+    {
+      "word": {"tr": "Petri kabı", "en": "Petri dish", "es": "Placa de Petri", "fr": "Boîte de Petri", "de": "Petrischale", "it": "Piastra di Petri", "pt": "Placa de Petri", "ru": "Чашка Петри", "ar": "طبق بتري", "zh": "培养皿"},
+      "clues": [
+        {"tr": "Küf", "en": "Mold", "es": "Moho", "fr": "Moisissure", "de": "Schimmel", "it": "Muffa", "pt": "Mofo", "ru": "Плесень", "ar": "عفن", "zh": "霉菌"},
+        {"tr": "Kapaklı tabak", "en": "Plate with a lid", "es": "Plato con tapa", "fr": "Assiette avec couvercle", "de": "Glasdose mit Deckel", "it": "Piattino con coperchio", "pt": "Prato com tampa", "ru": "Блюдце с крышкой", "ar": "صحن بغطاء", "zh": "带盖的小碟"}
+      ]
+    },
+    {
+      "word": {"tr": "Sismograf", "en": "Seismograph", "es": "Sismógrafo", "fr": "Sismographe", "de": "Seismograf", "it": "Sismografo", "pt": "Sismógrafo", "ru": "Сейсмограф", "ar": "جهاز رصد الزلازل", "zh": "地震仪"},
+      "clues": [
+        {"tr": "Zikzak", "en": "Zigzag", "es": "Zigzag", "fr": "Zigzag", "de": "Zickzack", "it": "Zigzag", "pt": "Ziguezague", "ru": "Зигзаг", "ar": "خط متعرج", "zh": "锯齿线"},
+        {"tr": "Sallantı", "en": "Shaking", "es": "Temblor", "fr": "Secousse", "de": "Erschütterung", "it": "Scossa", "pt": "Tremor", "ru": "Толчки", "ar": "اهتزاز", "zh": "晃动"}
+      ]
+    },
+    {
+      "word": {"tr": "Su döngüsü", "en": "Water cycle", "es": "Ciclo del agua", "fr": "Cycle de l'eau", "de": "Wasserkreislauf", "it": "Ciclo dell'acqua", "pt": "Ciclo da água", "ru": "Круговорот воды", "ar": "دورة الماء", "zh": "水循环"},
+      "drawable": false,
+      "clues": [
+        {"tr": "Buharlaşma", "en": "Evaporation", "es": "Evaporación", "fr": "Évaporation", "de": "Verdunstung", "it": "Evaporazione", "pt": "Evaporação", "ru": "Испарение", "ar": "تبخر", "zh": "蒸发"},
+        {"tr": "Bulut", "en": "Clouds", "es": "Nubes", "fr": "Nuages", "de": "Wolken", "it": "Nuvole", "pt": "Nuvens", "ru": "Облака", "ar": "غيوم", "zh": "云朵"}
+      ]
+    },
+    {
+      "word": {"tr": "Mamut", "en": "Mammoth", "es": "Mamut", "fr": "Mammouth", "de": "Mammut", "it": "Mammut", "pt": "Mamute", "ru": "Мамонт", "ar": "ماموث", "zh": "猛犸象"},
+      "clues": [
+        {"tr": "Buz devri", "en": "Ice Age", "es": "Edad de hielo", "fr": "Âge de glace", "de": "Eiszeit", "it": "Era glaciale", "pt": "Era do gelo", "ru": "Ледниковый период", "ar": "العصر الجليدي", "zh": "冰河世纪"},
+        {"tr": "Fildişi", "en": "Ivory", "es": "Marfil", "fr": "Ivoire", "de": "Elfenbein", "it": "Avorio", "pt": "Marfim", "ru": "Бивни", "ar": "عاج", "zh": "长牙"}
+      ]
+    },
+    {
+      "word": {"tr": "Nobel ödülü", "en": "Nobel Prize", "es": "Premio Nobel", "fr": "Prix Nobel", "de": "Nobelpreis", "it": "Premio Nobel", "pt": "Prêmio Nobel", "ru": "Нобелевская премия", "ar": "جائزة نوبل", "zh": "诺贝尔奖"},
+      "clues": [
+        {"tr": "Madalya", "en": "Medal", "es": "Medalla", "fr": "Médaille", "de": "Medaille", "it": "Medaglia", "pt": "Medalha", "ru": "Медаль", "ar": "ميدالية", "zh": "金牌"},
+        {"tr": "İsveç", "en": "Sweden", "es": "Suecia", "fr": "Suède", "de": "Schweden", "it": "Svezia", "pt": "Suécia", "ru": "Швеция", "ar": "السويد", "zh": "瑞典"}
+      ]
+    },
+    {
+      "word": {"tr": "Einstein", "en": "Einstein", "es": "Einstein", "fr": "Einstein", "de": "Einstein", "it": "Einstein", "pt": "Einstein", "ru": "Эйнштейн", "ar": "أينشتاين", "zh": "爱因斯坦"},
+      "clues": [
+        {"tr": "Dil çıkarmak", "en": "Tongue out", "es": "Sacar la lengua", "fr": "Tirer la langue", "de": "Zunge rausstrecken", "it": "Linguaccia", "pt": "Mostrar a língua", "ru": "Показать язык", "ar": "إخراج اللسان", "zh": "吐舌头"},
+        {"tr": "Dağınık saç", "en": "Messy hair", "es": "Pelo despeinado", "fr": "Cheveux en bataille", "de": "Wirres Haar", "it": "Capelli spettinati", "pt": "Cabelo bagunçado", "ru": "Растрёпанные волосы", "ar": "شعر منكوش", "zh": "乱发"}
+      ]
+    },
+    {
+      "word": {"tr": "Büyüteç", "en": "Magnifying glass", "es": "Lupa", "fr": "Loupe", "de": "Lupe", "it": "Lente d'ingrandimento", "pt": "Lupa", "ru": "Лупа", "ar": "عدسة مكبرة", "zh": "放大镜"},
+      "clues": [
+        {"tr": "Pul koleksiyonu", "en": "Stamp collection", "es": "Colección de sellos", "fr": "Collection de timbres", "de": "Briefmarkensammlung", "it": "Collezione di francobolli", "pt": "Coleção de selos", "ru": "Коллекция марок", "ar": "مجموعة طوابع", "zh": "集邮"},
+        {"tr": "Küçük yazılar", "en": "Fine print", "es": "Letra pequeña", "fr": "Petits caractères", "de": "Kleingedrucktes", "it": "Caratteri piccoli", "pt": "Letras miúdas", "ru": "Мелкий шрифт", "ar": "الخط الصغير", "zh": "小字"}
+      ]
+    },
+    {
+      "word": {"tr": "Hologram", "en": "Hologram", "es": "Holograma", "fr": "Hologramme", "de": "Hologramm", "it": "Ologramma", "pt": "Holograma", "ru": "Голограмма", "ar": "صورة مجسمة", "zh": "全息图"},
+      "clues": [
+        {"tr": "Kimlik kartı", "en": "ID card", "es": "DNI", "fr": "Carte d'identité", "de": "Ausweis", "it": "Carta d'identità", "pt": "Identidade", "ru": "Удостоверение", "ar": "بطاقة الهوية", "zh": "身份证"},
+        {"tr": "Üç boyut", "en": "3D", "es": "3D", "fr": "3D", "de": "3D", "it": "3D", "pt": "3D", "ru": "3D", "ar": "ثلاثي الأبعاد", "zh": "立体"}
+      ]
+    },
+    {
+      "word": {"tr": "Kobay", "en": "Guinea pig", "es": "Cobaya", "fr": "Cobaye", "de": "Versuchskaninchen", "it": "Cavia", "pt": "Cobaia", "ru": "Подопытный кролик", "ar": "فأر تجارب", "zh": "小白鼠"},
+      "clues": [
+        {"tr": "Gönüllü", "en": "Volunteer", "es": "Voluntario", "fr": "Volontaire", "de": "Freiwilliger", "it": "Volontario", "pt": "Voluntário", "ru": "Доброволец", "ar": "متطوع", "zh": "志愿者"},
+        {"tr": "Kafes", "en": "Cage", "es": "Jaula", "fr": "Cage", "de": "Käfig", "it": "Gabbia", "pt": "Gaiola", "ru": "Клетка", "ar": "قفص", "zh": "笼子"}
+      ]
+    },
+    {
+      "word": {"tr": "Ozon tabakası", "en": "Ozone layer", "es": "Capa de ozono", "fr": "Couche d'ozone", "de": "Ozonschicht", "it": "Strato di ozono", "pt": "Camada de ozônio", "ru": "Озоновый слой", "ar": "طبقة الأوزون", "zh": "臭氧层"},
+      "drawable": false,
+      "clues": [
+        {"tr": "Delik", "en": "Hole", "es": "Agujero", "fr": "Trou", "de": "Loch", "it": "Buco", "pt": "Buraco", "ru": "Дыра", "ar": "ثقب", "zh": "空洞"},
+        {"tr": "Sprey kutusu", "en": "Aerosol can", "es": "Aerosol", "fr": "Bombe aérosol", "de": "Spraydose", "it": "Bomboletta spray", "pt": "Lata de spray", "ru": "Баллончик", "ar": "علبة رذاذ", "zh": "喷雾罐"}
+      ]
+    },
+    {
+      "word": {"tr": "Mikroçip", "en": "Microchip", "es": "Microchip", "fr": "Puce", "de": "Mikrochip", "it": "Microchip", "pt": "Microchip", "ru": "Микрочип", "ar": "رقاقة إلكترونية", "zh": "芯片"},
+      "clues": [
+        {"tr": "Evcil hayvan", "en": "Pets", "es": "Mascotas", "fr": "Animaux de compagnie", "de": "Haustiere", "it": "Animali domestici", "pt": "Animais de estimação", "ru": "Домашние питомцы", "ar": "حيوانات أليفة", "zh": "宠物"},
+        {"tr": "Kredi kartı", "en": "Credit card", "es": "Tarjeta de crédito", "fr": "Carte bancaire", "de": "Kreditkarte", "it": "Carta di credito", "pt": "Cartão de crédito", "ru": "Кредитная карта", "ar": "بطاقة ائتمان", "zh": "信用卡"}
+      ]
+    },
+    {
+      "word": {"tr": "Asit yağmuru", "en": "Acid rain", "es": "Lluvia ácida", "fr": "Pluie acide", "de": "Saurer Regen", "it": "Pioggia acida", "pt": "Chuva ácida", "ru": "Кислотный дождь", "ar": "مطر حمضي", "zh": "酸雨"},
+      "clues": [
+        {"tr": "Ölü orman", "en": "Dead forest", "es": "Bosque muerto", "fr": "Forêt morte", "de": "Toter Wald", "it": "Foresta morta", "pt": "Floresta morta", "ru": "Мёртвый лес", "ar": "غابة ميتة", "zh": "枯死的森林"},
+        {"tr": "Baca", "en": "Smokestack", "es": "Chimenea", "fr": "Cheminée", "de": "Schornstein", "it": "Ciminiera", "pt": "Chaminé", "ru": "Труба", "ar": "مدخنة", "zh": "烟囱"}
+      ]
+    },
+    {
+      "word": {"tr": "Güneş tutulması", "en": "Solar eclipse", "es": "Eclipse solar", "fr": "Éclipse solaire", "de": "Sonnenfinsternis", "it": "Eclissi solare", "pt": "Eclipse solar", "ru": "Солнечное затмение", "ar": "كسوف الشمس", "zh": "日食"},
+      "clues": [
+        {"tr": "Özel gözlük", "en": "Special glasses", "es": "Gafas especiales", "fr": "Lunettes spéciales", "de": "Spezialbrille", "it": "Occhiali speciali", "pt": "Óculos especiais", "ru": "Специальные очки", "ar": "نظارات خاصة", "zh": "专用眼镜"},
+        {"tr": "Gündüz karanlığı", "en": "Darkness at noon", "es": "Oscuridad de día", "fr": "Nuit en plein jour", "de": "Dunkelheit am Tag", "it": "Buio di giorno", "pt": "Escuridão de dia", "ru": "Тьма днём", "ar": "ظلام في النهار", "zh": "白天变黑"}
+      ]
     }
   ]
 }

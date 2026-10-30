@@ -185,6 +185,105 @@
         {"tr": "Tebeşir", "en": "Chalk", "es": "Tiza", "fr": "Craie", "de": "Kreide", "it": "Gesso", "pt": "Giz", "ru": "Мел", "ar": "طباشير", "zh": "巧粉"},
         {"tr": "Yeşil", "en": "Green", "es": "Verde", "fr": "Vert", "de": "Grün", "it": "Verde", "pt": "Verde", "ru": "Зелёный", "ar": "أخضر", "zh": "绿色"}
       ]
+    },
+    {
+      "word": {"tr": "Paraşütle atlama", "en": "Skydiving", "es": "Paracaidismo", "fr": "Parachutisme", "de": "Fallschirmspringen", "it": "Paracadutismo", "pt": "Paraquedismo", "ru": "Прыжок с парашютом", "ar": "القفز المظلي", "zh": "跳伞"},
+      "clues": [
+        {"tr": "Uçak kapısı", "en": "Plane door", "es": "Puerta del avión", "fr": "Porte de l'avion", "de": "Flugzeugtür", "it": "Portellone dell'aereo", "pt": "Porta do avião", "ru": "Дверь самолёта", "ar": "باب الطائرة", "zh": "机舱门"},
+        {"tr": "Kalp atışı", "en": "Heartbeat", "es": "Latidos", "fr": "Battements de cœur", "de": "Herzklopfen", "it": "Batticuore", "pt": "Batimentos", "ru": "Сердцебиение", "ar": "دقات القلب", "zh": "心怦怦"}
+      ]
+    },
+    {
+      "word": {"tr": "Bungee jumping", "en": "Bungee jumping", "es": "Salto en bungee", "fr": "Saut à l'élastique", "de": "Bungee-Jumping", "it": "Bungee jumping", "pt": "Bungee jump", "ru": "Банджи-джампинг", "ar": "القفز بالحبال", "zh": "蹦极"},
+      "clues": [
+        {"tr": "Köprü", "en": "Bridge", "es": "Puente", "fr": "Pont", "de": "Brücke", "it": "Ponte", "pt": "Ponte", "ru": "Мост", "ar": "جسر", "zh": "桥"},
+        {"tr": "Ayak bileği", "en": "Ankle", "es": "Tobillo", "fr": "Cheville", "de": "Knöchel", "it": "Caviglia", "pt": "Tornozelo", "ru": "Лодыжка", "ar": "الكاحل", "zh": "脚踝"}
+      ]
+    },
+    {
+      "word": {"tr": "Formula 1", "en": "Formula 1", "es": "Fórmula 1", "fr": "Formule 1", "de": "Formel 1", "it": "Formula 1", "pt": "Fórmula 1", "ru": "Формула-1", "ar": "الفورمولا 1", "zh": "一级方程式赛车"},
+      "clues": [
+        {"tr": "Lastik değişimi", "en": "Tire change", "es": "Cambio de neumáticos", "fr": "Changement de pneus", "de": "Reifenwechsel", "it": "Cambio gomme", "pt": "Troca de pneus", "ru": "Смена шин", "ar": "تغيير الإطارات", "zh": "换轮胎"},
+        {"tr": "Viraj", "en": "Sharp turn", "es": "Curva", "fr": "Virage", "de": "Kurve", "it": "Curva", "pt": "Curva", "ru": "Поворот", "ar": "منعطف", "zh": "弯道"}
+      ]
+    },
+    {
+      "word": {"tr": "Hentbol", "en": "Handball", "es": "Balonmano", "fr": "Handball", "de": "Handball", "it": "Pallamano", "pt": "Handebol", "ru": "Гандбол", "ar": "كرة اليد", "zh": "手球"},
+      "clues": [
+        {"tr": "Reçine", "en": "Resin", "es": "Resina", "fr": "Résine", "de": "Harz", "it": "Resina", "pt": "Resina", "ru": "Смола", "ar": "راتنج", "zh": "松香"},
+        {"tr": "Kapalı salon", "en": "Indoor arena", "es": "Pabellón", "fr": "Gymnase", "de": "Sporthalle", "it": "Palazzetto", "pt": "Ginásio", "ru": "Спортзал", "ar": "صالة مغلقة", "zh": "体育馆"}
+      ]
+    },
+    {
+      "word": {"tr": "Su kayağı", "en": "Water skiing", "es": "Esquí acuático", "fr": "Ski nautique", "de": "Wasserski", "it": "Sci nautico", "pt": "Esqui aquático", "ru": "Водные лыжи", "ar": "التزلج على الماء", "zh": "滑水"},
+      "clues": [
+        {"tr": "Sürat teknesi", "en": "Speedboat", "es": "Lancha", "fr": "Hors-bord", "de": "Motorboot", "it": "Motoscafo", "pt": "Lancha", "ru": "Катер", "ar": "زورق سريع", "zh": "快艇"},
+        {"tr": "Göl", "en": "Lake", "es": "Lago", "fr": "Lac", "de": "See", "it": "Lago", "pt": "Lago", "ru": "Озеро", "ar": "بحيرة", "zh": "湖"}
+      ]
+    },
+    {
+      "word": {"tr": "Kürek çekme", "en": "Rowing", "es": "Remo", "fr": "Aviron", "de": "Rudern", "it": "Canottaggio", "pt": "Remo", "ru": "Академическая гребля", "ar": "التجديف", "zh": "赛艇"},
+      "clues": [
+        {"tr": "Senkron", "en": "In sync", "es": "Sincronía", "fr": "Synchronisation", "de": "Gleichtakt", "it": "Sincronia", "pt": "Sincronia", "ru": "Синхронность", "ar": "تزامن", "zh": "同步"},
+        {"tr": "Nasır", "en": "Calluses", "es": "Callos", "fr": "Durillons", "de": "Schwielen", "it": "Calli", "pt": "Calos", "ru": "Мозоли", "ar": "تصلب الجلد", "zh": "老茧"}
+      ]
+    },
+    {
+      "word": {"tr": "Bisiklet yarışı", "en": "Cycling race", "es": "Carrera ciclista", "fr": "Course cycliste", "de": "Radrennen", "it": "Gara ciclistica", "pt": "Corrida de bicicleta", "ru": "Велогонка", "ar": "سباق الدراجات", "zh": "自行车赛"},
+      "clues": [
+        {"tr": "Sarı mayo", "en": "Yellow jersey", "es": "Maillot amarillo", "fr": "Maillot jaune", "de": "Gelbes Trikot", "it": "Maglia gialla", "pt": "Camisa amarela", "ru": "Жёлтая майка", "ar": "القميص الأصفر", "zh": "黄衫"},
+        {"tr": "Dar tayt", "en": "Lycra", "es": "Licra", "fr": "Lycra", "de": "Hautenge Hose", "it": "Pantaloncini aderenti", "pt": "Bermuda de lycra", "ru": "Лосины", "ar": "سروال ضيق", "zh": "紧身裤"}
+      ]
+    },
+    {
+      "word": {"tr": "Ofsayt", "en": "Offside", "es": "Fuera de juego", "fr": "Hors-jeu", "de": "Abseits", "it": "Fuorigioco", "pt": "Impedimento", "ru": "Офсайд", "ar": "تسلل", "zh": "越位"},
+      "drawable": false,
+      "clues": [
+        {"tr": "Tartışma", "en": "Argument", "es": "Discusión", "fr": "Dispute", "de": "Streit", "it": "Discussione", "pt": "Discussão", "ru": "Спор", "ar": "جدال", "zh": "争论"},
+        {"tr": "Bayrak", "en": "Flag", "es": "Bandera", "fr": "Drapeau", "de": "Fahne", "it": "Bandierina", "pt": "Bandeira", "ru": "Флажок", "ar": "راية", "zh": "旗子"}
+      ]
+    },
+    {
+      "word": {"tr": "Üçlük", "en": "Three-pointer", "es": "Triple", "fr": "Panier à trois points", "de": "Dreier", "it": "Tiro da tre", "pt": "Cesta de três", "ru": "Трёхочковый бросок", "ar": "رمية ثلاثية", "zh": "三分球"},
+      "clues": [
+        {"tr": "Son saniye", "en": "Last second", "es": "Último segundo", "fr": "Dernière seconde", "de": "Letzte Sekunde", "it": "Ultimo secondo", "pt": "Último segundo", "ru": "Последняя секунда", "ar": "الثانية الأخيرة", "zh": "最后一秒"},
+        {"tr": "Yay", "en": "Arc", "es": "Arco", "fr": "Arc", "de": "Bogen", "it": "Arco", "pt": "Arco", "ru": "Дуга", "ar": "قوس", "zh": "弧线"}
+      ]
+    },
+    {
+      "word": {"tr": "Wimbledon", "en": "Wimbledon", "es": "Wimbledon", "fr": "Wimbledon", "de": "Wimbledon", "it": "Wimbledon", "pt": "Wimbledon", "ru": "Уимблдон", "ar": "ويمبلدون", "zh": "温布尔登"},
+      "clues": [
+        {"tr": "Çilek", "en": "Strawberries", "es": "Fresas", "fr": "Fraises", "de": "Erdbeeren", "it": "Fragole", "pt": "Morangos", "ru": "Клубника", "ar": "فراولة", "zh": "草莓"},
+        {"tr": "Beyaz kıyafet", "en": "All white", "es": "Ropa blanca", "fr": "Tenue blanche", "de": "Weiße Kleidung", "it": "Abiti bianchi", "pt": "Roupa branca", "ru": "Белая форма", "ar": "ملابس بيضاء", "zh": "白色着装"}
+      ]
+    },
+    {
+      "word": {"tr": "Halat çekme", "en": "Tug of war", "es": "Tira y afloja", "fr": "Tir à la corde", "de": "Tauziehen", "it": "Tiro alla fune", "pt": "Cabo de guerra", "ru": "Перетягивание каната", "ar": "شد الحبل", "zh": "拔河"},
+      "clues": [
+        {"tr": "Okul şenliği", "en": "School fair", "es": "Fiesta escolar", "fr": "Kermesse", "de": "Schulfest", "it": "Festa della scuola", "pt": "Festa da escola", "ru": "Школьный праздник", "ar": "مهرجان مدرسي", "zh": "校运会"},
+        {"tr": "Kızarmış avuç", "en": "Sore palms", "es": "Palmas rojas", "fr": "Paumes rouges", "de": "Rote Handflächen", "it": "Palmi arrossati", "pt": "Palmas vermelhas", "ru": "Красные ладони", "ar": "كفوف محمرة", "zh": "手心通红"}
+      ]
+    },
+    {
+      "word": {"tr": "İp atlama", "en": "Jump rope", "es": "Saltar la cuerda", "fr": "Corde à sauter", "de": "Seilspringen", "it": "Salto della corda", "pt": "Pular corda", "ru": "Скакалка", "ar": "نط الحبل", "zh": "跳绳"},
+      "clues": [
+        {"tr": "Tekerleme", "en": "Rhymes", "es": "Rimas", "fr": "Comptines", "de": "Abzählreime", "it": "Filastrocche", "pt": "Cantigas", "ru": "Считалка", "ar": "أهازيج", "zh": "童谣"},
+        {"tr": "Boks antrenmanı", "en": "Boxing practice", "es": "Entrenamiento de boxeo", "fr": "Entraînement de boxe", "de": "Boxtraining", "it": "Allenamento di boxe", "pt": "Treino de boxe", "ru": "Тренировка боксёра", "ar": "تدريب الملاكمة", "zh": "拳击训练"}
+      ]
+    },
+    {
+      "word": {"tr": "Curling", "en": "Curling", "es": "Curling", "fr": "Curling", "de": "Curling", "it": "Curling", "pt": "Curling", "ru": "Кёрлинг", "ar": "الكيرلنغ", "zh": "冰壶"},
+      "clues": [
+        {"tr": "Süpürge", "en": "Broom", "es": "Escoba", "fr": "Balai", "de": "Besen", "it": "Scopa", "pt": "Vassoura", "ru": "Щётка", "ar": "مكنسة", "zh": "扫帚"},
+        {"tr": "Taş", "en": "Stone", "es": "Piedra", "fr": "Pierre", "de": "Stein", "it": "Pietra", "pt": "Pedra", "ru": "Камень", "ar": "حجر", "zh": "石头"}
+      ]
+    },
+    {
+      "word": {"tr": "Buz hokeyi", "en": "Ice hockey", "es": "Hockey sobre hielo", "fr": "Hockey sur glace", "de": "Eishockey", "it": "Hockey su ghiaccio", "pt": "Hóquei no gelo", "ru": "Хоккей", "ar": "هوكي الجليد", "zh": "冰球"},
+      "clues": [
+        {"tr": "Eksik diş", "en": "Missing teeth", "es": "Dientes perdidos", "fr": "Dents manquantes", "de": "Zahnlücke", "it": "Denti mancanti", "pt": "Dentes faltando", "ru": "Выбитые зубы", "ar": "أسنان مفقودة", "zh": "缺牙"},
+        {"tr": "Kavga", "en": "Fight", "es": "Pelea", "fr": "Bagarre", "de": "Prügelei", "it": "Rissa", "pt": "Briga", "ru": "Драка", "ar": "شجار", "zh": "打架"}
+      ]
     }
   ]
 }

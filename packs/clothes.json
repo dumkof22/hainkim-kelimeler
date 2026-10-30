@@ -171,6 +171,118 @@
         {"tr": "Sallanmak", "en": "Dangling", "es": "Colgar", "fr": "Pendre", "de": "Baumeln", "it": "Penzolare", "pt": "Balançar", "ru": "Болтаться", "ar": "تتدلى", "zh": "晃动"},
         {"tr": "Gümüş", "en": "Silver", "es": "Plata", "fr": "Argent", "de": "Silber", "it": "Argento", "pt": "Prata", "ru": "Серебро", "ar": "فضة", "zh": "银"}
       ]
+    },
+    {
+      "word": {"tr": "Kasket", "en": "Flat cap", "es": "Gorra plana", "fr": "Casquette plate", "de": "Schiebermütze", "it": "Coppola", "pt": "Boina", "ru": "Кепка", "ar": "قبعة مسطحة", "zh": "鸭舌帽"},
+      "clues": [
+        {"tr": "Dede", "en": "Grandpa", "es": "Abuelo", "fr": "Papi", "de": "Opa", "it": "Nonno", "pt": "Vovô", "ru": "Дедушка", "ar": "جدّ", "zh": "爷爷"},
+        {"tr": "Sonbahar", "en": "Autumn", "es": "Otoño", "fr": "Automne", "de": "Herbst", "it": "Autunno", "pt": "Outono", "ru": "Осень", "ar": "الخريف", "zh": "秋天"}
+      ]
+    },
+    {
+      "word": {"tr": "Kimono", "en": "Kimono", "es": "Kimono", "fr": "Kimono", "de": "Kimono", "it": "Kimono", "pt": "Quimono", "ru": "Кимоно", "ar": "كيمونو", "zh": "和服"},
+      "clues": [
+        {"tr": "Geniş kollar", "en": "Wide sleeves", "es": "Mangas anchas", "fr": "Manches larges", "de": "Weite Ärmel", "it": "Maniche larghe", "pt": "Mangas largas", "ru": "Широкие рукава", "ar": "أكمام واسعة", "zh": "宽袖"},
+        {"tr": "Çay töreni", "en": "Tea ceremony", "es": "Ceremonia del té", "fr": "Cérémonie du thé", "de": "Teezeremonie", "it": "Cerimonia del tè", "pt": "Cerimônia do chá", "ru": "Чайная церемония", "ar": "مراسم الشاي", "zh": "茶道"}
+      ]
+    },
+    {
+      "word": {"tr": "Fes", "en": "Fez", "es": "Fez", "fr": "Fez", "de": "Fes", "it": "Fez", "pt": "Fez", "ru": "Феска", "ar": "طربوش", "zh": "菲斯帽"},
+      "clues": [
+        {"tr": "Püskül", "en": "Tassel", "es": "Borla", "fr": "Pompon", "de": "Quaste", "it": "Nappa", "pt": "Borla", "ru": "Кисточка", "ar": "شرابة", "zh": "流苏"},
+        {"tr": "Eski fotoğraf", "en": "Old photo", "es": "Foto antigua", "fr": "Vieille photo", "de": "Altes Foto", "it": "Vecchia foto", "pt": "Foto antiga", "ru": "Старое фото", "ar": "صورة قديمة", "zh": "老照片"}
+      ]
+    },
+    {
+      "word": {"tr": "Kayak gözlüğü", "en": "Ski goggles", "es": "Gafas de esquí", "fr": "Masque de ski", "de": "Skibrille", "it": "Maschera da sci", "pt": "Óculos de esqui", "ru": "Горнолыжная маска", "ar": "نظارة التزلج", "zh": "滑雪镜"},
+      "clues": [
+        {"tr": "Bronz izi", "en": "Tan lines", "es": "Marcas de bronceado", "fr": "Marques de bronzage", "de": "Bräunungsstreifen", "it": "Segni dell'abbronzatura", "pt": "Marquinha de sol", "ru": "Следы загара", "ar": "آثار السمرة", "zh": "晒痕"},
+        {"tr": "Buğu", "en": "Fogging", "es": "Vaho", "fr": "Buée", "de": "Beschlagen", "it": "Appannamento", "pt": "Embaçado", "ru": "Запотевание", "ar": "ضباب", "zh": "起雾"}
+      ]
+    },
+    {
+      "word": {"tr": "Tek parmaklı eldiven", "en": "Mittens", "es": "Manoplas", "fr": "Moufles", "de": "Fäustlinge", "it": "Muffole", "pt": "Luvas de lã", "ru": "Варежки", "ar": "قفازات صوف", "zh": "连指手套"},
+      "clues": [
+        {"tr": "Kartopu", "en": "Snowball", "es": "Bola de nieve", "fr": "Boule de neige", "de": "Schneeball", "it": "Palla di neve", "pt": "Bola de neve", "ru": "Снежок", "ar": "كرة ثلج", "zh": "雪球"},
+        {"tr": "Örgü", "en": "Knitted", "es": "Tejido", "fr": "Tricoté", "de": "Gestrickt", "it": "Lavorato a maglia", "pt": "Tricô", "ru": "Вязаные", "ar": "محاك", "zh": "针织"}
+      ]
+    },
+    {
+      "word": {"tr": "Kot ceket", "en": "Denim jacket", "es": "Chaqueta vaquera", "fr": "Veste en jean", "de": "Jeansjacke", "it": "Giacca di jeans", "pt": "Jaqueta jeans", "ru": "Джинсовая куртка", "ar": "سترة جينز", "zh": "牛仔夹克"},
+      "clues": [
+        {"tr": "Rozet", "en": "Pins", "es": "Chapas", "fr": "Badges", "de": "Anstecker", "it": "Spille", "pt": "Bottons", "ru": "Значки", "ar": "شارات", "zh": "徽章"},
+        {"tr": "Solmuş", "en": "Faded", "es": "Desgastado", "fr": "Délavé", "de": "Verwaschen", "it": "Sbiadito", "pt": "Desbotado", "ru": "Потёртый", "ar": "باهت", "zh": "褪色"}
+      ]
+    },
+    {
+      "word": {"tr": "Yelek", "en": "Vest", "es": "Chaleco", "fr": "Gilet", "de": "Weste", "it": "Gilet", "pt": "Colete", "ru": "Жилет", "ar": "سترة بلا أكمام", "zh": "马甲"},
+      "clues": [
+        {"tr": "Balıkçı", "en": "Fisherman", "es": "Pescador", "fr": "Pêcheur", "de": "Angler", "it": "Pescatore", "pt": "Pescador", "ru": "Рыбак", "ar": "صياد", "zh": "渔夫"},
+        {"tr": "Takım elbise", "en": "Three-piece suit", "es": "Traje de tres piezas", "fr": "Costume trois pièces", "de": "Dreiteiler", "it": "Abito tre pezzi", "pt": "Terno", "ru": "Костюм-тройка", "ar": "بدلة ثلاثية", "zh": "三件套西装"}
+      ]
+    },
+    {
+      "word": {"tr": "Kapüşonlu", "en": "Hoodie", "es": "Sudadera con capucha", "fr": "Sweat à capuche", "de": "Kapuzenpullover", "it": "Felpa con cappuccio", "pt": "Moletom com capuz", "ru": "Худи", "ar": "هودي", "zh": "连帽衫"},
+      "clues": [
+        {"tr": "İpler", "en": "Drawstrings", "es": "Cordón ajustable", "fr": "Cordons", "de": "Kordeln", "it": "Laccetti", "pt": "Cordões", "ru": "Завязки", "ar": "خيوط", "zh": "抽绳"},
+        {"tr": "Hacker", "en": "Hacker", "es": "Hacker", "fr": "Hacker", "de": "Hacker", "it": "Hacker", "pt": "Hacker", "ru": "Хакер", "ar": "هاكر", "zh": "黑客"}
+      ]
+    },
+    {
+      "word": {"tr": "Bahçıvan tulumu", "en": "Overalls", "es": "Peto", "fr": "Salopette", "de": "Latzhose", "it": "Salopette", "pt": "Jardineira", "ru": "Комбинезон", "ar": "أفرول", "zh": "背带裤"},
+      "clues": [
+        {"tr": "Askılar", "en": "Straps", "es": "Tirantes", "fr": "Bretelles", "de": "Träger", "it": "Bretelle", "pt": "Alças", "ru": "Лямки", "ar": "حمالات", "zh": "肩扣"},
+        {"tr": "Boya lekesi", "en": "Paint stains", "es": "Manchas de pintura", "fr": "Taches de peinture", "de": "Farbflecken", "it": "Macchie di vernice", "pt": "Manchas de tinta", "ru": "Пятна краски", "ar": "بقع طلاء", "zh": "油漆渍"}
+      ]
+    },
+    {
+      "word": {"tr": "Taç", "en": "Crown", "es": "Corona", "fr": "Couronne", "de": "Krone", "it": "Corona", "pt": "Coroa", "ru": "Корона", "ar": "تاج", "zh": "王冠"},
+      "clues": [
+        {"tr": "Güzellik yarışması", "en": "Beauty pageant", "es": "Concurso de belleza", "fr": "Concours de beauté", "de": "Schönheitswettbewerb", "it": "Concorso di bellezza", "pt": "Concurso de beleza", "ru": "Конкурс красоты", "ar": "مسابقة جمال", "zh": "选美比赛"},
+        {"tr": "Balo", "en": "Ball", "es": "Baile", "fr": "Bal", "de": "Ball", "it": "Ballo", "pt": "Baile", "ru": "Бал", "ar": "حفلة راقصة", "zh": "舞会"}
+      ]
+    },
+    {
+      "word": {"tr": "Peruk", "en": "Wig", "es": "Peluca", "fr": "Perruque", "de": "Perücke", "it": "Parrucca", "pt": "Peruca", "ru": "Парик", "ar": "شعر مستعار", "zh": "假发"},
+      "clues": [
+        {"tr": "Kel", "en": "Bald", "es": "Calvo", "fr": "Chauve", "de": "Glatze", "it": "Calvo", "pt": "Careca", "ru": "Лысый", "ar": "أصلع", "zh": "秃头"},
+        {"tr": "Rüzgâr", "en": "Wind", "es": "Viento", "fr": "Vent", "de": "Wind", "it": "Vento", "pt": "Vento", "ru": "Ветер", "ar": "ريح", "zh": "风"}
+      ]
+    },
+    {
+      "word": {"tr": "Takunya", "en": "Wooden clogs", "es": "Zuecos", "fr": "Sabots", "de": "Holzschuhe", "it": "Zoccoli", "pt": "Tamancos", "ru": "Сабо", "ar": "قبقاب", "zh": "木屐"},
+      "clues": [
+        {"tr": "Hamam", "en": "Turkish bath", "es": "Baño turco", "fr": "Hammam", "de": "Türkisches Bad", "it": "Bagno turco", "pt": "Banho turco", "ru": "Хаммам", "ar": "حمّام تركي", "zh": "土耳其浴"},
+        {"tr": "Lale", "en": "Tulips", "es": "Tulipanes", "fr": "Tulipes", "de": "Tulpen", "it": "Tulipani", "pt": "Tulipas", "ru": "Тюльпаны", "ar": "توليب", "zh": "郁金香"}
+      ]
+    },
+    {
+      "word": {"tr": "Cep saati", "en": "Pocket watch", "es": "Reloj de bolsillo", "fr": "Montre à gousset", "de": "Taschenuhr", "it": "Orologio da taschino", "pt": "Relógio de bolso", "ru": "Карманные часы", "ar": "ساعة جيب", "zh": "怀表"},
+      "clues": [
+        {"tr": "Hipnoz", "en": "Hypnosis", "es": "Hipnosis", "fr": "Hypnose", "de": "Hypnose", "it": "Ipnosi", "pt": "Hipnose", "ru": "Гипноз", "ar": "تنويم مغناطيسي", "zh": "催眠"},
+        {"tr": "Zincir", "en": "Chain", "es": "Cadena", "fr": "Chaîne", "de": "Kette", "it": "Catena", "pt": "Corrente", "ru": "Цепочка", "ar": "سلسلة", "zh": "链子"}
+      ]
+    },
+    {
+      "word": {"tr": "Hasır şapka", "en": "Straw hat", "es": "Sombrero de paja", "fr": "Chapeau de paille", "de": "Strohhut", "it": "Cappello di paglia", "pt": "Chapéu de palha", "ru": "Соломенная шляпа", "ar": "قبعة قش", "zh": "草帽"},
+      "clues": [
+        {"tr": "Tarla", "en": "Fields", "es": "Campo", "fr": "Champs", "de": "Feld", "it": "Campi", "pt": "Lavoura", "ru": "Поле", "ar": "حقل", "zh": "田野"},
+        {"tr": "Geniş kenar", "en": "Wide brim", "es": "Ala ancha", "fr": "Large bord", "de": "Breite Krempe", "it": "Tesa larga", "pt": "Aba larga", "ru": "Широкие поля", "ar": "حافة عريضة", "zh": "宽边"}
+      ]
+    },
+    {
+      "word": {"tr": "Ayakkabı bağcığı", "en": "Shoelaces", "es": "Cordones", "fr": "Lacets", "de": "Schnürsenkel", "it": "Lacci", "pt": "Cadarços", "ru": "Шнурки", "ar": "أربطة الحذاء", "zh": "鞋带"},
+      "clues": [
+        {"tr": "Takılmak", "en": "Tripping", "es": "Tropezar", "fr": "Trébucher", "de": "Stolpern", "it": "Inciampare", "pt": "Tropeçar", "ru": "Споткнуться", "ar": "تعثر", "zh": "绊倒"},
+        {"tr": "Fiyonk", "en": "Bow", "es": "Lazo", "fr": "Nœud", "de": "Schleife", "it": "Fiocco", "pt": "Laço", "ru": "Бантик", "ar": "فيونكة", "zh": "蝴蝶结"}
+      ]
+    },
+    {
+      "word": {"tr": "Şişme mont", "en": "Puffer jacket", "es": "Plumífero", "fr": "Doudoune", "de": "Daunenjacke", "it": "Piumino", "pt": "Jaqueta puffer", "ru": "Пуховик", "ar": "سترة منفوخة", "zh": "羽绒服"},
+      "clues": [
+        {"tr": "Hışırtı", "en": "Swishing", "es": "Frufrú", "fr": "Froissement", "de": "Rascheln", "it": "Fruscio", "pt": "Farfalhar", "ru": "Шуршание", "ar": "حفيف", "zh": "沙沙声"},
+        {"tr": "Uyku tulumu", "en": "Sleeping bag", "es": "Saco de dormir", "fr": "Sac de couchage", "de": "Schlafsack", "it": "Sacco a pelo", "pt": "Saco de dormir", "ru": "Спальный мешок", "ar": "كيس نوم", "zh": "睡袋"}
+      ]
     }
   ]
 }

@@ -171,6 +171,118 @@
         {"tr": "Uyarı", "en": "Warning", "es": "Alerta", "fr": "Alerte", "de": "Warnung", "it": "Allerta", "pt": "Alerta", "ru": "Предупреждение", "ar": "تحذير", "zh": "警告"},
         {"tr": "Dağ yamacı", "en": "Mountainside", "es": "Ladera", "fr": "Versant", "de": "Berghang", "it": "Pendio", "pt": "Encosta", "ru": "Склон", "ar": "سفح الجبل", "zh": "山坡"}
       ]
+    },
+    {
+      "word": {"tr": "Kum fırtınası", "en": "Sandstorm", "es": "Tormenta de arena", "fr": "Tempête de sable", "de": "Sandsturm", "it": "Tempesta di sabbia", "pt": "Tempestade de areia", "ru": "Песчаная буря", "ar": "عاصفة رملية", "zh": "沙尘暴"},
+      "clues": [
+        {"tr": "Turuncu gökyüzü", "en": "Orange sky", "es": "Cielo naranja", "fr": "Ciel orange", "de": "Orangefarbener Himmel", "it": "Cielo arancione", "pt": "Céu laranja", "ru": "Оранжевое небо", "ar": "سماء برتقالية", "zh": "橙色天空"},
+        {"tr": "Yüz örtüsü", "en": "Scarf over the face", "es": "Pañuelo en la cara", "fr": "Foulard sur le visage", "de": "Tuch vors Gesicht", "it": "Foulard sul viso", "pt": "Lenço no rosto", "ru": "Платок на лице", "ar": "لثام", "zh": "蒙面围巾"}
+      ]
+    },
+    {
+      "word": {"tr": "Dolu", "en": "Hail", "es": "Granizo", "fr": "Grêle", "de": "Hagel", "it": "Grandine", "pt": "Granizo", "ru": "Град", "ar": "حبات البرد", "zh": "冰雹"},
+      "clues": [
+        {"tr": "Araba göçüğü", "en": "Car dents", "es": "Abolladuras", "fr": "Bosses sur la voiture", "de": "Dellen im Auto", "it": "Ammaccature", "pt": "Amassados no carro", "ru": "Вмятины на машине", "ar": "انبعاجات السيارة", "zh": "车上的凹痕"},
+        {"tr": "Yaz fırtınası", "en": "Summer storm", "es": "Tormenta de verano", "fr": "Orage d'été", "de": "Sommergewitter", "it": "Temporale estivo", "pt": "Tempestade de verão", "ru": "Летняя гроза", "ar": "عاصفة صيفية", "zh": "夏日暴雨"}
+      ]
+    },
+    {
+      "word": {"tr": "Tsunami", "en": "Tsunami", "es": "Tsunami", "fr": "Tsunami", "de": "Tsunami", "it": "Tsunami", "pt": "Tsunami", "ru": "Цунами", "ar": "تسونامي", "zh": "海啸"},
+      "clues": [
+        {"tr": "Deprem", "en": "Earthquake", "es": "Terremoto", "fr": "Tremblement de terre", "de": "Erdbeben", "it": "Terremoto", "pt": "Terremoto", "ru": "Землетрясение", "ar": "زلزال", "zh": "地震"},
+        {"tr": "Siren", "en": "Siren", "es": "Sirena", "fr": "Sirène", "de": "Sirene", "it": "Sirena", "pt": "Sirene", "ru": "Сирена", "ar": "صفارة إنذار", "zh": "警报"}
+      ]
+    },
+    {
+      "word": {"tr": "Dolunay", "en": "Full moon", "es": "Luna llena", "fr": "Pleine lune", "de": "Vollmond", "it": "Luna piena", "pt": "Lua cheia", "ru": "Полнолуние", "ar": "البدر", "zh": "满月"},
+      "clues": [
+        {"tr": "Kurt", "en": "Wolf", "es": "Lobo", "fr": "Loup", "de": "Wolf", "it": "Lupo", "pt": "Lobo", "ru": "Волк", "ar": "ذئب", "zh": "狼"},
+        {"tr": "Gelgit", "en": "Tides", "es": "Mareas", "fr": "Marées", "de": "Gezeiten", "it": "Maree", "pt": "Marés", "ru": "Приливы", "ar": "المد والجزر", "zh": "潮汐"}
+      ]
+    },
+    {
+      "word": {"tr": "Buzdağı", "en": "Iceberg", "es": "Iceberg", "fr": "Iceberg", "de": "Eisberg", "it": "Iceberg", "pt": "Iceberg", "ru": "Айсберг", "ar": "جبل جليدي", "zh": "冰山"},
+      "clues": [
+        {"tr": "Görünmeyen kısım", "en": "The hidden part", "es": "La parte oculta", "fr": "La partie cachée", "de": "Der verborgene Teil", "it": "La parte nascosta", "pt": "A parte escondida", "ru": "Скрытая часть", "ar": "الجزء الخفي", "zh": "隐藏的部分"},
+        {"tr": "Batan gemi", "en": "Sinking ship", "es": "Barco hundido", "fr": "Naufrage", "de": "Sinkendes Schiff", "it": "Nave che affonda", "pt": "Navio afundando", "ru": "Тонущий корабль", "ar": "سفينة غارقة", "zh": "沉船"}
+      ]
+    },
+    {
+      "word": {"tr": "Kum tepesi", "en": "Sand dune", "es": "Duna", "fr": "Dune", "de": "Düne", "it": "Duna", "pt": "Duna", "ru": "Дюна", "ar": "كثيب رملي", "zh": "沙丘"},
+      "clues": [
+        {"tr": "Dalgalı", "en": "Wavy", "es": "Ondulado", "fr": "Ondulé", "de": "Wellig", "it": "Ondulato", "pt": "Ondulado", "ru": "Волнистый", "ar": "متموج", "zh": "波浪形"},
+        {"tr": "Deve kervanı", "en": "Camel caravan", "es": "Caravana de camellos", "fr": "Caravane de chameaux", "de": "Kamelkarawane", "it": "Carovana di cammelli", "pt": "Caravana de camelos", "ru": "Караван верблюдов", "ar": "قافلة جمال", "zh": "骆驼商队"}
+      ]
+    },
+    {
+      "word": {"tr": "Yosun", "en": "Moss", "es": "Musgo", "fr": "Mousse", "de": "Moos", "it": "Muschio", "pt": "Musgo", "ru": "Мох", "ar": "طحلب", "zh": "苔藓"},
+      "clues": [
+        {"tr": "Kuzey", "en": "North", "es": "Norte", "fr": "Nord", "de": "Norden", "it": "Nord", "pt": "Norte", "ru": "Север", "ar": "الشمال", "zh": "北面"},
+        {"tr": "Yeşil halı", "en": "Green carpet", "es": "Alfombra verde", "fr": "Tapis vert", "de": "Grüner Teppich", "it": "Tappeto verde", "pt": "Tapete verde", "ru": "Зелёный ковёр", "ar": "سجادة خضراء", "zh": "绿地毯"}
+      ]
+    },
+    {
+      "word": {"tr": "Sarmaşık", "en": "Ivy", "es": "Hiedra", "fr": "Lierre", "de": "Efeu", "it": "Edera", "pt": "Hera", "ru": "Плющ", "ar": "لبلاب", "zh": "常春藤"},
+      "clues": [
+        {"tr": "Eski duvar", "en": "Old wall", "es": "Muro viejo", "fr": "Vieux mur", "de": "Alte Mauer", "it": "Muro antico", "pt": "Muro velho", "ru": "Старая стена", "ar": "جدار قديم", "zh": "老墙"},
+        {"tr": "Tırmanmak", "en": "Climbing", "es": "Trepar", "fr": "Grimper", "de": "Klettern", "it": "Arrampicarsi", "pt": "Escalar", "ru": "Карабкаться", "ar": "تسلق", "zh": "攀爬"}
+      ]
+    },
+    {
+      "word": {"tr": "Ağaç kütüğü", "en": "Tree stump", "es": "Tocón", "fr": "Souche", "de": "Baumstumpf", "it": "Ceppo", "pt": "Toco", "ru": "Пень", "ar": "جذع شجرة", "zh": "树桩"},
+      "clues": [
+        {"tr": "Halkalar", "en": "Rings", "es": "Anillos", "fr": "Cernes", "de": "Jahresringe", "it": "Anelli", "pt": "Anéis", "ru": "Кольца", "ar": "حلقات", "zh": "年轮"},
+        {"tr": "Oturmak", "en": "Sitting", "es": "Sentarse", "fr": "S'asseoir", "de": "Sitzen", "it": "Sedersi", "pt": "Sentar", "ru": "Сидеть", "ar": "الجلوس", "zh": "坐"}
+      ]
+    },
+    {
+      "word": {"tr": "Nilüfer", "en": "Water lily", "es": "Nenúfar", "fr": "Nénuphar", "de": "Seerose", "it": "Ninfea", "pt": "Nenúfar", "ru": "Кувшинка", "ar": "زنبق الماء", "zh": "睡莲"},
+      "clues": [
+        {"tr": "Kurbağa", "en": "Frog", "es": "Rana", "fr": "Grenouille", "de": "Frosch", "it": "Rana", "pt": "Sapo", "ru": "Лягушка", "ar": "ضفدع", "zh": "青蛙"},
+        {"tr": "Monet", "en": "Monet", "es": "Monet", "fr": "Monet", "de": "Monet", "it": "Monet", "pt": "Monet", "ru": "Моне", "ar": "مونيه", "zh": "莫奈"}
+      ]
+    },
+    {
+      "word": {"tr": "Karahindiba", "en": "Dandelion", "es": "Diente de león", "fr": "Pissenlit", "de": "Löwenzahn", "it": "Dente di leone", "pt": "Dente-de-leão", "ru": "Одуванчик", "ar": "الهندباء البرية", "zh": "蒲公英"},
+      "clues": [
+        {"tr": "Üflemek", "en": "Blowing", "es": "Soplar", "fr": "Souffler", "de": "Pusten", "it": "Soffiare", "pt": "Soprar", "ru": "Дуть", "ar": "نفخ", "zh": "吹"},
+        {"tr": "Çayır", "en": "Meadow", "es": "Prado", "fr": "Prairie", "de": "Wiese", "it": "Prato", "pt": "Prado", "ru": "Луг", "ar": "مرج", "zh": "草地"}
+      ]
+    },
+    {
+      "word": {"tr": "Kırmızı gül", "en": "Red rose", "es": "Rosa roja", "fr": "Rose rouge", "de": "Rote Rose", "it": "Rosa rossa", "pt": "Rosa vermelha", "ru": "Красная роза", "ar": "وردة حمراء", "zh": "红玫瑰"},
+      "clues": [
+        {"tr": "Sevgililer Günü", "en": "Valentine's Day", "es": "San Valentín", "fr": "Saint-Valentin", "de": "Valentinstag", "it": "San Valentino", "pt": "Dia dos Namorados", "ru": "День святого Валентина", "ar": "عيد الحب", "zh": "情人节"},
+        {"tr": "Diken", "en": "Thorns", "es": "Espinas", "fr": "Épines", "de": "Dornen", "it": "Spine", "pt": "Espinhos", "ru": "Шипы", "ar": "أشواك", "zh": "刺"}
+      ]
+    },
+    {
+      "word": {"tr": "Samanyolu", "en": "Milky Way", "es": "Vía Láctea", "fr": "Voie lactée", "de": "Milchstraße", "it": "Via Lattea", "pt": "Via Láctea", "ru": "Млечный Путь", "ar": "درب التبانة", "zh": "银河"},
+      "clues": [
+        {"tr": "Işık kirliliği", "en": "Light pollution", "es": "Contaminación lumínica", "fr": "Pollution lumineuse", "de": "Lichtverschmutzung", "it": "Inquinamento luminoso", "pt": "Poluição luminosa", "ru": "Световое загрязнение", "ar": "التلوث الضوئي", "zh": "光污染"},
+        {"tr": "Kamp gecesi", "en": "Night camping", "es": "Noche de acampada", "fr": "Nuit en camping", "de": "Nacht im Zelt", "it": "Notte in campeggio", "pt": "Noite de acampamento", "ru": "Ночь в походе", "ar": "ليلة تخييم", "zh": "野营之夜"}
+      ]
+    },
+    {
+      "word": {"tr": "Sarkıt", "en": "Stalactite", "es": "Estalactita", "fr": "Stalactite", "de": "Stalaktit", "it": "Stalattite", "pt": "Estalactite", "ru": "Сталактит", "ar": "هابطة", "zh": "钟乳石"},
+      "clues": [
+        {"tr": "Damla", "en": "Drip", "es": "Gota", "fr": "Goutte", "de": "Tropfen", "it": "Goccia", "pt": "Gota", "ru": "Капля", "ar": "قطرة", "zh": "水滴"},
+        {"tr": "Binlerce yıl", "en": "Thousands of years", "es": "Miles de años", "fr": "Des milliers d'années", "de": "Jahrtausende", "it": "Migliaia di anni", "pt": "Milhares de anos", "ru": "Тысячи лет", "ar": "آلاف السنين", "zh": "几千年"}
+      ]
+    },
+    {
+      "word": {"tr": "Göktaşı", "en": "Meteorite", "es": "Meteorito", "fr": "Météorite", "de": "Meteorit", "it": "Meteorite", "pt": "Meteorito", "ru": "Метеорит", "ar": "نيزك", "zh": "陨石"},
+      "clues": [
+        {"tr": "Krater", "en": "Crater", "es": "Cráter", "fr": "Cratère", "de": "Krater", "it": "Cratere", "pt": "Cratera", "ru": "Кратер", "ar": "فوهة", "zh": "大坑"},
+        {"tr": "Dinozorların sonu", "en": "End of the dinosaurs", "es": "Fin de los dinosaurios", "fr": "Fin des dinosaures", "de": "Ende der Dinosaurier", "it": "Fine dei dinosauri", "pt": "Fim dos dinossauros", "ru": "Конец динозавров", "ar": "نهاية الديناصورات", "zh": "恐龙灭绝"}
+      ]
+    },
+    {
+      "word": {"tr": "Çakıl taşı", "en": "Pebble", "es": "Guijarro", "fr": "Galet", "de": "Kieselstein", "it": "Ciottolo", "pt": "Seixo", "ru": "Галька", "ar": "حصاة", "zh": "鹅卵石"},
+      "clues": [
+        {"tr": "Sektirmek", "en": "Skipping stones", "es": "Hacer patitos", "fr": "Faire des ricochets", "de": "Flitschen", "it": "Rimbalzello", "pt": "Quicar pedras", "ru": "Блинчики", "ar": "رمي الحجارة على الماء", "zh": "打水漂"},
+        {"tr": "Dere", "en": "Stream", "es": "Arroyo", "fr": "Ruisseau", "de": "Bach", "it": "Ruscello", "pt": "Riacho", "ru": "Ручей", "ar": "جدول", "zh": "小溪"}
+      ]
     }
   ]
 }

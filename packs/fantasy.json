@@ -171,6 +171,118 @@
         {"tr": "Kumaş", "en": "Fabric", "es": "Tela", "fr": "Tissu", "de": "Stoff", "it": "Tessuto", "pt": "Tecido", "ru": "Ткань", "ar": "قماش", "zh": "布料"},
         {"tr": "Saklanmak", "en": "Hiding", "es": "Esconderse", "fr": "Se cacher", "de": "Verstecken", "it": "Nascondersi", "pt": "Esconder-se", "ru": "Прятаться", "ar": "اختباء", "zh": "躲藏"}
       ]
+    },
+    {
+      "word": {"tr": "İksir", "en": "Potion", "es": "Poción", "fr": "Potion", "de": "Zaubertrank", "it": "Pozione", "pt": "Poção", "ru": "Зелье", "ar": "جرعة سحرية", "zh": "魔药"},
+      "clues": [
+        {"tr": "Şişe", "en": "Bottle", "es": "Botella", "fr": "Fiole", "de": "Fläschchen", "it": "Boccetta", "pt": "Frasco", "ru": "Склянка", "ar": "قارورة", "zh": "小瓶"},
+        {"tr": "Fokurdamak", "en": "Bubbling", "es": "Burbujeo", "fr": "Bouillonnement", "de": "Blubbern", "it": "Ribollire", "pt": "Borbulhar", "ru": "Бульканье", "ar": "غليان", "zh": "咕嘟冒泡"}
+      ]
+    },
+    {
+      "word": {"tr": "Hayalet", "en": "Ghost", "es": "Fantasma", "fr": "Fantôme", "de": "Gespenst", "it": "Fantasma", "pt": "Fantasma", "ru": "Призрак", "ar": "شبح", "zh": "幽灵"},
+      "clues": [
+        {"tr": "Çarşaf", "en": "Bedsheet", "es": "Sábana", "fr": "Drap", "de": "Bettlaken", "it": "Lenzuolo", "pt": "Lençol", "ru": "Простыня", "ar": "ملاءة", "zh": "床单"},
+        {"tr": "Zincir", "en": "Chains", "es": "Cadenas", "fr": "Chaînes", "de": "Ketten", "it": "Catene", "pt": "Correntes", "ru": "Цепи", "ar": "سلاسل", "zh": "锁链"}
+      ]
+    },
+    {
+      "word": {"tr": "Dev", "en": "Giant", "es": "Gigante", "fr": "Géant", "de": "Riese", "it": "Gigante", "pt": "Gigante", "ru": "Великан", "ar": "عملاق", "zh": "巨人"},
+      "clues": [
+        {"tr": "Ayak izi", "en": "Footprint", "es": "Huella", "fr": "Empreinte de pas", "de": "Fußabdruck", "it": "Impronta", "pt": "Pegada", "ru": "След", "ar": "أثر قدم", "zh": "脚印"},
+        {"tr": "Gök gürültüsü", "en": "Thunder", "es": "Trueno", "fr": "Tonnerre", "de": "Donner", "it": "Tuono", "pt": "Trovão", "ru": "Гром", "ar": "رعد", "zh": "雷声"}
+      ]
+    },
+    {
+      "word": {"tr": "Kanatlı at", "en": "Pegasus", "es": "Pegaso", "fr": "Pégase", "de": "Pegasus", "it": "Pegaso", "pt": "Pégaso", "ru": "Пегас", "ar": "بيغاسوس", "zh": "飞马"},
+      "clues": [
+        {"tr": "Tüy", "en": "Feathers", "es": "Plumas", "fr": "Plumes", "de": "Federn", "it": "Piume", "pt": "Penas", "ru": "Перья", "ar": "ريش", "zh": "羽毛"},
+        {"tr": "Ahır", "en": "Stable", "es": "Establo", "fr": "Écurie", "de": "Stall", "it": "Stalla", "pt": "Estábulo", "ru": "Конюшня", "ar": "إسطبل", "zh": "畜棚"}
+      ]
+    },
+    {
+      "word": {"tr": "Sihirli ayna", "en": "Magic mirror", "es": "Espejo mágico", "fr": "Miroir magique", "de": "Zauberspiegel", "it": "Specchio magico", "pt": "Espelho mágico", "ru": "Волшебное зеркало", "ar": "المرآة السحرية", "zh": "魔镜"},
+      "clues": [
+        {"tr": "Kıskançlık", "en": "Jealousy", "es": "Celos", "fr": "Jalousie", "de": "Eifersucht", "it": "Gelosia", "pt": "Inveja", "ru": "Зависть", "ar": "غيرة", "zh": "嫉妒"},
+        {"tr": "Duvar", "en": "Wall", "es": "Pared", "fr": "Mur", "de": "Wand", "it": "Muro", "pt": "Parede", "ru": "Стена", "ar": "جدار", "zh": "墙"}
+      ]
+    },
+    {
+      "word": {"tr": "Frankenstein", "en": "Frankenstein", "es": "Frankenstein", "fr": "Frankenstein", "de": "Frankenstein", "it": "Frankenstein", "pt": "Frankenstein", "ru": "Франкенштейн", "ar": "فرانكنشتاين", "zh": "弗兰肯斯坦"},
+      "clues": [
+        {"tr": "Cıvata", "en": "Bolts", "es": "Tornillos", "fr": "Boulons", "de": "Bolzen", "it": "Bulloni", "pt": "Parafusos", "ru": "Болты", "ar": "براغي", "zh": "螺栓"},
+        {"tr": "Dikiş izi", "en": "Stitches", "es": "Costuras", "fr": "Coutures", "de": "Narben", "it": "Cuciture", "pt": "Cicatrizes", "ru": "Швы", "ar": "غرز", "zh": "缝合线"}
+      ]
+    },
+    {
+      "word": {"tr": "Atlantis", "en": "Atlantis", "es": "Atlántida", "fr": "Atlantide", "de": "Atlantis", "it": "Atlantide", "pt": "Atlântida", "ru": "Атлантида", "ar": "أطلانتس", "zh": "亚特兰蒂斯"},
+      "clues": [
+        {"tr": "Sütunlar", "en": "Columns", "es": "Columnas", "fr": "Colonnes", "de": "Säulen", "it": "Colonne", "pt": "Colunas", "ru": "Колонны", "ar": "أعمدة", "zh": "柱子"},
+        {"tr": "Dalgıç", "en": "Diver", "es": "Buzo", "fr": "Plongeur", "de": "Taucher", "it": "Sommozzatore", "pt": "Mergulhador", "ru": "Водолаз", "ar": "غوّاص", "zh": "潜水员"}
+      ]
+    },
+    {
+      "word": {"tr": "Cadı şapkası", "en": "Witch's hat", "es": "Sombrero de bruja", "fr": "Chapeau de sorcière", "de": "Hexenhut", "it": "Cappello da strega", "pt": "Chapéu de bruxa", "ru": "Шляпа ведьмы", "ar": "قبعة الساحرة", "zh": "女巫帽"},
+      "clues": [
+        {"tr": "Kara kedi", "en": "Black cat", "es": "Gato negro", "fr": "Chat noir", "de": "Schwarze Katze", "it": "Gatto nero", "pt": "Gato preto", "ru": "Чёрная кошка", "ar": "قطة سوداء", "zh": "黑猫"},
+        {"tr": "Sivri uç", "en": "Pointy tip", "es": "Punta afilada", "fr": "Pointe", "de": "Spitze", "it": "Punta", "pt": "Ponta", "ru": "Остриё", "ar": "طرف مدبب", "zh": "尖顶"}
+      ]
+    },
+    {
+      "word": {"tr": "Yeti", "en": "Yeti", "es": "Yeti", "fr": "Yéti", "de": "Yeti", "it": "Yeti", "pt": "Yeti", "ru": "Йети", "ar": "اليتي", "zh": "喜马拉雅雪人"},
+      "clues": [
+        {"tr": "Bulanık fotoğraf", "en": "Blurry photo", "es": "Foto borrosa", "fr": "Photo floue", "de": "Unscharfes Foto", "it": "Foto sfocata", "pt": "Foto borrada", "ru": "Размытое фото", "ar": "صورة ضبابية", "zh": "模糊照片"},
+        {"tr": "Karlı dağ", "en": "Snowy mountain", "es": "Montaña nevada", "fr": "Montagne enneigée", "de": "Schneeberg", "it": "Montagna innevata", "pt": "Montanha nevada", "ru": "Снежная гора", "ar": "جبل ثلجي", "zh": "冰峰"}
+      ]
+    },
+    {
+      "word": {"tr": "Korsan gemisi", "en": "Pirate ship", "es": "Barco pirata", "fr": "Bateau pirate", "de": "Piratenschiff", "it": "Nave pirata", "pt": "Navio pirata", "ru": "Пиратский корабль", "ar": "سفينة القراصنة", "zh": "海盗船"},
+      "clues": [
+        {"tr": "Papağan", "en": "Parrot", "es": "Loro", "fr": "Perroquet", "de": "Papagei", "it": "Pappagallo", "pt": "Papagaio", "ru": "Попугай", "ar": "ببغاء", "zh": "鹦鹉"},
+        {"tr": "Fırtına", "en": "Storm", "es": "Tormenta", "fr": "Tempête", "de": "Sturm", "it": "Tempesta", "pt": "Tempestade", "ru": "Шторм", "ar": "عاصفة", "zh": "风暴"}
+      ]
+    },
+    {
+      "word": {"tr": "Altın yumurtlayan tavuk", "en": "Golden goose", "es": "Gallina de los huevos de oro", "fr": "Poule aux œufs d'or", "de": "Goldene Gans", "it": "Gallina dalle uova d'oro", "pt": "Galinha dos ovos de ouro", "ru": "Курица, несущая золотые яйца", "ar": "الدجاجة التي تبيض ذهباً", "zh": "下金蛋的鹅"},
+      "clues": [
+        {"tr": "Açgözlülük", "en": "Greed", "es": "Codicia", "fr": "Cupidité", "de": "Gier", "it": "Avidità", "pt": "Ganância", "ru": "Жадность", "ar": "جشع", "zh": "贪婪"},
+        {"tr": "Masal", "en": "Fairy tale", "es": "Cuento", "fr": "Conte", "de": "Märchen", "it": "Fiaba", "pt": "Conto de fadas", "ru": "Сказка", "ar": "حكاية", "zh": "童话"}
+      ]
+    },
+    {
+      "word": {"tr": "Uçan daire", "en": "UFO", "es": "OVNI", "fr": "OVNI", "de": "UFO", "it": "UFO", "pt": "OVNI", "ru": "НЛО", "ar": "صحن طائر", "zh": "飞碟"},
+      "clues": [
+        {"tr": "Işık huzmesi", "en": "Beam of light", "es": "Haz de luz", "fr": "Faisceau lumineux", "de": "Lichtstrahl", "it": "Fascio di luce", "pt": "Feixe de luz", "ru": "Луч света", "ar": "شعاع ضوء", "zh": "光束"},
+        {"tr": "İnek", "en": "Cow", "es": "Vaca", "fr": "Vache", "de": "Kuh", "it": "Mucca", "pt": "Vaca", "ru": "Корова", "ar": "بقرة", "zh": "奶牛"}
+      ]
+    },
+    {
+      "word": {"tr": "Cam ayakkabı", "en": "Glass slipper", "es": "Zapatito de cristal", "fr": "Pantoufle de verre", "de": "Gläserner Schuh", "it": "Scarpetta di cristallo", "pt": "Sapatinho de cristal", "ru": "Хрустальная туфелька", "ar": "الحذاء الزجاجي", "zh": "水晶鞋"},
+      "clues": [
+        {"tr": "Merdiven", "en": "Stairs", "es": "Escaleras", "fr": "Escalier", "de": "Treppe", "it": "Scalinata", "pt": "Escadaria", "ru": "Лестница", "ar": "درج", "zh": "楼梯"},
+        {"tr": "Tam ölçü", "en": "Perfect fit", "es": "Talla perfecta", "fr": "Pile à la bonne taille", "de": "Passt genau", "it": "Misura perfetta", "pt": "Tamanho perfeito", "ru": "Точно впору", "ar": "مقاس مثالي", "zh": "大小正好"}
+      ]
+    },
+    {
+      "word": {"tr": "Dilek kuyusu", "en": "Wishing well", "es": "Pozo de los deseos", "fr": "Puits à souhaits", "de": "Wunschbrunnen", "it": "Pozzo dei desideri", "pt": "Poço dos desejos", "ru": "Колодец желаний", "ar": "بئر الأمنيات", "zh": "许愿井"},
+      "clues": [
+        {"tr": "Bozuk para", "en": "Coins", "es": "Monedas", "fr": "Pièces", "de": "Münzen", "it": "Monete", "pt": "Moedas", "ru": "Монеты", "ar": "عملات معدنية", "zh": "硬币"},
+        {"tr": "Yankı", "en": "Echo", "es": "Eco", "fr": "Écho", "de": "Echo", "it": "Eco", "pt": "Eco", "ru": "Эхо", "ar": "صدى", "zh": "回声"}
+      ]
+    },
+    {
+      "word": {"tr": "Lanetli oyuncak bebek", "en": "Haunted doll", "es": "Muñeca embrujada", "fr": "Poupée hantée", "de": "Verfluchte Puppe", "it": "Bambola maledetta", "pt": "Boneca amaldiçoada", "ru": "Проклятая кукла", "ar": "دمية ملعونة", "zh": "诅咒娃娃"},
+      "clues": [
+        {"tr": "Porselen", "en": "Porcelain", "es": "Porcelana", "fr": "Porcelaine", "de": "Porzellan", "it": "Porcellana", "pt": "Porcelana", "ru": "Фарфор", "ar": "خزف", "zh": "瓷器"},
+        {"tr": "Çatı arası", "en": "Attic", "es": "Desván", "fr": "Grenier", "de": "Dachboden", "it": "Soffitta", "pt": "Sótão", "ru": "Чердак", "ar": "علية", "zh": "阁楼"}
+      ]
+    },
+    {
+      "word": {"tr": "Zaman makinesi", "en": "Time machine", "es": "Máquina del tiempo", "fr": "Machine à remonter le temps", "de": "Zeitmaschine", "it": "Macchina del tempo", "pt": "Máquina do tempo", "ru": "Машина времени", "ar": "آلة الزمن", "zh": "时光机"},
+      "clues": [
+        {"tr": "Dinozor", "en": "Dinosaurs", "es": "Dinosaurios", "fr": "Dinosaures", "de": "Dinosaurier", "it": "Dinosauri", "pt": "Dinossauros", "ru": "Динозавры", "ar": "ديناصورات", "zh": "恐龙"},
+        {"tr": "Kıvılcım", "en": "Sparks", "es": "Chispas", "fr": "Étincelles", "de": "Funken", "it": "Scintille", "pt": "Faíscas", "ru": "Искры", "ar": "شرارات", "zh": "火花"}
+      ]
     }
   ]
 }

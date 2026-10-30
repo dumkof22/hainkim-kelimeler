@@ -185,6 +185,104 @@
         {"tr": "Fil", "en": "Elephants", "es": "Elefantes", "fr": "Éléphants", "de": "Elefanten", "it": "Elefanti", "pt": "Elefantes", "ru": "Слоны", "ar": "فيلة", "zh": "大象"},
         {"tr": "Masaj", "en": "Massage", "es": "Masaje", "fr": "Massage", "de": "Massage", "it": "Massaggio", "pt": "Massagem", "ru": "Массаж", "ar": "تدليك", "zh": "按摩"}
       ]
+    },
+    {
+      "word": {"tr": "ABD", "en": "USA", "es": "Estados Unidos", "fr": "États-Unis", "de": "USA", "it": "Stati Uniti", "pt": "Estados Unidos", "ru": "США", "ar": "الولايات المتحدة", "zh": "美国"},
+      "clues": [
+        {"tr": "Elli", "en": "Fifty", "es": "Cincuenta", "fr": "Cinquante", "de": "Fünfzig", "it": "Cinquanta", "pt": "Cinquenta", "ru": "Пятьдесят", "ar": "خمسون", "zh": "五十"},
+        {"tr": "Kovboy", "en": "Cowboy", "es": "Vaquero", "fr": "Cow-boy", "de": "Cowboy", "it": "Cowboy", "pt": "Caubói", "ru": "Ковбой", "ar": "راعي البقر", "zh": "牛仔"}
+      ]
+    },
+    {
+      "word": {"tr": "Portekiz", "en": "Portugal", "es": "Portugal", "fr": "Portugal", "de": "Portugal", "it": "Portogallo", "pt": "Portugal", "ru": "Португалия", "ar": "البرتغال", "zh": "葡萄牙"},
+      "clues": [
+        {"tr": "Mavi çini", "en": "Blue tiles", "es": "Baldosas azules", "fr": "Carreaux bleus", "de": "Blaue Fliesen", "it": "Piastrelle blu", "pt": "Ladrilhos azuis", "ru": "Голубая плитка", "ar": "بلاط أزرق", "zh": "蓝色瓷砖"},
+        {"tr": "Morina", "en": "Salted cod", "es": "Bacalao", "fr": "Morue", "de": "Stockfisch", "it": "Baccalà", "pt": "Peixe salgado", "ru": "Треска", "ar": "سمك القد", "zh": "鳕鱼干"}
+      ]
+    },
+    {
+      "word": {"tr": "İrlanda", "en": "Ireland", "es": "Irlanda", "fr": "Irlande", "de": "Irland", "it": "Irlanda", "pt": "Irlanda", "ru": "Ирландия", "ar": "أيرلندا", "zh": "爱尔兰"},
+      "clues": [
+        {"tr": "Yonca", "en": "Clover", "es": "Trébol", "fr": "Trèfle", "de": "Kleeblatt", "it": "Trifoglio", "pt": "Trevo", "ru": "Клевер", "ar": "نفل", "zh": "三叶草"},
+        {"tr": "Kızıl saç", "en": "Red hair", "es": "Pelo pelirrojo", "fr": "Cheveux roux", "de": "Rote Haare", "it": "Capelli rossi", "pt": "Cabelo ruivo", "ru": "Рыжие волосы", "ar": "شعر أحمر", "zh": "红头发"}
+      ]
+    },
+    {
+      "word": {"tr": "Vietnam", "en": "Vietnam", "es": "Vietnam", "fr": "Viêt Nam", "de": "Vietnam", "it": "Vietnam", "pt": "Vietnã", "ru": "Вьетнам", "ar": "فيتنام", "zh": "越南"},
+      "clues": [
+        {"tr": "Konik şapka", "en": "Conical hat", "es": "Sombrero cónico", "fr": "Chapeau conique", "de": "Kegelhut", "it": "Cappello conico", "pt": "Chapéu cônico", "ru": "Коническая шляпа", "ar": "قبعة مخروطية", "zh": "斗笠"},
+        {"tr": "Pirinç tarlası", "en": "Rice paddies", "es": "Arrozales", "fr": "Rizières", "de": "Reisfelder", "it": "Risaie", "pt": "Arrozais", "ru": "Рисовые поля", "ar": "حقول الأرز", "zh": "稻田"}
+      ]
+    },
+    {
+      "word": {"tr": "Finlandiya", "en": "Finland", "es": "Finlandia", "fr": "Finlande", "de": "Finnland", "it": "Finlandia", "pt": "Finlândia", "ru": "Финляндия", "ar": "فنلندا", "zh": "芬兰"},
+      "clues": [
+        {"tr": "Sauna", "en": "Sauna", "es": "Sauna", "fr": "Sauna", "de": "Sauna", "it": "Sauna", "pt": "Sauna", "ru": "Сауна", "ar": "ساونا", "zh": "桑拿"},
+        {"tr": "Noel Baba'nın evi", "en": "Santa's home", "es": "La casa de Papá Noel", "fr": "La maison du Père Noël", "de": "Zuhause des Weihnachtsmanns", "it": "La casa di Babbo Natale", "pt": "A casa do Papai Noel", "ru": "Дом Санта-Клауса", "ar": "بيت بابا نويل", "zh": "圣诞老人的家"}
+      ]
+    },
+    {
+      "word": {"tr": "Belçika", "en": "Belgium", "es": "Bélgica", "fr": "Belgique", "de": "Belgien", "it": "Belgio", "pt": "Bélgica", "ru": "Бельгия", "ar": "بلجيكا", "zh": "比利时"},
+      "clues": [
+        {"tr": "Pralin", "en": "Pralines", "es": "Bombones", "fr": "Pralines", "de": "Pralinen", "it": "Praline", "pt": "Bombons", "ru": "Пралине", "ar": "شوكولاتة محشوة", "zh": "果仁糖"},
+        {"tr": "Çizgi roman", "en": "Comics", "es": "Cómics", "fr": "Bande dessinée", "de": "Comics", "it": "Fumetti", "pt": "Quadrinhos", "ru": "Комиксы", "ar": "قصص مصورة", "zh": "漫画"}
+      ]
+    },
+    {
+      "word": {"tr": "Jamaika", "en": "Jamaica", "es": "Jamaica", "fr": "Jamaïque", "de": "Jamaika", "it": "Giamaica", "pt": "Jamaica", "ru": "Ямайка", "ar": "جامايكا", "zh": "牙买加"},
+      "clues": [
+        {"tr": "Dread saç", "en": "Dreadlocks", "es": "Rastas", "fr": "Dreadlocks", "de": "Dreadlocks", "it": "Dreadlock", "pt": "Dreadlocks", "ru": "Дреды", "ar": "ضفائر الراستا", "zh": "脏辫"},
+        {"tr": "Kızak takımı", "en": "Bobsled team", "es": "Equipo de bobsleigh", "fr": "Équipe de bobsleigh", "de": "Bobteam", "it": "Squadra di bob", "pt": "Equipe de bobsled", "ru": "Команда бобслеистов", "ar": "فريق الزلاجات", "zh": "雪橇队"}
+      ]
+    },
+    {
+      "word": {"tr": "Yeni Zelanda", "en": "New Zealand", "es": "Nueva Zelanda", "fr": "Nouvelle-Zélande", "de": "Neuseeland", "it": "Nuova Zelanda", "pt": "Nova Zelândia", "ru": "Новая Зеландия", "ar": "نيوزيلندا", "zh": "新西兰"},
+      "clues": [
+        {"tr": "Koyun", "en": "Sheep", "es": "Ovejas", "fr": "Moutons", "de": "Schafe", "it": "Pecore", "pt": "Ovelhas", "ru": "Овцы", "ar": "خراف", "zh": "羊"},
+        {"tr": "Yüzüklerin Efendisi", "en": "The Lord of the Rings", "es": "El Señor de los Anillos", "fr": "Le Seigneur des anneaux", "de": "Der Herr der Ringe", "it": "Il Signore degli Anelli", "pt": "O Senhor dos Anéis", "ru": "Властелин колец", "ar": "سيد الخواتم", "zh": "指环王"}
+      ]
+    },
+    {
+      "word": {"tr": "Şili", "en": "Chile", "es": "Chile", "fr": "Chili", "de": "Chile", "it": "Cile", "pt": "Chile", "ru": "Чили", "ar": "تشيلي", "zh": "智利"},
+      "clues": [
+        {"tr": "Uzun ve ince", "en": "Long and thin", "es": "Largo y estrecho", "fr": "Long et étroit", "de": "Lang und schmal", "it": "Lungo e stretto", "pt": "Longo e estreito", "ru": "Длинная и узкая", "ar": "طويلة وضيقة", "zh": "又长又窄"},
+        {"tr": "Paskalya Adası", "en": "Easter Island", "es": "Isla de Pascua", "fr": "Île de Pâques", "de": "Osterinsel", "it": "Isola di Pasqua", "pt": "Ilha de Páscoa", "ru": "Остров Пасхи", "ar": "جزيرة الفصح", "zh": "复活节岛"}
+      ]
+    },
+    {
+      "word": {"tr": "İskoçya", "en": "Scotland", "es": "Escocia", "fr": "Écosse", "de": "Schottland", "it": "Scozia", "pt": "Escócia", "ru": "Шотландия", "ar": "اسكتلندا", "zh": "苏格兰"},
+      "clues": [
+        {"tr": "Gayda", "en": "Bagpipes", "es": "Gaita", "fr": "Cornemuse", "de": "Dudelsack", "it": "Cornamusa", "pt": "Gaita de foles", "ru": "Волынка", "ar": "مزمار القربة", "zh": "风笛"},
+        {"tr": "Göl canavarı", "en": "Lake monster", "es": "Monstruo del lago", "fr": "Monstre du lac", "de": "Seeungeheuer", "it": "Mostro del lago", "pt": "Monstro do lago", "ru": "Озёрное чудовище", "ar": "وحش البحيرة", "zh": "水怪"}
+      ]
+    },
+    {
+      "word": {"tr": "Singapur", "en": "Singapore", "es": "Singapur", "fr": "Singapour", "de": "Singapur", "it": "Singapore", "pt": "Singapura", "ru": "Сингапур", "ar": "سنغافورة", "zh": "新加坡"},
+      "clues": [
+        {"tr": "Temizlik", "en": "Cleanliness", "es": "Limpieza", "fr": "Propreté", "de": "Sauberkeit", "it": "Pulizia", "pt": "Limpeza", "ru": "Чистота", "ar": "نظافة", "zh": "干净"},
+        {"tr": "Sakız yasağı", "en": "Gum ban", "es": "Chicle prohibido", "fr": "Chewing-gum interdit", "de": "Kaugummiverbot", "it": "Gomme vietate", "pt": "Chiclete proibido", "ru": "Запрет жвачки", "ar": "حظر العلكة", "zh": "禁止口香糖"}
+      ]
+    },
+    {
+      "word": {"tr": "Nepal", "en": "Nepal", "es": "Nepal", "fr": "Népal", "de": "Nepal", "it": "Nepal", "pt": "Nepal", "ru": "Непал", "ar": "نيبال", "zh": "尼泊尔"},
+      "clues": [
+        {"tr": "Everest", "en": "Everest", "es": "Everest", "fr": "Everest", "de": "Everest", "it": "Everest", "pt": "Everest", "ru": "Эверест", "ar": "إيفرست", "zh": "珠穆朗玛峰"},
+        {"tr": "Üçgen bayrak", "en": "Triangle flag", "es": "Bandera triangular", "fr": "Drapeau triangulaire", "de": "Dreieckige Flagge", "it": "Bandiera triangolare", "pt": "Bandeira triangular", "ru": "Треугольный флаг", "ar": "علم مثلث", "zh": "三角形国旗"}
+      ]
+    },
+    {
+      "word": {"tr": "Moğolistan", "en": "Mongolia", "es": "Mongolia", "fr": "Mongolie", "de": "Mongolei", "it": "Mongolia", "pt": "Mongólia", "ru": "Монголия", "ar": "منغوليا", "zh": "蒙古"},
+      "clues": [
+        {"tr": "Keçe çadır", "en": "Yurt", "es": "Yurta", "fr": "Yourte", "de": "Jurte", "it": "Iurta", "pt": "Iurta", "ru": "Юрта", "ar": "خيمة اللباد", "zh": "毡房"},
+        {"tr": "Bozkır", "en": "Steppe", "es": "Estepa", "fr": "Steppe", "de": "Steppe", "it": "Steppa", "pt": "Estepe", "ru": "Степь", "ar": "السهوب", "zh": "大草原"}
+      ]
+    },
+    {
+      "word": {"tr": "Danimarka", "en": "Denmark", "es": "Dinamarca", "fr": "Danemark", "de": "Dänemark", "it": "Danimarca", "pt": "Dinamarca", "ru": "Дания", "ar": "الدنمارك", "zh": "丹麦"},
+      "clues": [
+        {"tr": "Lego", "en": "Lego", "es": "Lego", "fr": "Lego", "de": "Lego", "it": "Lego", "pt": "Lego", "ru": "Лего", "ar": "ليغو", "zh": "乐高"},
+        {"tr": "Deniz kızı heykeli", "en": "Mermaid statue", "es": "Estatua de la sirena", "fr": "Statue de la sirène", "de": "Meerjungfrau-Statue", "it": "Statua della sirenetta", "pt": "Estátua da sereia", "ru": "Статуя русалки", "ar": "تمثال حورية البحر", "zh": "美人鱼雕像"}
+      ]
     }
   ]
 }

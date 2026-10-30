@@ -157,6 +157,135 @@
         {"tr": "Yolculuk", "en": "Journey", "es": "Viaje", "fr": "Voyage", "de": "Reise", "it": "Viaggio", "pt": "Viagem", "ru": "Поездка", "ar": "سفر", "zh": "旅途"},
         {"tr": "U harfi", "en": "Letter U", "es": "Letra U", "fr": "Lettre U", "de": "Buchstabe U", "it": "Lettera U", "pt": "Letra U", "ru": "Буква U", "ar": "حرف U", "zh": "U形"}
       ]
+    },
+    {
+      "word": {"tr": "Her şey dahil", "en": "All-inclusive", "es": "Todo incluido", "fr": "Tout compris", "de": "All-inclusive", "it": "Tutto incluso", "pt": "Tudo incluído", "ru": "Всё включено", "ar": "شامل كلياً", "zh": "全包"},
+      "drawable": false,
+      "clues": [
+        {"tr": "Bileklik", "en": "Wristband", "es": "Pulsera", "fr": "Bracelet", "de": "Armband", "it": "Braccialetto", "pt": "Pulseira", "ru": "Браслет", "ar": "سوار", "zh": "手环"},
+        {"tr": "Sınırsız", "en": "Unlimited", "es": "Ilimitado", "fr": "À volonté", "de": "Unbegrenzt", "it": "Illimitato", "pt": "À vontade", "ru": "Без ограничений", "ar": "بلا حدود", "zh": "无限"}
+      ]
+    },
+    {
+      "word": {"tr": "Plaj havlusu", "en": "Beach towel", "es": "Toalla de playa", "fr": "Serviette de plage", "de": "Strandtuch", "it": "Telo mare", "pt": "Toalha de praia", "ru": "Пляжное полотенце", "ar": "منشفة الشاطئ", "zh": "海滩浴巾"},
+      "clues": [
+        {"tr": "Yer kapmak", "en": "Saving a spot", "es": "Guardar sitio", "fr": "Réserver sa place", "de": "Platz reservieren", "it": "Occupare il posto", "pt": "Guardar lugar", "ru": "Занять место", "ar": "حجز مكان", "zh": "占位"},
+        {"tr": "Kum", "en": "Sand", "es": "Arena", "fr": "Sable", "de": "Sand", "it": "Sabbia", "pt": "Areia", "ru": "Песок", "ar": "رمل", "zh": "沙子"}
+      ]
+    },
+    {
+      "word": {"tr": "Güneş yanığı", "en": "Sunburn", "es": "Quemadura solar", "fr": "Coup de soleil", "de": "Sonnenbrand", "it": "Scottatura", "pt": "Queimadura de sol", "ru": "Солнечный ожог", "ar": "حروق الشمس", "zh": "晒伤"},
+      "clues": [
+        {"tr": "Domates", "en": "Tomato", "es": "Tomate", "fr": "Tomate", "de": "Tomate", "it": "Pomodoro", "pt": "Tomate", "ru": "Помидор", "ar": "طماطم", "zh": "西红柿"},
+        {"tr": "Aloe vera", "en": "Aloe vera", "es": "Aloe vera", "fr": "Aloe vera", "de": "Aloe Vera", "it": "Aloe vera", "pt": "Babosa", "ru": "Алоэ", "ar": "ألوفيرا", "zh": "芦荟"}
+      ]
+    },
+    {
+      "word": {"tr": "Jet lag", "en": "Jet lag", "es": "Jet lag", "fr": "Décalage horaire", "de": "Jetlag", "it": "Jet lag", "pt": "Jet lag", "ru": "Джетлаг", "ar": "اضطراب الرحلات الجوية", "zh": "时差反应"},
+      "drawable": false,
+      "clues": [
+        {"tr": "Gece 3'te uyanık", "en": "Awake at 3 a.m.", "es": "Despierto a las 3", "fr": "Réveillé à 3 h", "de": "Um 3 Uhr wach", "it": "Sveglio alle 3", "pt": "Acordado às 3 da manhã", "ru": "Не спится в 3 часа ночи", "ar": "مستيقظ في الثالثة فجراً", "zh": "凌晨三点还醒着"},
+        {"tr": "Esnemek", "en": "Yawning", "es": "Bostezar", "fr": "Bâiller", "de": "Gähnen", "it": "Sbadigliare", "pt": "Bocejar", "ru": "Зевать", "ar": "تثاؤب", "zh": "打哈欠"}
+      ]
+    },
+    {
+      "word": {"tr": "Gümrük", "en": "Customs", "es": "Aduana", "fr": "Douane", "de": "Zoll", "it": "Dogana", "pt": "Alfândega", "ru": "Таможня", "ar": "الجمارك", "zh": "海关"},
+      "clues": [
+        {"tr": "Köpek", "en": "Sniffer dog", "es": "Perro detector", "fr": "Chien renifleur", "de": "Spürhund", "it": "Cane antidroga", "pt": "Cão farejador", "ru": "Служебная собака", "ar": "كلب بوليسي", "zh": "缉毒犬"},
+        {"tr": "Beyan", "en": "Declaration", "es": "Declaración", "fr": "Déclaration", "de": "Anmeldung", "it": "Dichiarazione", "pt": "Declaração", "ru": "Декларация", "ar": "تصريح", "zh": "申报"}
+      ]
+    },
+    {
+      "word": {"tr": "Döviz bürosu", "en": "Currency exchange", "es": "Casa de cambio", "fr": "Bureau de change", "de": "Wechselstube", "it": "Cambio valuta", "pt": "Casa de câmbio", "ru": "Обменник", "ar": "مكتب صرافة", "zh": "外币兑换处"},
+      "clues": [
+        {"tr": "Komisyon", "en": "Commission", "es": "Comisión", "fr": "Commission", "de": "Gebühr", "it": "Commissione", "pt": "Taxa", "ru": "Комиссия", "ar": "عمولة", "zh": "手续费"},
+        {"tr": "Cüzdan", "en": "Wallet", "es": "Cartera", "fr": "Portefeuille", "de": "Geldbörse", "it": "Portafoglio", "pt": "Carteira", "ru": "Кошелёк", "ar": "محفظة", "zh": "钱包"}
+      ]
+    },
+    {
+      "word": {"tr": "Otostop", "en": "Hitchhiking", "es": "Autostop", "fr": "Auto-stop", "de": "Trampen", "it": "Autostop", "pt": "Carona", "ru": "Автостоп", "ar": "طلب توصيلة", "zh": "搭便车"},
+      "clues": [
+        {"tr": "Başparmak", "en": "Thumb", "es": "Pulgar", "fr": "Pouce", "de": "Daumen", "it": "Pollice", "pt": "Polegar", "ru": "Большой палец", "ar": "إبهام", "zh": "大拇指"},
+        {"tr": "Yol kenarı", "en": "Roadside", "es": "Borde de la carretera", "fr": "Bord de la route", "de": "Straßenrand", "it": "Ciglio della strada", "pt": "Beira da estrada", "ru": "Обочина", "ar": "جانب الطريق", "zh": "路边"}
+      ]
+    },
+    {
+      "word": {"tr": "Fotoğraf makinesi", "en": "Camera", "es": "Cámara", "fr": "Appareil photo", "de": "Kamera", "it": "Macchina fotografica", "pt": "Câmera", "ru": "Фотоаппарат", "ar": "كاميرا", "zh": "相机"},
+      "clues": [
+        {"tr": "Boyun askısı", "en": "Neck strap", "es": "Correa", "fr": "Sangle", "de": "Trageriemen", "it": "Tracolla", "pt": "Alça", "ru": "Ремешок", "ar": "حزام الرقبة", "zh": "挂绳"},
+        {"tr": "Gülümseme", "en": "Smile", "es": "Sonrisa", "fr": "Sourire", "de": "Lächeln", "it": "Sorriso", "pt": "Sorriso", "ru": "Улыбка", "ar": "ابتسامة", "zh": "微笑"}
+      ]
+    },
+    {
+      "word": {"tr": "Deniz manzaralı oda", "en": "Sea-view room", "es": "Habitación con vistas al mar", "fr": "Chambre vue mer", "de": "Zimmer mit Meerblick", "it": "Camera vista mare", "pt": "Quarto com vista para o mar", "ru": "Номер с видом на море", "ar": "غرفة مطلة على البحر", "zh": "海景房"},
+      "clues": [
+        {"tr": "Ekstra ücret", "en": "Extra charge", "es": "Cargo extra", "fr": "Supplément", "de": "Aufpreis", "it": "Supplemento", "pt": "Taxa extra", "ru": "Доплата", "ar": "رسوم إضافية", "zh": "加价"},
+        {"tr": "Balkon", "en": "Balcony", "es": "Balcón", "fr": "Balcon", "de": "Balkon", "it": "Balcone", "pt": "Varanda", "ru": "Балкон", "ar": "شرفة", "zh": "阳台"}
+      ]
+    },
+    {
+      "word": {"tr": "Sırt çantalı gezgin", "en": "Backpacker", "es": "Mochilero", "fr": "Routard", "de": "Rucksacktourist", "it": "Viaggiatore zaino in spalla", "pt": "Mochileiro", "ru": "Бэкпекер", "ar": "رحالة بحقيبة ظهر", "zh": "背包客"},
+      "clues": [
+        {"tr": "Hostel", "en": "Hostel", "es": "Albergue", "fr": "Auberge de jeunesse", "de": "Hostel", "it": "Ostello", "pt": "Hostel", "ru": "Хостел", "ar": "نزل الشباب", "zh": "青旅"},
+        {"tr": "Az para", "en": "Tight budget", "es": "Poco dinero", "fr": "Petit budget", "de": "Wenig Geld", "it": "Pochi soldi", "pt": "Pouco dinheiro", "ru": "Мало денег", "ar": "ميزانية قليلة", "zh": "穷游"}
+      ]
+    },
+    {
+      "word": {"tr": "Tatil köyü", "en": "Holiday resort", "es": "Complejo turístico", "fr": "Club de vacances", "de": "Ferienanlage", "it": "Villaggio turistico", "pt": "Resort", "ru": "Курортный отель", "ar": "منتجع", "zh": "度假村"},
+      "clues": [
+        {"tr": "Animatör", "en": "Entertainer", "es": "Animador", "fr": "Animateur", "de": "Animateur", "it": "Animatore", "pt": "Animador", "ru": "Аниматор", "ar": "منشط", "zh": "娱乐专员"},
+        {"tr": "Mini disko", "en": "Kids' disco", "es": "Minidisco", "fr": "Mini-disco", "de": "Minidisco", "it": "Baby dance", "pt": "Minidisco", "ru": "Детская дискотека", "ar": "ديسكو الأطفال", "zh": "儿童迪斯科"}
+      ]
+    },
+    {
+      "word": {"tr": "Erken rezervasyon", "en": "Early booking", "es": "Reserva anticipada", "fr": "Réservation anticipée", "de": "Frühbucher", "it": "Prenotazione anticipata", "pt": "Reserva antecipada", "ru": "Раннее бронирование", "ar": "حجز مبكر", "zh": "提前预订"},
+      "drawable": false,
+      "clues": [
+        {"tr": "İndirim", "en": "Discount", "es": "Descuento", "fr": "Réduction", "de": "Rabatt", "it": "Sconto", "pt": "Desconto", "ru": "Скидка", "ar": "خصم", "zh": "折扣"},
+        {"tr": "Ocak ayı", "en": "January", "es": "Enero", "fr": "Janvier", "de": "Januar", "it": "Gennaio", "pt": "Janeiro", "ru": "Январь", "ar": "يناير", "zh": "一月"}
+      ]
+    },
+    {
+      "word": {"tr": "Plaj şemsiyesi", "en": "Beach umbrella", "es": "Sombrilla", "fr": "Parasol", "de": "Sonnenschirm", "it": "Ombrellone", "pt": "Guarda-sol", "ru": "Пляжный зонт", "ar": "مظلة الشاطئ", "zh": "遮阳伞"},
+      "clues": [
+        {"tr": "Uçup gitmek", "en": "Blown away", "es": "Salir volando", "fr": "S'envoler", "de": "Wegfliegen", "it": "Volare via", "pt": "Sair voando", "ru": "Улететь", "ar": "يطير بعيداً", "zh": "被风吹走"},
+        {"tr": "Kuma saplamak", "en": "Sticking in the sand", "es": "Clavar en la arena", "fr": "Planter dans le sable", "de": "In den Sand stecken", "it": "Piantare nella sabbia", "pt": "Fincar na areia", "ru": "Воткнуть в песок", "ar": "غرس في الرمل", "zh": "插进沙子"}
+      ]
+    },
+    {
+      "word": {"tr": "Vize", "en": "Visa", "es": "Visado", "fr": "Visa", "de": "Visum", "it": "Visto", "pt": "Visto", "ru": "Виза", "ar": "تأشيرة", "zh": "签证"},
+      "clues": [
+        {"tr": "Konsolosluk", "en": "Consulate", "es": "Consulado", "fr": "Consulat", "de": "Konsulat", "it": "Consolato", "pt": "Consulado", "ru": "Консульство", "ar": "قنصلية", "zh": "领事馆"},
+        {"tr": "Mühür", "en": "Stamp", "es": "Sello", "fr": "Tampon", "de": "Stempel", "it": "Timbro", "pt": "Carimbo", "ru": "Печать", "ar": "ختم", "zh": "印章"}
+      ]
+    },
+    {
+      "word": {"tr": "Kaplıca", "en": "Hot spring", "es": "Aguas termales", "fr": "Source chaude", "de": "Thermalquelle", "it": "Terme", "pt": "Águas termais", "ru": "Горячий источник", "ar": "ينبوع حار", "zh": "温泉"},
+      "clues": [
+        {"tr": "Kükürt", "en": "Sulfur", "es": "Azufre", "fr": "Soufre", "de": "Schwefel", "it": "Zolfo", "pt": "Enxofre", "ru": "Сера", "ar": "كبريت", "zh": "硫磺"},
+        {"tr": "Buruşuk parmaklar", "en": "Wrinkly fingers", "es": "Dedos arrugados", "fr": "Doigts fripés", "de": "Schrumpelige Finger", "it": "Dita raggrinzite", "pt": "Dedos enrugados", "ru": "Сморщенные пальцы", "ar": "أصابع مجعدة", "zh": "手指起皱"}
+      ]
+    },
+    {
+      "word": {"tr": "Uçak yemeği", "en": "Airplane food", "es": "Comida de avión", "fr": "Repas en avion", "de": "Bordessen", "it": "Pasto in aereo", "pt": "Comida de avião", "ru": "Еда в самолёте", "ar": "وجبة الطائرة", "zh": "飞机餐"},
+      "clues": [
+        {"tr": "Tavuk mu makarna mı", "en": "Chicken or pasta?", "es": "¿Pollo o pasta?", "fr": "Poulet ou pâtes ?", "de": "Hähnchen oder Pasta?", "it": "Pollo o pasta?", "pt": "Frango ou massa?", "ru": "Курица или паста?", "ar": "دجاج أم معكرونة؟", "zh": "鸡肉还是意面？"},
+        {"tr": "Küçük tepsi", "en": "Tiny tray", "es": "Bandeja pequeña", "fr": "Petit plateau", "de": "Kleines Tablett", "it": "Vassoio piccolo", "pt": "Bandejinha", "ru": "Маленький поднос", "ar": "صينية صغيرة", "zh": "小托盘"}
+      ]
+    },
+    {
+      "word": {"tr": "Bungalov", "en": "Bungalow", "es": "Bungaló", "fr": "Bungalow", "de": "Bungalow", "it": "Bungalow", "pt": "Bangalô", "ru": "Бунгало", "ar": "بنغل", "zh": "度假小屋"},
+      "clues": [
+        {"tr": "Ahşap", "en": "Wood", "es": "Madera", "fr": "Bois", "de": "Holz", "it": "Legno", "pt": "Madeira", "ru": "Дерево", "ar": "خشب", "zh": "木头"},
+        {"tr": "Sivrisinek", "en": "Mosquitoes", "es": "Mosquitos", "fr": "Moustiques", "de": "Mücken", "it": "Zanzare", "pt": "Mosquitos", "ru": "Комары", "ar": "بعوض", "zh": "蚊子"}
+      ]
+    },
+    {
+      "word": {"tr": "Pansiyon", "en": "Guesthouse", "es": "Casa de huéspedes", "fr": "Maison d'hôtes", "de": "Pension", "it": "Pensione", "pt": "Pousada", "ru": "Гостевой дом", "ar": "بيت ضيافة", "zh": "民宿"},
+      "clues": [
+        {"tr": "Ev sahibi", "en": "Host", "es": "Anfitrión", "fr": "Propriétaire", "de": "Gastgeber", "it": "Padrone di casa", "pt": "Anfitrião", "ru": "Хозяйка", "ar": "المالك", "zh": "房东"},
+        {"tr": "Ev yapımı reçel", "en": "Homemade jam", "es": "Mermelada casera", "fr": "Confiture artisanale", "de": "Hausgemachte Marmelade", "it": "Marmellata fatta in casa", "pt": "Geleia caseira", "ru": "Самодельное варенье", "ar": "مربى منزلي", "zh": "自制果酱"}
+      ]
     }
   ]
 }

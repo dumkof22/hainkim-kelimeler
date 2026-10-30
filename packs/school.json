@@ -165,6 +165,127 @@
         {"tr": "Eşofman", "en": "Tracksuit", "es": "Chándal", "fr": "Survêtement", "de": "Trainingsanzug", "it": "Tuta", "pt": "Agasalho", "ru": "Спортивный костюм", "ar": "بدلة رياضية", "zh": "运动服"},
         {"tr": "Ter", "en": "Sweat", "es": "Sudor", "fr": "Sueur", "de": "Schweiß", "it": "Sudore", "pt": "Suor", "ru": "Пот", "ar": "عرق", "zh": "汗水"}
       ]
+    },
+    {
+      "word": {"tr": "Akıllı tahta", "en": "Interactive whiteboard", "es": "Pizarra digital", "fr": "Tableau interactif", "de": "Smartboard", "it": "Lavagna interattiva", "pt": "Lousa digital", "ru": "Интерактивная доска", "ar": "سبورة ذكية", "zh": "电子白板"},
+      "clues": [
+        {"tr": "Dokunmak", "en": "Touch", "es": "Tocar", "fr": "Toucher", "de": "Berühren", "it": "Toccare", "pt": "Tocar", "ru": "Касание", "ar": "لمس", "zh": "触摸"},
+        {"tr": "Kalem", "en": "Stylus", "es": "Lápiz óptico", "fr": "Stylet", "de": "Stift", "it": "Penna", "pt": "Caneta", "ru": "Стилус", "ar": "قلم", "zh": "触控笔"}
+      ]
+    },
+    {
+      "word": {"tr": "Sürpriz sınav", "en": "Pop quiz", "es": "Examen sorpresa", "fr": "Interro surprise", "de": "Unangekündigter Test", "it": "Compito a sorpresa", "pt": "Prova surpresa", "ru": "Внезапная контрольная", "ar": "اختبار مفاجئ", "zh": "突击测验"},
+      "clues": [
+        {"tr": "Soğuk ter", "en": "Cold sweat", "es": "Sudor frío", "fr": "Sueurs froides", "de": "Kalter Schweiß", "it": "Sudore freddo", "pt": "Suor frio", "ru": "Холодный пот", "ar": "عرق بارد", "zh": "冷汗"},
+        {"tr": "Boş kâğıt", "en": "Blank page", "es": "Hoja en blanco", "fr": "Page blanche", "de": "Leeres Blatt", "it": "Foglio bianco", "pt": "Folha em branco", "ru": "Чистый лист", "ar": "ورقة فارغة", "zh": "白纸"}
+      ]
+    },
+    {
+      "word": {"tr": "Yanardağ maketi", "en": "Volcano model", "es": "Maqueta de volcán", "fr": "Maquette de volcan", "de": "Vulkanmodell", "it": "Modellino di vulcano", "pt": "Maquete de vulcão", "ru": "Макет вулкана", "ar": "مجسم بركان", "zh": "火山模型"},
+      "clues": [
+        {"tr": "Karbonat", "en": "Baking soda", "es": "Bicarbonato", "fr": "Bicarbonate", "de": "Natron", "it": "Bicarbonato", "pt": "Bicarbonato", "ru": "Сода", "ar": "بيكربونات الصوديوم", "zh": "小苏打"},
+        {"tr": "Kırmızı köpük", "en": "Red foam", "es": "Espuma roja", "fr": "Mousse rouge", "de": "Roter Schaum", "it": "Schiuma rossa", "pt": "Espuma vermelha", "ru": "Красная пена", "ar": "رغوة حمراء", "zh": "红色泡沫"}
+      ]
+    },
+    {
+      "word": {"tr": "Okul forması", "en": "School uniform", "es": "Uniforme escolar", "fr": "Uniforme scolaire", "de": "Schuluniform", "it": "Divisa scolastica", "pt": "Uniforme escolar", "ru": "Школьная форма", "ar": "زي مدرسي", "zh": "校服"},
+      "clues": [
+        {"tr": "Lacivert", "en": "Navy blue", "es": "Azul marino", "fr": "Bleu marine", "de": "Marineblau", "it": "Blu navy", "pt": "Azul-marinho", "ru": "Тёмно-синий", "ar": "كحلي", "zh": "藏青色"},
+        {"tr": "Yaka", "en": "Collar", "es": "Cuello", "fr": "Col", "de": "Kragen", "it": "Colletto", "pt": "Gola", "ru": "Воротник", "ar": "ياقة", "zh": "衣领"}
+      ]
+    },
+    {
+      "word": {"tr": "Tahta silgisi", "en": "Board eraser", "es": "Borrador", "fr": "Brosse à tableau", "de": "Tafelschwamm", "it": "Cancellino", "pt": "Apagador", "ru": "Губка для доски", "ar": "ممحاة السبورة", "zh": "黑板擦"},
+      "clues": [
+        {"tr": "Pencere", "en": "Window", "es": "Ventana", "fr": "Fenêtre", "de": "Fenster", "it": "Finestra", "pt": "Janela", "ru": "Окно", "ar": "نافذة", "zh": "窗户"},
+        {"tr": "Keçe", "en": "Felt", "es": "Fieltro", "fr": "Feutre", "de": "Filz", "it": "Feltro", "pt": "Feltro", "ru": "Войлок", "ar": "لباد", "zh": "毛毡"}
+      ]
+    },
+    {
+      "word": {"tr": "Okul sırası", "en": "School desk", "es": "Pupitre", "fr": "Pupitre", "de": "Schulbank", "it": "Banco di scuola", "pt": "Carteira escolar", "ru": "Парта", "ar": "مقعد الدراسة", "zh": "课桌"},
+      "clues": [
+        {"tr": "Sakız", "en": "Chewing gum", "es": "Chicle", "fr": "Chewing-gum", "de": "Kaugummi", "it": "Gomma da masticare", "pt": "Chiclete", "ru": "Жвачка", "ar": "علكة", "zh": "口香糖"},
+        {"tr": "Kazınmış yazı", "en": "Carved initials", "es": "Iniciales grabadas", "fr": "Initiales gravées", "de": "Eingeritzte Initialen", "it": "Iniziali incise", "pt": "Iniciais riscadas", "ru": "Вырезанные надписи", "ar": "حروف محفورة", "zh": "刻字"}
+      ]
+    },
+    {
+      "word": {"tr": "Kalem kutusu", "en": "Pencil case", "es": "Estuche", "fr": "Trousse", "de": "Federmäppchen", "it": "Astuccio", "pt": "Estojo", "ru": "Пенал", "ar": "مقلمة", "zh": "笔袋"},
+      "clues": [
+        {"tr": "Fermuar", "en": "Zipper", "es": "Cremallera", "fr": "Fermeture éclair", "de": "Reißverschluss", "it": "Cerniera", "pt": "Zíper", "ru": "Молния", "ar": "سحاب", "zh": "拉链"},
+        {"tr": "Karalama", "en": "Doodles", "es": "Garabatos", "fr": "Gribouillages", "de": "Kritzeleien", "it": "Scarabocchi", "pt": "Rabiscos", "ru": "Каракули", "ar": "خربشات", "zh": "涂鸦"}
+      ]
+    },
+    {
+      "word": {"tr": "Veli toplantısı", "en": "Parent-teacher meeting", "es": "Reunión de padres", "fr": "Réunion parents-profs", "de": "Elternabend", "it": "Colloquio con i genitori", "pt": "Reunião de pais", "ru": "Родительское собрание", "ar": "اجتماع أولياء الأمور", "zh": "家长会"},
+      "drawable": false,
+      "clues": [
+        {"tr": "Gerginlik", "en": "Tension", "es": "Tensión", "fr": "Tension", "de": "Anspannung", "it": "Tensione", "pt": "Tensão", "ru": "Напряжение", "ar": "توتر", "zh": "紧张"},
+        {"tr": "Sıra sıra sandalye", "en": "Rows of chairs", "es": "Filas de sillas", "fr": "Rangées de chaises", "de": "Stuhlreihen", "it": "File di sedie", "pt": "Fileiras de cadeiras", "ru": "Ряды стульев", "ar": "صفوف كراسي", "zh": "一排排椅子"}
+      ]
+    },
+    {
+      "word": {"tr": "Yoklama", "en": "Roll call", "es": "Pasar lista", "fr": "Appel", "de": "Anwesenheitsliste", "it": "Appello", "pt": "Chamada", "ru": "Перекличка", "ar": "تفقد الحضور", "zh": "点名"},
+      "drawable": false,
+      "clues": [
+        {"tr": "Burada!", "en": "Here!", "es": "¡Presente!", "fr": "Présent !", "de": "Hier!", "it": "Presente!", "pt": "Presente!", "ru": "Здесь!", "ar": "أنا هنا!", "zh": "到！"},
+        {"tr": "Geç kalmak", "en": "Being late", "es": "Llegar tarde", "fr": "Être en retard", "de": "Zuspätkommen", "it": "Ritardo", "pt": "Atraso", "ru": "Опоздание", "ar": "التأخر", "zh": "迟到"}
+      ]
+    },
+    {
+      "word": {"tr": "İletki", "en": "Protractor", "es": "Transportador", "fr": "Rapporteur", "de": "Winkelmesser", "it": "Goniometro", "pt": "Transferidor", "ru": "Транспортир", "ar": "منقلة", "zh": "量角器"},
+      "clues": [
+        {"tr": "Derece", "en": "Degrees", "es": "Grados", "fr": "Degrés", "de": "Grad", "it": "Gradi", "pt": "Graus", "ru": "Градусы", "ar": "درجات", "zh": "度数"},
+        {"tr": "Plastik", "en": "Plastic", "es": "Plástico", "fr": "Plastique", "de": "Plastik", "it": "Plastica", "pt": "Plástico", "ru": "Пластик", "ar": "بلاستيك", "zh": "塑料"}
+      ]
+    },
+    {
+      "word": {"tr": "Fosforlu kalem", "en": "Highlighter", "es": "Subrayador", "fr": "Surligneur", "de": "Textmarker", "it": "Evidenziatore", "pt": "Marca-texto", "ru": "Текстовыделитель", "ar": "قلم تحديد", "zh": "荧光笔"},
+      "clues": [
+        {"tr": "Neon", "en": "Neon", "es": "Neón", "fr": "Fluo", "de": "Neon", "it": "Fluo", "pt": "Neon", "ru": "Неон", "ar": "نيون", "zh": "霓虹"},
+        {"tr": "Ders notları", "en": "Lecture notes", "es": "Apuntes", "fr": "Notes de cours", "de": "Mitschriften", "it": "Appunti", "pt": "Anotações", "ru": "Конспект", "ar": "ملاحظات الدرس", "zh": "复习资料"}
+      ]
+    },
+    {
+      "word": {"tr": "Daksil", "en": "Correction fluid", "es": "Corrector líquido", "fr": "Correcteur liquide", "de": "Tipp-Ex", "it": "Bianchetto", "pt": "Corretivo", "ru": "Корректор", "ar": "مزيل الحبر", "zh": "修正液"},
+      "clues": [
+        {"tr": "Hata", "en": "Mistake", "es": "Error", "fr": "Faute", "de": "Fehler", "it": "Errore", "pt": "Erro", "ru": "Ошибка", "ar": "خطأ", "zh": "错误"},
+        {"tr": "Kurumasını beklemek", "en": "Waiting to dry", "es": "Esperar que seque", "fr": "Attendre que ça sèche", "de": "Trocknen lassen", "it": "Aspettare che asciughi", "pt": "Esperar secar", "ru": "Ждать, пока высохнет", "ar": "انتظار الجفاف", "zh": "等它干"}
+      ]
+    },
+    {
+      "word": {"tr": "Yıldız çıkartması", "en": "Gold star sticker", "es": "Pegatina de estrella", "fr": "Gommette étoile", "de": "Sternchen-Aufkleber", "it": "Adesivo a stella", "pt": "Adesivo de estrela", "ru": "Наклейка-звёздочка", "ar": "ملصق نجمة", "zh": "星星贴纸"},
+      "clues": [
+        {"tr": "Aferin", "en": "Well done!", "es": "¡Muy bien!", "fr": "Bravo !", "de": "Gut gemacht!", "it": "Bravo!", "pt": "Muito bem!", "ru": "Молодец!", "ar": "أحسنت!", "zh": "真棒！"},
+        {"tr": "Parlak", "en": "Shiny", "es": "Brillante", "fr": "Brillant", "de": "Glänzend", "it": "Lucido", "pt": "Brilhante", "ru": "Блестящий", "ar": "لامع", "zh": "闪亮"}
+      ]
+    },
+    {
+      "word": {"tr": "Atlas", "en": "Atlas", "es": "Atlas", "fr": "Atlas", "de": "Atlas", "it": "Atlante", "pt": "Atlas", "ru": "Атлас", "ar": "أطلس", "zh": "地图册"},
+      "clues": [
+        {"tr": "Başkentler", "en": "Capitals", "es": "Capitales", "fr": "Capitales", "de": "Hauptstädte", "it": "Capitali", "pt": "Capitais", "ru": "Столицы", "ar": "عواصم", "zh": "首都"},
+        {"tr": "Renkli sınırlar", "en": "Colored borders", "es": "Fronteras de colores", "fr": "Frontières colorées", "de": "Bunte Grenzen", "it": "Confini colorati", "pt": "Fronteiras coloridas", "ru": "Цветные границы", "ar": "حدود ملونة", "zh": "彩色边界"}
+      ]
+    },
+    {
+      "word": {"tr": "Oyun hamuru", "en": "Play dough", "es": "Plastilina", "fr": "Pâte à modeler", "de": "Knete", "it": "Pongo", "pt": "Massinha", "ru": "Пластилин", "ar": "صلصال", "zh": "橡皮泥"},
+      "clues": [
+        {"tr": "Kalıp", "en": "Molds", "es": "Moldes", "fr": "Moules", "de": "Förmchen", "it": "Formine", "pt": "Forminhas", "ru": "Формочки", "ar": "قوالب", "zh": "模具"},
+        {"tr": "Halıya yapışmak", "en": "Stuck in the carpet", "es": "Pegado en la alfombra", "fr": "Collé au tapis", "de": "Klebt im Teppich", "it": "Attaccato al tappeto", "pt": "Grudado no tapete", "ru": "Прилипло к ковру", "ar": "يلتصق بالسجادة", "zh": "粘在地毯上"}
+      ]
+    },
+    {
+      "word": {"tr": "Sulu boya", "en": "Watercolors", "es": "Acuarelas", "fr": "Aquarelle", "de": "Wasserfarben", "it": "Acquerelli", "pt": "Aquarela", "ru": "Акварель", "ar": "ألوان مائية", "zh": "水彩"},
+      "clues": [
+        {"tr": "Kirli bardak", "en": "Dirty cup", "es": "Vaso sucio", "fr": "Gobelet sale", "de": "Schmutziger Becher", "it": "Bicchiere sporco", "pt": "Copo sujo", "ru": "Грязный стакан", "ar": "كوب متسخ", "zh": "脏杯子"},
+        {"tr": "Fırça", "en": "Brush", "es": "Pincel", "fr": "Pinceau", "de": "Pinsel", "it": "Pennello", "pt": "Pincel", "ru": "Кисточка", "ar": "فرشاة", "zh": "画笔"}
+      ]
+    },
+    {
+      "word": {"tr": "Abaküs", "en": "Abacus", "es": "Ábaco", "fr": "Boulier", "de": "Abakus", "it": "Abaco", "pt": "Ábaco", "ru": "Счёты", "ar": "معداد", "zh": "算盘"},
+      "clues": [
+        {"tr": "Boncuklar", "en": "Beads", "es": "Cuentas", "fr": "Perles", "de": "Perlen", "it": "Perline", "pt": "Contas", "ru": "Бусины", "ar": "خرز", "zh": "珠子"},
+        {"tr": "Saymak", "en": "Counting", "es": "Contar", "fr": "Compter", "de": "Zählen", "it": "Contare", "pt": "Contar", "ru": "Арифметика", "ar": "عدّ", "zh": "数数"}
+      ]
     }
   ]
 }

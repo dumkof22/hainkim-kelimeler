@@ -185,6 +185,104 @@
         {"tr": "Leke", "en": "Stains", "es": "Manchas", "fr": "Taches", "de": "Flecken", "it": "Macchie", "pt": "Manchas", "ru": "Пятна", "ar": "بقع", "zh": "污渍"},
         {"tr": "Sabır", "en": "Patience", "es": "Paciencia", "fr": "Patience", "de": "Geduld", "it": "Pazienza", "pt": "Paciência", "ru": "Терпение", "ar": "صبر", "zh": "耐心"}
       ]
+    },
+    {
+      "word": {"tr": "Ispanak", "en": "Spinach", "es": "Espinaca", "fr": "Épinards", "de": "Spinat", "it": "Spinaci", "pt": "Espinafre", "ru": "Шпинат", "ar": "سبانخ", "zh": "菠菜"},
+      "clues": [
+        {"tr": "Demir", "en": "Iron", "es": "Hierro", "fr": "Fer", "de": "Eisen", "it": "Ferro", "pt": "Ferro", "ru": "Железо", "ar": "حديد", "zh": "铁"},
+        {"tr": "Kas", "en": "Muscles", "es": "Músculos", "fr": "Muscles", "de": "Muskeln", "it": "Muscoli", "pt": "Músculos", "ru": "Мускулы", "ar": "عضلات", "zh": "肌肉"}
+      ]
+    },
+    {
+      "word": {"tr": "Böğürtlen", "en": "Blackberry", "es": "Mora", "fr": "Mûre", "de": "Brombeere", "it": "Mora", "pt": "Amora", "ru": "Ежевика", "ar": "توت العليق", "zh": "黑莓"},
+      "clues": [
+        {"tr": "Çalı", "en": "Thorny bush", "es": "Arbusto espinoso", "fr": "Buisson épineux", "de": "Dornbusch", "it": "Cespuglio spinoso", "pt": "Arbusto espinhoso", "ru": "Колючий куст", "ar": "شجيرة شائكة", "zh": "灌木丛"},
+        {"tr": "Mor dil", "en": "Purple tongue", "es": "Lengua violeta", "fr": "Langue violette", "de": "Lila Zunge", "it": "Lingua viola", "pt": "Língua roxa", "ru": "Фиолетовый язык", "ar": "لسان بنفسجي", "zh": "紫色舌头"}
+      ]
+    },
+    {
+      "word": {"tr": "İncir", "en": "Fig", "es": "Higo", "fr": "Figue", "de": "Feige", "it": "Fico", "pt": "Figo", "ru": "Инжир", "ar": "تين", "zh": "无花果"},
+      "clues": [
+        {"tr": "Ağustos", "en": "August", "es": "Agosto", "fr": "Août", "de": "August", "it": "Agosto", "pt": "Agosto", "ru": "Август", "ar": "أغسطس", "zh": "八月"},
+        {"tr": "Reçel", "en": "Jam", "es": "Mermelada", "fr": "Confiture", "de": "Marmelade", "it": "Marmellata", "pt": "Geleia", "ru": "Варенье", "ar": "مربى", "zh": "抹酱"}
+      ]
+    },
+    {
+      "word": {"tr": "Erik", "en": "Plum", "es": "Ciruela", "fr": "Prune", "de": "Pflaume", "it": "Prugna", "pt": "Ameixa", "ru": "Слива", "ar": "برقوق", "zh": "李子"},
+      "clues": [
+        {"tr": "Tuz", "en": "Salt", "es": "Sal", "fr": "Sel", "de": "Salz", "it": "Sale", "pt": "Sal", "ru": "Соль", "ar": "ملح", "zh": "盐"},
+        {"tr": "Komşu bahçesi", "en": "Neighbor's garden", "es": "Huerto del vecino", "fr": "Jardin du voisin", "de": "Nachbars Garten", "it": "Giardino del vicino", "pt": "Quintal do vizinho", "ru": "Соседский сад", "ar": "حديقة الجيران", "zh": "邻居家的果园"}
+      ]
+    },
+    {
+      "word": {"tr": "Greyfurt", "en": "Grapefruit", "es": "Pomelo", "fr": "Pamplemousse", "de": "Grapefruit", "it": "Pompelmo", "pt": "Toranja", "ru": "Грейпфрут", "ar": "جريب فروت", "zh": "西柚"},
+      "clues": [
+        {"tr": "Buruk", "en": "Bitter", "es": "Amargo", "fr": "Amer", "de": "Bitter", "it": "Amaro", "pt": "Amargo", "ru": "Горький", "ar": "مرّ", "zh": "苦"},
+        {"tr": "Diyet", "en": "Diet", "es": "Dieta", "fr": "Régime", "de": "Diät", "it": "Dieta", "pt": "Dieta", "ru": "Диета", "ar": "حمية", "zh": "节食"}
+      ]
+    },
+    {
+      "word": {"tr": "Enginar", "en": "Artichoke", "es": "Alcachofa", "fr": "Artichaut", "de": "Artischocke", "it": "Carciofo", "pt": "Alcachofra", "ru": "Артишок", "ar": "خرشوف", "zh": "洋蓟"},
+      "clues": [
+        {"tr": "Zırh", "en": "Armor", "es": "Armadura", "fr": "Armure", "de": "Rüstung", "it": "Armatura", "pt": "Armadura", "ru": "Броня", "ar": "درع", "zh": "盔甲"},
+        {"tr": "Kalp", "en": "Heart", "es": "Corazón", "fr": "Cœur", "de": "Herz", "it": "Cuore", "pt": "Coração", "ru": "Сердце", "ar": "قلب", "zh": "心"}
+      ]
+    },
+    {
+      "word": {"tr": "Pancar", "en": "Beetroot", "es": "Remolacha", "fr": "Betterave", "de": "Rote Bete", "it": "Barbabietola", "pt": "Beterraba", "ru": "Свёкла", "ar": "شمندر", "zh": "甜菜根"},
+      "clues": [
+        {"tr": "Mor eller", "en": "Purple hands", "es": "Manos moradas", "fr": "Mains violettes", "de": "Lila Hände", "it": "Mani viola", "pt": "Mãos roxas", "ru": "Фиолетовые руки", "ar": "أيدٍ بنفسجية", "zh": "紫色的手"},
+        {"tr": "Toprak altı", "en": "Underground", "es": "Bajo tierra", "fr": "Sous terre", "de": "Unter der Erde", "it": "Sottoterra", "pt": "Sob o solo", "ru": "Под землёй", "ar": "تحت التراب", "zh": "地下"}
+      ]
+    },
+    {
+      "word": {"tr": "Havuç", "en": "Carrot", "es": "Zanahoria", "fr": "Carotte", "de": "Karotte", "it": "Carota", "pt": "Cenoura", "ru": "Морковь", "ar": "جزر", "zh": "胡萝卜"},
+      "clues": [
+        {"tr": "Kardan adam", "en": "Snowman", "es": "Muñeco de nieve", "fr": "Bonhomme de neige", "de": "Schneemann", "it": "Pupazzo di neve", "pt": "Boneco de neve", "ru": "Снеговик", "ar": "رجل الثلج", "zh": "雪人"},
+        {"tr": "Göz", "en": "Eyesight", "es": "Vista", "fr": "Vue", "de": "Sehkraft", "it": "Vista", "pt": "Visão", "ru": "Зрение", "ar": "النظر", "zh": "视力"}
+      ]
+    },
+    {
+      "word": {"tr": "Ceviz", "en": "Walnut", "es": "Nuez", "fr": "Noix", "de": "Walnuss", "it": "Noce", "pt": "Noz", "ru": "Грецкий орех", "ar": "جوز", "zh": "核桃"},
+      "clues": [
+        {"tr": "Beyin", "en": "Brain", "es": "Cerebro", "fr": "Cerveau", "de": "Gehirn", "it": "Cervello", "pt": "Cérebro", "ru": "Мозг", "ar": "دماغ", "zh": "大脑"},
+        {"tr": "Sert kabuk", "en": "Hard shell", "es": "Cáscara dura", "fr": "Coque dure", "de": "Harte Schale", "it": "Guscio duro", "pt": "Casca dura", "ru": "Твёрдая скорлупа", "ar": "قشرة صلبة", "zh": "硬壳"}
+      ]
+    },
+    {
+      "word": {"tr": "Fındık", "en": "Hazelnut", "es": "Avellana", "fr": "Noisette", "de": "Haselnuss", "it": "Nocciola", "pt": "Avelã", "ru": "Фундук", "ar": "بندق", "zh": "榛子"},
+      "clues": [
+        {"tr": "Karadeniz", "en": "Black Sea", "es": "Mar Negro", "fr": "Mer Noire", "de": "Schwarzes Meer", "it": "Mar Nero", "pt": "Mar Negro", "ru": "Чёрное море", "ar": "البحر الأسود", "zh": "黑海"},
+        {"tr": "Sincap", "en": "Squirrel", "es": "Ardilla", "fr": "Écureuil", "de": "Eichhörnchen", "it": "Scoiattolo", "pt": "Esquilo", "ru": "Белка", "ar": "سنجاب", "zh": "松鼠"}
+      ]
+    },
+    {
+      "word": {"tr": "Mandalina", "en": "Mandarin", "es": "Mandarina", "fr": "Mandarine", "de": "Mandarine", "it": "Mandarino", "pt": "Tangerina", "ru": "Мандарин", "ar": "يوسفي", "zh": "橘子"},
+      "clues": [
+        {"tr": "Yılbaşı", "en": "New Year's Eve", "es": "Nochevieja", "fr": "Réveillon", "de": "Silvester", "it": "Capodanno", "pt": "Réveillon", "ru": "Новый год", "ar": "رأس السنة", "zh": "新年"},
+        {"tr": "Dilim", "en": "Segments", "es": "Gajos", "fr": "Quartiers", "de": "Spalten", "it": "Spicchi", "pt": "Gomos", "ru": "Дольки", "ar": "فصوص", "zh": "一瓣瓣"}
+      ]
+    },
+    {
+      "word": {"tr": "Zencefil", "en": "Ginger", "es": "Jengibre", "fr": "Gingembre", "de": "Ingwer", "it": "Zenzero", "pt": "Gengibre", "ru": "Имбирь", "ar": "زنجبيل", "zh": "生姜"},
+      "clues": [
+        {"tr": "Boğaz ağrısı", "en": "Sore throat", "es": "Dolor de garganta", "fr": "Mal de gorge", "de": "Halsschmerzen", "it": "Mal di gola", "pt": "Dor de garganta", "ru": "Боль в горле", "ar": "التهاب الحلق", "zh": "嗓子疼"},
+        {"tr": "Suşi", "en": "Sushi", "es": "Sushi", "fr": "Sushi", "de": "Sushi", "it": "Sushi", "pt": "Sushi", "ru": "Суши", "ar": "سوشي", "zh": "寿司"}
+      ]
+    },
+    {
+      "word": {"tr": "Maydanoz", "en": "Parsley", "es": "Perejil", "fr": "Persil", "de": "Petersilie", "it": "Prezzemolo", "pt": "Salsinha", "ru": "Петрушка", "ar": "بقدونس", "zh": "欧芹"},
+      "clues": [
+        {"tr": "Dişe yapışmak", "en": "Stuck in teeth", "es": "Entre los dientes", "fr": "Coincé entre les dents", "de": "Zwischen den Zähnen", "it": "Tra i denti", "pt": "Preso no dente", "ru": "Застряло в зубах", "ar": "عالق بين الأسنان", "zh": "塞牙"},
+        {"tr": "Süs", "en": "Garnish", "es": "Adorno", "fr": "Décoration", "de": "Garnitur", "it": "Guarnizione", "pt": "Enfeite", "ru": "Украшение", "ar": "زينة", "zh": "装饰"}
+      ]
+    },
+    {
+      "word": {"tr": "Kestane", "en": "Chestnut", "es": "Castaña", "fr": "Châtaigne", "de": "Esskastanie", "it": "Castagna", "pt": "Castanha", "ru": "Каштан", "ar": "كستناء", "zh": "栗子"},
+      "clues": [
+        {"tr": "Sokak satıcısı", "en": "Street vendor", "es": "Vendedor ambulante", "fr": "Marchand ambulant", "de": "Straßenverkäufer", "it": "Venditore ambulante", "pt": "Vendedor ambulante", "ru": "Уличный торговец", "ar": "بائع متجول", "zh": "街头小贩"},
+        {"tr": "Kasım", "en": "November", "es": "Noviembre", "fr": "Novembre", "de": "November", "it": "Novembre", "pt": "Novembro", "ru": "Ноябрь", "ar": "نوفمبر", "zh": "十一月"}
+      ]
     }
   ]
 }

@@ -171,6 +171,118 @@
         {"tr": "Acı", "en": "Spicy", "es": "Picante", "fr": "Épicé", "de": "Scharf", "it": "Piccante", "pt": "Apimentado", "ru": "Острый", "ar": "حار", "zh": "辣"},
         {"tr": "Marul", "en": "Lettuce", "es": "Lechuga", "fr": "Laitue", "de": "Kopfsalat", "it": "Lattuga", "pt": "Alface", "ru": "Латук", "ar": "خس", "zh": "生菜"}
       ]
+    },
+    {
+      "word": {"tr": "Menemen", "en": "Menemen", "es": "Menemen", "fr": "Menemen", "de": "Menemen", "it": "Menemen", "pt": "Menemen", "ru": "Менемен", "ar": "منمن", "zh": "梅内门炒蛋"},
+      "clues": [
+        {"tr": "Soğan tartışması", "en": "The onion debate", "es": "El debate de la cebolla", "fr": "Le débat de l'oignon", "de": "Die Zwiebel-Debatte", "it": "Il dibattito sulla cipolla", "pt": "O debate da cebola", "ru": "Спор о луке", "ar": "جدل البصل", "zh": "放不放洋葱"},
+        {"tr": "Ekmek banmak", "en": "Dipping bread", "es": "Mojar pan", "fr": "Saucer avec du pain", "de": "Brot eintunken", "it": "Fare la scarpetta", "pt": "Molhar o pão", "ru": "Макать хлеб", "ar": "غمس الخبز", "zh": "蘸面包"}
+      ]
+    },
+    {
+      "word": {"tr": "Balık ekmek", "en": "Fish sandwich", "es": "Bocadillo de pescado", "fr": "Sandwich au poisson", "de": "Fischbrötchen", "it": "Panino col pesce", "pt": "Sanduíche de peixe", "ru": "Рыбный сэндвич", "ar": "ساندويتش السمك", "zh": "鱼肉三明治"},
+      "clues": [
+        {"tr": "Eminönü", "en": "Eminönü", "es": "Eminönü", "fr": "Eminönü", "de": "Eminönü", "it": "Eminönü", "pt": "Eminönü", "ru": "Эминёню", "ar": "أمينونو", "zh": "艾米诺努"},
+        {"tr": "Sallanan tekne", "en": "Rocking boat", "es": "Barca que se mece", "fr": "Bateau qui tangue", "de": "Schaukelndes Boot", "it": "Barca che dondola", "pt": "Barco balançando", "ru": "Качающаяся лодка", "ar": "قارب يتمايل", "zh": "摇晃的小船"}
+      ]
+    },
+    {
+      "word": {"tr": "Midye dolma", "en": "Stuffed mussels", "es": "Mejillones rellenos", "fr": "Moules farcies", "de": "Gefüllte Muscheln", "it": "Cozze ripiene", "pt": "Mexilhões recheados", "ru": "Фаршированные мидии", "ar": "بلح البحر المحشي", "zh": "酿青口"},
+      "clues": [
+        {"tr": "Limon sıkmak", "en": "Squeezing lemon", "es": "Exprimir limón", "fr": "Presser un citron", "de": "Zitrone auspressen", "it": "Spremere il limone", "pt": "Espremer limão", "ru": "Выжать лимон", "ar": "عصر الليمون", "zh": "挤柠檬"},
+        {"tr": "Kabuk kaşık", "en": "Shell as a spoon", "es": "Concha como cuchara", "fr": "Coquille en guise de cuillère", "de": "Schale als Löffel", "it": "Guscio come cucchiaio", "pt": "Concha como colher", "ru": "Раковина вместо ложки", "ar": "الصدفة كملعقة", "zh": "壳当勺子"}
+      ]
+    },
+    {
+      "word": {"tr": "Kuru fasulye", "en": "Turkish bean stew", "es": "Guiso de alubias", "fr": "Ragoût de haricots", "de": "Bohneneintopf", "it": "Stufato di fagioli", "pt": "Feijoada turca", "ru": "Тушёная фасоль", "ar": "فاصولياء بيضاء", "zh": "炖白豆"},
+      "clues": [
+        {"tr": "Turşu suyu", "en": "Pickle juice", "es": "Jugo de encurtidos", "fr": "Jus de cornichons", "de": "Gurkenwasser", "it": "Succo di sottaceti", "pt": "Suco de picles", "ru": "Рассол", "ar": "ماء المخلل", "zh": "腌菜汁"},
+        {"tr": "Esnaf lokantası", "en": "Workers' canteen", "es": "Comedor popular", "fr": "Cantine ouvrière", "de": "Arbeiterkantine", "it": "Trattoria popolare", "pt": "Restaurante popular", "ru": "Рабочая столовая", "ar": "مطعم شعبي", "zh": "平价食堂"}
+      ]
+    },
+    {
+      "word": {"tr": "Gözleme", "en": "Gözleme", "es": "Gözleme", "fr": "Gözleme", "de": "Gözleme", "it": "Gözleme", "pt": "Gözleme", "ru": "Гёзлеме", "ar": "غوزليمة", "zh": "土耳其薄饼"},
+      "clues": [
+        {"tr": "Teyze", "en": "Auntie", "es": "Tía", "fr": "Tata", "de": "Tante", "it": "Zia", "pt": "Tia", "ru": "Тётушка", "ar": "خالة", "zh": "阿姨"},
+        {"tr": "Yayla", "en": "Highland", "es": "Meseta", "fr": "Plateau", "de": "Hochebene", "it": "Altopiano", "pt": "Planalto", "ru": "Плоскогорье", "ar": "هضبة", "zh": "高原"}
+      ]
+    },
+    {
+      "word": {"tr": "Tavla", "en": "Backgammon", "es": "Backgammon", "fr": "Backgammon", "de": "Backgammon", "it": "Backgammon", "pt": "Gamão", "ru": "Нарды", "ar": "طاولة الزهر", "zh": "双陆棋"},
+      "clues": [
+        {"tr": "Kahvehane", "en": "Coffeehouse", "es": "Café de barrio", "fr": "Café du coin", "de": "Kaffeehaus", "it": "Caffè di quartiere", "pt": "Café", "ru": "Кофейня", "ar": "مقهى", "zh": "茶馆"},
+        {"tr": "Şakırtı", "en": "Clacking", "es": "Traqueteo", "fr": "Claquement", "de": "Klappern", "it": "Ticchettio", "pt": "Barulho das peças", "ru": "Стук", "ar": "طقطقة", "zh": "噼啪声"}
+      ]
+    },
+    {
+      "word": {"tr": "Okey", "en": "Okey (Turkish game)", "es": "Okey (juego turco)", "fr": "Okey (jeu turc)", "de": "Okey (türkisches Spiel)", "it": "Okey (gioco turco)", "pt": "Okey (jogo turco)", "ru": "Окей (турецкая игра)", "ar": "أوكي (لعبة تركية)", "zh": "土耳其拉米牌"},
+      "clues": [
+        {"tr": "Dörtlü masa", "en": "Table for four", "es": "Mesa para cuatro", "fr": "Table de quatre", "de": "Vierertisch", "it": "Tavolo da quattro", "pt": "Mesa para quatro", "ru": "Стол на четверых", "ar": "طاولة لأربعة", "zh": "四人桌"},
+        {"tr": "Taş dizmek", "en": "Lining up tiles", "es": "Ordenar fichas", "fr": "Aligner les tuiles", "de": "Plättchen ordnen", "it": "Allineare le tessere", "pt": "Alinhar as pedras", "ru": "Расставлять фишки", "ar": "ترتيب الحجارة", "zh": "排好顺序"}
+      ]
+    },
+    {
+      "word": {"tr": "Poğaça", "en": "Pogaca (savory bun)", "es": "Bollo salado", "fr": "Petit pain turc", "de": "Pogatscha", "it": "Panino salato", "pt": "Pãozinho turco", "ru": "Погача", "ar": "فطيرة بوغاتشا", "zh": "土耳其小面包"},
+      "clues": [
+        {"tr": "Sabah çayı", "en": "Morning tea", "es": "Té de la mañana", "fr": "Thé du matin", "de": "Morgentee", "it": "Tè del mattino", "pt": "Chá da manhã", "ru": "Утренний чай", "ar": "شاي الصباح", "zh": "早茶"},
+        {"tr": "Peynirli", "en": "Cheese-filled", "es": "Relleno de queso", "fr": "Fourré au fromage", "de": "Mit Käse", "it": "Al formaggio", "pt": "Recheado de queijo", "ru": "С сыром", "ar": "بالجبن", "zh": "奶酪馅"}
+      ]
+    },
+    {
+      "word": {"tr": "Boza", "en": "Boza", "es": "Boza", "fr": "Boza", "de": "Boza", "it": "Boza", "pt": "Boza", "ru": "Боза", "ar": "بوزة", "zh": "博扎"},
+      "clues": [
+        {"tr": "Kış gecesi", "en": "Winter night", "es": "Noche de invierno", "fr": "Nuit d'hiver", "de": "Winternacht", "it": "Notte d'inverno", "pt": "Noite de inverno", "ru": "Зимняя ночь", "ar": "ليلة شتوية", "zh": "冬夜"},
+        {"tr": "Leblebi", "en": "Roasted chickpeas", "es": "Garbanzos tostados", "fr": "Pois chiches grillés", "de": "Geröstete Kichererbsen", "it": "Ceci tostati", "pt": "Grão-de-bico torrado", "ru": "Жареный нут", "ar": "حمص محمص", "zh": "烤鹰嘴豆"}
+      ]
+    },
+    {
+      "word": {"tr": "Serpme kahvaltı", "en": "Turkish breakfast spread", "es": "Desayuno turco", "fr": "Petit-déjeuner turc", "de": "Türkisches Frühstück", "it": "Colazione turca", "pt": "Café da manhã turco", "ru": "Турецкий завтрак", "ar": "فطور تركي", "zh": "土耳其早餐"},
+      "clues": [
+        {"tr": "Küçük tabaklar", "en": "Little plates", "es": "Platitos", "fr": "Plein d'assiettes", "de": "Kleine Teller", "it": "Piattini", "pt": "Pratinhos", "ru": "Маленькие тарелки", "ar": "صحون صغيرة", "zh": "小碟子"},
+        {"tr": "Pazar sabahı", "en": "Sunday morning", "es": "Domingo por la mañana", "fr": "Dimanche matin", "de": "Sonntagmorgen", "it": "Domenica mattina", "pt": "Domingo cedo", "ru": "Воскресное утро", "ar": "صباح الأحد", "zh": "星期天"}
+      ]
+    },
+    {
+      "word": {"tr": "Pişmaniye", "en": "Floss halva", "es": "Halva de hilo", "fr": "Halva filé", "de": "Fadenhalva", "it": "Halva filata", "pt": "Halva em fios", "ru": "Пишмание", "ar": "بشمانية", "zh": "土耳其龙须酥"},
+      "clues": [
+        {"tr": "Pamuk gibi", "en": "Like cotton", "es": "Como algodón", "fr": "Comme du coton", "de": "Wie Watte", "it": "Come cotone", "pt": "Como algodão", "ru": "Как вата", "ar": "مثل القطن", "zh": "像棉花"},
+        {"tr": "Hediye kutusu", "en": "Gift box", "es": "Caja de regalo", "fr": "Boîte cadeau", "de": "Geschenkschachtel", "it": "Scatola regalo", "pt": "Caixa de presente", "ru": "Подарочная коробка", "ar": "علبة هدايا", "zh": "礼盒"}
+      ]
+    },
+    {
+      "word": {"tr": "Maraş dondurması", "en": "Turkish ice cream", "es": "Helado turco", "fr": "Glace turque", "de": "Türkisches Eis", "it": "Gelato turco", "pt": "Sorvete turco", "ru": "Турецкое мороженое", "ar": "الآيس كريم التركي", "zh": "土耳其冰淇淋"},
+      "clues": [
+        {"tr": "Şaka", "en": "Pranks", "es": "Bromas", "fr": "Farces", "de": "Streiche", "it": "Scherzi", "pt": "Pegadinhas", "ru": "Розыгрыши", "ar": "مقالب", "zh": "恶作剧"},
+        {"tr": "Uzun sopa", "en": "Long stick", "es": "Palo largo", "fr": "Long bâton", "de": "Langer Stab", "it": "Bastone lungo", "pt": "Vara comprida", "ru": "Длинная палка", "ar": "عصا طويلة", "zh": "长棍"}
+      ]
+    },
+    {
+      "word": {"tr": "Galata Kulesi", "en": "Galata Tower", "es": "Torre de Gálata", "fr": "Tour de Galata", "de": "Galataturm", "it": "Torre di Galata", "pt": "Torre de Gálata", "ru": "Галатская башня", "ar": "برج غلطة", "zh": "加拉塔塔"},
+      "clues": [
+        {"tr": "Kanatlarla uçmak", "en": "Flying with wings", "es": "Volar con alas", "fr": "Voler avec des ailes", "de": "Mit Flügeln fliegen", "it": "Volare con le ali", "pt": "Voar com asas", "ru": "Полёт на крыльях", "ar": "الطيران بالأجنحة", "zh": "展翅飞翔"},
+        {"tr": "Panorama", "en": "Panorama", "es": "Panorama", "fr": "Panorama", "de": "Panorama", "it": "Panorama", "pt": "Panorama", "ru": "Панорама", "ar": "منظر بانورامي", "zh": "全景"}
+      ]
+    },
+    {
+      "word": {"tr": "Efes", "en": "Ephesus", "es": "Éfeso", "fr": "Éphèse", "de": "Ephesos", "it": "Efeso", "pt": "Éfeso", "ru": "Эфес", "ar": "أفسس", "zh": "以弗所"},
+      "clues": [
+        {"tr": "Kütüphane cephesi", "en": "Library facade", "es": "Fachada de biblioteca", "fr": "Façade de bibliothèque", "de": "Bibliotheksfassade", "it": "Facciata della biblioteca", "pt": "Fachada da biblioteca", "ru": "Фасад библиотеки", "ar": "واجهة المكتبة", "zh": "图书馆遗址"},
+        {"tr": "Antik tiyatro", "en": "Ancient theater", "es": "Teatro antiguo", "fr": "Théâtre antique", "de": "Antikes Theater", "it": "Teatro antico", "pt": "Teatro antigo", "ru": "Античный театр", "ar": "مسرح قديم", "zh": "古剧场"}
+      ]
+    },
+    {
+      "word": {"tr": "Truva atı", "en": "Trojan horse", "es": "Caballo de Troya", "fr": "Cheval de Troie", "de": "Trojanisches Pferd", "it": "Cavallo di Troia", "pt": "Cavalo de Troia", "ru": "Троянский конь", "ar": "حصان طروادة", "zh": "特洛伊木马"},
+      "clues": [
+        {"tr": "Sürpriz hediye", "en": "Surprise gift", "es": "Regalo sorpresa", "fr": "Cadeau surprise", "de": "Überraschungsgeschenk", "it": "Regalo a sorpresa", "pt": "Presente surpresa", "ru": "Подарок с сюрпризом", "ar": "هدية مفاجئة", "zh": "惊喜礼物"},
+        {"tr": "Hile", "en": "Trick", "es": "Engaño", "fr": "Ruse", "de": "List", "it": "Inganno", "pt": "Truque", "ru": "Хитрость", "ar": "خدعة", "zh": "诡计"}
+      ]
+    },
+    {
+      "word": {"tr": "Kahve falı", "en": "Coffee fortune telling", "es": "Lectura del café", "fr": "Lecture du marc de café", "de": "Kaffeesatzlesen", "it": "Lettura dei fondi di caffè", "pt": "Leitura da borra de café", "ru": "Гадание на кофейной гуще", "ar": "التبصير بالقهوة", "zh": "咖啡占卜"},
+      "clues": [
+        {"tr": "Fincanı ters çevirmek", "en": "Upside-down cup", "es": "Taza boca abajo", "fr": "Tasse retournée", "de": "Umgedrehte Tasse", "it": "Tazzina capovolta", "pt": "Xícara virada", "ru": "Перевёрнутая чашка", "ar": "فنجان مقلوب", "zh": "倒扣的杯子"},
+        {"tr": "Kuş görmek", "en": "Seeing a bird", "es": "Ver un pájaro", "fr": "Voir un oiseau", "de": "Einen Vogel sehen", "it": "Vedere un uccello", "pt": "Ver um pássaro", "ru": "Увидеть птицу", "ar": "رؤية طائر", "zh": "看到小鸟"}
+      ]
     }
   ]
 }

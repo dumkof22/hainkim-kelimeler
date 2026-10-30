@@ -144,6 +144,147 @@
         {"tr": "Kalem", "en": "Pen", "es": "Pluma", "fr": "Plume", "de": "Feder", "it": "Pennino", "pt": "Pena", "ru": "Перо", "ar": "قلم", "zh": "笔"},
         {"tr": "Harfler", "en": "Letters", "es": "Letras", "fr": "Lettres", "de": "Buchstaben", "it": "Lettere", "pt": "Letras", "ru": "Буквы", "ar": "حروف", "zh": "字母"}
       ]
+    },
+    {
+      "word": {"tr": "Yıldızlı Gece", "en": "The Starry Night", "es": "La noche estrellada", "fr": "La Nuit étoilée", "de": "Sternennacht", "it": "Notte stellata", "pt": "A Noite Estrelada", "ru": "Звёздная ночь", "ar": "ليلة النجوم", "zh": "星月夜"},
+      "clues": [
+        {"tr": "Kesik kulak", "en": "Cut-off ear", "es": "Oreja cortada", "fr": "Oreille coupée", "de": "Abgeschnittenes Ohr", "it": "Orecchio tagliato", "pt": "Orelha cortada", "ru": "Отрезанное ухо", "ar": "أذن مقطوعة", "zh": "割掉的耳朵"},
+        {"tr": "Girdap", "en": "Swirls", "es": "Remolinos", "fr": "Tourbillons", "de": "Wirbel", "it": "Vortici", "pt": "Redemoinhos", "ru": "Завихрения", "ar": "دوامات", "zh": "漩涡"}
+      ]
+    },
+    {
+      "word": {"tr": "Çığlık tablosu", "en": "The Scream", "es": "El grito", "fr": "Le Cri", "de": "Der Schrei", "it": "L'urlo", "pt": "O Grito", "ru": "Крик", "ar": "الصرخة", "zh": "呐喊"},
+      "clues": [
+        {"tr": "Köprü", "en": "Bridge", "es": "Puente", "fr": "Pont", "de": "Brücke", "it": "Ponte", "pt": "Ponte", "ru": "Мост", "ar": "جسر", "zh": "桥"},
+        {"tr": "Eller yanakta", "en": "Hands on cheeks", "es": "Manos en las mejillas", "fr": "Mains sur les joues", "de": "Hände an den Wangen", "it": "Mani sulle guance", "pt": "Mãos no rosto", "ru": "Руки на щеках", "ar": "يدان على الخدين", "zh": "双手捂脸"}
+      ]
+    },
+    {
+      "word": {"tr": "Düşünen Adam", "en": "The Thinker", "es": "El pensador", "fr": "Le Penseur", "de": "Der Denker", "it": "Il Pensatore", "pt": "O Pensador", "ru": "Мыслитель", "ar": "المفكر", "zh": "思想者"},
+      "clues": [
+        {"tr": "Çene", "en": "Chin", "es": "Barbilla", "fr": "Menton", "de": "Kinn", "it": "Mento", "pt": "Queixo", "ru": "Подбородок", "ar": "ذقن", "zh": "下巴"},
+        {"tr": "Bronz", "en": "Bronze", "es": "Bronce", "fr": "Bronze", "de": "Bronze", "it": "Bronzo", "pt": "Bronze", "ru": "Бронза", "ar": "برونز", "zh": "青铜"}
+      ]
+    },
+    {
+      "word": {"tr": "Milo Venüsü", "en": "Venus de Milo", "es": "Venus de Milo", "fr": "Vénus de Milo", "de": "Venus von Milo", "it": "Venere di Milo", "pt": "Vênus de Milo", "ru": "Венера Милосская", "ar": "فينوس دي ميلو", "zh": "米洛的维纳斯"},
+      "clues": [
+        {"tr": "Kolsuz", "en": "Armless", "es": "Sin brazos", "fr": "Sans bras", "de": "Ohne Arme", "it": "Senza braccia", "pt": "Sem braços", "ru": "Без рук", "ar": "بلا ذراعين", "zh": "没有手臂"},
+        {"tr": "Louvre", "en": "Louvre", "es": "Louvre", "fr": "Louvre", "de": "Louvre", "it": "Louvre", "pt": "Louvre", "ru": "Лувр", "ar": "اللوفر", "zh": "卢浮宫"}
+      ]
+    },
+    {
+      "word": {"tr": "Özgürlük Heykeli", "en": "Statue of Liberty", "es": "Estatua de la Libertad", "fr": "Statue de la Liberté", "de": "Freiheitsstatue", "it": "Statua della Libertà", "pt": "Estátua da Liberdade", "ru": "Статуя Свободы", "ar": "تمثال الحرية", "zh": "自由女神像"},
+      "clues": [
+        {"tr": "Fransız hediyesi", "en": "Gift from France", "es": "Regalo de Francia", "fr": "Cadeau de la France", "de": "Geschenk aus Frankreich", "it": "Regalo della Francia", "pt": "Presente da França", "ru": "Подарок Франции", "ar": "هدية فرنسا", "zh": "法国的礼物"},
+        {"tr": "Sivri taç", "en": "Spiky crown", "es": "Corona de picos", "fr": "Couronne à pointes", "de": "Strahlenkrone", "it": "Corona a punte", "pt": "Coroa pontuda", "ru": "Корона с лучами", "ar": "تاج مدبب", "zh": "尖刺王冠"}
+      ]
+    },
+    {
+      "word": {"tr": "Yağlı boya", "en": "Oil painting", "es": "Pintura al óleo", "fr": "Peinture à l'huile", "de": "Ölgemälde", "it": "Pittura a olio", "pt": "Pintura a óleo", "ru": "Масляная живопись", "ar": "لوحة زيتية", "zh": "油画"},
+      "clues": [
+        {"tr": "Terebentin", "en": "Turpentine", "es": "Aguarrás", "fr": "Térébenthine", "de": "Terpentin", "it": "Trementina", "pt": "Aguarrás", "ru": "Скипидар", "ar": "تربنتين", "zh": "刺鼻的溶剂"},
+        {"tr": "Kalın fırça darbeleri", "en": "Thick brushstrokes", "es": "Pinceladas gruesas", "fr": "Coups de pinceau épais", "de": "Dicke Pinselstriche", "it": "Pennellate spesse", "pt": "Pinceladas grossas", "ru": "Густые мазки", "ar": "ضربات فرشاة سميكة", "zh": "厚重笔触"}
+      ]
+    },
+    {
+      "word": {"tr": "Karakalem", "en": "Charcoal drawing", "es": "Dibujo al carboncillo", "fr": "Dessin au fusain", "de": "Kohlezeichnung", "it": "Disegno a carboncino", "pt": "Desenho a carvão", "ru": "Рисунок углём", "ar": "رسم بالفحم", "zh": "炭笔画"},
+      "clues": [
+        {"tr": "Silgi", "en": "Eraser", "es": "Goma", "fr": "Gomme", "de": "Radiergummi", "it": "Gomma", "pt": "Borracha", "ru": "Ластик", "ar": "ممحاة", "zh": "橡皮"},
+        {"tr": "Gölgelendirme", "en": "Shading", "es": "Sombreado", "fr": "Ombrage", "de": "Schattierung", "it": "Ombreggiatura", "pt": "Sombreamento", "ru": "Штриховка", "ar": "تظليل", "zh": "明暗"}
+      ]
+    },
+    {
+      "word": {"tr": "Çerçeve", "en": "Picture frame", "es": "Marco", "fr": "Cadre", "de": "Bilderrahmen", "it": "Cornice", "pt": "Moldura", "ru": "Рамка", "ar": "إطار", "zh": "相框"},
+      "clues": [
+        {"tr": "Çivi", "en": "Nail", "es": "Clavo", "fr": "Clou", "de": "Nagel", "it": "Chiodo", "pt": "Prego", "ru": "Гвоздь", "ar": "مسمار", "zh": "钉子"},
+        {"tr": "Eğri durmak", "en": "Hanging crooked", "es": "Torcido", "fr": "De travers", "de": "Hängt schief", "it": "Storto", "pt": "Torto", "ru": "Висит криво", "ar": "معلق بشكل مائل", "zh": "挂歪了"}
+      ]
+    },
+    {
+      "word": {"tr": "Vantrilok", "en": "Ventriloquist", "es": "Ventrílocuo", "fr": "Ventriloque", "de": "Bauchredner", "it": "Ventriloquo", "pt": "Ventríloquo", "ru": "Чревовещатель", "ar": "متكلم من بطنه", "zh": "腹语师"},
+      "clues": [
+        {"tr": "Kıpırdamayan dudaklar", "en": "Still lips", "es": "Labios quietos", "fr": "Lèvres immobiles", "de": "Unbewegte Lippen", "it": "Labbra immobili", "pt": "Lábios parados", "ru": "Неподвижные губы", "ar": "شفاه ثابتة", "zh": "嘴唇不动"},
+        {"tr": "Tahta bebek", "en": "Wooden dummy", "es": "Muñeco de madera", "fr": "Pantin en bois", "de": "Holzpuppe", "it": "Pupazzo di legno", "pt": "Boneco de madeira", "ru": "Деревянная кукла", "ar": "دمية خشبية", "zh": "木偶"}
+      ]
+    },
+    {
+      "word": {"tr": "Stand-up", "en": "Stand-up comedy", "es": "Monólogo cómico", "fr": "Stand-up", "de": "Stand-up-Comedy", "it": "Stand-up comedy", "pt": "Stand-up", "ru": "Стендап", "ar": "ستاند أب كوميدي", "zh": "脱口秀"},
+      "clues": [
+        {"tr": "Tek kişi", "en": "One person", "es": "Una persona", "fr": "Seul en scène", "de": "Eine Person", "it": "Una persona", "pt": "Uma pessoa", "ru": "Один человек", "ar": "شخص واحد", "zh": "一个人"},
+        {"tr": "Tuğla duvar", "en": "Brick wall", "es": "Pared de ladrillo", "fr": "Mur de briques", "de": "Backsteinwand", "it": "Muro di mattoni", "pt": "Parede de tijolos", "ru": "Кирпичная кладка", "ar": "جدار طوب", "zh": "砖墙"}
+      ]
+    },
+    {
+      "word": {"tr": "Canlı heykel", "en": "Living statue", "es": "Estatua viviente", "fr": "Statue vivante", "de": "Lebende Statue", "it": "Statua vivente", "pt": "Estátua viva", "ru": "Живая статуя", "ar": "تمثال حي", "zh": "真人雕像"},
+      "clues": [
+        {"tr": "Bozuk para", "en": "Coins", "es": "Monedas", "fr": "Pièces", "de": "Münzen", "it": "Monete", "pt": "Moedas", "ru": "Монеты", "ar": "عملات معدنية", "zh": "硬币"},
+        {"tr": "Gümüş boya", "en": "Silver paint", "es": "Pintura plateada", "fr": "Peinture argentée", "de": "Silberfarbe", "it": "Vernice argento", "pt": "Tinta prateada", "ru": "Серебряная краска", "ar": "طلاء فضي", "zh": "银色颜料"}
+      ]
+    },
+    {
+      "word": {"tr": "Buz heykeli", "en": "Ice sculpture", "es": "Escultura de hielo", "fr": "Sculpture de glace", "de": "Eisskulptur", "it": "Scultura di ghiaccio", "pt": "Escultura de gelo", "ru": "Ледяная скульптура", "ar": "منحوتة جليدية", "zh": "冰雕"},
+      "clues": [
+        {"tr": "Testere", "en": "Chainsaw", "es": "Motosierra", "fr": "Tronçonneuse", "de": "Kettensäge", "it": "Motosega", "pt": "Motosserra", "ru": "Бензопила", "ar": "منشار آلي", "zh": "电锯"},
+        {"tr": "Erimek", "en": "Melting", "es": "Derretirse", "fr": "Fondre", "de": "Schmelzen", "it": "Sciogliersi", "pt": "Derreter", "ru": "Таять", "ar": "ذوبان", "zh": "融化"}
+      ]
+    },
+    {
+      "word": {"tr": "Cam üfleme", "en": "Glassblowing", "es": "Soplado de vidrio", "fr": "Soufflage du verre", "de": "Glasbläserei", "it": "Soffiatura del vetro", "pt": "Sopro de vidro", "ru": "Стеклодувное дело", "ar": "نفخ الزجاج", "zh": "吹玻璃"},
+      "clues": [
+        {"tr": "Kızgın fırın", "en": "Hot furnace", "es": "Horno ardiente", "fr": "Four brûlant", "de": "Glühender Ofen", "it": "Fornace ardente", "pt": "Forno quente", "ru": "Раскалённая печь", "ar": "فرن ملتهب", "zh": "熔炉"},
+        {"tr": "Uzun boru", "en": "Long pipe", "es": "Tubo largo", "fr": "Long tube", "de": "Langes Rohr", "it": "Canna lunga", "pt": "Tubo longo", "ru": "Длинная трубка", "ar": "أنبوب طويل", "zh": "长管"}
+      ]
+    },
+    {
+      "word": {"tr": "Vals", "en": "Waltz", "es": "Vals", "fr": "Valse", "de": "Walzer", "it": "Valzer", "pt": "Valsa", "ru": "Вальс", "ar": "فالس", "zh": "华尔兹"},
+      "clues": [
+        {"tr": "Viyana", "en": "Vienna", "es": "Viena", "fr": "Vienne", "de": "Wien", "it": "Vienna", "pt": "Viena", "ru": "Вена", "ar": "فيينا", "zh": "维也纳"},
+        {"tr": "Kabarık etek", "en": "Puffy skirt", "es": "Falda de vuelo", "fr": "Jupe bouffante", "de": "Bauschiger Rock", "it": "Gonna vaporosa", "pt": "Saia rodada", "ru": "Пышная юбка", "ar": "تنورة منفوشة", "zh": "蓬蓬裙"}
+      ]
+    },
+    {
+      "word": {"tr": "Kırmızı halı", "en": "Red carpet", "es": "Alfombra roja", "fr": "Tapis rouge", "de": "Roter Teppich", "it": "Tappeto rosso", "pt": "Tapete vermelho", "ru": "Красная дорожка", "ar": "السجادة الحمراء", "zh": "红毯"},
+      "clues": [
+        {"tr": "Flaşlar", "en": "Camera flashes", "es": "Flashes", "fr": "Flashs", "de": "Blitzlichter", "it": "Flash", "pt": "Flashes", "ru": "Вспышки", "ar": "ومضات الكاميرات", "zh": "闪光灯"},
+        {"tr": "Gece elbisesi", "en": "Evening gown", "es": "Vestido de gala", "fr": "Robe de soirée", "de": "Abendkleid", "it": "Abito da sera", "pt": "Vestido de gala", "ru": "Вечернее платье", "ar": "فستان سهرة", "zh": "晚礼服"}
+      ]
+    },
+    {
+      "word": {"tr": "Oscar ödülü", "en": "Oscar", "es": "Premio Óscar", "fr": "Oscar", "de": "Oscar", "it": "Premio Oscar", "pt": "Oscar", "ru": "«Оскар»", "ar": "جائزة الأوسكار", "zh": "奥斯卡奖"},
+      "clues": [
+        {"tr": "Teşekkür konuşması", "en": "Thank-you speech", "es": "Discurso de agradecimiento", "fr": "Discours de remerciement", "de": "Dankesrede", "it": "Discorso di ringraziamento", "pt": "Discurso de agradecimento", "ru": "Благодарственная речь", "ar": "خطاب الشكر", "zh": "致谢演讲"},
+        {"tr": "Altın heykelcik", "en": "Golden statuette", "es": "Estatuilla dorada", "fr": "Statuette dorée", "de": "Goldene Statuette", "it": "Statuetta d'oro", "pt": "Estatueta dourada", "ru": "Золотая статуэтка", "ar": "تمثال ذهبي", "zh": "金色小人"}
+      ]
+    },
+    {
+      "word": {"tr": "Modern sanat", "en": "Modern art", "es": "Arte moderno", "fr": "Art moderne", "de": "Moderne Kunst", "it": "Arte moderna", "pt": "Arte moderna", "ru": "Современное искусство", "ar": "الفن الحديث", "zh": "现代艺术"},
+      "drawable": false,
+      "clues": [
+        {"tr": "Anlamamak", "en": "Not getting it", "es": "No entender nada", "fr": "Ne rien comprendre", "de": "Nichts verstehen", "it": "Non capirci niente", "pt": "Não entender nada", "ru": "Ничего не понять", "ar": "عدم الفهم", "zh": "看不懂"},
+        {"tr": "Bantlanmış muz", "en": "Banana taped to a wall", "es": "Plátano pegado con cinta", "fr": "Banane scotchée", "de": "Angeklebte Banane", "it": "Banana attaccata col nastro", "pt": "Banana colada com fita", "ru": "Банан на скотче", "ar": "موزة ملصقة", "zh": "胶带贴香蕉"}
+      ]
+    },
+    {
+      "word": {"tr": "Vitray", "en": "Stained glass", "es": "Vitral", "fr": "Vitrail", "de": "Buntglasfenster", "it": "Vetrata colorata", "pt": "Vitral", "ru": "Витраж", "ar": "زجاج معشق", "zh": "彩色玻璃窗"},
+      "clues": [
+        {"tr": "Kurşun çizgiler", "en": "Lead lines", "es": "Líneas de plomo", "fr": "Lignes de plomb", "de": "Bleiruten", "it": "Linee di piombo", "pt": "Linhas de chumbo", "ru": "Свинцовые линии", "ar": "خطوط الرصاص", "zh": "铅条"},
+        {"tr": "Gün ışığı", "en": "Sunlight", "es": "Luz del sol", "fr": "Lumière du jour", "de": "Sonnenlicht", "it": "Luce del sole", "pt": "Luz do sol", "ru": "Солнечный свет", "ar": "ضوء الشمس", "zh": "阳光"}
+      ]
+    },
+    {
+      "word": {"tr": "Tango", "en": "Tango", "es": "Tango", "fr": "Tango", "de": "Tango", "it": "Tango", "pt": "Tango", "ru": "Танго", "ar": "تانغو", "zh": "探戈"},
+      "clues": [
+        {"tr": "Gül", "en": "Rose", "es": "Rosa", "fr": "Rose", "de": "Rose", "it": "Rosa", "pt": "Rosa", "ru": "Роза", "ar": "وردة", "zh": "玫瑰"},
+        {"tr": "Keskin dönüş", "en": "Sudden spin", "es": "Giro brusco", "fr": "Virage serré", "de": "Scharfe Drehung", "it": "Giro brusco", "pt": "Giro brusco", "ru": "Резкий поворот", "ar": "دوران حاد", "zh": "急转身"}
+      ]
+    },
+    {
+      "word": {"tr": "Breakdans", "en": "Breakdance", "es": "Breakdance", "fr": "Breakdance", "de": "Breakdance", "it": "Breakdance", "pt": "Breakdance", "ru": "Брейк-данс", "ar": "بريك دانس", "zh": "霹雳舞"},
+      "clues": [
+        {"tr": "Karton", "en": "Cardboard", "es": "Cartón", "fr": "Carton", "de": "Pappe", "it": "Cartone", "pt": "Papelão", "ru": "Картон", "ar": "كرتون", "zh": "纸板"},
+        {"tr": "Teyp", "en": "Boombox", "es": "Radiocasete", "fr": "Ghetto-blaster", "de": "Ghettoblaster", "it": "Stereo portatile", "pt": "Rádio portátil", "ru": "Магнитофон", "ar": "مسجل", "zh": "录音机"}
+      ]
     }
   ]
 }

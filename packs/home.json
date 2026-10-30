@@ -171,6 +171,118 @@
         {"tr": "Buhar", "en": "Steam", "es": "Vapor", "fr": "Vapeur", "de": "Dampf", "it": "Vapore", "pt": "Vapor", "ru": "Пар", "ar": "بخار", "zh": "蒸汽"},
         {"tr": "Fasulye", "en": "Beans", "es": "Frijoles", "fr": "Haricots", "de": "Bohnen", "it": "Fagioli", "pt": "Feijão", "ru": "Фасоль", "ar": "فاصوليا", "zh": "豆子"}
       ]
+    },
+    {
+      "word": {"tr": "Ekmek kızartma makinesi", "en": "Toaster", "es": "Tostadora", "fr": "Grille-pain", "de": "Toaster", "it": "Tostapane", "pt": "Torradeira", "ru": "Тостер", "ar": "محمصة خبز", "zh": "烤面包机"},
+      "clues": [
+        {"tr": "Zıplamak", "en": "Popping up", "es": "Saltar", "fr": "Sauter", "de": "Hochspringen", "it": "Saltare", "pt": "Pular", "ru": "Выпрыгивать", "ar": "قفز", "zh": "弹起"},
+        {"tr": "Yanık koku", "en": "Burnt smell", "es": "Olor a quemado", "fr": "Odeur de brûlé", "de": "Brandgeruch", "it": "Puzza di bruciato", "pt": "Cheiro de queimado", "ru": "Запах гари", "ar": "رائحة احتراق", "zh": "焦味"}
+      ]
+    },
+    {
+      "word": {"tr": "Saç kurutma makinesi", "en": "Hair dryer", "es": "Secador de pelo", "fr": "Sèche-cheveux", "de": "Föhn", "it": "Asciugacapelli", "pt": "Secador de cabelo", "ru": "Фен", "ar": "مجفف الشعر", "zh": "吹风机"},
+      "clues": [
+        {"tr": "Sıcak rüzgâr", "en": "Hot wind", "es": "Viento caliente", "fr": "Vent chaud", "de": "Warmer Wind", "it": "Vento caldo", "pt": "Vento quente", "ru": "Горячий ветер", "ar": "ريح حارة", "zh": "热气"},
+        {"tr": "Ayna", "en": "Mirror", "es": "Espejo", "fr": "Miroir", "de": "Spiegel", "it": "Specchio", "pt": "Espelho", "ru": "Зеркало", "ar": "مرآة", "zh": "镜子"}
+      ]
+    },
+    {
+      "word": {"tr": "Pedallı çöp kovası", "en": "Pedal bin", "es": "Cubo de pedal", "fr": "Poubelle à pédale", "de": "Treteimer", "it": "Pattumiera a pedale", "pt": "Lixeira de pedal", "ru": "Мусорное ведро с педалью", "ar": "سلة مهملات بدواسة", "zh": "脚踏垃圾桶"},
+      "clues": [
+        {"tr": "Mutfak köşesi", "en": "Kitchen corner", "es": "Rincón de la cocina", "fr": "Coin cuisine", "de": "Küchenecke", "it": "Angolo cottura", "pt": "Canto da cozinha", "ru": "Угол кухни", "ar": "زاوية المطبخ", "zh": "厨房角落"},
+        {"tr": "Kapak", "en": "Lid", "es": "Tapa", "fr": "Couvercle", "de": "Deckel", "it": "Coperchio", "pt": "Tampa", "ru": "Крышка", "ar": "غطاء", "zh": "盖子"}
+      ]
+    },
+    {
+      "word": {"tr": "Jaluzi", "en": "Venetian blinds", "es": "Persiana veneciana", "fr": "Store vénitien", "de": "Jalousie", "it": "Veneziana", "pt": "Persiana", "ru": "Жалюзи", "ar": "ستائر معدنية", "zh": "百叶窗"},
+      "clues": [
+        {"tr": "Çizgili gölge", "en": "Striped shadow", "es": "Sombra a rayas", "fr": "Ombre rayée", "de": "Streifenschatten", "it": "Ombra a righe", "pt": "Sombra listrada", "ru": "Полосатая тень", "ar": "ظل مخطط", "zh": "条纹影子"},
+        {"tr": "Toz", "en": "Dust", "es": "Polvo", "fr": "Poussière", "de": "Staub", "it": "Polvere", "pt": "Poeira", "ru": "Пыль", "ar": "غبار", "zh": "灰尘"}
+      ]
+    },
+    {
+      "word": {"tr": "Kapı kolu", "en": "Door handle", "es": "Picaporte", "fr": "Poignée de porte", "de": "Türklinke", "it": "Maniglia", "pt": "Maçaneta", "ru": "Дверная ручка", "ar": "مقبض الباب", "zh": "门把手"},
+      "clues": [
+        {"tr": "Mikrop", "en": "Germs", "es": "Gérmenes", "fr": "Microbes", "de": "Keime", "it": "Germi", "pt": "Germes", "ru": "Микробы", "ar": "جراثيم", "zh": "细菌"},
+        {"tr": "Çevirmek", "en": "Turning", "es": "Girar", "fr": "Tourner", "de": "Drehen", "it": "Girare", "pt": "Girar", "ru": "Поворачивать", "ar": "تدوير", "zh": "转动"}
+      ]
+    },
+    {
+      "word": {"tr": "Vantuz", "en": "Plunger", "es": "Desatascador", "fr": "Ventouse", "de": "Saugglocke", "it": "Sturalavandini", "pt": "Desentupidor", "ru": "Вантуз", "ar": "مكبس", "zh": "皮搋子"},
+      "clues": [
+        {"tr": "Lavabo", "en": "Sink", "es": "Lavabo", "fr": "Évier", "de": "Waschbecken", "it": "Lavello", "pt": "Pia", "ru": "Раковина", "ar": "حوض", "zh": "水槽"},
+        {"tr": "Lastik", "en": "Rubber", "es": "Goma", "fr": "Caoutchouc", "de": "Gummi", "it": "Gomma", "pt": "Borracha", "ru": "Резина", "ar": "مطاط", "zh": "橡胶"}
+      ]
+    },
+    {
+      "word": {"tr": "Yorgan", "en": "Duvet", "es": "Edredón", "fr": "Couette", "de": "Bettdecke", "it": "Piumone", "pt": "Edredom", "ru": "Одеяло", "ar": "لحاف", "zh": "羽绒被"},
+      "clues": [
+        {"tr": "Kaz tüyü", "en": "Goose down", "es": "Plumón de ganso", "fr": "Duvet d'oie", "de": "Gänsedaunen", "it": "Penne d'oca", "pt": "Pena de ganso", "ru": "Гусиный пух", "ar": "ريش الإوز", "zh": "鹅毛"},
+        {"tr": "Tembellik", "en": "Laziness", "es": "Pereza", "fr": "Paresse", "de": "Faulheit", "it": "Pigrizia", "pt": "Preguiça", "ru": "Лень", "ar": "كسل", "zh": "懒惰"}
+      ]
+    },
+    {
+      "word": {"tr": "Duvar takvimi", "en": "Wall calendar", "es": "Calendario de pared", "fr": "Calendrier mural", "de": "Wandkalender", "it": "Calendario da muro", "pt": "Calendário de parede", "ru": "Настенный календарь", "ar": "تقويم حائط", "zh": "挂历"},
+      "clues": [
+        {"tr": "Kırmızı gün", "en": "Public holiday", "es": "Día festivo", "fr": "Jour férié", "de": "Feiertag", "it": "Giorno festivo", "pt": "Feriado", "ru": "Праздник", "ar": "عطلة رسمية", "zh": "节假日"},
+        {"tr": "Yaprak", "en": "Pages", "es": "Hojas", "fr": "Pages", "de": "Blätter", "it": "Fogli", "pt": "Folhas", "ru": "Листы", "ar": "أوراق", "zh": "纸页"}
+      ]
+    },
+    {
+      "word": {"tr": "Kahve makinesi", "en": "Coffee machine", "es": "Cafetera", "fr": "Machine à café", "de": "Kaffeemaschine", "it": "Macchina del caffè", "pt": "Cafeteira", "ru": "Кофемашина", "ar": "آلة القهوة", "zh": "咖啡机"},
+      "clues": [
+        {"tr": "Kapsül", "en": "Capsule", "es": "Cápsula", "fr": "Capsule", "de": "Kapsel", "it": "Capsula", "pt": "Cápsula", "ru": "Капсула", "ar": "كبسولة", "zh": "胶囊"},
+        {"tr": "Ofis", "en": "Office", "es": "Oficina", "fr": "Bureau", "de": "Büro", "it": "Ufficio", "pt": "Escritório", "ru": "Офис", "ar": "مكتب", "zh": "办公室"}
+      ]
+    },
+    {
+      "word": {"tr": "Ayakkabılık", "en": "Shoe cabinet", "es": "Zapatero", "fr": "Meuble à chaussures", "de": "Schuhschrank", "it": "Scarpiera", "pt": "Sapateira", "ru": "Обувница", "ar": "خزانة أحذية", "zh": "鞋柜"},
+      "clues": [
+        {"tr": "Antre", "en": "Hallway", "es": "Recibidor", "fr": "Entrée", "de": "Flur", "it": "Ingresso", "pt": "Hall de entrada", "ru": "Прихожая", "ar": "مدخل", "zh": "玄关"},
+        {"tr": "Çift", "en": "Pairs", "es": "Pares", "fr": "Paires", "de": "Paare", "it": "Paia", "pt": "Pares", "ru": "Пары", "ar": "أزواج", "zh": "一双双"}
+      ]
+    },
+    {
+      "word": {"tr": "Mop", "en": "Mop", "es": "Fregona", "fr": "Serpillière", "de": "Wischmopp", "it": "Mocio", "pt": "Esfregão", "ru": "Швабра", "ar": "ممسحة", "zh": "拖把"},
+      "clues": [
+        {"tr": "Kova", "en": "Bucket", "es": "Cubo", "fr": "Seau", "de": "Eimer", "it": "Secchio", "pt": "Balde", "ru": "Ведро", "ar": "دلو", "zh": "水桶"},
+        {"tr": "Kaygan zemin", "en": "Slippery floor", "es": "Suelo resbaladizo", "fr": "Sol glissant", "de": "Rutschiger Boden", "it": "Pavimento scivoloso", "pt": "Chão escorregadio", "ru": "Скользкий пол", "ar": "أرضية زلقة", "zh": "地面湿滑"}
+      ]
+    },
+    {
+      "word": {"tr": "Avize", "en": "Chandelier", "es": "Lámpara de araña", "fr": "Lustre", "de": "Kronleuchter", "it": "Lampadario", "pt": "Lustre", "ru": "Люстра", "ar": "ثريا", "zh": "吊灯"},
+      "clues": [
+        {"tr": "Tavan", "en": "Ceiling", "es": "Techo", "fr": "Plafond", "de": "Decke", "it": "Soffitto", "pt": "Teto", "ru": "Потолок", "ar": "سقف", "zh": "天花板"},
+        {"tr": "Işıltı", "en": "Sparkle", "es": "Destello", "fr": "Scintillement", "de": "Funkeln", "it": "Scintillio", "pt": "Brilho", "ru": "Сияние", "ar": "بريق", "zh": "闪耀"}
+      ]
+    },
+    {
+      "word": {"tr": "Buzluk", "en": "Freezer", "es": "Congelador", "fr": "Congélateur", "de": "Gefrierfach", "it": "Congelatore", "pt": "Congelador", "ru": "Морозилка", "ar": "فريزر", "zh": "冷冻室"},
+      "clues": [
+        {"tr": "Bezelye", "en": "Peas", "es": "Guisantes", "fr": "Petits pois", "de": "Erbsen", "it": "Piselli", "pt": "Ervilhas", "ru": "Горошек", "ar": "بازلاء", "zh": "豌豆"},
+        {"tr": "Kırağı", "en": "Frost", "es": "Escarcha", "fr": "Givre", "de": "Reif", "it": "Brina", "pt": "Geada", "ru": "Иней", "ar": "صقيع", "zh": "冰霜"}
+      ]
+    },
+    {
+      "word": {"tr": "Fırın eldiveni", "en": "Oven mitt", "es": "Manopla de cocina", "fr": "Gant de cuisine", "de": "Topfhandschuh", "it": "Guanto da forno", "pt": "Luva de cozinha", "ru": "Прихватка", "ar": "قفاز الفرن", "zh": "隔热手套"},
+      "clues": [
+        {"tr": "Kurabiye", "en": "Cookies", "es": "Galletas", "fr": "Biscuits", "de": "Plätzchen", "it": "Biscotti", "pt": "Biscoitos", "ru": "Печенье", "ar": "بسكويت", "zh": "饼干"},
+        {"tr": "Sıcak tepsi", "en": "Hot tray", "es": "Bandeja caliente", "fr": "Plaque brûlante", "de": "Heißes Blech", "it": "Teglia bollente", "pt": "Assadeira quente", "ru": "Горячий противень", "ar": "صينية ساخنة", "zh": "烫烤盘"}
+      ]
+    },
+    {
+      "word": {"tr": "Bornoz", "en": "Bathrobe", "es": "Albornoz", "fr": "Peignoir", "de": "Bademantel", "it": "Accappatoio", "pt": "Roupão", "ru": "Халат", "ar": "روب الحمام", "zh": "浴袍"},
+      "clues": [
+        {"tr": "Otel", "en": "Hotel", "es": "Hotel", "fr": "Hôtel", "de": "Hotel", "it": "Hotel", "pt": "Hotel", "ru": "Отель", "ar": "فندق", "zh": "酒店"},
+        {"tr": "Kuşak", "en": "Sash", "es": "Cinturón", "fr": "Ceinture", "de": "Gürtel", "it": "Cintura", "pt": "Faixa", "ru": "Пояс", "ar": "حزام", "zh": "腰带"}
+      ]
+    },
+    {
+      "word": {"tr": "Damlayan musluk", "en": "Dripping tap", "es": "Grifo que gotea", "fr": "Robinet qui fuit", "de": "Tropfender Wasserhahn", "it": "Rubinetto che gocciola", "pt": "Torneira pingando", "ru": "Капающий кран", "ar": "صنبور يقطر", "zh": "滴水的水龙头"},
+      "clues": [
+        {"tr": "Uykusuzluk", "en": "Insomnia", "es": "Insomnio", "fr": "Insomnie", "de": "Schlaflosigkeit", "it": "Insonnia", "pt": "Insônia", "ru": "Бессонница", "ar": "أرق", "zh": "失眠"},
+        {"tr": "Fatura", "en": "Bill", "es": "Factura", "fr": "Facture", "de": "Rechnung", "it": "Bolletta", "pt": "Conta", "ru": "Счёт", "ar": "فاتورة", "zh": "账单"}
+      ]
     }
   ]
 }

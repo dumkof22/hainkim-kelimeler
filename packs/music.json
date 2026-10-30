@@ -157,6 +157,133 @@
         {"tr": "Sallamak", "en": "Shake", "es": "Agitar", "fr": "Secouer", "de": "Schütteln", "it": "Scuotere", "pt": "Sacudir", "ru": "Трясти", "ar": "هز", "zh": "摇"},
         {"tr": "Çıngırak", "en": "Jingle", "es": "Cascabel", "fr": "Grelots", "de": "Schellen", "it": "Sonagli", "pt": "Guizos", "ru": "Бубенцы", "ar": "خشخشة", "zh": "叮当"}
       ]
+    },
+    {
+      "word": {"tr": "Kaset", "en": "Cassette tape", "es": "Casete", "fr": "Cassette", "de": "Kassette", "it": "Musicassetta", "pt": "Fita cassete", "ru": "Кассета", "ar": "شريط كاسيت", "zh": "磁带"},
+      "clues": [
+        {"tr": "Kalem", "en": "Pencil", "es": "Lápiz", "fr": "Crayon", "de": "Bleistift", "it": "Matita", "pt": "Lápis", "ru": "Карандаш", "ar": "قلم رصاص", "zh": "铅笔"},
+        {"tr": "Araba teybi", "en": "Car stereo", "es": "Radio del coche", "fr": "Autoradio", "de": "Autoradio", "it": "Autoradio", "pt": "Som do carro", "ru": "Автомагнитола", "ar": "مسجل السيارة", "zh": "车载录音机"}
+      ]
+    },
+    {
+      "word": {"tr": "Ukulele", "en": "Ukulele", "es": "Ukelele", "fr": "Ukulélé", "de": "Ukulele", "it": "Ukulele", "pt": "Ukulele", "ru": "Укулеле", "ar": "يوكوليلي", "zh": "尤克里里"},
+      "clues": [
+        {"tr": "Çiçek kolye", "en": "Flower necklace", "es": "Collar de flores", "fr": "Collier de fleurs", "de": "Blumenkette", "it": "Collana di fiori", "pt": "Colar de flores", "ru": "Цветочное ожерелье", "ar": "قلادة زهور", "zh": "花环"},
+        {"tr": "Dört tel", "en": "Four strings", "es": "Cuatro cuerdas", "fr": "Quatre cordes", "de": "Vier Saiten", "it": "Quattro corde", "pt": "Quatro cordas", "ru": "Четыре струны", "ar": "أربعة أوتار", "zh": "四根弦"}
+      ]
+    },
+    {
+      "word": {"tr": "Ksilofon", "en": "Xylophone", "es": "Xilófono", "fr": "Xylophone", "de": "Xylofon", "it": "Xilofono", "pt": "Xilofone", "ru": "Ксилофон", "ar": "إكسيليفون", "zh": "木琴"},
+      "clues": [
+        {"tr": "Gökkuşağı", "en": "Rainbow", "es": "Arcoíris", "fr": "Arc-en-ciel", "de": "Regenbogen", "it": "Arcobaleno", "pt": "Arco-íris", "ru": "Радуга", "ar": "قوس قزح", "zh": "彩虹"},
+        {"tr": "Tokmak", "en": "Mallets", "es": "Mazos", "fr": "Mailloches", "de": "Schlägel", "it": "Bacchette", "pt": "Baquetas", "ru": "Палочки", "ar": "مطارق صغيرة", "zh": "小锤子"}
+      ]
+    },
+    {
+      "word": {"tr": "Çello", "en": "Cello", "es": "Violonchelo", "fr": "Violoncelle", "de": "Cello", "it": "Violoncello", "pt": "Violoncelo", "ru": "Виолончель", "ar": "تشيلو", "zh": "大提琴"},
+      "clues": [
+        {"tr": "Hüzün", "en": "Melancholy", "es": "Melancolía", "fr": "Mélancolie", "de": "Melancholie", "it": "Malinconia", "pt": "Melancolia", "ru": "Грусть", "ar": "حزن", "zh": "忧伤"},
+        {"tr": "Dizler", "en": "Knees", "es": "Rodillas", "fr": "Genoux", "de": "Knie", "it": "Ginocchia", "pt": "Joelhos", "ru": "Колени", "ar": "ركبتان", "zh": "膝盖"}
+      ]
+    },
+    {
+      "word": {"tr": "Pena", "en": "Guitar pick", "es": "Púa", "fr": "Médiator", "de": "Plektrum", "it": "Plettro", "pt": "Palheta", "ru": "Медиатор", "ar": "ريشة الغيتار", "zh": "拨片"},
+      "clues": [
+        {"tr": "Üçgen", "en": "Triangle", "es": "Triángulo", "fr": "Triangle", "de": "Dreieck", "it": "Triangolo", "pt": "Triângulo", "ru": "Треугольник", "ar": "مثلث", "zh": "三角形"},
+        {"tr": "Kaybolmak", "en": "Always lost", "es": "Siempre se pierde", "fr": "Toujours perdu", "de": "Geht immer verloren", "it": "Si perde sempre", "pt": "Sempre some", "ru": "Вечно теряется", "ar": "يضيع دائماً", "zh": "总是弄丢"}
+      ]
+    },
+    {
+      "word": {"tr": "Darbuka", "en": "Darbuka", "es": "Darbuka", "fr": "Darbouka", "de": "Darbuka", "it": "Darbuka", "pt": "Darbuka", "ru": "Дарбука", "ar": "دربكة", "zh": "达布卡鼓"},
+      "clues": [
+        {"tr": "Göbek dansı", "en": "Belly dance", "es": "Danza del vientre", "fr": "Danse du ventre", "de": "Bauchtanz", "it": "Danza del ventre", "pt": "Dança do ventre", "ru": "Танец живота", "ar": "الرقص الشرقي", "zh": "肚皮舞"},
+        {"tr": "Parmak uçları", "en": "Fingertips", "es": "Yemas de los dedos", "fr": "Bout des doigts", "de": "Fingerspitzen", "it": "Polpastrelli", "pt": "Pontas dos dedos", "ru": "Кончики пальцев", "ar": "أطراف الأصابع", "zh": "指尖"}
+      ]
+    },
+    {
+      "word": {"tr": "Gitar teli", "en": "Guitar string", "es": "Cuerda de guitarra", "fr": "Corde de guitare", "de": "Gitarrensaite", "it": "Corda di chitarra", "pt": "Corda de violão", "ru": "Гитарная струна", "ar": "وتر الغيتار", "zh": "吉他弦"},
+      "clues": [
+        {"tr": "Akort", "en": "Tuning", "es": "Afinación", "fr": "Accordage", "de": "Stimmen", "it": "Intonazione", "pt": "Afinação", "ru": "Настройка", "ar": "دوزنة", "zh": "调音"},
+        {"tr": "Kopmak", "en": "Snapping", "es": "Romperse", "fr": "Casser", "de": "Reißen", "it": "Spezzarsi", "pt": "Arrebentar", "ru": "Лопнуть", "ar": "انقطاع", "zh": "绷断"}
+      ]
+    },
+    {
+      "word": {"tr": "Müzik kutusu", "en": "Music box", "es": "Caja de música", "fr": "Boîte à musique", "de": "Spieluhr", "it": "Carillon", "pt": "Caixinha de música", "ru": "Музыкальная шкатулка", "ar": "صندوق الموسيقى", "zh": "八音盒"},
+      "clues": [
+        {"tr": "Balerin", "en": "Ballerina", "es": "Bailarina", "fr": "Ballerine", "de": "Ballerina", "it": "Ballerina", "pt": "Bailarina", "ru": "Балерина", "ar": "راقصة باليه", "zh": "芭蕾舞女"},
+        {"tr": "Kurmak", "en": "Winding up", "es": "Dar cuerda", "fr": "Remonter", "de": "Aufziehen", "it": "Caricare", "pt": "Dar corda", "ru": "Заводить", "ar": "تدوير المفتاح", "zh": "上发条"}
+      ]
+    },
+    {
+      "word": {"tr": "Org", "en": "Pipe organ", "es": "Órgano", "fr": "Orgue", "de": "Orgel", "it": "Organo", "pt": "Órgão", "ru": "Орган", "ar": "أرغن", "zh": "管风琴"},
+      "clues": [
+        {"tr": "Korku filmi", "en": "Horror movie", "es": "Película de terror", "fr": "Film d'horreur", "de": "Horrorfilm", "it": "Film horror", "pt": "Filme de terror", "ru": "Фильм ужасов", "ar": "فيلم رعب", "zh": "恐怖片"},
+        {"tr": "Borular", "en": "Metal tubes", "es": "Tubos", "fr": "Tuyaux", "de": "Pfeifen", "it": "Canne", "pt": "Tubos", "ru": "Трубы", "ar": "أنابيب", "zh": "一排排铜柱"}
+      ]
+    },
+    {
+      "word": {"tr": "Müzik festivali", "en": "Music festival", "es": "Festival de música", "fr": "Festival de musique", "de": "Musikfestival", "it": "Festival musicale", "pt": "Festival de música", "ru": "Музыкальный фестиваль", "ar": "مهرجان موسيقي", "zh": "音乐节"},
+      "clues": [
+        {"tr": "Çamur", "en": "Mud", "es": "Barro", "fr": "Boue", "de": "Schlamm", "it": "Fango", "pt": "Lama", "ru": "Грязь", "ar": "طين", "zh": "泥巴"},
+        {"tr": "Çadır", "en": "Tents", "es": "Tiendas de campaña", "fr": "Tentes", "de": "Zelte", "it": "Tende", "pt": "Barracas", "ru": "Палатки", "ar": "خيام", "zh": "帐篷"}
+      ]
+    },
+    {
+      "word": {"tr": "Albüm kapağı", "en": "Album cover", "es": "Portada del disco", "fr": "Pochette d'album", "de": "Plattencover", "it": "Copertina dell'album", "pt": "Capa do álbum", "ru": "Обложка альбома", "ar": "غلاف الألبوم", "zh": "专辑封面"},
+      "clues": [
+        {"tr": "Kare", "en": "Square", "es": "Cuadrado", "fr": "Carré", "de": "Quadrat", "it": "Quadrato", "pt": "Quadrado", "ru": "Квадрат", "ar": "مربع", "zh": "方形"},
+        {"tr": "Plak", "en": "Vinyl", "es": "Vinilo", "fr": "Vinyle", "de": "Vinyl", "it": "Vinile", "pt": "Vinil", "ru": "Пластинка", "ar": "أسطوانة", "zh": "黑胶唱片"}
+      ]
+    },
+    {
+      "word": {"tr": "Kastanyet", "en": "Castanets", "es": "Castañuelas", "fr": "Castagnettes", "de": "Kastagnetten", "it": "Nacchere", "pt": "Castanholas", "ru": "Кастаньеты", "ar": "صناجات", "zh": "响板"},
+      "clues": [
+        {"tr": "Flamenko", "en": "Flamenco", "es": "Flamenco", "fr": "Flamenco", "de": "Flamenco", "it": "Flamenco", "pt": "Flamenco", "ru": "Фламенко", "ar": "فلامنكو", "zh": "弗拉门戈"},
+        {"tr": "Avuç içi", "en": "Palm", "es": "Palma", "fr": "Paume", "de": "Handfläche", "it": "Palmo", "pt": "Palma da mão", "ru": "Ладонь", "ar": "راحة اليد", "zh": "掌心"}
+      ]
+    },
+    {
+      "word": {"tr": "Marakas", "en": "Maracas", "es": "Maracas", "fr": "Maracas", "de": "Maracas", "it": "Maracas", "pt": "Maracas", "ru": "Маракасы", "ar": "ماراكاس", "zh": "沙锤"},
+      "clues": [
+        {"tr": "Çift", "en": "Pair", "es": "Par", "fr": "Paire", "de": "Paar", "it": "Coppia", "pt": "Par", "ru": "Пара", "ar": "زوج", "zh": "一对"},
+        {"tr": "Hışırtı", "en": "Rattle", "es": "Traqueteo", "fr": "Crépitement", "de": "Rasseln", "it": "Fruscio", "pt": "Ruído de areia", "ru": "Шорох", "ar": "خشخشة", "zh": "哗啦声"}
+      ]
+    },
+    {
+      "word": {"tr": "Banjo", "en": "Banjo", "es": "Banjo", "fr": "Banjo", "de": "Banjo", "it": "Banjo", "pt": "Banjo", "ru": "Банджо", "ar": "بانجو", "zh": "班卓琴"},
+      "clues": [
+        {"tr": "Çiftlik", "en": "Farm", "es": "Granja", "fr": "Ferme", "de": "Bauernhof", "it": "Fattoria", "pt": "Fazenda", "ru": "Ферма", "ar": "مزرعة", "zh": "农场"},
+        {"tr": "Yuvarlak gövde", "en": "Round body", "es": "Cuerpo redondo", "fr": "Caisse ronde", "de": "Runder Korpus", "it": "Cassa rotonda", "pt": "Corpo redondo", "ru": "Круглый корпус", "ar": "جسم دائري", "zh": "圆鼓鼓的身子"}
+      ]
+    },
+    {
+      "word": {"tr": "Gong", "en": "Gong", "es": "Gong", "fr": "Gong", "de": "Gong", "it": "Gong", "pt": "Gongo", "ru": "Гонг", "ar": "غونغ", "zh": "锣"},
+      "clues": [
+        {"tr": "Meditasyon", "en": "Meditation", "es": "Meditación", "fr": "Méditation", "de": "Meditation", "it": "Meditazione", "pt": "Meditação", "ru": "Медитация", "ar": "تأمل", "zh": "冥想"},
+        {"tr": "Büyük disk", "en": "Big disc", "es": "Disco grande", "fr": "Grand disque", "de": "Große Scheibe", "it": "Disco grande", "pt": "Disco grande", "ru": "Большой диск", "ar": "قرص كبير", "zh": "大圆盘"}
+      ]
+    },
+    {
+      "word": {"tr": "Müzikal", "en": "Musical", "es": "Musical", "fr": "Comédie musicale", "de": "Musical", "it": "Musical", "pt": "Musical", "ru": "Мюзикл", "ar": "مسرحية موسيقية", "zh": "音乐剧"},
+      "drawable": false,
+      "clues": [
+        {"tr": "Broadway", "en": "Broadway", "es": "Broadway", "fr": "Broadway", "de": "Broadway", "it": "Broadway", "pt": "Broadway", "ru": "Бродвей", "ar": "برودواي", "zh": "百老汇"},
+        {"tr": "Şarkılı diyalog", "en": "Sung dialogue", "es": "Diálogos cantados", "fr": "Dialogues chantés", "de": "Gesungene Dialoge", "it": "Dialoghi cantati", "pt": "Diálogos cantados", "ru": "Диалоги в песнях", "ar": "حوار مغنى", "zh": "唱出来的对白"}
+      ]
+    },
+    {
+      "word": {"tr": "Kayıt stüdyosu", "en": "Recording studio", "es": "Estudio de grabación", "fr": "Studio d'enregistrement", "de": "Tonstudio", "it": "Studio di registrazione", "pt": "Estúdio de gravação", "ru": "Студия звукозаписи", "ar": "استوديو تسجيل", "zh": "录音棚"},
+      "clues": [
+        {"tr": "Kırmızı ışık", "en": "Red light", "es": "Luz roja", "fr": "Voyant rouge", "de": "Rotes Licht", "it": "Luce rossa", "pt": "Luz vermelha", "ru": "Красная лампа", "ar": "ضوء أحمر", "zh": "红灯"},
+        {"tr": "Sünger duvar", "en": "Foam walls", "es": "Paredes de espuma", "fr": "Murs en mousse", "de": "Schaumstoffwände", "it": "Pareti fonoassorbenti", "pt": "Paredes de espuma", "ru": "Поролоновые стены", "ar": "جدران إسفنجية", "zh": "泡沫墙"}
+      ]
+    },
+    {
+      "word": {"tr": "Tuba", "en": "Tuba", "es": "Tuba", "fr": "Tuba", "de": "Tuba", "it": "Tuba", "pt": "Tuba", "ru": "Туба", "ar": "توبا", "zh": "大号"},
+      "clues": [
+        {"tr": "Bando", "en": "Marching band", "es": "Banda", "fr": "Fanfare", "de": "Blaskapelle", "it": "Banda", "pt": "Banda", "ru": "Духовой оркестр", "ar": "فرقة نحاسية", "zh": "军乐队"},
+        {"tr": "Derin ses", "en": "Deep sound", "es": "Sonido grave", "fr": "Son grave", "de": "Tiefer Ton", "it": "Suono grave", "pt": "Som grave", "ru": "Низкий звук", "ar": "صوت عميق", "zh": "低沉声音"}
+      ]
     }
   ]
 }

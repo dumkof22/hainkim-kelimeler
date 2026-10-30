@@ -185,6 +185,104 @@
         {"tr": "Beton", "en": "Concrete", "es": "Cemento", "fr": "Béton", "de": "Beton", "it": "Cemento", "pt": "Concreto", "ru": "Бетон", "ar": "خرسانة", "zh": "混凝土"},
         {"tr": "Bilet", "en": "Ticket", "es": "Ticket", "fr": "Ticket", "de": "Ticket", "it": "Biglietto", "pt": "Tíquete", "ru": "Талон", "ar": "تذكرة", "zh": "票据"}
       ]
+    },
+    {
+      "word": {"tr": "Hayvanat bahçesi", "en": "Zoo", "es": "Zoológico", "fr": "Zoo", "de": "Zoo", "it": "Zoo", "pt": "Zoológico", "ru": "Зоопарк", "ar": "حديقة الحيوان", "zh": "动物园"},
+      "clues": [
+        {"tr": "Okul gezisi", "en": "School trip", "es": "Excursión escolar", "fr": "Sortie scolaire", "de": "Schulausflug", "it": "Gita scolastica", "pt": "Excursão escolar", "ru": "Школьная экскурсия", "ar": "رحلة مدرسية", "zh": "学校郊游"},
+        {"tr": "Parmaklık", "en": "Bars", "es": "Barrotes", "fr": "Barreaux", "de": "Gitter", "it": "Sbarre", "pt": "Grades", "ru": "Решётка", "ar": "قضبان", "zh": "栏杆"}
+      ]
+    },
+    {
+      "word": {"tr": "Bagaj bandı", "en": "Baggage carousel", "es": "Cinta de equipaje", "fr": "Tapis à bagages", "de": "Gepäckband", "it": "Nastro bagagli", "pt": "Esteira de bagagens", "ru": "Багажная лента", "ar": "سير الأمتعة", "zh": "行李转盘"},
+      "clues": [
+        {"tr": "Sabırsızlık", "en": "Impatience", "es": "Impaciencia", "fr": "Impatience", "de": "Ungeduld", "it": "Impazienza", "pt": "Impaciência", "ru": "Нетерпение", "ar": "نفاد الصبر", "zh": "不耐烦"},
+        {"tr": "Etiket", "en": "Tag", "es": "Etiqueta", "fr": "Étiquette", "de": "Anhänger", "it": "Etichetta", "pt": "Etiqueta", "ru": "Бирка", "ar": "بطاقة", "zh": "标签"}
+      ]
+    },
+    {
+      "word": {"tr": "Çamaşırhane", "en": "Laundromat", "es": "Lavandería", "fr": "Laverie", "de": "Waschsalon", "it": "Lavanderia", "pt": "Lavanderia", "ru": "Прачечная", "ar": "مغسلة", "zh": "自助洗衣店"},
+      "clues": [
+        {"tr": "Bozuk para", "en": "Coins", "es": "Monedas", "fr": "Pièces", "de": "Münzen", "it": "Monete", "pt": "Moedas", "ru": "Монеты", "ar": "عملات معدنية", "zh": "硬币"},
+        {"tr": "Uğultu", "en": "Hum", "es": "Zumbido", "fr": "Bourdonnement", "de": "Brummen", "it": "Ronzio", "pt": "Zumbido", "ru": "Гул", "ar": "طنين", "zh": "嗡嗡声"}
+      ]
+    },
+    {
+      "word": {"tr": "Doğa tarihi müzesi", "en": "Natural history museum", "es": "Museo de historia natural", "fr": "Muséum d'histoire naturelle", "de": "Naturkundemuseum", "it": "Museo di storia naturale", "pt": "Museu de história natural", "ru": "Музей естествознания", "ar": "متحف التاريخ الطبيعي", "zh": "自然历史博物馆"},
+      "clues": [
+        {"tr": "Gece bekçisi", "en": "Night guard", "es": "Vigilante nocturno", "fr": "Gardien de nuit", "de": "Nachtwächter", "it": "Guardiano notturno", "pt": "Vigia noturno", "ru": "Ночной сторож", "ar": "حارس ليلي", "zh": "夜间保安"},
+        {"tr": "Fısıltı", "en": "Whisper", "es": "Susurro", "fr": "Chuchotement", "de": "Flüstern", "it": "Sussurro", "pt": "Sussurro", "ru": "Шёпот", "ar": "همس", "zh": "低语"}
+      ]
+    },
+    {
+      "word": {"tr": "Su parkı", "en": "Water park", "es": "Parque acuático", "fr": "Parc aquatique", "de": "Wasserpark", "it": "Parco acquatico", "pt": "Parque aquático", "ru": "Аквапарк", "ar": "حديقة مائية", "zh": "水上乐园"},
+      "clues": [
+        {"tr": "Bileklik", "en": "Wristband", "es": "Pulsera", "fr": "Bracelet", "de": "Armband", "it": "Braccialetto", "pt": "Pulseira", "ru": "Браслет", "ar": "سوار", "zh": "手环"},
+        {"tr": "Uzun kuyruk", "en": "Long line", "es": "Cola larga", "fr": "Longue file", "de": "Lange Schlange", "it": "Lunga coda", "pt": "Fila longa", "ru": "Длинная очередь", "ar": "طابور طويل", "zh": "长队"}
+      ]
+    },
+    {
+      "word": {"tr": "Benzin istasyonu", "en": "Gas station", "es": "Gasolinera", "fr": "Station-service", "de": "Tankstelle", "it": "Distributore di benzina", "pt": "Posto de gasolina", "ru": "Заправка", "ar": "محطة وقود", "zh": "加油站"},
+      "clues": [
+        {"tr": "Yol molası", "en": "Road trip stop", "es": "Parada en ruta", "fr": "Pause sur la route", "de": "Rast unterwegs", "it": "Sosta in viaggio", "pt": "Parada na estrada", "ru": "Остановка в пути", "ar": "استراحة الطريق", "zh": "途中休息"},
+        {"tr": "Koku", "en": "Smell", "es": "Olor", "fr": "Odeur", "de": "Geruch", "it": "Odore", "pt": "Cheiro", "ru": "Запах", "ar": "رائحة", "zh": "气味"}
+      ]
+    },
+    {
+      "word": {"tr": "Karakol", "en": "Police station", "es": "Comisaría", "fr": "Commissariat", "de": "Polizeiwache", "it": "Commissariato", "pt": "Delegacia", "ru": "Полицейский участок", "ar": "مركز الشرطة", "zh": "派出所"},
+      "clues": [
+        {"tr": "İfade", "en": "Statement", "es": "Declaración", "fr": "Déposition", "de": "Aussage", "it": "Deposizione", "pt": "Depoimento", "ru": "Показания", "ar": "إفادة", "zh": "笔录"},
+        {"tr": "Gece vardiyası", "en": "Night shift", "es": "Turno de noche", "fr": "Garde de nuit", "de": "Nachtschicht", "it": "Turno di notte", "pt": "Plantão noturno", "ru": "Ночная смена", "ar": "نوبة ليلية", "zh": "夜班"}
+      ]
+    },
+    {
+      "word": {"tr": "Market kasası", "en": "Supermarket checkout", "es": "Caja del súper", "fr": "Caisse du supermarché", "de": "Supermarktkasse", "it": "Cassa del supermercato", "pt": "Caixa do supermercado", "ru": "Касса в супермаркете", "ar": "صندوق الدفع", "zh": "超市收银台"},
+      "clues": [
+        {"tr": "Barkod", "en": "Barcode", "es": "Código de barras", "fr": "Code-barres", "de": "Strichcode", "it": "Codice a barre", "pt": "Código de barras", "ru": "Штрихкод", "ar": "باركود", "zh": "条形码"},
+        {"tr": "Fiş", "en": "Receipt", "es": "Ticket", "fr": "Reçu", "de": "Quittung", "it": "Scontrino", "pt": "Nota fiscal", "ru": "Чек", "ar": "إيصال", "zh": "小票"}
+      ]
+    },
+    {
+      "word": {"tr": "Planetaryum", "en": "Planetarium", "es": "Planetario", "fr": "Planétarium", "de": "Planetarium", "it": "Planetario", "pt": "Planetário", "ru": "Планетарий", "ar": "قبة فلكية", "zh": "天文馆"},
+      "clues": [
+        {"tr": "Kubbe", "en": "Dome", "es": "Cúpula", "fr": "Dôme", "de": "Kuppel", "it": "Cupola", "pt": "Cúpula", "ru": "Купол", "ar": "سقف مستدير", "zh": "穹顶"},
+        {"tr": "Yatar koltuk", "en": "Reclining seat", "es": "Asiento reclinable", "fr": "Siège inclinable", "de": "Liegesitz", "it": "Poltrona reclinabile", "pt": "Poltrona reclinável", "ru": "Откидное кресло", "ar": "مقعد مائل", "zh": "躺椅"}
+      ]
+    },
+    {
+      "word": {"tr": "Otogar", "en": "Bus terminal", "es": "Estación de autobuses", "fr": "Gare routière", "de": "Busbahnhof", "it": "Autostazione", "pt": "Rodoviária", "ru": "Автовокзал", "ar": "محطة الحافلات", "zh": "汽车站"},
+      "clues": [
+        {"tr": "Gece yolculuğu", "en": "Overnight trip", "es": "Viaje nocturno", "fr": "Voyage de nuit", "de": "Nachtfahrt", "it": "Viaggio notturno", "pt": "Viagem noturna", "ru": "Ночная поездка", "ar": "رحلة ليلية", "zh": "夜间旅途"},
+        {"tr": "Bilet gişesi", "en": "Ticket counter", "es": "Taquilla", "fr": "Guichet", "de": "Fahrkartenschalter", "it": "Biglietteria", "pt": "Guichê", "ru": "Касса", "ar": "شباك التذاكر", "zh": "售票处"}
+      ]
+    },
+    {
+      "word": {"tr": "Sirk", "en": "Circus", "es": "Circo", "fr": "Cirque", "de": "Zirkus", "it": "Circo", "pt": "Circo", "ru": "Цирк", "ar": "سيرك", "zh": "马戏团"},
+      "clues": [
+        {"tr": "Çadır", "en": "Tent", "es": "Carpa", "fr": "Tente", "de": "Zelt", "it": "Tenda", "pt": "Tenda", "ru": "Шатёр", "ar": "خيمة", "zh": "帐篷"},
+        {"tr": "Davul sesi", "en": "Drumroll", "es": "Redoble", "fr": "Roulement de tambour", "de": "Trommelwirbel", "it": "Rullo di tamburi", "pt": "Rufar de tambores", "ru": "Барабанная дробь", "ar": "قرع الطبول", "zh": "鼓声"}
+      ]
+    },
+    {
+      "word": {"tr": "Kayıp eşya bürosu", "en": "Lost and found", "es": "Objetos perdidos", "fr": "Objets trouvés", "de": "Fundbüro", "it": "Oggetti smarriti", "pt": "Achados e perdidos", "ru": "Бюро находок", "ar": "مكتب المفقودات", "zh": "失物招领处"},
+      "clues": [
+        {"tr": "Tek eldiven", "en": "Single glove", "es": "Guante suelto", "fr": "Gant orphelin", "de": "Einzelner Handschuh", "it": "Guanto spaiato", "pt": "Luva sem par", "ru": "Одна перчатка", "ar": "قفاز وحيد", "zh": "一只手套"},
+        {"tr": "Unutkanlık", "en": "Forgetfulness", "es": "Despiste", "fr": "Étourderie", "de": "Vergesslichkeit", "it": "Distrazione", "pt": "Esquecimento", "ru": "Рассеянность", "ar": "النسيان", "zh": "健忘"}
+      ]
+    },
+    {
+      "word": {"tr": "Fabrika", "en": "Factory", "es": "Fábrica", "fr": "Usine", "de": "Fabrik", "it": "Fabbrica", "pt": "Fábrica", "ru": "Завод", "ar": "مصنع", "zh": "工厂"},
+      "clues": [
+        {"tr": "Baca", "en": "Chimney", "es": "Chimenea", "fr": "Cheminée", "de": "Schornstein", "it": "Ciminiera", "pt": "Chaminé", "ru": "Труба", "ar": "مدخنة", "zh": "烟囱"},
+        {"tr": "Yürüyen bant", "en": "Conveyor belt", "es": "Cinta transportadora", "fr": "Tapis roulant", "de": "Fließband", "it": "Nastro trasportatore", "pt": "Esteira", "ru": "Конвейер", "ar": "سير ناقل", "zh": "传送带"}
+      ]
+    },
+    {
+      "word": {"tr": "Labirent", "en": "Maze", "es": "Laberinto", "fr": "Labyrinthe", "de": "Labyrinth", "it": "Labirinto", "pt": "Labirinto", "ru": "Лабиринт", "ar": "متاهة", "zh": "迷宫"},
+      "clues": [
+        {"tr": "Çıkmaz", "en": "Dead end", "es": "Callejón sin salida", "fr": "Impasse", "de": "Sackgasse", "it": "Vicolo cieco", "pt": "Beco sem saída", "ru": "Тупик", "ar": "طريق مسدود", "zh": "死胡同"},
+        {"tr": "Çit", "en": "Hedge", "es": "Seto", "fr": "Haie", "de": "Hecke", "it": "Siepe", "pt": "Cerca viva", "ru": "Живая изгородь", "ar": "سياج", "zh": "树篱"}
+      ]
     }
   ]
 }

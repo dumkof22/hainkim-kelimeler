@@ -185,6 +185,104 @@
         {"tr": "Maske", "en": "Mask", "es": "Máscara", "fr": "Masque", "de": "Maske", "it": "Maschera", "pt": "Máscara", "ru": "Маска", "ar": "قناع", "zh": "面具"},
         {"tr": "Kılıç", "en": "Sword", "es": "Espada", "fr": "Épée", "de": "Degen", "it": "Spada", "pt": "Espada", "ru": "Шпага", "ar": "سيف", "zh": "剑"}
       ]
+    },
+    {
+      "word": {"tr": "Süpermen", "en": "Superman", "es": "Superman", "fr": "Superman", "de": "Superman", "it": "Superman", "pt": "Superman", "ru": "Супермен", "ar": "سوبرمان", "zh": "超人"},
+      "clues": [
+        {"tr": "Gözlük", "en": "Glasses", "es": "Gafas", "fr": "Lunettes", "de": "Brille", "it": "Occhiali", "pt": "Óculos", "ru": "Очки", "ar": "نظارة", "zh": "眼镜"},
+        {"tr": "Telefon kulübesi", "en": "Phone booth", "es": "Cabina telefónica", "fr": "Cabine téléphonique", "de": "Telefonzelle", "it": "Cabina telefonica", "pt": "Cabine telefônica", "ru": "Телефонная будка", "ar": "كشك الهاتف", "zh": "电话亭"}
+      ]
+    },
+    {
+      "word": {"tr": "Temel Reis", "en": "Popeye", "es": "Popeye", "fr": "Popeye", "de": "Popeye", "it": "Braccio di Ferro", "pt": "Popeye", "ru": "Моряк Попай", "ar": "باباي", "zh": "大力水手"},
+      "clues": [
+        {"tr": "Çapa", "en": "Anchor", "es": "Ancla", "fr": "Ancre", "de": "Anker", "it": "Àncora", "pt": "Âncora", "ru": "Якорь", "ar": "مرساة", "zh": "船锚"},
+        {"tr": "Konserve kutusu", "en": "Tin can", "es": "Lata", "fr": "Boîte de conserve", "de": "Blechdose", "it": "Lattina", "pt": "Lata", "ru": "Консервная банка", "ar": "علبة صفيح", "zh": "罐头"}
+      ]
+    },
+    {
+      "word": {"tr": "Pembe Panter", "en": "Pink Panther", "es": "La Pantera Rosa", "fr": "La Panthère rose", "de": "Der rosarote Panther", "it": "La Pantera Rosa", "pt": "A Pantera Cor-de-Rosa", "ru": "Розовая пантера", "ar": "النمر الوردي", "zh": "粉红豹"},
+      "clues": [
+        {"tr": "Elmas", "en": "Diamond", "es": "Diamante", "fr": "Diamant", "de": "Diamant", "it": "Diamante", "pt": "Diamante", "ru": "Бриллиант", "ar": "ماسة", "zh": "钻石"},
+        {"tr": "Saksafon", "en": "Saxophone", "es": "Saxofón", "fr": "Saxophone", "de": "Saxofon", "it": "Sassofono", "pt": "Saxofone", "ru": "Саксофон", "ar": "ساكسفون", "zh": "萨克斯"}
+      ]
+    },
+    {
+      "word": {"tr": "Tom ve Jerry", "en": "Tom and Jerry", "es": "Tom y Jerry", "fr": "Tom et Jerry", "de": "Tom und Jerry", "it": "Tom e Jerry", "pt": "Tom e Jerry", "ru": "Том и Джерри", "ar": "توم وجيري", "zh": "猫和老鼠"},
+      "clues": [
+        {"tr": "Peynir", "en": "Cheese", "es": "Queso", "fr": "Fromage", "de": "Käse", "it": "Formaggio", "pt": "Queijo", "ru": "Сыр", "ar": "جبن", "zh": "奶酪"},
+        {"tr": "Kovalamaca", "en": "Chase", "es": "Persecución", "fr": "Course-poursuite", "de": "Verfolgungsjagd", "it": "Inseguimento", "pt": "Perseguição", "ru": "Погоня", "ar": "مطاردة", "zh": "追逐"}
+      ]
+    },
+    {
+      "word": {"tr": "Scooby-Doo", "en": "Scooby-Doo", "es": "Scooby-Doo", "fr": "Scooby-Doo", "de": "Scooby-Doo", "it": "Scooby-Doo", "pt": "Scooby-Doo", "ru": "Скуби-Ду", "ar": "سكوبي دو", "zh": "史酷比"},
+      "clues": [
+        {"tr": "Minibüs", "en": "Van", "es": "Furgoneta", "fr": "Camionnette", "de": "Lieferwagen", "it": "Furgoncino", "pt": "Van", "ru": "Фургон", "ar": "شاحنة صغيرة", "zh": "面包车"},
+        {"tr": "Korkak", "en": "Coward", "es": "Miedoso", "fr": "Froussard", "de": "Angsthase", "it": "Fifone", "pt": "Medroso", "ru": "Трусишка", "ar": "جبان", "zh": "胆小鬼"}
+      ]
+    },
+    {
+      "word": {"tr": "Winnie the Pooh", "en": "Winnie the Pooh", "es": "Winnie the Pooh", "fr": "Winnie l'ourson", "de": "Winnie Puuh", "it": "Winnie the Pooh", "pt": "Ursinho Pooh", "ru": "Винни-Пух", "ar": "ويني الدبدوب", "zh": "小熊维尼"},
+      "clues": [
+        {"tr": "Kırmızı tişört", "en": "Red T-shirt", "es": "Camiseta roja", "fr": "T-shirt rouge", "de": "Rotes T-Shirt", "it": "Maglietta rossa", "pt": "Camiseta vermelha", "ru": "Красная футболка", "ar": "قميص أحمر", "zh": "红色T恤"},
+        {"tr": "Bal", "en": "Honey", "es": "Miel", "fr": "Miel", "de": "Honig", "it": "Miele", "pt": "Mel", "ru": "Мёд", "ar": "عسل", "zh": "蜂蜜"}
+      ]
+    },
+    {
+      "word": {"tr": "Simba", "en": "Simba", "es": "Simba", "fr": "Simba", "de": "Simba", "it": "Simba", "pt": "Simba", "ru": "Симба", "ar": "سيمبا", "zh": "辛巴"},
+      "clues": [
+        {"tr": "Gün doğumu", "en": "Sunrise", "es": "Amanecer", "fr": "Lever du soleil", "de": "Sonnenaufgang", "it": "Alba", "pt": "Nascer do sol", "ru": "Рассвет", "ar": "شروق الشمس", "zh": "日出"},
+        {"tr": "Uçurum", "en": "Cliff", "es": "Acantilado", "fr": "Falaise", "de": "Klippe", "it": "Scogliera", "pt": "Penhasco", "ru": "Обрыв", "ar": "جرف", "zh": "悬崖"}
+      ]
+    },
+    {
+      "word": {"tr": "Nemo", "en": "Nemo", "es": "Nemo", "fr": "Nemo", "de": "Nemo", "it": "Nemo", "pt": "Nemo", "ru": "Немо", "ar": "نيمو", "zh": "尼莫"},
+      "clues": [
+        {"tr": "Kısa hafıza", "en": "Short memory", "es": "Memoria corta", "fr": "Mémoire courte", "de": "Kurzes Gedächtnis", "it": "Memoria corta", "pt": "Memória curta", "ru": "Короткая память", "ar": "ذاكرة قصيرة", "zh": "记性差"},
+        {"tr": "Dişçi", "en": "Dentist", "es": "Dentista", "fr": "Dentiste", "de": "Zahnarzt", "it": "Dentista", "pt": "Dentista", "ru": "Стоматолог", "ar": "طبيب أسنان", "zh": "牙医"}
+      ]
+    },
+    {
+      "word": {"tr": "Kung Fu Panda", "en": "Kung Fu Panda", "es": "Kung Fu Panda", "fr": "Kung Fu Panda", "de": "Kung Fu Panda", "it": "Kung Fu Panda", "pt": "Kung Fu Panda", "ru": "Кунг-фу Панда", "ar": "كونغ فو باندا", "zh": "功夫熊猫"},
+      "clues": [
+        {"tr": "Erişte", "en": "Noodles", "es": "Fideos", "fr": "Nouilles", "de": "Nudeln", "it": "Noodles", "pt": "Macarrão", "ru": "Лапша", "ar": "معكرونة", "zh": "面条"},
+        {"tr": "Usta", "en": "Master", "es": "Maestro", "fr": "Maître", "de": "Meister", "it": "Maestro", "pt": "Mestre", "ru": "Мастер", "ar": "معلم", "zh": "师父"}
+      ]
+    },
+    {
+      "word": {"tr": "Sonic", "en": "Sonic", "es": "Sonic", "fr": "Sonic", "de": "Sonic", "it": "Sonic", "pt": "Sonic", "ru": "Соник", "ar": "سونيك", "zh": "索尼克"},
+      "clues": [
+        {"tr": "Hız", "en": "Speed", "es": "Velocidad", "fr": "Vitesse", "de": "Geschwindigkeit", "it": "Velocità", "pt": "Velocidade", "ru": "Скорость", "ar": "سرعة", "zh": "速度"},
+        {"tr": "Altın halka", "en": "Gold rings", "es": "Anillos de oro", "fr": "Anneaux d'or", "de": "Goldene Ringe", "it": "Anelli d'oro", "pt": "Anéis de ouro", "ru": "Золотые кольца", "ar": "حلقات ذهبية", "zh": "金环"}
+      ]
+    },
+    {
+      "word": {"tr": "Yoda", "en": "Yoda", "es": "Yoda", "fr": "Yoda", "de": "Yoda", "it": "Yoda", "pt": "Yoda", "ru": "Йода", "ar": "يودا", "zh": "尤达"},
+      "clues": [
+        {"tr": "Ters konuşmak", "en": "Backwards talk", "es": "Hablar al revés", "fr": "Parler à l'envers", "de": "Verdrehte Sätze", "it": "Parlare al contrario", "pt": "Falar ao contrário", "ru": "Говорить задом наперёд", "ar": "كلام معكوس", "zh": "倒装句"},
+        {"tr": "Bataklık", "en": "Swamp", "es": "Pantano", "fr": "Marais", "de": "Sumpf", "it": "Palude", "pt": "Pântano", "ru": "Болото", "ar": "مستنقع", "zh": "沼泽"}
+      ]
+    },
+    {
+      "word": {"tr": "Mr. Bean", "en": "Mr. Bean", "es": "Mr. Bean", "fr": "Mr Bean", "de": "Mr. Bean", "it": "Mr. Bean", "pt": "Mr. Bean", "ru": "Мистер Бин", "ar": "مستر بين", "zh": "憨豆先生"},
+      "clues": [
+        {"tr": "Oyuncak ayı", "en": "Teddy bear", "es": "Osito de peluche", "fr": "Nounours", "de": "Teddybär", "it": "Orsacchiotto", "pt": "Ursinho de pelúcia", "ru": "Плюшевый мишка", "ar": "دبدوب", "zh": "泰迪熊"},
+        {"tr": "Küçük araba", "en": "Tiny car", "es": "Coche pequeño", "fr": "Petite voiture", "de": "Kleines Auto", "it": "Macchinina", "pt": "Carrinho", "ru": "Маленькая машина", "ar": "سيارة صغيرة", "zh": "小汽车"}
+      ]
+    },
+    {
+      "word": {"tr": "Kaptan Kanca", "en": "Captain Hook", "es": "Capitán Garfio", "fr": "Capitaine Crochet", "de": "Käpt'n Hook", "it": "Capitan Uncino", "pt": "Capitão Gancho", "ru": "Капитан Крюк", "ar": "الكابتن هوك", "zh": "胡克船长"},
+      "clues": [
+        {"tr": "Timsah", "en": "Crocodile", "es": "Cocodrilo", "fr": "Crocodile", "de": "Krokodil", "it": "Coccodrillo", "pt": "Crocodilo", "ru": "Крокодил", "ar": "تمساح", "zh": "鳄鱼"},
+        {"tr": "Tik tak", "en": "Tick-tock", "es": "Tic-tac", "fr": "Tic-tac", "de": "Tick-tack", "it": "Tic-tac", "pt": "Tique-taque", "ru": "Тик-так", "ar": "تك تك", "zh": "滴答"}
+      ]
+    },
+    {
+      "word": {"tr": "Rapunzel", "en": "Rapunzel", "es": "Rapunzel", "fr": "Raiponce", "de": "Rapunzel", "it": "Raperonzolo", "pt": "Rapunzel", "ru": "Рапунцель", "ar": "رابونزل", "zh": "长发公主"},
+      "clues": [
+        {"tr": "Kule", "en": "Tower", "es": "Torre", "fr": "Tour", "de": "Turm", "it": "Torre", "pt": "Torre", "ru": "Башня", "ar": "برج", "zh": "高塔"},
+        {"tr": "Tava", "en": "Frying pan", "es": "Sartén", "fr": "Poêle", "de": "Bratpfanne", "it": "Padella", "pt": "Frigideira", "ru": "Сковородка", "ar": "مقلاة", "zh": "平底锅"}
+      ]
     }
   ]
 }

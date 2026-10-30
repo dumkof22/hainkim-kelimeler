@@ -171,6 +171,118 @@
         {"tr": "Zeytinyağı", "en": "Olive oil", "es": "Aceite de oliva", "fr": "Huile d'olive", "de": "Olivenöl", "it": "Olio d'oliva", "pt": "Azeite", "ru": "Оливковое масло", "ar": "زيت الزيتون", "zh": "橄榄油"},
         {"tr": "Meze", "en": "Appetizer", "es": "Aperitivo", "fr": "Apéritif", "de": "Vorspeise", "it": "Antipasto", "pt": "Petisco", "ru": "Закуска", "ar": "مقبلات", "zh": "开胃菜"}
       ]
+    },
+    {
+      "word": {"tr": "Çizburger", "en": "Cheeseburger", "es": "Hamburguesa con queso", "fr": "Cheeseburger", "de": "Cheeseburger", "it": "Cheeseburger", "pt": "Cheeseburger", "ru": "Чизбургер", "ar": "تشيز برغر", "zh": "奶酪汉堡"},
+      "clues": [
+        {"tr": "Turşu", "en": "Pickles", "es": "Pepinillos", "fr": "Cornichons", "de": "Gewürzgurken", "it": "Cetriolini sottaceto", "pt": "Picles", "ru": "Солёные огурцы", "ar": "مخلل", "zh": "酸黄瓜"},
+        {"tr": "Susam", "en": "Sesame", "es": "Sésamo", "fr": "Sésame", "de": "Sesam", "it": "Sesamo", "pt": "Gergelim", "ru": "Кунжут", "ar": "سمسم", "zh": "芝麻"}
+      ]
+    },
+    {
+      "word": {"tr": "Patates kızartması", "en": "French fries", "es": "Papas fritas", "fr": "Frites", "de": "Pommes frites", "it": "Patatine fritte", "pt": "Batata frita", "ru": "Картофель фри", "ar": "بطاطس مقلية", "zh": "炸薯条"},
+      "clues": [
+        {"tr": "Ketçap", "en": "Ketchup", "es": "Kétchup", "fr": "Ketchup", "de": "Ketchup", "it": "Ketchup", "pt": "Ketchup", "ru": "Кетчуп", "ar": "كاتشب", "zh": "番茄酱"},
+        {"tr": "Kızgın yağ", "en": "Hot oil", "es": "Aceite hirviendo", "fr": "Huile bouillante", "de": "Heißes Fett", "it": "Olio bollente", "pt": "Óleo quente", "ru": "Кипящее масло", "ar": "زيت ساخن", "zh": "热油"}
+      ]
+    },
+    {
+      "word": {"tr": "Tavuk nugget", "en": "Chicken nuggets", "es": "Nuggets de pollo", "fr": "Nuggets de poulet", "de": "Chicken Nuggets", "it": "Nuggets di pollo", "pt": "Nuggets de frango", "ru": "Куриные наггетсы", "ar": "ناجتس الدجاج", "zh": "鸡块"},
+      "clues": [
+        {"tr": "Çocuk menüsü", "en": "Kids' menu", "es": "Menú infantil", "fr": "Menu enfant", "de": "Kindermenü", "it": "Menù bambini", "pt": "Menu infantil", "ru": "Детское меню", "ar": "وجبة أطفال", "zh": "儿童套餐"},
+        {"tr": "Sos", "en": "Dipping sauce", "es": "Salsa para mojar", "fr": "Sauce", "de": "Dip", "it": "Salsa", "pt": "Molho", "ru": "Соус", "ar": "صلصة", "zh": "蘸酱"}
+      ]
+    },
+    {
+      "word": {"tr": "Pankek", "en": "Pancakes", "es": "Panqueques", "fr": "Pancakes", "de": "Pfannkuchen", "it": "Pancake", "pt": "Panquecas", "ru": "Панкейки", "ar": "بان كيك", "zh": "薄煎饼"},
+      "clues": [
+        {"tr": "Üst üste", "en": "Stack", "es": "Pila", "fr": "Pile", "de": "Stapel", "it": "Pila", "pt": "Pilha", "ru": "Стопка", "ar": "كومة", "zh": "一摞"},
+        {"tr": "Şurup", "en": "Syrup", "es": "Sirope", "fr": "Sirop", "de": "Sirup", "it": "Sciroppo", "pt": "Xarope", "ru": "Сироп", "ar": "شراب سكري", "zh": "糖浆"}
+      ]
+    },
+    {
+      "word": {"tr": "Peynir fondü", "en": "Cheese fondue", "es": "Fondue de queso", "fr": "Fondue au fromage", "de": "Käsefondue", "it": "Fonduta di formaggio", "pt": "Fondue de queijo", "ru": "Сырное фондю", "ar": "فوندو الجبن", "zh": "奶酪火锅"},
+      "clues": [
+        {"tr": "Uzun çatal", "en": "Long fork", "es": "Tenedor largo", "fr": "Longue fourchette", "de": "Lange Gabel", "it": "Forchetta lunga", "pt": "Garfo comprido", "ru": "Длинная вилка", "ar": "شوكة طويلة", "zh": "长叉子"},
+        {"tr": "Dağ evi", "en": "Chalet", "es": "Cabaña de montaña", "fr": "Chalet", "de": "Berghütte", "it": "Baita", "pt": "Chalé", "ru": "Шале", "ar": "كوخ جبلي", "zh": "山间小屋"}
+      ]
+    },
+    {
+      "word": {"tr": "Balık patates", "en": "Fish and chips", "es": "Pescado con patatas", "fr": "Fish and chips", "de": "Fish and Chips", "it": "Fish and chips", "pt": "Peixe com fritas", "ru": "Фиш-энд-чипс", "ar": "سمك وبطاطس", "zh": "炸鱼薯条"},
+      "clues": [
+        {"tr": "Gazete kâğıdı", "en": "Newspaper", "es": "Papel de periódico", "fr": "Papier journal", "de": "Zeitungspapier", "it": "Carta di giornale", "pt": "Papel de jornal", "ru": "Газета", "ar": "ورق جرائد", "zh": "报纸"},
+        {"tr": "Sirke", "en": "Vinegar", "es": "Vinagre", "fr": "Vinaigre", "de": "Essig", "it": "Aceto", "pt": "Vinagre", "ru": "Уксус", "ar": "خل", "zh": "醋"}
+      ]
+    },
+    {
+      "word": {"tr": "Fırında hindi", "en": "Roast turkey", "es": "Pavo asado", "fr": "Dinde rôtie", "de": "Truthahnbraten", "it": "Tacchino arrosto", "pt": "Peru assado", "ru": "Запечённая индейка", "ar": "ديك رومي مشوي", "zh": "烤火鸡"},
+      "clues": [
+        {"tr": "Kalabalık sofra", "en": "Family feast", "es": "Banquete familiar", "fr": "Grand repas de famille", "de": "Festessen", "it": "Pranzo in famiglia", "pt": "Banquete em família", "ru": "Семейное застолье", "ar": "مائدة عائلية", "zh": "家庭大餐"},
+        {"tr": "Dolgu", "en": "Stuffing", "es": "Relleno", "fr": "Farce", "de": "Füllung", "it": "Ripieno", "pt": "Recheio", "ru": "Начинка", "ar": "حشوة", "zh": "馅料"}
+      ]
+    },
+    {
+      "word": {"tr": "Tavuk şiş", "en": "Chicken skewers", "es": "Brochetas de pollo", "fr": "Brochettes de poulet", "de": "Hähnchenspieße", "it": "Spiedini di pollo", "pt": "Espetinho de frango", "ru": "Куриные шашлычки", "ar": "أسياخ الدجاج", "zh": "鸡肉串"},
+      "clues": [
+        {"tr": "Kömür", "en": "Charcoal", "es": "Carbón", "fr": "Charbon", "de": "Holzkohle", "it": "Carbonella", "pt": "Carvão", "ru": "Уголь", "ar": "فحم", "zh": "木炭"},
+        {"tr": "Piknik", "en": "Picnic", "es": "Pícnic", "fr": "Pique-nique", "de": "Picknick", "it": "Picnic", "pt": "Piquenique", "ru": "Пикник", "ar": "نزهة", "zh": "野餐"}
+      ]
+    },
+    {
+      "word": {"tr": "Çin böreği", "en": "Spring rolls", "es": "Rollitos de primavera", "fr": "Nems", "de": "Frühlingsrollen", "it": "Involtini primavera", "pt": "Rolinhos primavera", "ru": "Спринг-роллы", "ar": "لفائف الربيع", "zh": "春卷"},
+      "clues": [
+        {"tr": "Soya sosu", "en": "Soy sauce", "es": "Salsa de soja", "fr": "Sauce soja", "de": "Sojasoße", "it": "Salsa di soia", "pt": "Molho shoyu", "ru": "Соевый соус", "ar": "صلصة الصويا", "zh": "酱油"},
+        {"tr": "Paket servis", "en": "Takeaway", "es": "Comida para llevar", "fr": "Plat à emporter", "de": "Essen zum Mitnehmen", "it": "Cibo da asporto", "pt": "Comida para viagem", "ru": "Еда навынос", "ar": "طعام سفري", "zh": "外卖"}
+      ]
+    },
+    {
+      "word": {"tr": "Konserve ton balığı", "en": "Canned tuna", "es": "Atún en lata", "fr": "Thon en boîte", "de": "Thunfischdose", "it": "Tonno in scatola", "pt": "Atum em lata", "ru": "Консервированный тунец", "ar": "تونة معلبة", "zh": "金枪鱼罐头"},
+      "clues": [
+        {"tr": "Kedi", "en": "Cat", "es": "Gato", "fr": "Chat", "de": "Katze", "it": "Gatto", "pt": "Gato", "ru": "Кошка", "ar": "قطة", "zh": "猫"},
+        {"tr": "Öğrenci evi", "en": "Student flat", "es": "Piso de estudiantes", "fr": "Coloc étudiante", "de": "Studentenbude", "it": "Appartamento da studenti", "pt": "República de estudantes", "ru": "Общежитие", "ar": "سكن الطلاب", "zh": "学生宿舍"}
+      ]
+    },
+    {
+      "word": {"tr": "Istakoz", "en": "Lobster", "es": "Langosta", "fr": "Homard", "de": "Hummer", "it": "Aragosta", "pt": "Lagosta", "ru": "Омар", "ar": "كركند", "zh": "龙虾"},
+      "clues": [
+        {"tr": "Lüks", "en": "Luxury", "es": "Lujo", "fr": "Luxe", "de": "Luxus", "it": "Lusso", "pt": "Luxo", "ru": "Роскошь", "ar": "فخامة", "zh": "奢华"},
+        {"tr": "Kırmızı", "en": "Red", "es": "Rojo", "fr": "Rouge", "de": "Rot", "it": "Rosso", "pt": "Vermelho", "ru": "Красный", "ar": "أحمر", "zh": "红色"}
+      ]
+    },
+    {
+      "word": {"tr": "Kalamar tava", "en": "Fried calamari", "es": "Calamares fritos", "fr": "Calamars frits", "de": "Frittierte Calamari", "it": "Calamari fritti", "pt": "Lula frita", "ru": "Жареные кальмары", "ar": "كاليماري مقلي", "zh": "炸鱿鱼"},
+      "clues": [
+        {"tr": "Halka", "en": "Rings", "es": "Anillos", "fr": "Anneaux", "de": "Ringe", "it": "Anelli", "pt": "Anéis", "ru": "Кольца", "ar": "حلقات", "zh": "圈"},
+        {"tr": "Mürekkep", "en": "Ink", "es": "Tinta", "fr": "Encre", "de": "Tinte", "it": "Inchiostro", "pt": "Tinta", "ru": "Чернила", "ar": "حبر", "zh": "墨汁"}
+      ]
+    },
+    {
+      "word": {"tr": "Barbekü kaburga", "en": "BBQ ribs", "es": "Costillas a la barbacoa", "fr": "Ribs barbecue", "de": "Spareribs", "it": "Costine alla griglia", "pt": "Costela barbecue", "ru": "Рёбрышки барбекю", "ar": "أضلاع مشوية", "zh": "烤肋排"},
+      "clues": [
+        {"tr": "Islak mendil", "en": "Wet wipes", "es": "Toallitas húmedas", "fr": "Lingettes", "de": "Feuchttücher", "it": "Salviette umidificate", "pt": "Lenços umedecidos", "ru": "Влажные салфетки", "ar": "مناديل مبللة", "zh": "湿巾"},
+        {"tr": "Yapış yapış", "en": "Sticky", "es": "Pegajoso", "fr": "Collant", "de": "Klebrig", "it": "Appiccicoso", "pt": "Grudento", "ru": "Липкий", "ar": "لزج", "zh": "黏糊糊"}
+      ]
+    },
+    {
+      "word": {"tr": "Şinitzel", "en": "Schnitzel", "es": "Escalope", "fr": "Escalope panée", "de": "Schnitzel", "it": "Cotoletta", "pt": "Bife à milanesa", "ru": "Шницель", "ar": "شنيتزل", "zh": "炸肉排"},
+      "clues": [
+        {"tr": "Çekiç", "en": "Hammer", "es": "Martillo", "fr": "Marteau", "de": "Hammer", "it": "Martello", "pt": "Martelo", "ru": "Молоток", "ar": "مطرقة", "zh": "锤子"},
+        {"tr": "Galeta unu", "en": "Breadcrumbs", "es": "Pan rallado", "fr": "Chapelure", "de": "Paniermehl", "it": "Pangrattato", "pt": "Farinha de rosca", "ru": "Панировочные сухари", "ar": "فتات الخبز", "zh": "面包屑"}
+      ]
+    },
+    {
+      "word": {"tr": "Tavuk çorbası", "en": "Chicken soup", "es": "Sopa de pollo", "fr": "Soupe au poulet", "de": "Hühnersuppe", "it": "Brodo di pollo", "pt": "Canja de galinha", "ru": "Куриный суп", "ar": "شوربة الدجاج", "zh": "鸡汤"},
+      "clues": [
+        {"tr": "Grip", "en": "Flu", "es": "Gripe", "fr": "Grippe", "de": "Grippe", "it": "Influenza", "pt": "Gripe", "ru": "Грипп", "ar": "إنفلونزا", "zh": "感冒"},
+        {"tr": "Anne", "en": "Mom", "es": "Mamá", "fr": "Maman", "de": "Mama", "it": "Mamma", "pt": "Mãe", "ru": "Мама", "ar": "أمي", "zh": "妈妈"}
+      ]
+    },
+    {
+      "word": {"tr": "Baget ekmek", "en": "Baguette", "es": "Barra de pan", "fr": "Baguette", "de": "Baguette", "it": "Baguette", "pt": "Baguete", "ru": "Багет", "ar": "خبز الباغيت", "zh": "法棍"},
+      "clues": [
+        {"tr": "Koltuk altı", "en": "Under the arm", "es": "Bajo el brazo", "fr": "Sous le bras", "de": "Unterm Arm", "it": "Sotto il braccio", "pt": "Debaixo do braço", "ru": "Под мышкой", "ar": "تحت الإبط", "zh": "腋下"},
+        {"tr": "Kırıntı", "en": "Crumbs", "es": "Migas", "fr": "Miettes", "de": "Krümel", "it": "Briciole", "pt": "Migalhas", "ru": "Крошки", "ar": "فتات", "zh": "碎屑"}
+      ]
     }
   ]
 }

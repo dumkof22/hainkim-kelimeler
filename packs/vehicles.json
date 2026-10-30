@@ -178,6 +178,111 @@
         {"tr": "Kanca", "en": "Hook", "es": "Gancho", "fr": "Crochet", "de": "Haken", "it": "Gancio", "pt": "Gancho", "ru": "Крюк", "ar": "خطاف", "zh": "钩子"},
         {"tr": "Arıza", "en": "Breakdown", "es": "Avería", "fr": "Panne", "de": "Panne", "it": "Guasto", "pt": "Pane", "ru": "Поломка", "ar": "عطل", "zh": "抛锚"}
       ]
+    },
+    {
+      "word": {"tr": "Tandem bisiklet", "en": "Tandem bicycle", "es": "Bicicleta tándem", "fr": "Tandem", "de": "Tandem", "it": "Tandem", "pt": "Bicicleta tandem", "ru": "Тандем", "ar": "دراجة ثنائية", "zh": "双人自行车"},
+      "clues": [
+        {"tr": "Uyum", "en": "Teamwork", "es": "Armonía", "fr": "Harmonie", "de": "Gleichklang", "it": "Armonia", "pt": "Sintonia", "ru": "Слаженность", "ar": "انسجام", "zh": "默契"},
+        {"tr": "Balayı", "en": "Honeymoon", "es": "Luna de miel", "fr": "Lune de miel", "de": "Flitterwochen", "it": "Luna di miele", "pt": "Lua de mel", "ru": "Медовый месяц", "ar": "شهر العسل", "zh": "蜜月"}
+      ]
+    },
+    {
+      "word": {"tr": "Golf arabası", "en": "Golf cart", "es": "Carrito de golf", "fr": "Voiturette de golf", "de": "Golfwagen", "it": "Golf cart", "pt": "Carrinho de golfe", "ru": "Гольф-кар", "ar": "عربة الغولف", "zh": "高尔夫球车"},
+      "clues": [
+        {"tr": "Çimen", "en": "Lawn", "es": "Césped", "fr": "Pelouse", "de": "Rasen", "it": "Prato", "pt": "Gramado", "ru": "Газон", "ar": "عشب", "zh": "草坪"},
+        {"tr": "Emekli", "en": "Retiree", "es": "Jubilado", "fr": "Retraité", "de": "Rentner", "it": "Pensionato", "pt": "Aposentado", "ru": "Пенсионер", "ar": "متقاعد", "zh": "退休老人"}
+      ]
+    },
+    {
+      "word": {"tr": "Gondol", "en": "Gondola", "es": "Góndola", "fr": "Gondole", "de": "Gondel", "it": "Gondola", "pt": "Gôndola", "ru": "Гондола", "ar": "غندول", "zh": "贡多拉"},
+      "clues": [
+        {"tr": "Çizgili tişört", "en": "Striped shirt", "es": "Camiseta a rayas", "fr": "Marinière", "de": "Ringelshirt", "it": "Maglia a righe", "pt": "Camisa listrada", "ru": "Тельняшка", "ar": "قميص مخطط", "zh": "条纹衫"},
+        {"tr": "Serenat", "en": "Serenade", "es": "Serenata", "fr": "Sérénade", "de": "Ständchen", "it": "Serenata", "pt": "Serenata", "ru": "Серенада", "ar": "سيرينادا", "zh": "小夜曲"}
+      ]
+    },
+    {
+      "word": {"tr": "Limuzin", "en": "Limousine", "es": "Limusina", "fr": "Limousine", "de": "Limousine", "it": "Limousine", "pt": "Limusine", "ru": "Лимузин", "ar": "ليموزين", "zh": "豪华轿车"},
+      "clues": [
+        {"tr": "Balo", "en": "Prom", "es": "Baile de graduación", "fr": "Bal de promo", "de": "Abschlussball", "it": "Ballo di fine anno", "pt": "Baile de formatura", "ru": "Выпускной", "ar": "حفلة التخرج", "zh": "毕业舞会"},
+        {"tr": "Siyah cam", "en": "Tinted windows", "es": "Vidrios polarizados", "fr": "Vitres teintées", "de": "Getönte Scheiben", "it": "Vetri oscurati", "pt": "Vidro fumê", "ru": "Тонированные стёкла", "ar": "زجاج معتم", "zh": "黑色玻璃"}
+      ]
+    },
+    {
+      "word": {"tr": "Dondurma kamyonu", "en": "Ice cream truck", "es": "Camión de helados", "fr": "Camion de glaces", "de": "Eiswagen", "it": "Furgone dei gelati", "pt": "Caminhão de sorvete", "ru": "Фургон с мороженым", "ar": "عربة الآيس كريم", "zh": "冰淇淋车"},
+      "clues": [
+        {"tr": "Melodi", "en": "Jingle", "es": "Melodía", "fr": "Mélodie", "de": "Melodie", "it": "Melodia", "pt": "Musiquinha", "ru": "Мелодия", "ar": "لحن", "zh": "音乐声"},
+        {"tr": "Mahalle", "en": "Neighborhood", "es": "Barrio", "fr": "Quartier", "de": "Nachbarschaft", "it": "Quartiere", "pt": "Bairro", "ru": "Район", "ar": "حي", "zh": "街坊"}
+      ]
+    },
+    {
+      "word": {"tr": "Hız treni", "en": "Roller coaster", "es": "Montaña rusa", "fr": "Montagnes russes", "de": "Achterbahn", "it": "Montagne russe", "pt": "Montanha-russa", "ru": "Американские горки", "ar": "قطار الملاهي", "zh": "过山车"},
+      "clues": [
+        {"tr": "Mide", "en": "Stomach", "es": "Estómago", "fr": "Estomac", "de": "Magen", "it": "Stomaco", "pt": "Estômago", "ru": "Живот", "ar": "معدة", "zh": "胃"},
+        {"tr": "Emniyet barı", "en": "Safety bar", "es": "Barra de seguridad", "fr": "Barre de sécurité", "de": "Sicherheitsbügel", "it": "Barra di sicurezza", "pt": "Barra de segurança", "ru": "Страховочная рама", "ar": "حاجز الأمان", "zh": "安全杆"}
+      ]
+    },
+    {
+      "word": {"tr": "Jet ski", "en": "Jet ski", "es": "Moto de agua", "fr": "Jet-ski", "de": "Jetski", "it": "Moto d'acqua", "pt": "Jet ski", "ru": "Гидроцикл", "ar": "جت سكي", "zh": "摩托艇"},
+      "clues": [
+        {"tr": "Dalga", "en": "Waves", "es": "Olas", "fr": "Vagues", "de": "Wellen", "it": "Onde", "pt": "Ondas", "ru": "Волны", "ar": "أمواج", "zh": "海浪"},
+        {"tr": "Su sıçraması", "en": "Splash", "es": "Salpicadura", "fr": "Éclaboussure", "de": "Spritzer", "it": "Schizzi", "pt": "Respingo", "ru": "Брызги", "ar": "رذاذ", "zh": "水花"}
+      ]
+    },
+    {
+      "word": {"tr": "Sal", "en": "Raft", "es": "Balsa", "fr": "Radeau", "de": "Floß", "it": "Zattera", "pt": "Jangada", "ru": "Плот", "ar": "طوف", "zh": "木筏"},
+      "clues": [
+        {"tr": "Kütük", "en": "Logs", "es": "Troncos", "fr": "Rondins", "de": "Baumstämme", "it": "Tronchi", "pt": "Troncos", "ru": "Брёвна", "ar": "جذوع", "zh": "树干"},
+        {"tr": "Issız ada", "en": "Desert island", "es": "Isla desierta", "fr": "Île déserte", "de": "Einsame Insel", "it": "Isola deserta", "pt": "Ilha deserta", "ru": "Необитаемый остров", "ar": "جزيرة مهجورة", "zh": "荒岛"}
+      ]
+    },
+    {
+      "word": {"tr": "Çarpışan araba", "en": "Bumper cars", "es": "Autos de choque", "fr": "Autos tamponneuses", "de": "Autoscooter", "it": "Autoscontro", "pt": "Carrinho bate-bate", "ru": "Автодром", "ar": "سيارات التصادم", "zh": "碰碰车"},
+      "clues": [
+        {"tr": "Kıvılcım", "en": "Sparks", "es": "Chispas", "fr": "Étincelles", "de": "Funken", "it": "Scintille", "pt": "Faíscas", "ru": "Искры", "ar": "شرارات", "zh": "火花"},
+        {"tr": "Kafa kafaya", "en": "Head-on", "es": "De frente", "fr": "De plein fouet", "de": "Frontal", "it": "Frontale", "pt": "De frente", "ru": "Лоб в лоб", "ar": "وجهاً لوجه", "zh": "迎面"}
+      ]
+    },
+    {
+      "word": {"tr": "TIR", "en": "Semi-truck", "es": "Tráiler", "fr": "Semi-remorque", "de": "Sattelzug", "it": "Autoarticolato", "pt": "Carreta", "ru": "Фура", "ar": "شاحنة مقطورة", "zh": "半挂卡车"},
+      "clues": [
+        {"tr": "Korna", "en": "Horn", "es": "Bocina", "fr": "Klaxon", "de": "Hupe", "it": "Clacson", "pt": "Buzina", "ru": "Гудок", "ar": "بوق", "zh": "喇叭"},
+        {"tr": "Uzun yol", "en": "Long haul", "es": "Largo recorrido", "fr": "Long trajet", "de": "Langstrecke", "it": "Lunga distanza", "pt": "Estrada longa", "ru": "Дальний рейс", "ar": "طريق طويل", "zh": "长途"}
+      ]
+    },
+    {
+      "word": {"tr": "Tramvay", "en": "Tram", "es": "Tranvía", "fr": "Tramway", "de": "Straßenbahn", "it": "Tram", "pt": "Bonde", "ru": "Трамвай", "ar": "ترام", "zh": "有轨电车"},
+      "clues": [
+        {"tr": "Ray", "en": "Rails", "es": "Rieles", "fr": "Rails", "de": "Schienen", "it": "Binari", "pt": "Trilhos", "ru": "Рельсы", "ar": "سكك", "zh": "铁路"},
+        {"tr": "Zil sesi", "en": "Bell", "es": "Campana", "fr": "Cloche", "de": "Klingel", "it": "Campanello", "pt": "Sino", "ru": "Звонок", "ar": "جرس", "zh": "铃声"}
+      ]
+    },
+    {
+      "word": {"tr": "Planör", "en": "Glider", "es": "Planeador", "fr": "Planeur", "de": "Segelflugzeug", "it": "Aliante", "pt": "Planador", "ru": "Планер", "ar": "طائرة شراعية", "zh": "滑翔机"},
+      "clues": [
+        {"tr": "Motorsuz", "en": "No engine", "es": "Sin motor", "fr": "Sans moteur", "de": "Ohne Motor", "it": "Senza motore", "pt": "Sem motor", "ru": "Без мотора", "ar": "بلا محرك", "zh": "没有引擎"},
+        {"tr": "Kartal", "en": "Eagle", "es": "Águila", "fr": "Aigle", "de": "Adler", "it": "Aquila", "pt": "Águia", "ru": "Орёл", "ar": "نسر", "zh": "老鹰"}
+      ]
+    },
+    {
+      "word": {"tr": "Bebek arabası", "en": "Stroller", "es": "Cochecito", "fr": "Poussette", "de": "Kinderwagen", "it": "Passeggino", "pt": "Carrinho de bebê", "ru": "Детская коляска", "ar": "عربة أطفال", "zh": "婴儿车"},
+      "clues": [
+        {"tr": "Park", "en": "Park", "es": "Parque", "fr": "Parc", "de": "Park", "it": "Parco", "pt": "Parque", "ru": "Парк", "ar": "حديقة", "zh": "公园"},
+        {"tr": "Katlamak", "en": "Folding", "es": "Plegar", "fr": "Plier", "de": "Zusammenklappen", "it": "Piegare", "pt": "Dobrar", "ru": "Складывать", "ar": "طي", "zh": "折叠"}
+      ]
+    },
+    {
+      "word": {"tr": "Zeplin", "en": "Blimp", "es": "Dirigible", "fr": "Dirigeable", "de": "Zeppelin", "it": "Dirigibile", "pt": "Dirigível", "ru": "Дирижабль", "ar": "منطاد", "zh": "飞艇"},
+      "clues": [
+        {"tr": "Reklam", "en": "Advertising", "es": "Publicidad", "fr": "Publicité", "de": "Werbung", "it": "Pubblicità", "pt": "Propaganda", "ru": "Реклама", "ar": "إعلان", "zh": "广告"},
+        {"tr": "Yavaş", "en": "Slow", "es": "Lento", "fr": "Lent", "de": "Langsam", "it": "Lento", "pt": "Lento", "ru": "Медленный", "ar": "بطيء", "zh": "缓慢"}
+      ]
+    },
+    {
+      "word": {"tr": "Pedallı tekne", "en": "Pedal boat", "es": "Hidropedal", "fr": "Pédalo", "de": "Tretboot", "it": "Pedalò", "pt": "Pedalinho", "ru": "Водный велосипед", "ar": "قارب بدواسات", "zh": "脚踏船"},
+      "clues": [
+        {"tr": "Kuğu", "en": "Swan", "es": "Cisne", "fr": "Cygne", "de": "Schwan", "it": "Cigno", "pt": "Cisne", "ru": "Лебедь", "ar": "بجعة", "zh": "天鹅"},
+        {"tr": "Göl", "en": "Lake", "es": "Lago", "fr": "Lac", "de": "See", "it": "Lago", "pt": "Lago", "ru": "Озеро", "ar": "بحيرة", "zh": "湖"}
+      ]
     }
   ]
 }

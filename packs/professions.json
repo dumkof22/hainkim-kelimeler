@@ -199,6 +199,90 @@
         {"tr": "Güneş", "en": "Sun", "es": "Sol", "fr": "Soleil", "de": "Sonne", "it": "Sole", "pt": "Sol", "ru": "Солнце", "ar": "شمس", "zh": "太阳"},
         {"tr": "Kırmızı", "en": "Red", "es": "Rojo", "fr": "Rouge", "de": "Rot", "it": "Rosso", "pt": "Vermelho", "ru": "Красный", "ar": "أحمر", "zh": "红色"}
       ]
+    },
+    {
+      "word": {"tr": "Hava durumu sunucusu", "en": "Weather presenter", "es": "Presentador del tiempo", "fr": "Présentateur météo", "de": "Wetteransager", "it": "Presentatore del meteo", "pt": "Apresentador da previsão do tempo", "ru": "Ведущий прогноза погоды", "ar": "مذيع النشرة الجوية", "zh": "天气预报员"},
+      "clues": [
+        {"tr": "Yeşil perde", "en": "Green screen", "es": "Pantalla verde", "fr": "Fond vert", "de": "Greenscreen", "it": "Green screen", "pt": "Tela verde", "ru": "Зелёный экран", "ar": "شاشة خضراء", "zh": "绿幕"},
+        {"tr": "Yarın", "en": "Tomorrow", "es": "Mañana", "fr": "Demain", "de": "Morgen", "it": "Domani", "pt": "Amanhã", "ru": "Завтра", "ar": "غداً", "zh": "明日"}
+      ]
+    },
+    {
+      "word": {"tr": "Çilingir", "en": "Locksmith", "es": "Cerrajero", "fr": "Serrurier", "de": "Schlüsseldienst", "it": "Fabbro", "pt": "Chaveiro", "ru": "Мастер по замкам", "ar": "قفّال", "zh": "开锁匠"},
+      "clues": [
+        {"tr": "Kapıda kalmak", "en": "Stuck outside", "es": "Quedarse fuera", "fr": "Porte claquée", "de": "Ausgesperrt", "it": "Chiuso fuori", "pt": "Trancado do lado de fora", "ru": "Захлопнутая дверь", "ar": "عالق خارج البيت", "zh": "进不了家门"},
+        {"tr": "Firkete", "en": "Hairpin", "es": "Horquilla", "fr": "Épingle à cheveux", "de": "Haarnadel", "it": "Forcina", "pt": "Grampo", "ru": "Шпилька", "ar": "دبوس شعر", "zh": "发夹"}
+      ]
+    },
+    {
+      "word": {"tr": "Arıcı", "en": "Beekeeper", "es": "Apicultor", "fr": "Apiculteur", "de": "Imker", "it": "Apicoltore", "pt": "Apicultor", "ru": "Пчеловод", "ar": "نحّال", "zh": "养蜂人"},
+      "clues": [
+        {"tr": "Peçe", "en": "Veil", "es": "Velo", "fr": "Voile", "de": "Schleier", "it": "Velo", "pt": "Véu", "ru": "Вуаль", "ar": "قناع شبكي", "zh": "面纱"},
+        {"tr": "Kavanoz", "en": "Jar", "es": "Tarro", "fr": "Pot", "de": "Glas", "it": "Barattolo", "pt": "Pote", "ru": "Банка", "ar": "مرطبان", "zh": "罐子"}
+      ]
+    },
+    {
+      "word": {"tr": "Cerrah", "en": "Surgeon", "es": "Cirujano", "fr": "Chirurgien", "de": "Chirurg", "it": "Chirurgo", "pt": "Cirurgião", "ru": "Хирург", "ar": "جرّاح", "zh": "外科医生"},
+      "clues": [
+        {"tr": "Dikiş", "en": "Stitches", "es": "Puntos", "fr": "Points de suture", "de": "Naht", "it": "Punti", "pt": "Pontos", "ru": "Швы", "ar": "غرز", "zh": "缝针"},
+        {"tr": "Sabit el", "en": "Steady hand", "es": "Pulso firme", "fr": "Main sûre", "de": "Ruhige Hand", "it": "Mano ferma", "pt": "Mão firme", "ru": "Твёрдая рука", "ar": "يد ثابتة", "zh": "稳定的手"}
+      ]
+    },
+    {
+      "word": {"tr": "Bahçıvan", "en": "Gardener", "es": "Jardinero", "fr": "Jardinier", "de": "Gärtner", "it": "Giardiniere", "pt": "Jardineiro", "ru": "Садовник", "ar": "بستاني", "zh": "园丁"},
+      "clues": [
+        {"tr": "Budamak", "en": "Pruning", "es": "Podar", "fr": "Tailler", "de": "Beschneiden", "it": "Potare", "pt": "Podar", "ru": "Обрезка", "ar": "تقليم", "zh": "修剪"},
+        {"tr": "Solucan", "en": "Worm", "es": "Lombriz", "fr": "Ver de terre", "de": "Regenwurm", "it": "Lombrico", "pt": "Minhoca", "ru": "Червяк", "ar": "دودة", "zh": "蚯蚓"}
+      ]
+    },
+    {
+      "word": {"tr": "Kütüphaneci", "en": "Librarian", "es": "Bibliotecario", "fr": "Bibliothécaire", "de": "Bibliothekar", "it": "Bibliotecario", "pt": "Bibliotecário", "ru": "Библиотекарь", "ar": "أمين المكتبة", "zh": "图书管理员"},
+      "clues": [
+        {"tr": "Şşş!", "en": "Shh!", "es": "¡Shhh!", "fr": "Chut !", "de": "Pst!", "it": "Sst!", "pt": "Psiu!", "ru": "Тсс!", "ar": "صه!", "zh": "嘘！"},
+        {"tr": "Gecikme cezası", "en": "Late fee", "es": "Multa por retraso", "fr": "Amende de retard", "de": "Mahngebühr", "it": "Multa per ritardo", "pt": "Multa por atraso", "ru": "Штраф за просрочку", "ar": "غرامة تأخير", "zh": "逾期罚款"}
+      ]
+    },
+    {
+      "word": {"tr": "Uçuş görevlisi", "en": "Flight attendant", "es": "Azafata", "fr": "Hôtesse de l'air", "de": "Flugbegleiter", "it": "Assistente di volo", "pt": "Comissário de bordo", "ru": "Бортпроводник", "ar": "مضيف طيران", "zh": "空乘"},
+      "clues": [
+        {"tr": "Can yeleği", "en": "Life jacket", "es": "Chaleco salvavidas", "fr": "Gilet de sauvetage", "de": "Schwimmweste", "it": "Giubbotto salvagente", "pt": "Colete salva-vidas", "ru": "Спасательный жилет", "ar": "سترة نجاة", "zh": "救生衣"},
+        {"tr": "Servis arabası", "en": "Trolley", "es": "Carrito", "fr": "Chariot", "de": "Servierwagen", "it": "Carrello", "pt": "Carrinho", "ru": "Тележка", "ar": "عربة الخدمة", "zh": "餐车"}
+      ]
+    },
+    {
+      "word": {"tr": "Moto kurye", "en": "Delivery rider", "es": "Repartidor", "fr": "Livreur", "de": "Lieferfahrer", "it": "Fattorino", "pt": "Entregador", "ru": "Курьер", "ar": "عامل التوصيل", "zh": "外卖骑手"},
+      "clues": [
+        {"tr": "Kapı zili", "en": "Doorbell", "es": "Timbre", "fr": "Sonnette", "de": "Türklingel", "it": "Campanello", "pt": "Campainha", "ru": "Дверной звонок", "ar": "جرس الباب", "zh": "门铃"},
+        {"tr": "Bahşiş", "en": "Tip", "es": "Propina", "fr": "Pourboire", "de": "Trinkgeld", "it": "Mancia", "pt": "Gorjeta", "ru": "Чаевые", "ar": "بقشيش", "zh": "小费"}
+      ]
+    },
+    {
+      "word": {"tr": "Hakem", "en": "Referee", "es": "Árbitro", "fr": "Arbitre", "de": "Schiedsrichter", "it": "Arbitro", "pt": "Árbitro", "ru": "Судья", "ar": "حكم", "zh": "裁判"},
+      "clues": [
+        {"tr": "Yuhalanmak", "en": "Booing", "es": "Abucheos", "fr": "Huées", "de": "Buhrufe", "it": "Fischi", "pt": "Vaias", "ru": "Освистывание", "ar": "صيحات الاستهجان", "zh": "嘘声"},
+        {"tr": "Kronometre", "en": "Stopwatch", "es": "Cronómetro", "fr": "Chronomètre", "de": "Stoppuhr", "it": "Cronometro", "pt": "Cronômetro", "ru": "Секундомер", "ar": "ساعة توقيت", "zh": "秒表"}
+      ]
+    },
+    {
+      "word": {"tr": "Terzi", "en": "Tailor", "es": "Sastre", "fr": "Tailleur", "de": "Schneider", "it": "Sarto", "pt": "Alfaiate", "ru": "Портной", "ar": "خياط", "zh": "裁缝"},
+      "clues": [
+        {"tr": "Prova", "en": "Fitting", "es": "Prueba", "fr": "Essayage", "de": "Anprobe", "it": "Prova", "pt": "Prova", "ru": "Примерка", "ar": "بروفة", "zh": "试穿"},
+        {"tr": "Toplu iğne", "en": "Pins", "es": "Alfileres", "fr": "Épingles", "de": "Stecknadeln", "it": "Spilli", "pt": "Alfinetes", "ru": "Булавки", "ar": "دبابيس", "zh": "大头针"}
+      ]
+    },
+    {
+      "word": {"tr": "Arkeolog", "en": "Archaeologist", "es": "Arqueólogo", "fr": "Archéologue", "de": "Archäologe", "it": "Archeologo", "pt": "Arqueólogo", "ru": "Археолог", "ar": "عالم آثار", "zh": "考古学家"},
+      "clues": [
+        {"tr": "Fırça", "en": "Brush", "es": "Pincel", "fr": "Pinceau", "de": "Pinsel", "it": "Pennello", "pt": "Pincel", "ru": "Кисточка", "ar": "فرشاة", "zh": "刷子"},
+        {"tr": "Kemik", "en": "Bone", "es": "Hueso", "fr": "Os", "de": "Knochen", "it": "Osso", "pt": "Osso", "ru": "Кость", "ar": "عظم", "zh": "骨头"}
+      ]
+    },
+    {
+      "word": {"tr": "Bebek bakıcısı", "en": "Babysitter", "es": "Niñera", "fr": "Baby-sitter", "de": "Babysitter", "it": "Babysitter", "pt": "Babá", "ru": "Няня", "ar": "جليسة أطفال", "zh": "保姆"},
+      "clues": [
+        {"tr": "Ninni", "en": "Lullaby", "es": "Canción de cuna", "fr": "Berceuse", "de": "Schlaflied", "it": "Ninna nanna", "pt": "Canção de ninar", "ru": "Колыбельная", "ar": "تهويدة", "zh": "摇篮曲"},
+        {"tr": "Saatlik ücret", "en": "Hourly pay", "es": "Pago por hora", "fr": "Tarif horaire", "de": "Stundenlohn", "it": "Paga oraria", "pt": "Pagamento por hora", "ru": "Почасовая оплата", "ar": "أجر بالساعة", "zh": "时薪"}
+      ]
     }
   ]
 }
