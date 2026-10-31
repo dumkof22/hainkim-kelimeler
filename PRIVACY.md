@@ -1,8 +1,8 @@
 # Gizlilik Politikası — Hain Kim?
 
-*Son güncelleme: 29 Ekim 2026* · [English below](#privacy-policy--whos-the-imposter)
+*Son güncelleme: 31 Ekim 2026* · [English below](#privacy-policy--whos-the-imposter)
 
-Hain Kim? (Android paket adı `com.hkn.hainkim`), arkadaş gruplarının tek bir
+Hain Kim? (Android ve iOS paket adı `com.hkn.hainkim`), arkadaş gruplarının tek bir
 telefonla ya da online olarak herkesin kendi telefonundan oynadığı bir parti
 oyunudur. Bu sayfa, uygulamanın hangi bilgileri
 nasıl kullandığını açıklar.
@@ -39,8 +39,7 @@ Online modu kullandığınızda uygulama Google'ın Firebase hizmetlerini
 - **Oyun odaları:** Odadaki oyuncular, oyun ayarları, oylar, tahminler ve
   çizimler oyun süresince saklanır. Oda sahibi odadan çıkınca oda silinir;
   terk edilen odalar en geç 12 saat sonra yeni bir odayla değiştirilir.
-- **Ücretsiz online oyun:** İlk online oyununuzu kurduğunuzda, cihazınızın bu
-  uygulamaya özel Android kimliğinden tek yönlü olarak (geri çevrilemeyecek
+- **Ücretsiz online oyun:** İlk online oyununuzu kurduğunuzda, cihazınızın kimliğinden (Android'de bu uygulamaya özel Android kimliği, iOS'ta anahtarlıkta saklanan rastgele bir kimlik) tek yönlü olarak (geri çevrilemeyecek
   şekilde) türetilen bir anahtar ve kullanılan ücretsiz oyun sayısı saklanır.
   Kimliğin kendisi gönderilmez; anahtar adınıza ya da hesabınıza bağlanmaz ve
   yalnızca uygulamayı silip yeniden yükleyerek ücretsiz oyunun tekrar
@@ -72,12 +71,12 @@ kapatabilirsiniz.
 
 ## Premium abonelik ve ödemeler
 
-Satın alma ve ödemeler tamamen Google Play tarafından işlenir. Uygulama kart
-ya da ödeme bilgilerinizi görmez; yalnızca Google Play'in bildirdiği
-abonelik durumunu (etkin olup olmadığını) kullanarak Premium içeriği açar.
-Aboneliğinizi Google Play > Ödemeler ve abonelikler bölümünden yönetebilir
+Satın alma ve ödemeler tamamen Google Play ya da App Store tarafından işlenir. Uygulama kart
+ya da ödeme bilgilerinizi görmez; yalnızca mağazanın bildirdiği abonelik durumunu (etkin olup olmadığını) kullanarak Premium içeriği açar.
+Aboneliğinizi Android'de Google Play > Ödemeler ve abonelikler, iOS'ta Ayarlar > Apple hesabınız > Abonelikler bölümünden yönetebilir
 veya iptal edebilirsiniz. Google'ın gizlilik politikası:
 <https://policies.google.com/privacy>
+Apple'ın gizlilik politikası: <https://www.apple.com/legal/privacy/>
 
 ## Çocuklar
 
@@ -100,9 +99,7 @@ Tek telefonla oynarken sunucuda hiçbir veriniz olmaz; uygulamayı silmek her
 - **Saklanmaya devam eden:** Yalnızca başkalarına gönderdiğiniz ve henüz
   yanıtlanmamış arkadaşlık istekleri ile oda davetleri, karşı taraf kabul edene,
   reddedene ya da kendi verilerini silene kadar onda görünür. Oyun odaları zaten
-  oda sahibi çıkınca silinir ya da en geç 12 saat içinde yeni bir odayla değiştirilir. Abonelik
-  kayıtlarınızı Google Play tutar; bunlar için Google Play'in kendi politikası
-  geçerlidir. Ücretsiz online oyun kaydı (yukarıdaki cihaz anahtarı ve sayı)
+  oda sahibi çıkınca silinir ya da en geç 12 saat içinde yeni bir odayla değiştirilir. Abonelik kayıtlarınızı Google Play ya da Apple tutar; bunlar için mağazanın kendi politikası geçerlidir. Ücretsiz online oyun kaydı (yukarıdaki cihaz anahtarı ve sayı)
   kötüye kullanımı önlemek için silinmez.
 
 ## Değişiklikler
@@ -118,9 +115,9 @@ Sorularınız için <playermindiptv@gmail.com> adresine yazabilirsiniz.
 
 # Privacy Policy — Who's the Imposter?
 
-*Last updated: October 29, 2026*
+*Last updated: October 31, 2026*
 
-Who's the Imposter? (Hain Kim?, Android package `com.hkn.hainkim`) is a party
+Who's the Imposter? (Hain Kim?, Android and iOS package `com.hkn.hainkim`) is a party
 game that friends play on a single phone, or online with everyone on their own
 phone. This page explains what information
 the app uses and how.
@@ -158,8 +155,7 @@ Europe (Belgium).
   drawings are stored while the game lasts. A room is deleted when its host
   leaves; abandoned rooms are replaced by a new room after 12 hours at most.
 - **Free online game:** When you host your first online game, a key derived
-  one-way (it can't be reversed) from your device's app-specific Android ID
-  and the number of free games used are stored. The ID itself is never sent;
+  one-way (it can't be reversed) from a device ID (on Android, the app-specific Android ID; on iOS, a random ID kept in the keychain) and the number of free games used are stored. The ID itself is never sent;
   the key isn't linked to your name or account and is only used to stop the
   free game from being claimed again by reinstalling the app.
 - **Voice chat** is not part of the app: you are sent to WhatsApp, Telegram,
@@ -188,11 +184,11 @@ service policy applies. You can turn narration off in Settings.
 
 ## Premium subscription and payments
 
-Purchases and payments are handled entirely by Google Play. The app never
+Purchases and payments are handled entirely by Google Play or the App Store. The app never
 sees your card or payment details; it only uses the subscription status
-reported by Google Play (whether it is active) to unlock Premium content.
-You can manage or cancel your subscription in Google Play > Payments &
-subscriptions. Google's privacy policy: <https://policies.google.com/privacy>
+reported by the store (whether it is active) to unlock Premium content.
+You can manage or cancel your subscription in Google Play > Payments & subscriptions on Android, or in Settings > your Apple Account > Subscriptions on iOS. Google's privacy policy: <https://policies.google.com/privacy>
+Apple's privacy policy: <https://www.apple.com/legal/privacy/>
 
 ## Children
 
@@ -216,7 +212,7 @@ removes everything. If you used online mode:
   still unanswered stay visible to the other person until they accept, decline
   or delete their own data. Game rooms are already deleted when the host
   leaves or replaced by a new room within 12 hours. Your subscription records
-  are held by Google Play under its own policy. The free online game record
+  are held by Google Play or Apple under the store's own policy. The free online game record
   (the device key above and a count) is not deleted, to prevent abuse.
 
 ## Changes
