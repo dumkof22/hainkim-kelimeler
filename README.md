@@ -104,6 +104,11 @@ assets/img/           uygulamadan üretilen görseller
 
 - Kategori listesi ve sayılar sayfa açılırken `index.json` ve `packs/`
   dosyalarından okunur; yeni kategori eklemek siteyi de günceller.
+- Mağaza düğmeleri `assets/js/stores.js`'te. App Store sürümü yayına girene
+  kadar `index.html`'deki `<html data-appstore="soon">` App Store
+  düğmelerini "Yakında" gösterir ve tıklanmaz yapar; yayına girince değeri
+  `live` yapmak yeter. Üst menüdeki "İndir" Android'de Google Play'e,
+  iPhone'da App Store'a (yayındaysa), bilgisayarda indirme bölümüne gider.
 - Gizlilik metnini değiştirirken `PRIVACY.md` ile `privacy/index.html`'i
   birlikte güncelleyin.
 - `assets/img/` elle düzenlenmez: uygulama deposunda

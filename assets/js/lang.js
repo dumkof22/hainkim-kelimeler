@@ -4,7 +4,6 @@ import en from './i18n/en.js';
 
 const dictionaries = { en };
 const STORAGE_KEY = 'hk-lang';
-const PLAY_URL = 'https://play.google.com/store/apps/details?id=com.hkn.hainkim';
 
 const root = document.documentElement;
 let current = root.dataset.lang || 'tr';
@@ -49,12 +48,6 @@ function applyScreens() {
   }
 }
 
-function applyLinks() {
-  for (const a of document.querySelectorAll('a[data-play]')) {
-    a.href = `${PLAY_URL}&hl=${current}`;
-  }
-}
-
 function applySwitches() {
   for (const button of document.querySelectorAll('.lang-switch [data-lang]')) {
     button.setAttribute('aria-pressed', String(button.dataset.lang === current));
@@ -69,7 +62,6 @@ export function setLang(lang, { remember = false } = {}) {
   applyTexts();
   applyMeta();
   applyScreens();
-  applyLinks();
   applySwitches();
   root.classList.remove('lang-pending');
 

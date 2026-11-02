@@ -3,6 +3,7 @@ import { initCategories } from './categories.js';
 import { initHowto } from './howto.js';
 import { initLang } from './lang.js';
 import { initModes } from './modes.js';
+import { initStores } from './stores.js';
 
 // Kayan şeridin kesintisiz dönmesi için listeyi bir kez daha ekler.
 function initBand() {
@@ -42,6 +43,7 @@ function initReveal() {
 
 initBand();
 initLang();
+initStores();
 initNav();
 initModes();
 initHowto();

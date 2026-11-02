@@ -252,6 +252,42 @@ p {
   box-shadow: 0 1px 0 var(--btn-edge);
 }
 
+/* ---------- Mağaza düğmeleri. <html data-appstore="soon"> iken App Store
+   sürümü henüz yayında değildir: App Store düğmeleri "Yakında" der ve
+   tıklanmaz. Yayına girince index.html'de değeri "live" yapmak yeter. */
+
+.btn--apple {
+  --btn-light: var(--lilac);
+  --btn-deep: var(--lilac-deep);
+  --btn-edge: #5f43c4;
+  box-shadow: 0 5px 0 var(--btn-edge), 0 14px 30px rgba(139, 108, 240, 0.3);
+}
+
+.btn--apple:active {
+  box-shadow: 0 1px 0 var(--btn-edge), 0 6px 14px rgba(139, 108, 240, 0.25);
+}
+
+html:not([data-appstore="soon"]) .appstore-soon,
+html[data-appstore="soon"] .appstore-live {
+  display: none;
+}
+
+html[data-appstore="soon"] [data-store="apple"] {
+  pointer-events: none;
+  cursor: default;
+}
+
+html[data-appstore="soon"] .btn[data-store="apple"] {
+  background: rgba(255, 255, 255, 0.06);
+  box-shadow: inset 0 0 0 1.5px var(--outline-strong);
+  color: var(--muted);
+}
+
+/* iPhone'da (stores.js) App Store düğmesi öne geçer. */
+html.is-ios:not([data-appstore="soon"]) .btn[data-store="apple"] {
+  order: -1;
+}
+
 /* ---------- Kaydırınca beliren bölümler (yalnızca JS varken gizlenir) */
 
 .js .reveal {

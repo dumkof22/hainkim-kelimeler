@@ -1,10 +1,12 @@
 <!doctype html>
-<html lang="tr">
+<!-- data-appstore: App Store sürümü yayına girene kadar "soon" (App Store
+     düğmeleri "Yakında" der, tıklanmaz); yayına girince "live" yapın. -->
+<html lang="tr" data-appstore="soon">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Hain Kim? · Tek telefonla parti oyunu</title>
-  <meta name="description" data-i18n-attr="content:metaDescription" content="Kelime, Çizim ve Vampir Köylü: telefonu elden ele verin ya da online odada buluşun, aranızdaki haini birlikte bulun. 3–16 oyuncu, 850+ kelime, 10 dil, reklamsız.">
+  <meta name="description" data-i18n-attr="content:metaDescription" content="Kelime, Çizim ve Vampir Köylü: telefonu elden ele verin ya da online odada buluşun, aranızdaki haini birlikte bulun. 3–16 oyuncu, 850+ kelime, 10 dil, reklamsız; Android ve iPhone'da.">
   <meta name="theme-color" content="#19132e">
   <link rel="canonical" href="https://dumkof22.github.io/hainkim-kelimeler/">
   <link rel="icon" type="image/png" sizes="192x192" href="assets/img/icon-192.png">
@@ -28,7 +30,7 @@
     "@type": "MobileApplication",
     "name": "Hain Kim?",
     "alternateName": "Who's the Imposter?",
-    "operatingSystem": "Android",
+    "operatingSystem": "Android, iOS",
     "applicationCategory": "GameApplication",
     "url": "https://play.google.com/store/apps/details?id=com.hkn.hainkim",
     "image": "https://dumkof22.github.io/hainkim-kelimeler/assets/img/icon-512.png",
@@ -88,7 +90,7 @@
           <button type="button" data-lang="tr" aria-pressed="true">TR</button>
           <button type="button" data-lang="en" aria-pressed="false">EN</button>
         </div>
-        <a class="btn btn--small" href="https://play.google.com/store/apps/details?id=com.hkn.hainkim" data-play data-i18n="navCta">İndir</a>
+        <a class="btn btn--small" href="#indir" data-store="auto" data-i18n="navCta">İndir</a>
       </div>
     </div>
   </header>
@@ -103,9 +105,14 @@
           <p class="hero__tagline" data-i18n="heroTagline">Aranızdaki haini bulun.</p>
           <p class="hero__lead" data-i18n="heroLead">Kelime, Çizim ve Vampir Köylü. Telefonu elden ele verin ya da online odada buluşun; gerisini uygulama anlatsın. Hesap yok, reklam yok.</p>
           <div class="hero__actions">
-            <a class="btn" href="https://play.google.com/store/apps/details?id=com.hkn.hainkim" data-play>
+            <a class="btn" href="https://play.google.com/store/apps/details?id=com.hkn.hainkim" data-store="play">
               <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7 4.6v14.8c0 .8.9 1.3 1.6.9l12-7.4c.6-.4.6-1.4 0-1.8l-12-7.4C7.9 3.3 7 3.8 7 4.6z"/></svg>
               <span data-i18n="ctaPlay">Google Play'den indir</span>
+            </a>
+            <a class="btn btn--apple" href="https://apps.apple.com/app/id6829238414" data-store="apple">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M8.5 2h7A3.5 3.5 0 0 1 19 5.5v13a3.5 3.5 0 0 1-3.5 3.5h-7A3.5 3.5 0 0 1 5 18.5v-13A3.5 3.5 0 0 1 8.5 2zm0 2A1.5 1.5 0 0 0 7 5.5v13A1.5 1.5 0 0 0 8.5 20h7a1.5 1.5 0 0 0 1.5-1.5v-13A1.5 1.5 0 0 0 15.5 4h-1.2a1 1 0 0 1-1 .9h-2.6a1 1 0 0 1-1-.9H8.5z"/></svg>
+              <span class="appstore-live" data-i18n="ctaAppStore">App Store'dan indir</span>
+              <span class="appstore-soon" data-i18n="ctaAppStoreSoon">Yakında App Store'da</span>
             </a>
             <a class="btn btn--ghost" href="#nasil" data-i18n="ctaHow">Nasıl oynanır?</a>
           </div>
@@ -115,6 +122,7 @@
             <li class="chip" data-i18n="factNoAds">🚫 Reklamsız</li>
             <li class="chip" data-i18n="factOffline">📴 İnternetsiz oynanır</li>
             <li class="chip" data-i18n="factOnline">🌐 Online oda</li>
+            <li class="chip" data-i18n="factPlatforms">📱 Android ve iPhone</li>
           </ul>
         </div>
 
@@ -424,7 +432,7 @@
               <li data-i18n="premium5">Sınırsız online oda; temalar, şapkalar, gözlükler ve desenler</li>
               <li data-i18n="premium4">Aylık ya da yıllık plan; iki planda da yeni abonelere 3 gün ücretsiz deneme</li>
             </ul>
-            <p class="premium__fine" data-i18n="premiumFine">Ödeme Google Play hesabınızdan alınır ve iptal edilene kadar yenilenir. İstediğiniz zaman Google Play › Ödemeler ve abonelikler bölümünden iptal edebilirsiniz.</p>
+            <p class="premium__fine" data-i18n="premiumFine">Ödeme Google Play ya da Apple hesabınızdan alınır ve iptal edilene kadar yenilenir. İstediğiniz zaman Android'de Google Play › Ödemeler ve abonelikler, iPhone'da Ayarlar › Apple hesabınız › Abonelikler bölümünden iptal edebilirsiniz.</p>
           </aside>
         </div>
       </div>
@@ -441,6 +449,11 @@
           <details class="faq__item">
             <summary data-i18n="q1">Herkesin kendi telefonu gerekiyor mu?</summary>
             <p data-i18n="a1">Hayır. Tek telefon yeter: sırası gelen oyuncu telefonu alır, kartına gizlice bakar ve yanındakine uzatır.</p>
+          </details>
+          <details class="faq__item">
+            <summary data-i18n="q9">iPhone'da da var mı?</summary>
+            <p class="appstore-live" data-i18n="a9">Evet. Android telefonlara Google Play'den, iPhone'a App Store'dan indirebilirsiniz. Online odada Android ve iPhone kullanan arkadaşlar aynı odada birlikte oynar.</p>
+            <p class="appstore-soon" data-i18n="a9Soon">iPhone sürümü App Store incelemesinde, çok yakında yayında. Online odada Android ve iPhone kullanan arkadaşlar aynı odada birlikte oynayabilecek.</p>
           </details>
           <details class="faq__item">
             <summary data-i18n="q2">Kaç kişiyle oynanır?</summary>
@@ -468,22 +481,29 @@
           </details>
           <details class="faq__item">
             <summary data-i18n="q8">Ücretsiz deneme nasıl işler?</summary>
-            <p data-i18n="a8">Yeni aboneler aylık ya da yıllık planı 3 gün ücretsiz dener. Deneme bitmeden Google Play › Ödemeler ve abonelikler bölümünden iptal ederseniz hiçbir ücret alınmaz; iptal etmezseniz seçtiğiniz plan başlar.</p>
+            <p data-i18n="a8">Yeni aboneler aylık ya da yıllık planı 3 gün ücretsiz dener. Deneme bitmeden iptal ederseniz hiçbir ücret alınmaz; iptal etmezseniz seçtiğiniz plan başlar. Android'de Google Play › Ödemeler ve abonelikler, iPhone'da Ayarlar › Apple hesabınız › Abonelikler bölümünden iptal edebilirsiniz (iPhone'da deneme bitmeden en az 24 saat önce).</p>
           </details>
         </div>
       </div>
     </section>
 
     <!-- ============ Kapanış -->
-    <section class="section section--cta">
+    <section class="section section--cta" id="indir">
       <div class="container">
         <div class="cta reveal">
           <h2 class="gradient-text" data-i18n="ctaTitle">Haydi bakalım: Hain kim?</h2>
           <p data-i18n="ctaText">Arkadaşlarınızı toplayın, telefonu ortaya koyun. İlk tur sizden.</p>
-          <a class="btn" href="https://play.google.com/store/apps/details?id=com.hkn.hainkim" data-play>
-            <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7 4.6v14.8c0 .8.9 1.3 1.6.9l12-7.4c.6-.4.6-1.4 0-1.8l-12-7.4C7.9 3.3 7 3.8 7 4.6z"/></svg>
-            <span data-i18n="ctaPlay">Google Play'den indir</span>
-          </a>
+          <div class="cta__actions">
+            <a class="btn" href="https://play.google.com/store/apps/details?id=com.hkn.hainkim" data-store="play">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7 4.6v14.8c0 .8.9 1.3 1.6.9l12-7.4c.6-.4.6-1.4 0-1.8l-12-7.4C7.9 3.3 7 3.8 7 4.6z"/></svg>
+              <span data-i18n="ctaPlay">Google Play'den indir</span>
+            </a>
+            <a class="btn btn--apple" href="https://apps.apple.com/app/id6829238414" data-store="apple">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M8.5 2h7A3.5 3.5 0 0 1 19 5.5v13a3.5 3.5 0 0 1-3.5 3.5h-7A3.5 3.5 0 0 1 5 18.5v-13A3.5 3.5 0 0 1 8.5 2zm0 2A1.5 1.5 0 0 0 7 5.5v13A1.5 1.5 0 0 0 8.5 20h7a1.5 1.5 0 0 0 1.5-1.5v-13A1.5 1.5 0 0 0 15.5 4h-1.2a1 1 0 0 1-1 .9h-2.6a1 1 0 0 1-1-.9H8.5z"/></svg>
+              <span class="appstore-live" data-i18n="ctaAppStore">App Store'dan indir</span>
+              <span class="appstore-soon" data-i18n="ctaAppStoreSoon">Yakında App Store'da</span>
+            </a>
+          </div>
           <ul class="cta__crowd" aria-hidden="true">
             <li><img src="assets/img/mascots/hunter.webp" alt="" width="364" height="400" loading="lazy"></li>
             <li><img src="assets/img/mascots/artist.webp" alt="" width="394" height="407" loading="lazy"></li>
@@ -510,7 +530,8 @@
           <p class="footer__tagline" data-i18n="footerTagline">Tek telefonla oynanan parti oyunları: Kelime, Çizim ve Vampir Köylü.</p>
         </div>
         <ul class="footer__links">
-          <li><a href="https://play.google.com/store/apps/details?id=com.hkn.hainkim" data-play>Google Play</a></li>
+          <li><a href="https://play.google.com/store/apps/details?id=com.hkn.hainkim" data-store="play">Google Play</a></li>
+          <li><a href="https://apps.apple.com/app/id6829238414" data-store="apple"><span class="appstore-live">App Store</span><span class="appstore-soon" data-i18n="footerAppStoreSoon">App Store (yakında)</span></a></li>
           <li><a href="privacy/" data-i18n="footerPrivacy">Gizlilik politikası</a></li>
           <li><a href="privacy/#delete-account" data-i18n="footerDelete">Hesap ve veri silme</a></li>
           <li><a href="https://github.com/dumkof22/hainkim-kelimeler" data-i18n="footerPacks">Kelime paketleri</a></li>

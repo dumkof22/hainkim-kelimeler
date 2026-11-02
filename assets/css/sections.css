@@ -767,7 +767,11 @@ html:not(.js) .step {
   font-size: 18px;
 }
 
-.cta .btn {
+.cta__actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 14px;
   margin-top: 30px;
 }
 

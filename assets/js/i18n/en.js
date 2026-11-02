@@ -3,7 +3,7 @@
 export default {
   metaTitle: "Who's the Imposter? · A party game for one phone",
   metaDescription:
-    'Words, Drawing and Vampires & Villagers: pass the phone around or meet in an online room, and find the imposter among you. 3–16 players, 850+ words, 10 languages, no ads.',
+    'Words, Drawing and Vampires & Villagers: pass the phone around or meet in an online room, and find the imposter among you. 3–16 players, 850+ words, 10 languages, no ads; on Android and iPhone.',
   privacyMetaTitle: "Privacy Policy · Who's the Imposter?",
 
   skip: 'Skip to content',
@@ -23,12 +23,15 @@ export default {
   heroLead:
     'Words, Drawing and Vampires & Villagers. Pass the phone around or meet in an online room, and let the app do the narrating. No accounts, no ads.',
   ctaPlay: 'Get it on Google Play',
+  ctaAppStore: 'Download on the App Store',
+  ctaAppStoreSoon: 'Coming soon to the App Store',
   ctaHow: 'How to play',
   factPlayers: '👥 3–16 players',
   factLanguages: '🌍 10 languages',
   factNoAds: '🚫 No ads',
   factOffline: '📴 Plays offline',
   factOnline: '🌐 Online rooms',
+  factPlatforms: '📱 Android & iPhone',
 
   bandWords: '🕵️ Words',
   bandDrawing: '🎨 Drawing',
@@ -131,12 +134,16 @@ export default {
   premium5: 'Unlimited online rooms; themes, hats, glasses and patterns',
   premium4: 'Monthly or yearly plan; new subscribers get a 3-day free trial on both plans',
   premiumFine:
-    'Payment is charged to your Google Play account and renews until cancelled. You can cancel anytime in Google Play › Payments & subscriptions.',
+    'Payment is charged to your Google Play or Apple Account and renews until cancelled. You can cancel anytime in Google Play › Payments & subscriptions on Android, or in Settings › your Apple Account › Subscriptions on iPhone.',
 
   faqEyebrow: 'FAQ',
   faqTitle: 'Frequently asked questions',
   q1: 'Does everyone need their own phone?',
   a1: 'No. One phone is enough: whoever’s turn it is takes the phone, secretly checks their card and passes it on.',
+  q9: 'Is it on iPhone too?',
+  a9: 'Yes. Get it on Google Play for Android phones and on the App Store for iPhone. Friends on Android and iPhone play together in the same online room.',
+  a9Soon:
+    'The iPhone version is in App Store review and will be out very soon. Friends on Android and iPhone will be able to play together in the same online room.',
   q2: 'How many people can play?',
   a2: 'Words and Drawing are for 3 to 16 players. Vampires & Villagers needs at least 4, and it gets better with a bigger group.',
   q3: 'Do I need an internet connection?',
@@ -152,7 +159,7 @@ export default {
   q7: 'How does online play work?',
   a7: 'One of you opens a room and the others join with the room code or an invite; everyone plays on their own phone. Anyone can host one online game for free, and Premium lets you host as many as you like. Joining a room is always free. For voice chat you switch to an app like WhatsApp or Discord.',
   q8: 'How does the free trial work?',
-  a8: 'New subscribers can try the monthly or yearly plan free for 3 days. Cancel in Google Play › Payments & subscriptions before the trial ends and you won’t be charged; otherwise the plan you chose begins.',
+  a8: 'New subscribers can try the monthly or yearly plan free for 3 days. Cancel before the trial ends and you won’t be charged; otherwise the plan you chose begins. Cancel in Google Play › Payments & subscriptions on Android, or in Settings › your Apple Account › Subscriptions on iPhone (at least 24 hours before the trial ends).',
 
   ctaTitle: "So… who's the imposter?",
   ctaText: 'Gather your friends and put the phone in the middle. First round is on you.',
@@ -162,6 +169,7 @@ export default {
   footerPacks: 'Word packs',
   footerDelete: 'Delete account & data',
   footerContact: 'Contact',
+  footerAppStoreSoon: 'App Store (coming soon)',
 
   privacyBack: '← Back to home',
 };
